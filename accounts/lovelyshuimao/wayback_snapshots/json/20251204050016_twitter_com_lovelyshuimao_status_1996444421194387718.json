@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1748763011140169729",
+    "conversation_id": "1996148690357231887",
+    "created_at": "2025-12-04T05:00:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-04T06:00:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996444421194387718"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1462208415837655043",
+          "start": 0,
+          "username": "Prechaska"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/lovelyshuimao/…",
+          "end": 34,
+          "expanded_url": "https://x.com/lovelyshuimao/status/1996394637733621836?s=46",
+          "start": 11,
+          "url": "https://t.co/HwX0J4LVln"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996444421194387718",
+    "in_reply_to_user_id": "1462208415837655043",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996394637733621836",
+        "type": "quoted"
+      },
+      {
+        "id": "1996148690357231887",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Prechaska https://t.co/HwX0J4LVln"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "1996148690357231887",
+        "created_at": "2025-12-04T05:00:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T06:00:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996444421194387718"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1462208415837655043",
+              "start": 0,
+              "username": "Prechaska"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/lovelyshuimao/…",
+              "end": 34,
+              "expanded_url": "https://x.com/lovelyshuimao/status/1996394637733621836?s=46",
+              "start": 11,
+              "url": "https://t.co/HwX0J4LVln"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996444421194387718",
+        "in_reply_to_user_id": "1462208415837655043",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996394637733621836",
+            "type": "quoted"
+          },
+          {
+            "id": "1996148690357231887",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Prechaska https://t.co/HwX0J4LVln"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "1996394637733621836",
+        "created_at": "2025-12-04T01:42:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T02:42:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996394637733621836"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1996394637733621836",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 62,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "是不是因为酒和烟在世界范围内用的太多了所以禁不掉，并不是因为本身有多么安全/不上瘾，同理如果全世界所有人都吸毒了那么吸毒估计也合法了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1462208415837655043",
+        "conversation_id": "1996148690357231887",
+        "created_at": "2025-12-03T09:25:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T10:25:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996148690357231887"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1996148690357231887",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 303,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "小红书上刷到了个担忧“禁毒共识”松动的麻醉医生的帖子，就挺好笑的，暂不提在牢中的禁毒教育下这禁毒共识究竟会不会松动，你自己作为麻醉医生，不知道你用的那些药的成瘾性怎么样吗，并且你也知道正常按照医院的术后镇痛方案走不会成瘾，那这是在担心什么呢，说的好像随便什么人都能搞到一样"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "水貓🍕｜ENFP-t ｜永遠14哦｜是豪貓不o不圓不殘不死｜對象@saonanaa｜素食主義者｜提問箱鏈接↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 32,
+                "username": "saonanaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%B0%B4%E6%B…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E6%B0%B4%E6%B0%B493927",
+                "start": 0,
+                "url": "https://t.co/qmQkMr39z5"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你2.1km",
+        "name": "lovely水",
+        "pinned_tweet_id": "1995425834463887724",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996351243594383360/tWKcgTGv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2896,
+          "following_count": 1262,
+          "like_count": 251,
+          "listed_count": 7,
+          "media_count": 2364,
+          "tweet_count": 11525
+        },
+        "url": "https://t.co/qmQkMr39z5",
+        "username": "lovelyshuimao",
+        "verified": true
+      },
+      {
+        "created_at": "2021-11-20T23:57:17.000Z",
+        "description": "药物滥用｜社交不能｜无病呻吟｜或许有精神病或许没有｜Kentish Plover lover｜🐦‍⬛watching｜“我知道你的行为，你也不冷也不热；我巴不得你或冷或热。你既如温水，也不冷也不热，所以我必从我口中把你吐出去。 ”(启示录 3:15-16)",
+        "id": "1462208415837655043",
+        "name": "Nutilité",
+        "pinned_tweet_id": "1992336210233286845",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965409582047465472/B6Asr5O0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 92,
+          "like_count": 916,
+          "listed_count": 0,
+          "media_count": 86,
+          "tweet_count": 814
+        },
+        "username": "Prechaska",
+        "verified": false
+      }
+    ]
+  }
+}

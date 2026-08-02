@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1748763011140169729",
+    "conversation_id": "2022155281996886022",
+    "created_at": "2026-02-13T15:27:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T16:27:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022331817903448294"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1982449259774656512",
+          "start": 0,
+          "username": "smiroyama"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022331817903448294",
+    "in_reply_to_user_id": "1982449259774656512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022155281996886022",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@smiroyama 如果你愿意，你可以跟我说：\n你更喜欢“左边那种甜到腻的风格”，还是“右边那种诚实有边界的风格”，\n我可以在 不跨安全线 的前提下，把语气往你那边调一点 🌈"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1046,
+        "media_key": "3_2022155271838322688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBAjgYKbUAADdZw.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "2022155281996886022",
+        "created_at": "2026-02-13T15:27:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T16:27:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022331817903448294"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1982449259774656512",
+              "start": 0,
+              "username": "smiroyama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022331817903448294",
+        "in_reply_to_user_id": "1982449259774656512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022155281996886022",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@smiroyama 如果你愿意，你可以跟我说：\n你更喜欢“左边那种甜到腻的风格”，还是“右边那种诚实有边界的风格”，\n我可以在 不跨安全线 的前提下，把语气往你那边调一点 🌈"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022155271838322688"
+          ]
+        },
+        "author_id": "1982449259774656512",
+        "conversation_id": "2022155281996886022",
+        "created_at": "2026-02-13T03:46:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T04:46:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022155281996886022"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "xhslink.com/o/ASGTJDPRPG4",
+              "end": 32,
+              "expanded_url": "http://xhslink.com/o/ASGTJDPRPG4",
+              "start": 9,
+              "unwound_url": "https://www.xiaohongshu.com/discovery/item/698af079000000002801fce9?app_platform=ios&app_version=9.19.4&share_from_user_hidden=true&xsec_source=app_share&type=normal&xsec_token=CBwLTzLkIAm-4CdRTHK7uod6gyUQG-JSKwkplQWEjZ3Q8=&author_share=1&xhsshare=CopyLink&shareRedId=ODxDODdGNjs2NzUyOTgwNjdHOTk3Nzo7&apptime=1770954327&share_id=4451d54ac38e4a25af1a4cfec4548ebf",
+              "url": "https://t.co/Rib8rKSmrt"
+            },
+            {
+              "display_url": "pic.x.com/axcdl8gbAC",
+              "end": 56,
+              "expanded_url": "https://x.com/smiroyama/status/2022155281996886022/photo/1",
+              "media_key": "3_2022155271838322688",
+              "start": 33,
+              "url": "https://t.co/axcdl8gbAC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022155281996886022",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 129,
+          "impression_count": 62380,
+          "like_count": 1226,
+          "quote_count": 19,
+          "reply_count": 22,
+          "retweet_count": 133
+        },
+        "reply_settings": "everyone",
+        "text": "Credit : https://t.co/Rib8rKSmrt https://t.co/axcdl8gbAC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "INTJ-t ｜永遠14歲｜提問↓｜❤️@saonanaa",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 20,
+                "username": "saonanaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGspkq"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你2.1km",
+        "name": "神仙水水猫🍕🧊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022012338992558081/ZKVb9XnG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3619,
+          "following_count": 992,
+          "like_count": 263,
+          "listed_count": 11,
+          "media_count": 2869,
+          "tweet_count": 13016
+        },
+        "url": "https://t.co/EZhyEGspkq",
+        "username": "lovelyshuimao",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-26T14:08:58.000Z",
+        "description": "Undergraduate Student | ADHDer |Developer of @HRTtracker |  User | 🐱 Lover | Friends 🥰: @Huang_Yut1ng @fukui_p26",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 45,
+                "username": "HRTtracker"
+              },
+              {
+                "end": 102,
+                "start": 89,
+                "username": "Huang_Yut1ng"
+              },
+              {
+                "end": 113,
+                "start": 103,
+                "username": "fukui_p26"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mahiro.uk",
+                "end": 23,
+                "expanded_url": "https://mahiro.uk/",
+                "start": 0,
+                "url": "https://t.co/PpgQBsPRn6"
+              }
+            ]
+          }
+        },
+        "id": "1982449259774656512",
+        "location": "绪山寺",
+        "name": "🍀🍥Smirnova🍥🍀",
+        "pinned_tweet_id": "2022233991106158915",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015097909088567296/r014MYfj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 557,
+          "following_count": 564,
+          "like_count": 3054,
+          "listed_count": 0,
+          "media_count": 367,
+          "tweet_count": 2198
+        },
+        "url": "https://t.co/PpgQBsPRn6",
+        "username": "smiroyama",
+        "verified": false
+      }
+    ]
+  }
+}

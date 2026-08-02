@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1748763011140169729",
+    "conversation_id": "2080678752997216341",
+    "created_at": "2026-07-26T03:17:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T04:17:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081217341225067007"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1829312699567853568",
+          "start": 0,
+          "username": "isaaczlw"
+        },
+        {
+          "end": 20,
+          "id": "2016414636309131264",
+          "start": 10,
+          "username": "soodok_cn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081217341225067007",
+    "in_reply_to_user_id": "1829312699567853568",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081083127255183770",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@isaaczlw @soodok_cn 对男性能进女厕所什么看法？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "2080678752997216341",
+        "created_at": "2026-07-26T03:17:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T04:17:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081217341225067007"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1829312699567853568",
+              "start": 0,
+              "username": "isaaczlw"
+            },
+            {
+              "end": 20,
+              "id": "2016414636309131264",
+              "start": 10,
+              "username": "soodok_cn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081217341225067007",
+        "in_reply_to_user_id": "1829312699567853568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081083127255183770",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@isaaczlw @soodok_cn 对男性能进女厕所什么看法？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1829312699567853568",
+        "conversation_id": "2080678752997216341",
+        "created_at": "2026-07-25T18:24:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T19:24:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081083127255183770"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2016414636309131264",
+              "start": 0,
+              "username": "soodok_cn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081083127255183770",
+        "in_reply_to_user_id": "2016414636309131264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 901,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080678752997216341",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@soodok_cn 14岁太早了，你要是17岁有这想法了可以正常治疗的，还没有正确的性别观念很容易被互联网上这些所谓的圈子带偏。药娘本来极端的都多。十四岁还是等看看自己真的是跟风觉得女装会受欢迎觉得网上有认同感。还是自己本来就有自己是女生的感觉。如果成年后还是想当女生不是什么跟风的药娘的话在治疗完全不迟"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "🐱神仙水水猫星铃Lumia\n👩🏻‍💻INTJ ♀14 \n🙋🏻‍♀️提問box——————↓\n✍🏻想成為作家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGspkq"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你 4.3km",
+        "name": "lovely水",
+        "pinned_tweet_id": "2075897725733024056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045354329792749568/b7JXuLvu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5507,
+          "following_count": 1000,
+          "like_count": 275,
+          "listed_count": 22,
+          "media_count": 3437,
+          "tweet_count": 15526
+        },
+        "url": "https://t.co/EZhyEGspkq",
+        "username": "lovelyshuimao",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-30T00:18:40.000Z",
+        "description": "furry",
+        "id": "1829312699567853568",
+        "name": "以撒渴望調教",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923081930657992704/1z_E8dUG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 222,
+          "like_count": 52,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 187
+        },
+        "url": "",
+        "username": "isaaczlw",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-28T07:35:05.000Z",
+        "description": "MtF🏳️‍⚧️|无证|2025.11.24出生|vela快应用开发|14岁初中生喵\n1米72\n爱党爱国爱人民，坚持一个中国原则喵∽\n已有糖但尚未服用，内耗中ing",
+        "id": "2016414636309131264",
+        "location": "中区, 新加坡",
+        "name": "soodok🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077328905003036672/mYLDkQH1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 110,
+          "following_count": 14,
+          "like_count": 59,
+          "listed_count": 1,
+          "media_count": 5,
+          "tweet_count": 57
+        },
+        "url": "",
+        "username": "soodok_cn",
+        "verified": false
+      }
+    ]
+  }
+}

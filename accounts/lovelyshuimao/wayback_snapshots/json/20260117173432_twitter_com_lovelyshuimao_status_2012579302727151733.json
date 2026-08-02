@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1748763011140169729",
+    "conversation_id": "2012573695194108411",
+    "created_at": "2026-01-17T17:34:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-17T18:34:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012579302727151733"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "786202276184502272",
+          "start": 0,
+          "username": "UkiStelo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012579302727151733",
+    "in_reply_to_user_id": "786202276184502272",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012578661652652075",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@UkiStelo 嗯"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "2012573695194108411",
+        "created_at": "2026-01-17T17:34:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T18:34:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012579302727151733"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "786202276184502272",
+              "start": 0,
+              "username": "UkiStelo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012579302727151733",
+        "in_reply_to_user_id": "786202276184502272",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012578661652652075",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@UkiStelo 嗯"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "786202276184502272",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10046838569",
+              "name": "Reddit"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10046838569",
+              "name": "Reddit"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          }
+        ],
+        "conversation_id": "2012573695194108411",
+        "created_at": "2026-01-17T17:31:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T18:31:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012578661652652075"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1748763011140169729",
+              "start": 0,
+              "username": "lovelyshuimao"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Explore this post and more from the linguistics community",
+              "display_url": "reddit.com/r/linguistics/…",
+              "end": 63,
+              "expanded_url": "https://www.reddit.com/r/linguistics/comments/uk8lm8/why_is_hello_spelt_hallo_in_old_books_english/?tl=zh-hans",
+              "start": 40,
+              "status": 200,
+              "title": "From the linguistics community on Reddit",
+              "unwound_url": "https://www.reddit.com/r/linguistics/comments/uk8lm8/why_is_hello_spelt_hallo_in_old_books_english/?tl=zh-hans",
+              "url": "https://t.co/6b7USMFjbG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012578661652652075",
+        "in_reply_to_user_id": "1748763011140169729",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012573695194108411",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lovelyshuimao 之前看Reddit有人討論過這個\n今天就刷到你了\nhttps://t.co/6b7USMFjbG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "水貓｜INTJ-t ｜永遠14歲｜提問↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGrRuS"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你2.1km",
+        "name": "lovely水",
+        "pinned_tweet_id": "2009971664344494303",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009519740319092737/8QXu2gXD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3316,
+          "following_count": 1014,
+          "like_count": 260,
+          "listed_count": 10,
+          "media_count": 2721,
+          "tweet_count": 12551
+        },
+        "url": "https://t.co/EZhyEGrRuS",
+        "username": "lovelyshuimao",
+        "verified": true
+      },
+      {
+        "created_at": "2016-10-12T13:50:04.000Z",
+        "description": "情緒垢 @yqhOvO｜ENTJ｜給你摯愛一個花橋🍵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 4,
+                "username": "yqhOvO"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/moeUki",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/moeUki",
+                "start": 0,
+                "url": "https://t.co/IceLhXJ6As"
+              }
+            ]
+          }
+        },
+        "id": "786202276184502272",
+        "location": "Paris, KY",
+        "name": "檸檬柚小紀. 🍬",
+        "pinned_tweet_id": "2003308625461449037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003094111432445955/98jvDmvA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1283,
+          "following_count": 299,
+          "like_count": 32656,
+          "listed_count": 5,
+          "media_count": 1395,
+          "tweet_count": 7957
+        },
+        "url": "https://t.co/IceLhXJ6As",
+        "username": "UkiStelo",
+        "verified": true
+      }
+    ]
+  }
+}

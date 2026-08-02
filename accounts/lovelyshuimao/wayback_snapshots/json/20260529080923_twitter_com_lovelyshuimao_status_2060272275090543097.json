@@ -1,0 +1,116 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1748763011140169729",
+    "conversation_id": "2060272275090543097",
+    "created_at": "2026-05-29T08:09:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T09:09:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060272275090543097"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2060272275090543097",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "垃圾\n你这些是没人看的垃圾\n不会有人欣赏的\n可是…\n你走吧退回去吧\n不，以后会有人喜欢的，等到那个时候将是我的时代，他们会重新挖出我的作品，摆进图书馆"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "2060272275090543097",
+        "created_at": "2026-05-29T08:09:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T09:09:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060272275090543097"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060272275090543097",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "垃圾\n你这些是没人看的垃圾\n不会有人欣赏的\n可是…\n你走吧退回去吧\n不，以后会有人喜欢的，等到那个时候将是我的时代，他们会重新挖出我的作品，摆进图书馆"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "｜水猫星铃Lumia\n｜INTJ ♀14  \n｜❤️@saonanaa\n｜提問box——————————↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 27,
+                "username": "saonanaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGspkq"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你2.1km",
+        "name": "lovely水",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045354329792749568/b7JXuLvu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4900,
+          "following_count": 1014,
+          "like_count": 275,
+          "listed_count": 18,
+          "media_count": 3224,
+          "tweet_count": 14445
+        },
+        "url": "https://t.co/EZhyEGspkq",
+        "username": "lovelyshuimao",
+        "verified": false
+      }
+    ]
+  }
+}

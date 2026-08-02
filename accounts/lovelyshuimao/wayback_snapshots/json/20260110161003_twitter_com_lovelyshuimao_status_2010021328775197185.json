@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1748763011140169729",
+    "conversation_id": "2009629740345573643",
+    "created_at": "2026-01-10T16:10:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-10T17:10:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010021328775197185"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1753990410832379904",
+          "start": 0,
+          "username": "DRbitcoin36"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010021328775197185",
+    "in_reply_to_user_id": "1753990410832379904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009629740345573643",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DRbitcoin36 什么鬼？我每天吃个饭发一条，出个门发一条，看见好看的发一条，刷到梗图发一条，这不是娱乐软件嘛"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "2009629740345573643",
+        "created_at": "2026-01-10T16:10:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-10T17:10:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010021328775197185"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1753990410832379904",
+              "start": 0,
+              "username": "DRbitcoin36"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010021328775197185",
+        "in_reply_to_user_id": "1753990410832379904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009629740345573643",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DRbitcoin36 什么鬼？我每天吃个饭发一条，出个门发一条，看见好看的发一条，刷到梗图发一条，这不是娱乐软件嘛"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753990410832379904",
+        "conversation_id": "2009629740345573643",
+        "created_at": "2026-01-09T14:14:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T15:14:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009629740345573643"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2009629740345573643",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 41,
+          "impression_count": 67821,
+          "like_count": 270,
+          "quote_count": 3,
+          "reply_count": 186,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "新手如果还想全职做 X \n起码一天要坐在电脑前 9 小时以上\n一天产量不低于 3 / 4 条推文\n收入还不稳定。\n\n这和找个班上，有啥区别。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "水貓｜ENFP-t ｜永遠14歲｜提問↓ ｜對象@saonanaa｜素食主体｜心理兩畸｜侵删",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 24,
+                "username": "saonanaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGrRuS"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你2.1km",
+        "name": "lovely水",
+        "pinned_tweet_id": "2009971664344494303",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009519740319092737/8QXu2gXD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3313,
+          "following_count": 1017,
+          "like_count": 255,
+          "listed_count": 10,
+          "media_count": 2672,
+          "tweet_count": 12443
+        },
+        "url": "https://t.co/EZhyEGrRuS",
+        "username": "lovelyshuimao",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-04T03:54:42.000Z",
+        "description": "数据分析 + 数据可视化博主 | 自媒体打工人 + 00 后大学生｜顶级笨蛋钱｜推特当作自己的炒币日记｜交易就选安全的交易所，超 3 亿用户都选择币安：https://t.co/ovrqlHEqgV",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "binance.com/activity/refer…",
+                "end": 99,
+                "expanded_url": "https://www.binance.com/activity/referral-entry/CPA?ref=CPA_00IXDBNAA0",
+                "start": 76,
+                "url": "https://t.co/ovrqlHEqgV"
+              }
+            ]
+          }
+        },
+        "id": "1753990410832379904",
+        "location": "singapore",
+        "name": "比特欧 Elvin",
+        "pinned_tweet_id": "1983500437874708833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1871549554279194624/SLDJsDr2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25950,
+          "following_count": 2652,
+          "like_count": 31367,
+          "listed_count": 280,
+          "media_count": 1146,
+          "tweet_count": 22889
+        },
+        "username": "DRbitcoin36",
+        "verified": true
+      }
+    ]
+  }
+}

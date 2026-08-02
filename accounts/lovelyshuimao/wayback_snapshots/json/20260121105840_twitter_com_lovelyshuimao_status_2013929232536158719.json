@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1748763011140169729",
+    "conversation_id": "2013752961911173483",
+    "created_at": "2026-01-21T10:58:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-21T11:58:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013929232536158719"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1978188622731079680",
+          "start": 0,
+          "username": "ming_cheng37178"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013929232536158719",
+    "in_reply_to_user_id": "1978188622731079680",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013928340021731455",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ming_cheng37178 哈哈没错👍"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "2013752961911173483",
+        "created_at": "2026-01-21T10:58:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T11:58:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013929232536158719"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1978188622731079680",
+              "start": 0,
+              "username": "ming_cheng37178"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013929232536158719",
+        "in_reply_to_user_id": "1978188622731079680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013928340021731455",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ming_cheng37178 哈哈没错👍"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1978188622731079680",
+        "conversation_id": "2013752961911173483",
+        "created_at": "2026-01-21T10:55:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T11:55:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013928340021731455"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1748763011140169729",
+              "start": 0,
+              "username": "lovelyshuimao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013928340021731455",
+        "in_reply_to_user_id": "1748763011140169729",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013752961911173483",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lovelyshuimao 我爸他们那个年代考驾照是要学修车的，90年代学费就8000多（公司给报销了），而且一学就是半年。这导致他看我每次去4S店换机油，换雨刮等等都觉得是浪费钱，是偷懒。\n现在80-90后看00后用电脑大概也是这个感觉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "水貓｜INTJ-t ｜永遠14歲｜提問↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGrRuS"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你2.1km",
+        "name": "lovely水",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009519740319092737/8QXu2gXD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3453,
+          "following_count": 1017,
+          "like_count": 260,
+          "listed_count": 10,
+          "media_count": 2747,
+          "tweet_count": 12723
+        },
+        "url": "https://t.co/EZhyEGrRuS",
+        "username": "lovelyshuimao",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-14T19:58:31.000Z",
+        "description": "黄推麻烦不要关注我，不要点赞我\n抬杠练习者",
+        "id": "1978188622731079680",
+        "name": "dave",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978189033470902272/MRhNksU8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 51,
+          "like_count": 3053,
+          "listed_count": 1,
+          "media_count": 31,
+          "tweet_count": 1182
+        },
+        "username": "ming_cheng37178",
+        "verified": false
+      }
+    ]
+  }
+}

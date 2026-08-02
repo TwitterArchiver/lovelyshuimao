@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1748763011140169729",
+    "conversation_id": "1986192823214088548",
+    "created_at": "2025-11-07T06:00:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-07T07:00:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986675165879804013"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1100576307195203585",
+          "start": 0,
+          "username": "WilliamDama1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986675165879804013",
+    "in_reply_to_user_id": "1100576307195203585",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986671778811548098",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WilliamDama1 当然也不乏有那种知识渊博的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "1986192823214088548",
+        "created_at": "2025-11-07T06:00:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T07:00:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986675165879804013"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1100576307195203585",
+              "start": 0,
+              "username": "WilliamDama1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986675165879804013",
+        "in_reply_to_user_id": "1100576307195203585",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986671778811548098",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WilliamDama1 当然也不乏有那种知识渊博的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1100576307195203585",
+        "conversation_id": "1986192823214088548",
+        "created_at": "2025-11-07T05:47:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T06:47:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986671778811548098"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1748763011140169729",
+              "start": 0,
+              "username": "lovelyshuimao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986671778811548098",
+        "in_reply_to_user_id": "1748763011140169729",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986192823214088548",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lovelyshuimao 。。。我看要能讀懂上市公司財報及法院裁決，方能稱得上精通。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "ENFP-t ｜永遠14｜是豪貓不o不圓不殘不死｜對象@saonanaa｜雙相＆抑鬱｜家長不管黨｜提問箱鏈接↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 27,
+                "username": "saonanaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%B0%B4%E6%B…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E6%B0%B4%E6%B0%B493927",
+                "start": 0,
+                "url": "https://t.co/qmQkMr39z5"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你2.1km",
+        "name": "lovely水(水猫)🍕",
+        "pinned_tweet_id": "1986463883725529182",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967556205590831104/87BEnlAx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2553,
+          "following_count": 1122,
+          "like_count": 245,
+          "listed_count": 7,
+          "media_count": 2239,
+          "tweet_count": 11074
+        },
+        "url": "https://t.co/qmQkMr39z5",
+        "username": "lovelyshuimao",
+        "verified": true
+      },
+      {
+        "created_at": "2019-02-27T02:00:14.000Z",
+        "description": "Ex puzzle & dragons Player(too slow and difficult and I abandon it now). Eternal love for pompompurin(So I shifted to Hello Sweet Days - TW Server)!!!",
+        "id": "1100576307195203585",
+        "location": "Macau, China",
+        "name": "William Dama",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981959248062889984/NHzZSjmR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 117,
+          "like_count": 60141,
+          "listed_count": 1,
+          "media_count": 135,
+          "tweet_count": 6607
+        },
+        "username": "WilliamDama1",
+        "verified": false
+      }
+    ]
+  }
+}

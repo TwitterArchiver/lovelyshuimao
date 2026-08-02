@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1748763011140169729",
+    "conversation_id": "2051861006092300420",
+    "created_at": "2026-05-06T05:12:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T06:12:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051892943984922744"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1574300405026017280",
+          "start": 0,
+          "username": "yantanzhang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051892943984922744",
+    "in_reply_to_user_id": "1574300405026017280",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051861006092300420",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yantanzhang 都tm单间了还分什么\n也没见飞机火车上分男女\n全改成厕所不就行了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1709,
+        "media_key": "3_2051754596109004800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHlL7ztaMAACHLj.jpg",
+        "width": 728
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "2051861006092300420",
+        "created_at": "2026-05-06T05:12:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T06:12:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051892943984922744"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1574300405026017280",
+              "start": 0,
+              "username": "yantanzhang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051892943984922744",
+        "in_reply_to_user_id": "1574300405026017280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051861006092300420",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yantanzhang 都tm单间了还分什么\n也没见飞机火车上分男女\n全改成厕所不就行了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051754596109004800"
+          ]
+        },
+        "author_id": "1574300405026017280",
+        "conversation_id": "2051861006092300420",
+        "created_at": "2026-05-06T03:06:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T04:06:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051861006092300420"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nJLopXqSE9",
+              "end": 139,
+              "expanded_url": "https://x.com/yantanzhang/status/2051861006092300420/photo/1",
+              "media_key": "3_2051754596109004800",
+              "start": 116,
+              "url": "https://t.co/nJLopXqSE9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051861006092300420",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "网友加盟了一家电竞馆，有位男客户总是去女厕所大号，原因是男厕所只有蹲坑，女厕所有马桶，而这位客人膝盖有问题不能蹲着，叫老板给男厕所也装马桶。\n而且这个客人每次都充值两三千，妥妥大客户。\n\n为什么男厕所只有蹲坑？这不是在歧视男性吗？\n\n这傻子也是想不清，一次充几千的主，这消费额不够他装个马桶吗?"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 37662,
+          "like_count": 114,
+          "quote_count": 1,
+          "reply_count": 108,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "网友加盟了一家电竞馆，有位男客户总是去女厕所大号，原因是男厕所只有蹲坑，女厕所有马桶，而这位客人膝盖有问题不能蹲着，叫老板给男厕所也装马桶。\n而且这个客人每次都充值两三千，妥妥大客户。\n\n为什么男厕所只有蹲坑？这不是在歧视男性吗？ https://t.co/nJLopXqSE9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "｜水猫星铃Lumia\n｜INTJ 永遠14\n｜❤️@saonanaa\n｜提問——————————↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 25,
+                "username": "saonanaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGspkq"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你2.1km",
+        "name": "lovely水",
+        "pinned_tweet_id": "2049024358027547007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045354329792749568/b7JXuLvu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4874,
+          "following_count": 1021,
+          "like_count": 274,
+          "listed_count": 14,
+          "media_count": 3196,
+          "tweet_count": 14197
+        },
+        "url": "https://t.co/EZhyEGspkq",
+        "username": "lovelyshuimao",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-26T07:30:49.000Z",
+        "description": "自由主义男性，拒绝宏大叙事，热爱新鲜事物，为男性发声超十年《舔狗经济学》《男性自救指南》作者",
+        "id": "1574300405026017280",
+        "name": "颜克权",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928097044138274817/NdI_xr1z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49145,
+          "following_count": 317,
+          "like_count": 3602,
+          "listed_count": 136,
+          "media_count": 4821,
+          "tweet_count": 5962
+        },
+        "username": "yantanzhang",
+        "verified": true
+      }
+    ]
+  }
+}

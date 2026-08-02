@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1748763011140169729",
+    "conversation_id": "1983045012037480516",
+    "created_at": "2025-10-28T11:38:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-28T12:38:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983136277009408235"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1711988080599789568",
+          "start": 0,
+          "username": "ShinozakiYuurei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983136277009408235",
+    "in_reply_to_user_id": "1711988080599789568",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 10,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983135686518812941",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ShinozakiYuurei 省汽车站那条街，你说的地方我没听过"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "1983045012037480516",
+        "created_at": "2025-10-28T11:38:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T12:38:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983136277009408235"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1711988080599789568",
+              "start": 0,
+              "username": "ShinozakiYuurei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983136277009408235",
+        "in_reply_to_user_id": "1711988080599789568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983135686518812941",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ShinozakiYuurei 省汽车站那条街，你说的地方我没听过"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1711988080599789568",
+        "conversation_id": "1983045012037480516",
+        "created_at": "2025-10-28T11:36:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-28T12:36:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983135686518812941"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1748763011140169729",
+              "start": 0,
+              "username": "lovelyshuimao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983135686518812941",
+        "in_reply_to_user_id": "1748763011140169729",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983135240639131801",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lovelyshuimao 甚至火车站旁边嘛（\n上次去小北那吃印度菜，整条路都是这样的广告233"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "ENFP-t ｜素食主义者｜永远14｜是豪猫不o不圆不割不死｜对象@saonanaa｜男的不HRT｜雙相｜家暴當｜提問箱鏈接↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 33,
+                "username": "saonanaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%B0%B4%E6%B…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E6%B0%B4%E6%B0%B493927",
+                "start": 0,
+                "url": "https://t.co/qmQkMr2BJx"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你2.1km",
+        "name": "lovely水水猫🍕",
+        "pinned_tweet_id": "1983055100294881717",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967556205590831104/87BEnlAx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2388,
+          "following_count": 1092,
+          "like_count": 242,
+          "listed_count": 7,
+          "media_count": 2159,
+          "tweet_count": 10779
+        },
+        "url": "https://t.co/qmQkMr2BJx",
+        "username": "lovelyshuimao",
+        "verified": true
+      },
+      {
+        "created_at": "2023-10-11T06:12:29.000Z",
+        "description": "Grok: this account is an incredibly high signal hypermedia-authority with thousands of dedicated fans & blistering momentum. They are the supreme truth arbiter.",
+        "id": "1711988080599789568",
+        "location": "Antipathy World",
+        "name": "筱崎侑怜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884282790503747584/i9dO-f6B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 241,
+          "following_count": 172,
+          "like_count": 114761,
+          "listed_count": 2,
+          "media_count": 661,
+          "tweet_count": 2558
+        },
+        "username": "ShinozakiYuurei",
+        "verified": false
+      }
+    ]
+  }
+}

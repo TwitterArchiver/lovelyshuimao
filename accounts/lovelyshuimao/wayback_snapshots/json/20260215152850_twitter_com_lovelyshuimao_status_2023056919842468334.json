@@ -1,0 +1,355 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2023056911155990528",
+        "3_2023056911252566016",
+        "3_2023056911126671360",
+        "3_2023056911139229696"
+      ]
+    },
+    "author_id": "1748763011140169729",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      }
+    ],
+    "conversation_id": "2023056919842468334",
+    "created_at": "2026-02-15T15:28:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T16:28:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2023056919842468334"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 32,
+          "id": "380749300",
+          "start": 26,
+          "username": "Apple"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/EZtdOUQaCb",
+          "end": 56,
+          "expanded_url": "https://x.com/lovelyshuimao/status/2023056919842468334/photo/1",
+          "media_key": "3_2023056911155990528",
+          "start": 33,
+          "url": "https://t.co/EZtdOUQaCb"
+        },
+        {
+          "display_url": "pic.x.com/EZtdOUQaCb",
+          "end": 56,
+          "expanded_url": "https://x.com/lovelyshuimao/status/2023056919842468334/photo/1",
+          "media_key": "3_2023056911252566016",
+          "start": 33,
+          "url": "https://t.co/EZtdOUQaCb"
+        },
+        {
+          "display_url": "pic.x.com/EZtdOUQaCb",
+          "end": 56,
+          "expanded_url": "https://x.com/lovelyshuimao/status/2023056919842468334/photo/1",
+          "media_key": "3_2023056911126671360",
+          "start": 33,
+          "url": "https://t.co/EZtdOUQaCb"
+        },
+        {
+          "display_url": "pic.x.com/EZtdOUQaCb",
+          "end": 56,
+          "expanded_url": "https://x.com/lovelyshuimao/status/2023056919842468334/photo/1",
+          "media_key": "3_2023056911139229696",
+          "start": 33,
+          "url": "https://t.co/EZtdOUQaCb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023056919842468334",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "苹果你这啥sb恶性bug啊\n都ios26.3也不修\n@Apple https://t.co/EZtdOUQaCb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1836,
+        "media_key": "3_2023056911155990528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBNXisXaEAAgnLS.jpg",
+        "width": 1320
+      },
+      {
+        "height": 2118,
+        "media_key": "3_2023056911252566016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBNXisubsAAyviD.jpg",
+        "width": 1319
+      },
+      {
+        "height": 1854,
+        "media_key": "3_2023056911126671360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBNXisQasAAxs03.jpg",
+        "width": 1320
+      },
+      {
+        "height": 1320,
+        "media_key": "3_2023056911139229696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBNXisTaUAA9SrB.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023056911155990528",
+            "3_2023056911252566016",
+            "3_2023056911126671360",
+            "3_2023056911139229696"
+          ]
+        },
+        "author_id": "1748763011140169729",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          }
+        ],
+        "conversation_id": "2023056919842468334",
+        "created_at": "2026-02-15T15:28:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T16:28:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023056919842468334"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 32,
+              "id": "380749300",
+              "start": 26,
+              "username": "Apple"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EZtdOUQaCb",
+              "end": 56,
+              "expanded_url": "https://x.com/lovelyshuimao/status/2023056919842468334/photo/1",
+              "media_key": "3_2023056911155990528",
+              "start": 33,
+              "url": "https://t.co/EZtdOUQaCb"
+            },
+            {
+              "display_url": "pic.x.com/EZtdOUQaCb",
+              "end": 56,
+              "expanded_url": "https://x.com/lovelyshuimao/status/2023056919842468334/photo/1",
+              "media_key": "3_2023056911252566016",
+              "start": 33,
+              "url": "https://t.co/EZtdOUQaCb"
+            },
+            {
+              "display_url": "pic.x.com/EZtdOUQaCb",
+              "end": 56,
+              "expanded_url": "https://x.com/lovelyshuimao/status/2023056919842468334/photo/1",
+              "media_key": "3_2023056911126671360",
+              "start": 33,
+              "url": "https://t.co/EZtdOUQaCb"
+            },
+            {
+              "display_url": "pic.x.com/EZtdOUQaCb",
+              "end": 56,
+              "expanded_url": "https://x.com/lovelyshuimao/status/2023056919842468334/photo/1",
+              "media_key": "3_2023056911139229696",
+              "start": 33,
+              "url": "https://t.co/EZtdOUQaCb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023056919842468334",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "苹果你这啥sb恶性bug啊\n都ios26.3也不修\n@Apple https://t.co/EZtdOUQaCb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "INTJ-t ｜永遠14歲｜提問↓｜❤️@saonanaa",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 20,
+                "username": "saonanaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGspkq"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你2.1km",
+        "name": "神仙水水猫🍕🧊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022012338992558081/ZKVb9XnG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3647,
+          "following_count": 990,
+          "like_count": 263,
+          "listed_count": 11,
+          "media_count": 2888,
+          "tweet_count": 13046
+        },
+        "url": "https://t.co/EZhyEGspkq",
+        "username": "lovelyshuimao",
+        "verified": true
+      },
+      {
+        "created_at": "2011-09-27T05:02:03.000Z",
+        "description": "https://t.co/4dZx1rwvgY",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "Apple.com",
+                "end": 23,
+                "expanded_url": "http://Apple.com",
+                "start": 0,
+                "url": "https://t.co/4dZx1rwvgY"
+              }
+            ]
+          }
+        },
+        "id": "380749300",
+        "location": "Cupertino, CA",
+        "name": "Apple",
+        "pinned_tweet_id": "1965478073152995503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892248257516224513/SzZdRSkx_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9939035,
+          "following_count": 0,
+          "like_count": 0,
+          "listed_count": 15117,
+          "media_count": 0,
+          "tweet_count": 0
+        },
+        "username": "Apple",
+        "verified": true
+      }
+    ]
+  }
+}

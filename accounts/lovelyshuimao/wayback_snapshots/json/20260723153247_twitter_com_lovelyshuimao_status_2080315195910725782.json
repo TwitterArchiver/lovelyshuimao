@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1748763011140169729",
+    "conversation_id": "2080186798777520632",
+    "created_at": "2026-07-23T15:32:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T16:32:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080315195910725782"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2065053464984748032",
+          "start": 0,
+          "username": "yuzhang90"
+        },
+        {
+          "end": 21,
+          "id": "2023287257311182848",
+          "start": 11,
+          "username": "Kai_JP_CN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080315195910725782",
+    "in_reply_to_user_id": "2065053464984748032",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080239745053954381",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuzhang90 @Kai_JP_CN 人家日本设计师设计的有啥毛病？是上海政府自己接受这个方案好吗？那咋不设计成圆的最好了，设计成日本国旗，那还比这个方的风阻更小"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2080239741815951360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN5_BgqXEAABO8S.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "2080186798777520632",
+        "created_at": "2026-07-23T15:32:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T16:32:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080315195910725782"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2065053464984748032",
+              "start": 0,
+              "username": "yuzhang90"
+            },
+            {
+              "end": 21,
+              "id": "2023287257311182848",
+              "start": 11,
+              "username": "Kai_JP_CN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080315195910725782",
+        "in_reply_to_user_id": "2065053464984748032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080239745053954381",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuzhang90 @Kai_JP_CN 人家日本设计师设计的有啥毛病？是上海政府自己接受这个方案好吗？那咋不设计成圆的最好了，设计成日本国旗，那还比这个方的风阻更小"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080239741815951360"
+          ]
+        },
+        "author_id": "2065053464984748032",
+        "conversation_id": "2080186798777520632",
+        "created_at": "2026-07-23T10:32:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T11:32:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080239745053954381"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2023287257311182848",
+              "start": 0,
+              "username": "Kai_JP_CN"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/T7lLIIXAHK",
+              "end": 74,
+              "expanded_url": "https://x.com/yuzhang90/status/2080239745053954381/photo/1",
+              "media_key": "3_2080239741815951360",
+              "start": 51,
+              "url": "https://t.co/T7lLIIXAHK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080239745053954381",
+        "in_reply_to_user_id": "2023287257311182848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3111,
+          "like_count": 1,
+          "quote_count": 2,
+          "reply_count": 47,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080186798777520632",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kai_JP_CN 你去查一下你们日本人盖的这幢破楼是什么含义，你把这破楼拆了再回来和中国人友好。 https://t.co/T7lLIIXAHK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "🐱神仙水水猫星铃Lumia\n👩🏻‍💻INTJ ♀14 \n🙋🏻‍♀️提問box——————↓\n✍🏻想成為作家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGspkq"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你 4.3km",
+        "name": "lovely水",
+        "pinned_tweet_id": "2075897725733024056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045354329792749568/b7JXuLvu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5488,
+          "following_count": 999,
+          "like_count": 275,
+          "listed_count": 22,
+          "media_count": 3425,
+          "tweet_count": 15456
+        },
+        "url": "https://t.co/EZhyEGspkq",
+        "username": "lovelyshuimao",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-11T12:51:33.000Z",
+        "description": "朴素爱国者，传播正能量。\n\n向中华民族的脊梁致敬！\n\n向新中国的柱石致敬！\n\n向保卫祖国疆土的龙鳞致敬！\n\n向维护祖国名誉的爱国志士致敬！\n\n向祖国的平凡英雄致敬！",
+        "id": "2065053464984748032",
+        "name": "白玉璋🇨🇳",
+        "pinned_tweet_id": "2068305460743328025",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065789061407911936/Op6Ecj1a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 235,
+          "like_count": 941,
+          "listed_count": 2,
+          "media_count": 105,
+          "tweet_count": 362
+        },
+        "url": "",
+        "username": "yuzhang90",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-16T06:44:39.000Z",
+        "description": "日本と中国、それぞれの文化・歴史の魅力そして中国の日常などを発信しています。\n中国にいます。\nまずは交流から。このスローガンをもとに、投稿しています。\n※一方的な共産党、自民党支持は、行いません、中立です。\nDMに応援メッセージを送ってくださる方返事が遅くなるかもしれませんが返します",
+        "id": "2023287257311182848",
+        "location": "中国×日本",
+        "name": "かい@日中友好",
+        "pinned_tweet_id": "2078636741058265187",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049785202940268544/pwIf5ibP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1166,
+          "following_count": 1,
+          "like_count": 522,
+          "listed_count": 27,
+          "media_count": 105,
+          "tweet_count": 199
+        },
+        "url": "",
+        "username": "Kai_JP_CN",
+        "verified": false
+      }
+    ]
+  }
+}

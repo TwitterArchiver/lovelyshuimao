@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1748763011140169729",
+    "conversation_id": "2008603489958756618",
+    "created_at": "2026-01-07T08:01:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-07T09:01:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008811302958100650"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1718306614799982592",
+          "start": 0,
+          "username": "ZeroAstan10510"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008811302958100650",
+    "in_reply_to_user_id": "1718306614799982592",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008810715814219875",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZeroAstan10510 因为我的帖文明明是讲港台翻译差异，但是一群人隔着炫"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "2008603489958756618",
+        "created_at": "2026-01-07T08:01:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T09:01:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008811302958100650"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1718306614799982592",
+              "start": 0,
+              "username": "ZeroAstan10510"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008811302958100650",
+        "in_reply_to_user_id": "1718306614799982592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008810715814219875",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZeroAstan10510 因为我的帖文明明是讲港台翻译差异，但是一群人隔着炫"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1718306614799982592",
+        "conversation_id": "2008603489958756618",
+        "created_at": "2026-01-07T07:59:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T08:59:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008810715814219875"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1748763011140169729",
+              "start": 0,
+              "username": "lovelyshuimao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008810715814219875",
+        "in_reply_to_user_id": "1748763011140169729",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008801066708877368",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lovelyshuimao 还有紧急避险安全声明"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "水貓｜ENFP-t ｜永遠8歲｜提問↓ ｜對象@saonanaa｜素食哦｜心理兩畸｜蓝v互fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 23,
+                "username": "saonanaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGrRuS"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你2.1km",
+        "name": "lovely水",
+        "pinned_tweet_id": "2007376785382748406",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002694749883682816/cD8uYfnW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3260,
+          "following_count": 1009,
+          "like_count": 254,
+          "listed_count": 8,
+          "media_count": 2645,
+          "tweet_count": 12328
+        },
+        "url": "https://t.co/EZhyEGrRuS",
+        "username": "lovelyshuimao",
+        "verified": true
+      },
+      {
+        "created_at": "2023-10-28T16:40:06.000Z",
+        "description": "绷图bot\n不定时更新绷图中",
+        "id": "1718306614799982592",
+        "location": "家",
+        "name": "astan_0_",
+        "pinned_tweet_id": "1999122806362280290",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879540971559657473/HyoLnf3g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100,
+          "following_count": 278,
+          "like_count": 4266,
+          "listed_count": 0,
+          "media_count": 101,
+          "tweet_count": 905
+        },
+        "username": "ZeroAstan10510",
+        "verified": false
+      }
+    ]
+  }
+}

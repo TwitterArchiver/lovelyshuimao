@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1748763011140169729",
+    "conversation_id": "2056746020412002811",
+    "created_at": "2026-05-20T11:12:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T12:12:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057056750067712050"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1362636470079528967",
+          "start": 0,
+          "username": "Sizhe_bitcat"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057056750067712050",
+    "in_reply_to_user_id": "1362636470079528967",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056746020412002811",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sizhe_bitcat 这个跟年龄没关系，父母不给钱培养他赚钱的机会，就是23岁只要一没钱也是分分钟带坏"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 162566,
+        "height": 1920,
+        "media_key": "13_2056745679486328832",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2056745679486328832/img/pkSJiA9wPVlgkei1.jpg",
+        "public_metrics": {
+          "view_count": 165121
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2056745679486328832/vid/avc1/480x852/K4bCVWtV1p4ztS4M.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2056745679486328832/vid/avc1/1080x1920/1vVNp1tryHnwVvfS.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2056745679486328832/pl/PTRUmSsEQTu3eHnn.m3u8"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2056745679486328832/vid/avc1/320x568/2FzsY9QNlUtO_D6G.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2056745679486328832/vid/avc1/720x1280/3Y3QLyx84D3GmKOW.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "2056746020412002811",
+        "created_at": "2026-05-20T11:12:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T12:12:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057056750067712050"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1362636470079528967",
+              "start": 0,
+              "username": "Sizhe_bitcat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057056750067712050",
+        "in_reply_to_user_id": "1362636470079528967",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056746020412002811",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sizhe_bitcat 这个跟年龄没关系，父母不给钱培养他赚钱的机会，就是23岁只要一没钱也是分分钟带坏"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2056745679486328832"
+          ]
+        },
+        "author_id": "1362636470079528967",
+        "conversation_id": "2056746020412002811",
+        "created_at": "2026-05-19T14:37:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T15:37:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056746020412002811"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/u2rdpbRdUV",
+              "end": 120,
+              "expanded_url": "https://x.com/Sizhe_bitcat/status/2056746020412002811/video/1",
+              "media_key": "13_2056745679486328832",
+              "start": 97,
+              "url": "https://t.co/u2rdpbRdUV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056746020412002811",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "13岁死活不上学非的去打工，这个年纪出去如果身边没亲戚看着，不用两个月就被带坏了\n\n出生在这种家庭哪怕长的再好看，也很难不自卑，就家里这住宿环境说实话，如果是我我连让同学来家里玩的勇气都没有。\n\n她说她自卑其实本质原因就是想逃离这个家，逃离这个让她自卑抬不起头的环境，她只要在这种环境下很难不会被校园软暴力，别看很多学生小小年纪，那嘴巴一个个毒的很，爱慕虚荣攀比成风，比比皆是。\n\n孩子自卑父母是主因，很多农村父母不爱收拾邋里邋遢一辈子，从来没有反省过自身原因，却还尝试不断教育子女，我看着都窒息。\n\n正常来说家里再穷，把家里该扔的东西都扔掉收拾的干干净净，房子破一点真的没有什么，但是屋里的环境真的一言难尽。\n\n我去过江苏，福建，广东那边的农村哪怕人家再穷你走到他们屋里永远是干干净净的，没有任何多余的东西，就是房子虽然破，但是你在他们屋里不会有任何浑身不舒服的感觉，屋里的东西都是摆的规规距距的。\n\n北方的穷大多是邋里邋遢屋里连个下脚的地方都没有。\n\n这也就是北方很多农村人穷了一辈子的本质原因。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 315,
+          "impression_count": 231102,
+          "like_count": 635,
+          "quote_count": 0,
+          "reply_count": 83,
+          "retweet_count": 44
+        },
+        "reply_settings": "everyone",
+        "text": "13岁死活不上学非的去打工，这个年纪出去如果身边没亲戚看着，不用两个月就被带坏了\n\n出生在这种家庭哪怕长的再好看，也很难不自卑，就家里这住宿环境说实话，如果是我我连让同学来家里玩的勇气都没有。 https://t.co/u2rdpbRdUV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "｜水猫星铃Lumia\n｜INTJ 「14」\n｜❤️@saonanaa\n｜提問——————————↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 25,
+                "username": "saonanaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGspkq"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你2.1km",
+        "name": "lovely水",
+        "pinned_tweet_id": "2056780372361597290",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045354329792749568/b7JXuLvu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4901,
+          "following_count": 1021,
+          "like_count": 274,
+          "listed_count": 15,
+          "media_count": 3214,
+          "tweet_count": 14336
+        },
+        "url": "https://t.co/EZhyEGspkq",
+        "username": "lovelyshuimao",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-19T05:33:57.000Z",
+        "description": "Web3 冒险家、社会观察家、gamefi 资深玩家，曾经几万爆赚A8,后退圈投资实体基本归零，回归web3再次起航。慢即是快、永不放弃。",
+        "id": "1362636470079528967",
+        "name": "Sizhe思哲",
+        "pinned_tweet_id": "2009377102483853471",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971676890487496704/LrPYG7lH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58276,
+          "following_count": 18569,
+          "like_count": 26937,
+          "listed_count": 95,
+          "media_count": 2340,
+          "tweet_count": 21030
+        },
+        "username": "Sizhe_bitcat",
+        "verified": true
+      }
+    ]
+  }
+}

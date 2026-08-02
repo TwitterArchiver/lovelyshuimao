@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1748763011140169729",
+    "conversation_id": "2008591410900201902",
+    "created_at": "2026-01-07T14:14:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-07T15:14:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008904995387904252"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2000826943206555649",
+          "start": 0,
+          "username": "pingapingu002"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008904995387904252",
+    "in_reply_to_user_id": "2000826943206555649",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008591410900201902",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pingapingu002 可能爱的就是给自己的安全感"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "2008591410900201902",
+        "created_at": "2026-01-07T14:14:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T15:14:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008904995387904252"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2000826943206555649",
+              "start": 0,
+              "username": "pingapingu002"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008904995387904252",
+        "in_reply_to_user_id": "2000826943206555649",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008591410900201902",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pingapingu002 可能爱的就是给自己的安全感"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2000826943206555649",
+        "conversation_id": "2008591410900201902",
+        "created_at": "2026-01-06T17:28:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T18:28:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008591410900201902"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2008591410900201902",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 9118,
+          "like_count": 161,
+          "quote_count": 0,
+          "reply_count": 28,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "感觉有的人只是靠恋爱逃避现实，看起来爱的死去活来的，分手也会立刻谈下一个，到底爱的是什么"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "水貓｜ENFP-t ｜永遠8歲｜提問↓ ｜對象@saonanaa｜素食哦｜心理兩畸｜蓝v互fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 23,
+                "username": "saonanaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGrRuS"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你2.1km",
+        "name": "lovely水",
+        "pinned_tweet_id": "2007376785382748406",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002694749883682816/cD8uYfnW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3272,
+          "following_count": 1008,
+          "like_count": 255,
+          "listed_count": 8,
+          "media_count": 2655,
+          "tweet_count": 12357
+        },
+        "url": "https://t.co/EZhyEGrRuS",
+        "username": "lovelyshuimao",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-16T07:15:27.000Z",
+        "description": "我是异性恋😇不聊骚不约清水推 叫我壮壮爸或者困困就好\n上一个号的互关们你们私我一下我慢慢回关，我怕我没看见",
+        "id": "2000826943206555649",
+        "location": "码粒纳帮我注册了新号码粒纳好",
+        "name": "睡觉睡觉困困困2.0",
+        "pinned_tweet_id": "2003843366426234896",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003163752800354307/w-eF7K_7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 760,
+          "following_count": 126,
+          "like_count": 619,
+          "listed_count": 1,
+          "media_count": 55,
+          "tweet_count": 194
+        },
+        "username": "pingapingu002",
+        "verified": false
+      }
+    ]
+  }
+}

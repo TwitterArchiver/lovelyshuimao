@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1748763011140169729",
+    "conversation_id": "2034859741282017482",
+    "created_at": "2026-03-20T10:20:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-20T11:20:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034938103321043278"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1978032792383709184",
+          "start": 0,
+          "username": "Sabrina8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034938103321043278",
+    "in_reply_to_user_id": "1978032792383709184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034859741282017482",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sabrina8964 这个时候就要问出那句话了：人为什么要繁衍"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2034859730364243968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD1GJMQboAAEeJG.jpg",
+        "width": 864
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "2034859741282017482",
+        "created_at": "2026-03-20T10:20:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T11:20:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034938103321043278"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1978032792383709184",
+              "start": 0,
+              "username": "Sabrina8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034938103321043278",
+        "in_reply_to_user_id": "1978032792383709184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034859741282017482",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sabrina8964 这个时候就要问出那句话了：人为什么要繁衍"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2034859730364243968"
+          ]
+        },
+        "author_id": "1978032792383709184",
+        "conversation_id": "2034859741282017482",
+        "created_at": "2026-03-20T05:09:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T06:09:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034859741282017482"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1IcV4mP4dw",
+              "end": 44,
+              "expanded_url": "https://x.com/Sabrina8964/status/2034859741282017482/photo/1",
+              "media_key": "3_2034859730364243968",
+              "start": 21,
+              "url": "https://t.co/1IcV4mP4dw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034859741282017482",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 8982,
+          "like_count": 116,
+          "quote_count": 2,
+          "reply_count": 11,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "大语言模型已被操逼生孩子主义者逼的没招了 https://t.co/1IcV4mP4dw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "INTJ-t ｜永遠14歲｜提問↓｜❤️@saonanaa",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 20,
+                "username": "saonanaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGspkq"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你2.1km",
+        "name": "lovely水",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023831074921738240/frpPaTVT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4836,
+          "following_count": 1025,
+          "like_count": 268,
+          "listed_count": 13,
+          "media_count": 3049,
+          "tweet_count": 13500
+        },
+        "url": "https://t.co/EZhyEGspkq",
+        "username": "lovelyshuimao",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-14T09:39:22.000Z",
+        "description": "欧美迪哥百家黑，纯良舒肤佳雷妈妈梦男｜東雲繪名转世灵童",
+        "id": "1978032792383709184",
+        "location": "California, USA",
+        "name": "霉娇娇推特反黑站",
+        "pinned_tweet_id": "2034638140753977453",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034096383624613888/4_jmXeNA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 350,
+          "following_count": 185,
+          "like_count": 7239,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 1665
+        },
+        "username": "Sabrina8964",
+        "verified": false
+      }
+    ]
+  }
+}

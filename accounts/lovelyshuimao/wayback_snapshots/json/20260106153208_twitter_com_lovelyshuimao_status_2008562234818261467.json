@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1748763011140169729",
+    "conversation_id": "2008548256289353829",
+    "created_at": "2026-01-06T15:32:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-06T16:32:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008562234818261467"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1690570637499154432",
+          "start": 0,
+          "username": "saonanaa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008562234818261467",
+    "in_reply_to_user_id": "1690570637499154432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008548256289353829",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@saonanaa 我觉得你要在神经学领域加大投入，可以多和神经学专家聊天"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "2008548256289353829",
+        "created_at": "2026-01-06T15:32:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T16:32:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008562234818261467"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1690570637499154432",
+              "start": 0,
+              "username": "saonanaa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008562234818261467",
+        "in_reply_to_user_id": "1690570637499154432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008548256289353829",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@saonanaa 我觉得你要在神经学领域加大投入，可以多和神经学专家聊天"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1690570637499154432",
+        "conversation_id": "2008548256289353829",
+        "created_at": "2026-01-06T14:36:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T15:36:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008548256289353829"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2008548256289353829",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "一个人的多种行为举止高度与一个心理症状吻合，但又在一些点上不尽相同。\n\n观点A认为，这就是得了那个心理症状。\n\nB观点认为，只是没睡好罢了。\n\n如何评析两种观点？\n\n在我看来，无论观点AB，都忽略了人闹是一个复杂的系统，不能草草而论。\n一个人的行为往往是激素、创伤记忆、环境线索、当下情绪、睡眠状况共同共振的结果，而不是单一按键触发的输出。\n针对这一点，除了关注大体特征（根据《中国疾病预防控制中心》的文章，中国抑郁症人群已达9500万，说明这更有可能受环境影响，所以降低优先级），应该更加关注不一样的特征，因为这个才是重点。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 40,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一个人的多种行为举止高度与一个心理症状吻合，但又在一些点上不尽相同。\n\n观点A认为，这就是得了那个心理症状。\n\nB观点认为，只是没睡好罢了。\n\n如何评析两种观点？\n\n在我看来，无论观点AB，都忽略了人闹是一个复杂的系统，不能草草而论。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "水貓｜ENFP-t ｜永遠8歲｜提問↓ ｜對象@saonanaa｜素食哦｜心理兩畸｜蓝v互fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 23,
+                "username": "saonanaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGrRuS"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你2.1km",
+        "name": "lovely水",
+        "pinned_tweet_id": "2007376785382748406",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002694749883682816/cD8uYfnW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3256,
+          "following_count": 1013,
+          "like_count": 254,
+          "listed_count": 8,
+          "media_count": 2639,
+          "tweet_count": 12311
+        },
+        "url": "https://t.co/EZhyEGrRuS",
+        "username": "lovelyshuimao",
+        "verified": true
+      },
+      {
+        "created_at": "2023-08-13T03:47:17.000Z",
+        "description": "Zhi Wei👋｜在日常中发现📸｜我构建 OneLauncher👩‍💻｜大坏猫 @lovelyshuimao ❤️💥🫵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 40,
+                "username": "lovelyshuimao"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/zhweaa",
+                "end": 23,
+                "expanded_url": "https://github.com/zhweaa",
+                "start": 0,
+                "url": "https://t.co/Lsl0VyzXWN"
+              }
+            ]
+          }
+        },
+        "id": "1690570637499154432",
+        "location": "🌏🌐",
+        "name": "Zhi Wei",
+        "pinned_tweet_id": "2002749269015777340",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002735211898089472/5MAuttCj_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6716,
+          "following_count": 425,
+          "like_count": 33146,
+          "listed_count": 15,
+          "media_count": 2194,
+          "tweet_count": 18866
+        },
+        "url": "https://t.co/Lsl0VyzXWN",
+        "username": "saonanaa",
+        "verified": true
+      }
+    ]
+  }
+}

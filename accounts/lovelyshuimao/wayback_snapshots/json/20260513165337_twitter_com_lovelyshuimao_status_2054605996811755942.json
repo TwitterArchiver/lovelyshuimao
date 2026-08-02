@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2054605769853837312"
+      ]
+    },
+    "author_id": "1748763011140169729",
+    "conversation_id": "2054605996811755942",
+    "created_at": "2026-05-13T16:53:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T17:53:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2054605996811755942"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/9YCfG5UKej",
+          "end": 84,
+          "expanded_url": "https://x.com/lovelyshuimao/status/2054605996811755942/video/1",
+          "media_key": "13_2054605769853837312",
+          "start": 61,
+          "url": "https://t.co/9YCfG5UKej"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054605996811755942",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "特朗普： 你在哪呢，飞机就要起飞了\n黄仁勋： 我在阿拉斯加度假呢\n特朗普： 行，我走阿拉斯加加油顺便捎上你\n黄仁勋： 👌 https://t.co/9YCfG5UKej"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11136,
+        "height": 554,
+        "media_key": "13_2054605769853837312",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2054605769853837312/img/kquCwDUru2vUWkQp.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2054605769853837312/vid/avc1/478x270/NSv8nXOYtbCjNFXq.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2054605769853837312/vid/avc1/638x360/_tdNlglGL-qAn1kj.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2054605769853837312/vid/avc1/984x554/8l_IpXpFMH5c2H5V.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2054605769853837312/pl/HZ5Tow3TM2Mygsdl.m3u8?tag=14"
+          }
+        ],
+        "width": 984
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2054605769853837312"
+          ]
+        },
+        "author_id": "1748763011140169729",
+        "conversation_id": "2054605996811755942",
+        "created_at": "2026-05-13T16:53:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T17:53:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054605996811755942"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9YCfG5UKej",
+              "end": 84,
+              "expanded_url": "https://x.com/lovelyshuimao/status/2054605996811755942/video/1",
+              "media_key": "13_2054605769853837312",
+              "start": 61,
+              "url": "https://t.co/9YCfG5UKej"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054605996811755942",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "特朗普： 你在哪呢，飞机就要起飞了\n黄仁勋： 我在阿拉斯加度假呢\n特朗普： 行，我走阿拉斯加加油顺便捎上你\n黄仁勋： 👌 https://t.co/9YCfG5UKej"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "｜水猫星铃Lumia\n｜INTJ 永遠14\n｜❤️@saonanaa\n｜提問——————————↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 25,
+                "username": "saonanaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGspkq"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你2.1km",
+        "name": "lovely水",
+        "pinned_tweet_id": "2049024358027547007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045354329792749568/b7JXuLvu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4892,
+          "following_count": 1022,
+          "like_count": 273,
+          "listed_count": 15,
+          "media_count": 3203,
+          "tweet_count": 14243
+        },
+        "url": "https://t.co/EZhyEGspkq",
+        "username": "lovelyshuimao",
+        "verified": false
+      }
+    ]
+  }
+}

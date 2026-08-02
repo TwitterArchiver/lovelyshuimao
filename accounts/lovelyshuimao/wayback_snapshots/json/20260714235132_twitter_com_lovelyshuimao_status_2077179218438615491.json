@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1748763011140169729",
+    "conversation_id": "2076730141842248113",
+    "created_at": "2026-07-14T23:51:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T00:51:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077179218438615491"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1566670035560513536",
+          "start": 0,
+          "username": "YoyouDiin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077179218438615491",
+    "in_reply_to_user_id": "1566670035560513536",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076730141842248113",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YoyouDiin 我是不想跟父母写任何一份带有解释意味的遗书的，基本上就是纯骂，理由让他们自己猜去，虽然最后也没写也没死\n但是之前写过其他的告诉父母的一些信吧，我也是纯抨击不说原因不说理由，纯骂，就他们这种理解能力，跟他们讲理由我觉得没有意义"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2076730138230972416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNIHDsea4AA1PHk.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2076730138621063168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNIHDt7bMAAJHax.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2076730138725908480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNIHDuUbAAAV-ME.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2076730139002703872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNIHDvWakAAB7cW.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "2076730141842248113",
+        "created_at": "2026-07-14T23:51:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T00:51:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077179218438615491"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1566670035560513536",
+              "start": 0,
+              "username": "YoyouDiin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077179218438615491",
+        "in_reply_to_user_id": "1566670035560513536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076730141842248113",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YoyouDiin 我是不想跟父母写任何一份带有解释意味的遗书的，基本上就是纯骂，理由让他们自己猜去，虽然最后也没写也没死\n但是之前写过其他的告诉父母的一些信吧，我也是纯抨击不说原因不说理由，纯骂，就他们这种理解能力，跟他们讲理由我觉得没有意义"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076730138230972416",
+            "3_2076730138621063168",
+            "3_2076730138725908480",
+            "3_2076730139002703872"
+          ]
+        },
+        "author_id": "1566670035560513536",
+        "conversation_id": "2076730141842248113",
+        "created_at": "2026-07-13T18:07:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T19:07:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076730141842248113"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ECVDQ56hlZ",
+              "end": 28,
+              "expanded_url": "https://x.com/YoyouDiin/status/2076730141842248113/photo/1",
+              "media_key": "3_2076730138230972416",
+              "start": 5,
+              "url": "https://t.co/ECVDQ56hlZ"
+            },
+            {
+              "display_url": "pic.x.com/ECVDQ56hlZ",
+              "end": 28,
+              "expanded_url": "https://x.com/YoyouDiin/status/2076730141842248113/photo/1",
+              "media_key": "3_2076730138621063168",
+              "start": 5,
+              "url": "https://t.co/ECVDQ56hlZ"
+            },
+            {
+              "display_url": "pic.x.com/ECVDQ56hlZ",
+              "end": 28,
+              "expanded_url": "https://x.com/YoyouDiin/status/2076730141842248113/photo/1",
+              "media_key": "3_2076730138725908480",
+              "start": 5,
+              "url": "https://t.co/ECVDQ56hlZ"
+            },
+            {
+              "display_url": "pic.x.com/ECVDQ56hlZ",
+              "end": 28,
+              "expanded_url": "https://x.com/YoyouDiin/status/2076730141842248113/photo/1",
+              "media_key": "3_2076730139002703872",
+              "start": 5,
+              "url": "https://t.co/ECVDQ56hlZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076730141842248113",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 32,
+          "impression_count": 10435,
+          "like_count": 144,
+          "quote_count": 1,
+          "reply_count": 74,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "再见世界 https://t.co/ECVDQ56hlZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "🐱神仙水水猫星铃Lumia\n👩🏻‍💻INTJ ♀14 \n🙋🏻‍♀️提問box——————↓\n✍🏻想成為作家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGspkq"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你 4.3km",
+        "name": "lovely水",
+        "pinned_tweet_id": "2075897725733024056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045354329792749568/b7JXuLvu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5232,
+          "following_count": 998,
+          "like_count": 275,
+          "listed_count": 20,
+          "media_count": 3393,
+          "tweet_count": 15194
+        },
+        "url": "https://t.co/EZhyEGspkq",
+        "username": "lovelyshuimao",
+        "verified": true
+      },
+      {
+        "created_at": "2022-09-05T06:10:55.000Z",
+        "description": "2005生|mtf|INFP|性别焦虑9年，弄清自己是mtf3 个月|家长不管却反复阻挠党|性别烦躁致抑郁发作|抑郁发作导致炸柜|有5年花刀史|od|暂未hrt",
+        "id": "1566670035560513536",
+        "name": "𝓨𝓸𝔂𝓸𝓾𝓓𝓲𝓲𝓷丁语瑶🏳️‍⚧️💊🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076734439686799360/xTx8TaWj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 345,
+          "following_count": 393,
+          "like_count": 340,
+          "listed_count": 4,
+          "media_count": 94,
+          "tweet_count": 760
+        },
+        "url": "",
+        "username": "YoyouDiin",
+        "verified": false
+      }
+    ]
+  }
+}

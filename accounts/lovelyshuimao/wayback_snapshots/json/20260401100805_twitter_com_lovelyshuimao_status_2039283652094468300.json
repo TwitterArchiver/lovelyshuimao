@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2039283641273262080",
+        "3_2039283641550045184",
+        "3_2039283641294192640",
+        "3_2039283641290027008"
+      ]
+    },
+    "author_id": "1748763011140169729",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1169275072206389248",
+          "name": "Baidu"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1169275072206389248",
+          "name": "Baidu"
+        }
+      }
+    ],
+    "conversation_id": "2039283652094468300",
+    "created_at": "2026-04-01T10:08:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T11:08:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2039283652094468300"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/pvwlLGRhFZ",
+          "end": 75,
+          "expanded_url": "https://x.com/lovelyshuimao/status/2039283652094468300/photo/1",
+          "media_key": "3_2039283641273262080",
+          "start": 52,
+          "url": "https://t.co/pvwlLGRhFZ"
+        },
+        {
+          "display_url": "pic.x.com/pvwlLGRhFZ",
+          "end": 75,
+          "expanded_url": "https://x.com/lovelyshuimao/status/2039283652094468300/photo/1",
+          "media_key": "3_2039283641550045184",
+          "start": 52,
+          "url": "https://t.co/pvwlLGRhFZ"
+        },
+        {
+          "display_url": "pic.x.com/pvwlLGRhFZ",
+          "end": 75,
+          "expanded_url": "https://x.com/lovelyshuimao/status/2039283652094468300/photo/1",
+          "media_key": "3_2039283641294192640",
+          "start": 52,
+          "url": "https://t.co/pvwlLGRhFZ"
+        },
+        {
+          "display_url": "pic.x.com/pvwlLGRhFZ",
+          "end": 75,
+          "expanded_url": "https://x.com/lovelyshuimao/status/2039283652094468300/photo/1",
+          "media_key": "3_2039283641290027008",
+          "start": 52,
+          "url": "https://t.co/pvwlLGRhFZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039283652094468300",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "海外版百度非常非常简洁\n对比百度中文版和维基\n但是百度国际版目前只支持\n英语、日语、西班牙语等5种语言 https://t.co/pvwlLGRhFZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2331,
+        "media_key": "3_2039283641273262080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEz9qspboAANSCx.jpg",
+        "width": 1320
+      },
+      {
+        "height": 2323,
+        "media_key": "3_2039283641550045184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEz9qtrbAAAnT31.jpg",
+        "width": 1319
+      },
+      {
+        "height": 2334,
+        "media_key": "3_2039283641294192640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEz9qsubAAApWs4.jpg",
+        "width": 1319
+      },
+      {
+        "height": 2315,
+        "media_key": "3_2039283641290027008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEz9qstbcAA3pb3.jpg",
+        "width": 1319
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039283641273262080",
+            "3_2039283641550045184",
+            "3_2039283641294192640",
+            "3_2039283641290027008"
+          ]
+        },
+        "author_id": "1748763011140169729",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          }
+        ],
+        "conversation_id": "2039283652094468300",
+        "created_at": "2026-04-01T10:08:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T11:08:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039283652094468300"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pvwlLGRhFZ",
+              "end": 75,
+              "expanded_url": "https://x.com/lovelyshuimao/status/2039283652094468300/photo/1",
+              "media_key": "3_2039283641273262080",
+              "start": 52,
+              "url": "https://t.co/pvwlLGRhFZ"
+            },
+            {
+              "display_url": "pic.x.com/pvwlLGRhFZ",
+              "end": 75,
+              "expanded_url": "https://x.com/lovelyshuimao/status/2039283652094468300/photo/1",
+              "media_key": "3_2039283641550045184",
+              "start": 52,
+              "url": "https://t.co/pvwlLGRhFZ"
+            },
+            {
+              "display_url": "pic.x.com/pvwlLGRhFZ",
+              "end": 75,
+              "expanded_url": "https://x.com/lovelyshuimao/status/2039283652094468300/photo/1",
+              "media_key": "3_2039283641294192640",
+              "start": 52,
+              "url": "https://t.co/pvwlLGRhFZ"
+            },
+            {
+              "display_url": "pic.x.com/pvwlLGRhFZ",
+              "end": 75,
+              "expanded_url": "https://x.com/lovelyshuimao/status/2039283652094468300/photo/1",
+              "media_key": "3_2039283641290027008",
+              "start": 52,
+              "url": "https://t.co/pvwlLGRhFZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039283652094468300",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "海外版百度非常非常简洁\n对比百度中文版和维基\n但是百度国际版目前只支持\n英语、日语、西班牙语等5种语言 https://t.co/pvwlLGRhFZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "INTJ-t ｜永遠14｜提問↓｜❤️@saonanaa",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 19,
+                "username": "saonanaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGspkq"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你2.1km",
+        "name": "lovely水",
+        "pinned_tweet_id": "2038820925995647210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023831074921738240/frpPaTVT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4877,
+          "following_count": 1025,
+          "like_count": 272,
+          "listed_count": 13,
+          "media_count": 3098,
+          "tweet_count": 13764
+        },
+        "url": "https://t.co/EZhyEGspkq",
+        "username": "lovelyshuimao",
+        "verified": true
+      }
+    ]
+  }
+}

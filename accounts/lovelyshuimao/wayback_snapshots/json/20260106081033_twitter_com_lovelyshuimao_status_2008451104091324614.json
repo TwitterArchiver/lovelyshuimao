@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1748763011140169729",
+    "conversation_id": "2008256733341429940",
+    "created_at": "2026-01-06T08:10:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-06T09:10:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008451104091324614"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "3692606353",
+          "start": 0,
+          "username": "TaroLeohearts"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008451104091324614",
+    "in_reply_to_user_id": "3692606353",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008256733341429940",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TaroLeohearts 银色mac黑色键盘成为我买它最大的阻力"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2008256728505466880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G97C2rhbQAAwjCs.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "2008256733341429940",
+        "created_at": "2026-01-06T08:10:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T09:10:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008451104091324614"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "3692606353",
+              "start": 0,
+              "username": "TaroLeohearts"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008451104091324614",
+        "in_reply_to_user_id": "3692606353",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008256733341429940",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TaroLeohearts 银色mac黑色键盘成为我买它最大的阻力"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2008256728505466880"
+          ]
+        },
+        "author_id": "3692606353",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2008256733341429940",
+        "created_at": "2026-01-05T19:18:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-05T20:18:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008256733341429940"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 15,
+              "start": 0,
+              "tag": "得到一台Mac后做的第一件事"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gP85Hl6JiE",
+              "end": 39,
+              "expanded_url": "https://x.com/TaroLeohearts/status/2008256733341429940/photo/1",
+              "media_key": "3_2008256728505466880",
+              "start": 16,
+              "url": "https://t.co/gP85Hl6JiE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008256733341429940",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 28,
+          "impression_count": 20079,
+          "like_count": 79,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "#得到一台Mac后做的第一件事 https://t.co/gP85Hl6JiE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "水貓｜ENFP-t ｜永遠8歲｜提問↓ ｜對象@saonanaa｜素食哦｜心理兩畸｜蓝v互fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 23,
+                "username": "saonanaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGrRuS"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你2.1km",
+        "name": "lovely水",
+        "pinned_tweet_id": "2007376785382748406",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002694749883682816/cD8uYfnW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3254,
+          "following_count": 1011,
+          "like_count": 254,
+          "listed_count": 8,
+          "media_count": 2636,
+          "tweet_count": 12282
+        },
+        "url": "https://t.co/EZhyEGrRuS",
+        "username": "lovelyshuimao",
+        "verified": true
+      },
+      {
+        "created_at": "2015-09-26T12:33:30.000Z",
+        "description": "我会一直和人们站在一起。\n芋头/She/They, 💱crypto native, ✈️Freelancer, \n🚩CTF player\n🏳️‍⚧️non-bi 友顺跨女 有一颗温柔而坚强的心 缺德魔女的爱与魔法🪄\n🐘: https://t.co/9WLRdjl3iB",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "nightcord.de/@Leohearts",
+                "end": 134,
+                "expanded_url": "http://nightcord.de/@Leohearts",
+                "start": 111,
+                "url": "https://t.co/9WLRdjl3iB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "leohearts.com",
+                "end": 23,
+                "expanded_url": "https://leohearts.com",
+                "start": 0,
+                "url": "https://t.co/pg3LvnjcTC"
+              }
+            ]
+          }
+        },
+        "id": "3692606353",
+        "location": "this",
+        "name": "芋头 Leohearts🔮",
+        "pinned_tweet_id": "1428309568019341315",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1750708467122552832/6GxsOViL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3158,
+          "following_count": 164,
+          "like_count": 5640,
+          "listed_count": 11,
+          "media_count": 1290,
+          "tweet_count": 6373
+        },
+        "url": "https://t.co/pg3LvnjcTC",
+        "username": "TaroLeohearts",
+        "verified": false
+      }
+    ]
+  }
+}

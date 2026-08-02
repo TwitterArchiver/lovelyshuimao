@@ -1,0 +1,185 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2023331504043311104"
+      ]
+    },
+    "author_id": "1748763011140169729",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2023331519323095280",
+    "created_at": "2026-02-16T09:40:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-16T10:40:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2023331519323095280"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/d513KNeP3T",
+          "end": 84,
+          "expanded_url": "https://x.com/lovelyshuimao/status/2023331519323095280/photo/1",
+          "media_key": "3_2023331504043311104",
+          "start": 61,
+          "url": "https://t.co/d513KNeP3T"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023331519323095280",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "回家我感觉我\n好“特殊”\n我怀疑我自己是不是真的\n走错了路做错了事\n怎么和他们怎么不一样\n而且…没有zhiwei一起吃… https://t.co/d513KNeP3T"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2023331504043311104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBRRSGlbwAAPSzy.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023331504043311104"
+          ]
+        },
+        "author_id": "1748763011140169729",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2023331519323095280",
+        "created_at": "2026-02-16T09:40:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T10:40:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023331519323095280"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/d513KNeP3T",
+              "end": 84,
+              "expanded_url": "https://x.com/lovelyshuimao/status/2023331519323095280/photo/1",
+              "media_key": "3_2023331504043311104",
+              "start": 61,
+              "url": "https://t.co/d513KNeP3T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023331519323095280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "回家我感觉我\n好“特殊”\n我怀疑我自己是不是真的\n走错了路做错了事\n怎么和他们怎么不一样\n而且…没有zhiwei一起吃… https://t.co/d513KNeP3T"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "INTJ-t ｜永遠14歲｜提問↓｜❤️@saonanaa",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 20,
+                "username": "saonanaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGspkq"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你2.1km",
+        "name": "神仙水水猫🍕🧊",
+        "pinned_tweet_id": "2023012200349356427",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022012338992558081/ZKVb9XnG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3671,
+          "following_count": 991,
+          "like_count": 263,
+          "listed_count": 11,
+          "media_count": 2896,
+          "tweet_count": 13065
+        },
+        "url": "https://t.co/EZhyEGspkq",
+        "username": "lovelyshuimao",
+        "verified": true
+      }
+    ]
+  }
+}

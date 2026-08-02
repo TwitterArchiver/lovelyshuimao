@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1748763011140169729",
+    "conversation_id": "2082819751789679024",
+    "created_at": "2026-07-31T07:18:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T08:18:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083089794549391597"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1660632160855011328",
+          "start": 0,
+          "username": "Evans8558116089"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083089794549391597",
+    "in_reply_to_user_id": "1660632160855011328",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082819751789679024",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Evans8558116089 这是好事啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2082811678350258177",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOeiL64aMAEJMl2.jpg",
+        "width": 1102
+      },
+      {
+        "height": 1155,
+        "media_key": "3_2082811678400663553",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOeiL7EbUAEelWF.jpg",
+        "width": 828
+      },
+      {
+        "height": 195,
+        "media_key": "3_2082811670544715776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOeiLdzbEAAltC9.png",
+        "width": 749
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "2082819751789679024",
+        "created_at": "2026-07-31T07:18:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T08:18:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083089794549391597"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1660632160855011328",
+              "start": 0,
+              "username": "Evans8558116089"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083089794549391597",
+        "in_reply_to_user_id": "1660632160855011328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082819751789679024",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Evans8558116089 这是好事啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082811678350258177",
+            "3_2082811678400663553",
+            "3_2082811670544715776"
+          ]
+        },
+        "author_id": "1660632160855011328",
+        "conversation_id": "2082819751789679024",
+        "created_at": "2026-07-30T13:25:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T14:25:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082819751789679024"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6bmirfw9Zj",
+              "end": 103,
+              "expanded_url": "https://x.com/Evans8558116089/status/2082819751789679024/photo/1",
+              "media_key": "3_2082811678350258177",
+              "start": 80,
+              "url": "https://t.co/6bmirfw9Zj"
+            },
+            {
+              "display_url": "pic.x.com/6bmirfw9Zj",
+              "end": 103,
+              "expanded_url": "https://x.com/Evans8558116089/status/2082819751789679024/photo/1",
+              "media_key": "3_2082811678400663553",
+              "start": 80,
+              "url": "https://t.co/6bmirfw9Zj"
+            },
+            {
+              "display_url": "pic.x.com/6bmirfw9Zj",
+              "end": 103,
+              "expanded_url": "https://x.com/Evans8558116089/status/2082819751789679024/photo/1",
+              "media_key": "3_2082811670544715776",
+              "start": 80,
+              "url": "https://t.co/6bmirfw9Zj"
+            },
+            {
+              "display_url": "x.com/tushanhonghong…",
+              "end": 127,
+              "expanded_url": "https://twitter.com/tushanhonghong9/status/2082417522905890999",
+              "start": 104,
+              "url": "https://t.co/oIX2UYxazs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082819751789679024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我真是没想到，在发出那么荒诞的自述之后，你竟然还能贡献出一篇更加荒诞，驴唇不对马嘴的反驳。\n\n既然如此，那我就陪你玩玩。以下按照你的行文顺序，是我的七点回应：\n\n1、我是男权主义受益者。通过反对女权主义，倡导男性权益，我明确了我的性别认同，性别困境，知晓了如何在墙国作为一个男性自处，以及谁在阻止我和我们明确、知晓这一切；\n\n2、如果你同时接受人权是普遍的，以及女权即人权；那么，男权即人权是你不可辩驳，必须照单全收的——不然你就构成双重标准。\n\n3、崇拜既有社会结构？你开什么玩笑？墙国的既有社会结构是拳塔一体，中共官僚+女权集美组成复合统治阶级，共同压迫绝大多数国男！只有女权主义者和被洗脑洗傻了的龟男才会崇拜这种垃圾结构，我们不一样，我们只会唾弃！\n\n4、忽视人切身痛苦的，不是我们男权，而是你们女权。广大国男生活在物质和意识的双重剥夺，剥削和压迫之下。在这方面，最客观、最可验证的事实，是平均寿命的性别鸿沟，以及男性晚退休，早死，但社保资金池却男女通用，导致的显著性别转移支付。\n\n5、男权不让男性当皇帝；恰恰相反，男权想让男性卸下枷锁，以及对自身自由发展有害的物质追求，比如说内卷，恶性竞争等等。如果你认为一个自由男人就是主宰天下的皇帝的话，那么我也就清楚了，在你心里，男性的正常地位只能是奴才。\n\n6、男权从不会让男性自我厌恶。恰恰相反，倡导男性权益，以及反抗墙国拳塔，只会让男性重拾应有的自尊自爱。作为男人，我们没有原罪；作为男人，我们可以自豪；作为被压迫的新时代国男，我们应该坚强，勇敢的生活，努力和命运的不公正抗争，直到最终胜利。\n\n7、这种生活循环，不会是你胡说的那种掠夺性自私和自怨自艾的毒性循环，反而会是摆脱习得性无助和原子人状态的循环，重新掌握生命力，重新建立信任与男性互助的，自强不息的赋能循环。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 8741,
+          "like_count": 119,
+          "quote_count": 4,
+          "reply_count": 8,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082417522905890999",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我真是没想到，在发出那么荒诞的自述之后，你竟然还能贡献出一篇更加荒诞，驴唇不对马嘴的反驳。\n\n既然如此，那我就陪你玩玩。以下按照你的行文顺序，是我的七点回应： https://t.co/6bmirfw9Zj https://t.co/oIX2UYxazs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "🐱神仙水水猫星铃Lumia\n👩🏻‍💻INTJ ♀14 \n🙋🏻‍♀️提問box——————↓\n✍🏻想成為作家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGspkq"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你 4.3km",
+        "name": "lovely水",
+        "pinned_tweet_id": "2075897725733024056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045354329792749568/b7JXuLvu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5558,
+          "following_count": 996,
+          "like_count": 275,
+          "listed_count": 22,
+          "media_count": 3462,
+          "tweet_count": 15696
+        },
+        "url": "https://t.co/EZhyEGspkq",
+        "username": "lovelyshuimao",
+        "verified": true
+      },
+      {
+        "created_at": "2023-05-22T13:02:35.000Z",
+        "description": "你不能把这个世界，让给你所鄙视的人。",
+        "id": "1660632160855011328",
+        "name": "EvansFreeman",
+        "pinned_tweet_id": "2082819751789679024",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055705399328993280/p0GMbPml_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 486,
+          "following_count": 78,
+          "like_count": 4931,
+          "listed_count": 1,
+          "media_count": 207,
+          "tweet_count": 1332
+        },
+        "url": "",
+        "username": "Evans8558116089",
+        "verified": true
+      }
+    ]
+  }
+}

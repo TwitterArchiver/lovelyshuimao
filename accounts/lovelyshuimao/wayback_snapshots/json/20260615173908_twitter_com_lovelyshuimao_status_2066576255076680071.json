@@ -1,0 +1,315 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1748763011140169729",
+    "conversation_id": "2066041881184866653",
+    "created_at": "2026-06-15T17:39:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T18:39:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066576255076680071"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1718887354826637312",
+          "start": 0,
+          "username": "MeowSakur76073"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/lovelyshuimao/…",
+          "end": 39,
+          "expanded_url": "https://x.com/lovelyshuimao/status/2066121094244032955?s=46",
+          "start": 16,
+          "url": "https://t.co/2sR2nrAuEN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066576255076680071",
+    "in_reply_to_user_id": "1718887354826637312",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066121094244032955",
+        "type": "quoted"
+      },
+      {
+        "id": "2066523864952426847",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MeowSakur76073 https://t.co/2sR2nrAuEN"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "2066041881184866653",
+        "created_at": "2026-06-15T17:39:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T18:39:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066576255076680071"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1718887354826637312",
+              "start": 0,
+              "username": "MeowSakur76073"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/lovelyshuimao/…",
+              "end": 39,
+              "expanded_url": "https://x.com/lovelyshuimao/status/2066121094244032955?s=46",
+              "start": 16,
+              "url": "https://t.co/2sR2nrAuEN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066576255076680071",
+        "in_reply_to_user_id": "1718887354826637312",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066121094244032955",
+            "type": "quoted"
+          },
+          {
+            "id": "2066523864952426847",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MeowSakur76073 https://t.co/2sR2nrAuEN"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "2066041881184866653",
+        "created_at": "2026-06-14T11:30:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T12:30:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066121094244032955"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1726808702387449856",
+              "start": 0,
+              "username": "Nargiti"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066121094244032955",
+        "in_reply_to_user_id": "1726808702387449856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 4441,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066120935833571412",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nargiti 呃呃片面看法啦不是结论"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1718887354826637312",
+        "conversation_id": "2066041881184866653",
+        "created_at": "2026-06-15T14:10:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T15:10:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066523864952426847"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1748763011140169729",
+              "start": 0,
+              "username": "lovelyshuimao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066523864952426847",
+        "in_reply_to_user_id": "1748763011140169729",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066512818732765518",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lovelyshuimao 你问的是原因"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "｜水猫星铃Lumia\n｜INTJ ♀14 \n｜❤️@zhwvea\n｜提問box——————————↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 26,
+                "username": "zhwvea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGspkq"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你2.1km",
+        "name": "lovely水",
+        "pinned_tweet_id": "2063974537272910172",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045354329792749568/b7JXuLvu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4901,
+          "following_count": 1009,
+          "like_count": 274,
+          "listed_count": 17,
+          "media_count": 3268,
+          "tweet_count": 14641
+        },
+        "url": "https://t.co/EZhyEGspkq",
+        "username": "lovelyshuimao",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-30T07:08:23.000Z",
+        "description": "Do not go gentle into that good night                                                 \n｜self heater｜yuri｜🦊｜泛性恋｜因为太喜欢所以想变成可爱女孩子｜ @cangshengsunset",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 144,
+                "start": 128,
+                "username": "cangshengsunset"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/meowsakur76073…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/meowsakur7607356428",
+                "start": 0,
+                "url": "https://t.co/MDv9HA9IEI"
+              }
+            ]
+          }
+        },
+        "id": "1718887354826637312",
+        "location": "Heaven",
+        "name": "Meow Sakuya",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013129102786437120/dxrmWKgD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 799,
+          "following_count": 4310,
+          "like_count": 49408,
+          "listed_count": 5,
+          "media_count": 888,
+          "tweet_count": 14944
+        },
+        "url": "https://t.co/MDv9HA9IEI",
+        "username": "MeowSakur76073",
+        "verified": false
+      }
+    ]
+  }
+}

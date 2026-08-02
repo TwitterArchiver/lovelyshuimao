@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1748763011140169729",
+    "conversation_id": "2070095517800075370",
+    "created_at": "2026-06-25T12:19:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T13:19:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070119745802936819"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2035268584424054784",
+          "start": 0,
+          "username": "steveGriff91000"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/lovelyshuimao/…",
+          "end": 40,
+          "expanded_url": "https://x.com/lovelyshuimao/status/2070119586046115981?s=46",
+          "start": 17,
+          "url": "https://t.co/H2kqvIpYuO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070119745802936819",
+    "in_reply_to_user_id": "2035268584424054784",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070119586046115981",
+        "type": "quoted"
+      },
+      {
+        "id": "2070117414520738173",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@steveGriff91000 https://t.co/H2kqvIpYuO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1188,
+        "media_key": "3_2070119578097909763",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLqKyc8bgAMjhpC.jpg",
+        "width": 1239
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "2070095517800075370",
+        "created_at": "2026-06-25T12:19:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T13:19:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070119745802936819"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2035268584424054784",
+              "start": 0,
+              "username": "steveGriff91000"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/lovelyshuimao/…",
+              "end": 40,
+              "expanded_url": "https://x.com/lovelyshuimao/status/2070119586046115981?s=46",
+              "start": 17,
+              "url": "https://t.co/H2kqvIpYuO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070119745802936819",
+        "in_reply_to_user_id": "2035268584424054784",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070119586046115981",
+            "type": "quoted"
+          },
+          {
+            "id": "2070117414520738173",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@steveGriff91000 https://t.co/H2kqvIpYuO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070119578097909763"
+          ]
+        },
+        "author_id": "1748763011140169729",
+        "conversation_id": "2070119586046115981",
+        "created_at": "2026-06-25T12:19:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T13:19:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070119586046115981"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/p34PJs5LlL",
+              "end": 30,
+              "expanded_url": "https://x.com/lovelyshuimao/status/2070119586046115981/photo/1",
+              "media_key": "3_2070119578097909763",
+              "start": 7,
+              "url": "https://t.co/p34PJs5LlL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070119586046115981",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不绩优主义（ https://t.co/p34PJs5LlL"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035268584424054784",
+        "conversation_id": "2070095517800075370",
+        "created_at": "2026-06-25T12:10:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T13:10:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070117414520738173"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1748763011140169729",
+              "start": 0,
+              "username": "lovelyshuimao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070117414520738173",
+        "in_reply_to_user_id": "1748763011140169729",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070095517800075370",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lovelyshuimao ？你这个位次不得40w＋了，额，是不是7选3的科目都没去考啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "🐱水猫星铃Lumia\n👩🏻‍💻INTJ ♀14 \n❤️@zhwevea\n🙋🏻‍♀️提問box————————↓\n✍🏻想要成为哲学作家",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 28,
+                "username": "zhwevea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGspkq"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你 4.3km",
+        "name": "lovely水",
+        "pinned_tweet_id": "2063974537272910172",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045354329792749568/b7JXuLvu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4926,
+          "following_count": 1008,
+          "like_count": 274,
+          "listed_count": 18,
+          "media_count": 3289,
+          "tweet_count": 14768
+        },
+        "url": "https://t.co/EZhyEGspkq",
+        "username": "lovelyshuimao",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-21T08:14:26.000Z",
+        "description": "",
+        "id": "2035268584424054784",
+        "name": "steve Griffin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035268786459484164/4cqAwg5I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 33,
+          "like_count": 37,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 31
+        },
+        "url": "",
+        "username": "steveGriff91000",
+        "verified": false
+      }
+    ]
+  }
+}

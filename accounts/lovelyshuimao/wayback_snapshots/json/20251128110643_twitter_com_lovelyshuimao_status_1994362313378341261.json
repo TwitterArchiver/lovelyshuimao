@@ -1,0 +1,313 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1748763011140169729",
+    "conversation_id": "1994345532085375086",
+    "created_at": "2025-11-28T11:06:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-28T12:06:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994362313378341261"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1976995735532138496",
+          "start": 0,
+          "username": "JanboMikan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994362313378341261",
+    "in_reply_to_user_id": "1976995735532138496",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994345532085375086",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JanboMikan 狠狠查😋"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 768,
+        "media_key": "3_1994036924219281408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6w-BIkaUAARnJK.jpg",
+        "width": 1344
+      },
+      {
+        "height": 768,
+        "media_key": "3_1994036943848681472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6w-CRsbMAAkKJY.jpg",
+        "width": 1344
+      },
+      {
+        "height": 768,
+        "media_key": "3_1994036962559479808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6w-DXZbUAAugk-.jpg",
+        "width": 1344
+      },
+      {
+        "height": 768,
+        "media_key": "3_1994036978397184000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6w-ESZbgAA9Jo-.jpg",
+        "width": 1344
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "1994345532085375086",
+        "created_at": "2025-11-28T11:06:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T12:06:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994362313378341261"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994362313378341261",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994345532085375086",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan 狠狠查😋"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994036924219281408",
+            "3_1994036943848681472",
+            "3_1994036962559479808",
+            "3_1994036978397184000"
+          ]
+        },
+        "author_id": "1976995735532138496",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1994345532085375086",
+        "created_at": "2025-11-28T10:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T11:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994345532085375086"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 34,
+              "start": 31,
+              "tag": "男娘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/de4TX6JS4a",
+              "end": 58,
+              "expanded_url": "https://x.com/JanboMikan/status/1994345532085375086/photo/1",
+              "media_key": "3_1994036924219281408",
+              "start": 35,
+              "url": "https://t.co/de4TX6JS4a"
+            },
+            {
+              "display_url": "pic.x.com/de4TX6JS4a",
+              "end": 58,
+              "expanded_url": "https://x.com/JanboMikan/status/1994345532085375086/photo/1",
+              "media_key": "3_1994036943848681472",
+              "start": 35,
+              "url": "https://t.co/de4TX6JS4a"
+            },
+            {
+              "display_url": "pic.x.com/de4TX6JS4a",
+              "end": 58,
+              "expanded_url": "https://x.com/JanboMikan/status/1994345532085375086/photo/1",
+              "media_key": "3_1994036962559479808",
+              "start": 35,
+              "url": "https://t.co/de4TX6JS4a"
+            },
+            {
+              "display_url": "pic.x.com/de4TX6JS4a",
+              "end": 58,
+              "expanded_url": "https://x.com/JanboMikan/status/1994345532085375086/photo/1",
+              "media_key": "3_1994036978397184000",
+              "start": 35,
+              "url": "https://t.co/de4TX6JS4a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994345532085375086",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 231,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "好像不小心触发了奇怪的隐藏支线……\n这里的选项该怎么选呢？\n\n#男娘 https://t.co/de4TX6JS4a"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "水貓🍕｜ENFP-t ｜永遠14｜是豪貓不o不圓不殘不死｜對象@saonanaa｜素食主義者｜提問箱鏈接↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 31,
+                "username": "saonanaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%B0%B4%E6%B…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E6%B0%B4%E6%B0%B493927",
+                "start": 0,
+                "url": "https://t.co/qmQkMr39z5"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你2.1km",
+        "name": "水猫",
+        "pinned_tweet_id": "1994304923094098025",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993028932300578816/oCL3VkIO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2706,
+          "following_count": 1125,
+          "like_count": 248,
+          "listed_count": 7,
+          "media_count": 2320,
+          "tweet_count": 11333
+        },
+        "url": "https://t.co/qmQkMr39z5",
+        "username": "lovelyshuimao",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "h-life.littlera.in",
+                "end": 23,
+                "expanded_url": "https://h-life.littlera.in",
+                "start": 0,
+                "url": "https://t.co/kDhqyMhcni"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "1992947912679252439",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991104758002982912/0UtLXf-C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 927,
+          "following_count": 148,
+          "like_count": 2024,
+          "listed_count": 3,
+          "media_count": 34,
+          "tweet_count": 706
+        },
+        "url": "https://t.co/kDhqyMhcni",
+        "username": "JanboMikan",
+        "verified": false
+      }
+    ]
+  }
+}

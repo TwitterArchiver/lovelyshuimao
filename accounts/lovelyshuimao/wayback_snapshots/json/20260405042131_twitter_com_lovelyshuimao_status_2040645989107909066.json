@@ -1,0 +1,346 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1748763011140169729",
+    "conversation_id": "2040402729793900593",
+    "created_at": "2026-04-05T04:21:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T05:21:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040645989107909066"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1247054463329656832",
+          "start": 0,
+          "username": "quasarne"
+        },
+        {
+          "end": 18,
+          "id": "820599551375511556",
+          "start": 10,
+          "username": "MrYANFD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040645989107909066",
+    "in_reply_to_user_id": "1247054463329656832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040455233974030544",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@quasarne @MrYANFD 但是这套逻辑和iPhoneipad一脉相承\n非常好适应"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "2040402729793900593",
+        "created_at": "2026-04-05T04:21:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T05:21:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040645989107909066"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1247054463329656832",
+              "start": 0,
+              "username": "quasarne"
+            },
+            {
+              "end": 18,
+              "id": "820599551375511556",
+              "start": 10,
+              "username": "MrYANFD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040645989107909066",
+        "in_reply_to_user_id": "1247054463329656832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040455233974030544",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@quasarne @MrYANFD 但是这套逻辑和iPhoneipad一脉相承\n非常好适应"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1247054463329656832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "2040402729793900593",
+        "created_at": "2026-04-04T15:43:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T16:43:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040455233974030544"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "820599551375511556",
+              "start": 0,
+              "username": "MrYANFD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040455233974030544",
+        "in_reply_to_user_id": "820599551375511556",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5242,
+          "like_count": 23,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040402729793900593",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MrYANFD 我在用Mac的时候没遇到过这个问题，想写文本文件就打开备忘录、typora等等软件或者直接vim……才发现我已经被macOS驯化了😇"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "INTJ-t ｜永遠14｜提問↓｜❤️@saonanaa",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 19,
+                "username": "saonanaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGspkq"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你2.1km",
+        "name": "lovely水",
+        "pinned_tweet_id": "2038820925995647210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023831074921738240/frpPaTVT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4859,
+          "following_count": 1026,
+          "like_count": 272,
+          "listed_count": 13,
+          "media_count": 3102,
+          "tweet_count": 13796
+        },
+        "url": "https://t.co/EZhyEGspkq",
+        "username": "lovelyshuimao",
+        "verified": true
+      },
+      {
+        "created_at": "2020-04-06T07:01:04.000Z",
+        "description": "ネコ👾愛數碼/科幻/策略/音游 Wikier｜🏳️‍🌈𝕡𝕒𝕟𝕤𝕖𝕩𝕦𝕒𝕝🏳️‍⚧️｜🚩🏴 自由·平等·民主🌹｜🌐 漢語 吴、普/English OK｜互fo私信｜🌌 Knowledge is кии to the universe｜SAD 全沾逝大学牲｜键政垢：@utsuhokim",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 141,
+                "start": 131,
+                "username": "utsuhokim"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/quasarne14546",
+                "end": 23,
+                "expanded_url": "https://ngl.link/quasarne14546",
+                "start": 0,
+                "url": "https://t.co/av1wKCkdLM"
+              }
+            ]
+          }
+        },
+        "id": "1247054463329656832",
+        "location": "Freedom Territory of QNA",
+        "name": "neⒶστήρ |星ない",
+        "pinned_tweet_id": "1987440923995988466",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015318609091026944/HsmCBNSN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 850,
+          "following_count": 996,
+          "like_count": 73901,
+          "listed_count": 6,
+          "media_count": 969,
+          "tweet_count": 13058
+        },
+        "url": "https://t.co/av1wKCkdLM",
+        "username": "quasarne",
+        "verified": true
+      },
+      {
+        "created_at": "2017-01-15T11:52:33.000Z",
+        "description": "| EN/CN/DE | DIGITAL ALCOHOLIC",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "yanfd.cn",
+                "end": 23,
+                "expanded_url": "http://www.yanfd.cn",
+                "start": 0,
+                "url": "https://t.co/RJct1X3MFo"
+              }
+            ]
+          }
+        },
+        "id": "820599551375511556",
+        "location": "AIR",
+        "name": "YANFD",
+        "pinned_tweet_id": "1795381476625944884",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883544923699646464/BaD8leBe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1480,
+          "following_count": 919,
+          "like_count": 10197,
+          "listed_count": 3,
+          "media_count": 613,
+          "tweet_count": 2979
+        },
+        "url": "https://t.co/RJct1X3MFo",
+        "username": "MrYANFD",
+        "verified": false
+      }
+    ]
+  }
+}

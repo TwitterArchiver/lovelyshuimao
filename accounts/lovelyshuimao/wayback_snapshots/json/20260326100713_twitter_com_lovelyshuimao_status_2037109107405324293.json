@@ -1,0 +1,307 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1748763011140169729",
+    "conversation_id": "2037027052080300347",
+    "created_at": "2026-03-26T10:07:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T11:07:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037109107405324293"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1365955107473383426",
+          "start": 0,
+          "username": "Takina_Jimato"
+        },
+        {
+          "end": 31,
+          "id": "1565981667746914304",
+          "start": 15,
+          "username": "Kagura_Yukikaze"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037109107405324293",
+    "in_reply_to_user_id": "1365955107473383426",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037027052080300347",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Takina_Jimato @Kagura_Yukikaze 所以国内官媒是将od和药娘强绑定了吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 457,
+        "media_key": "3_2037027046917107712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HET5TnlbcAAjiQD.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "2037027052080300347",
+        "created_at": "2026-03-26T10:07:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T11:07:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037109107405324293"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1365955107473383426",
+              "start": 0,
+              "username": "Takina_Jimato"
+            },
+            {
+              "end": 31,
+              "id": "1565981667746914304",
+              "start": 15,
+              "username": "Kagura_Yukikaze"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037109107405324293",
+        "in_reply_to_user_id": "1365955107473383426",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037027052080300347",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Takina_Jimato @Kagura_Yukikaze 所以国内官媒是将od和药娘强绑定了吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037027046917107712"
+          ]
+        },
+        "author_id": "1365955107473383426",
+        "conversation_id": "2037027052080300347",
+        "created_at": "2026-03-26T04:41:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T05:41:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037027052080300347"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 150,
+              "start": 146,
+              "tag": "MTF"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/N4KfuUeduJ",
+              "end": 174,
+              "expanded_url": "https://x.com/Takina_Jimato/status/2037027052080300347/photo/1",
+              "media_key": "3_2037027046917107712",
+              "start": 151,
+              "url": "https://t.co/N4KfuUeduJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037027052080300347",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3397,
+          "like_count": 54,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "什么叫大量服用补佳乐也能产生致幻效果？你告诉我ERα、ERβ这种受体能和5-HT2A这种受体一样？\n得罪了MTF暂且不说，这东西原本就属于妇科绝经期激素替代药物，超量服用也只会乳房胀痛、恶心呕吐、撤退出血、血栓风险\n右美沙芬，作用于 NMDA受体，对人而非致幻，而是解离\n本文来源于法治日报\n#MTF https://t.co/N4KfuUeduJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "INTJ-t ｜永遠14歲｜提問↓｜❤️@saonanaa",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 20,
+                "username": "saonanaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGspkq"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你2.1km",
+        "name": "lovely水",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023831074921738240/frpPaTVT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4861,
+          "following_count": 1028,
+          "like_count": 269,
+          "listed_count": 17,
+          "media_count": 3070,
+          "tweet_count": 13625
+        },
+        "url": "https://t.co/EZhyEGspkq",
+        "username": "lovelyshuimao",
+        "verified": true
+      },
+      {
+        "created_at": "2021-02-28T09:21:03.000Z",
+        "description": "Takina+Jimato=Takijima｜CN&EN｜生产日期7/28/07｜无证含糖大只家里蹲ホルモン娘｜she/her/hers｜183/60｜HRT: 24.9.4-11.30 重启: 25.3.27｜里推: @Takina_7ove｜姐姐：@AsukaRyo559｜🚪68",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 122,
+                "start": 110,
+                "username": "Takina_7ove"
+              },
+              {
+                "end": 138,
+                "start": 126,
+                "username": "AsukaRyo559"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/tWQwG7E",
+                "end": 23,
+                "expanded_url": "https://b23.tv/tWQwG7E",
+                "start": 0,
+                "url": "https://t.co/3w2keeJKeD"
+              }
+            ]
+          }
+        },
+        "id": "1365955107473383426",
+        "location": "Pyongyang, DPR Korea",
+        "name": "Takina.JPN🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1954437389725630545",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005610568015921152/5fZiNswq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4685,
+          "following_count": 481,
+          "like_count": 593,
+          "listed_count": 11,
+          "media_count": 218,
+          "tweet_count": 1378
+        },
+        "url": "https://t.co/3w2keeJKeD",
+        "username": "Takina_Jimato",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "description": "MTF🏳️‍⚧️trans girl🍥 |09|HRT since 2025.03.19|A student |want to be friends with everyone |en/cn/日本語初心者|ここは日常しかないよ| 詳しい内容はトップをご覧ください。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Kagura_Yukikaze",
+                "end": 23,
+                "expanded_url": "https://t.me/Kagura_Yukikaze",
+                "start": 0,
+                "url": "https://t.co/mULPRvdJlA"
+              }
+            ]
+          }
+        },
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "神楽坂　雪風🍥",
+        "pinned_tweet_id": "2034646698086322658",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018975614791999488/Qvf9Q07i_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 2738,
+          "following_count": 2688,
+          "like_count": 96251,
+          "listed_count": 2,
+          "media_count": 721,
+          "tweet_count": 11442
+        },
+        "url": "https://t.co/mULPRvdJlA",
+        "username": "Kagura_Yukikaze",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,323 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1748763011140169729",
+    "conversation_id": "2037105186137924062",
+    "created_at": "2026-03-26T10:05:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T11:05:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037108555468402969"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1659866844550037504",
+          "start": 0,
+          "username": "AvagueFuture"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/lovelyshuimao/…",
+          "end": 63,
+          "expanded_url": "https://x.com/lovelyshuimao/status/2037101834482163842?s=46",
+          "start": 40,
+          "url": "https://t.co/3L3SyEn4je"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037108555468402969",
+    "in_reply_to_user_id": "1659866844550037504",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037101834482163842",
+        "type": "quoted"
+      },
+      {
+        "id": "2037107738598400228",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AvagueFuture 我听说洗澡更有用，避免感染\n我手刚刚洗完后也好点了\nhttps://t.co/3L3SyEn4je"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2037101822171897856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEU9UHHbYAA2hXg.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "2037105186137924062",
+        "created_at": "2026-03-26T10:05:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T11:05:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037108555468402969"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1659866844550037504",
+              "start": 0,
+              "username": "AvagueFuture"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/lovelyshuimao/…",
+              "end": 63,
+              "expanded_url": "https://x.com/lovelyshuimao/status/2037101834482163842?s=46",
+              "start": 40,
+              "url": "https://t.co/3L3SyEn4je"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037108555468402969",
+        "in_reply_to_user_id": "1659866844550037504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037101834482163842",
+            "type": "quoted"
+          },
+          {
+            "id": "2037107738598400228",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AvagueFuture 我听说洗澡更有用，避免感染\n我手刚刚洗完后也好点了\nhttps://t.co/3L3SyEn4je"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037101822171897856"
+          ]
+        },
+        "author_id": "1748763011140169729",
+        "conversation_id": "2037101834482163842",
+        "created_at": "2026-03-26T09:38:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T10:38:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037101834482163842"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qXRsPxcDwT",
+              "end": 31,
+              "expanded_url": "https://x.com/lovelyshuimao/status/2037101834482163842/photo/1",
+              "media_key": "3_2037101822171897856",
+              "start": 8,
+              "url": "https://t.co/qXRsPxcDwT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037101834482163842",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 89,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大家要注意安全 https://t.co/qXRsPxcDwT"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659866844550037504",
+        "conversation_id": "2037105186137924062",
+        "created_at": "2026-03-26T10:01:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T11:01:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037107738598400228"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1748763011140169729",
+              "start": 0,
+              "username": "lovelyshuimao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037107738598400228",
+        "in_reply_to_user_id": "1748763011140169729",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037105186137924062",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lovelyshuimao 😧怎么摔到的，用碘伏消下毒吧，我也有过这样的擦伤，在伤口完全愈合之前尽量不要洗澡了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "INTJ-t ｜永遠14歲｜提問↓｜❤️@saonanaa",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 20,
+                "username": "saonanaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGspkq"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你2.1km",
+        "name": "lovely水",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023831074921738240/frpPaTVT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4862,
+          "following_count": 1027,
+          "like_count": 269,
+          "listed_count": 17,
+          "media_count": 3070,
+          "tweet_count": 13623
+        },
+        "url": "https://t.co/EZhyEGspkq",
+        "username": "lovelyshuimao",
+        "verified": true
+      },
+      {
+        "created_at": "2023-05-20T10:21:28.000Z",
+        "description": "08年生/大只yn/176cm/65kg/INFJ-T/🏳️‍⚧️MtF/2023.4炸柜/无证含糖/HRT:2025.11/好朋友@123nhh_awa/舞萌痴/想和大家做朋友👉👈/可以叫我鱼鱼🫠/长不大的小孩/同类互fo😙",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 66,
+                "username": "123nhh_awa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nmkkkkmmk",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nmkkkkmmk",
+                "start": 0,
+                "url": "https://t.co/eQiIB7OrqR"
+              }
+            ]
+          }
+        },
+        "id": "1659866844550037504",
+        "location": "距离你 5 km",
+        "name": "鱼✘🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015287105447227392/SwQJViYv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 755,
+          "following_count": 396,
+          "like_count": 2756,
+          "listed_count": 2,
+          "media_count": 117,
+          "tweet_count": 834
+        },
+        "url": "https://t.co/eQiIB7OrqR",
+        "username": "AvagueFuture",
+        "verified": false
+      }
+    ]
+  }
+}

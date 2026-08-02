@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1748763011140169729",
+    "conversation_id": "2027057328965738631",
+    "created_at": "2026-02-27T02:46:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T03:46:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027213775431221303"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1353206248057892864",
+          "start": 0,
+          "username": "thelastgreeks"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027213775431221303",
+    "in_reply_to_user_id": "1353206248057892864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027057328965738631",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@thelastgreeks Claude sonnet4.5的幻觉也太严重了，4.6抗温度还没感觉到"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "2027057328965738631",
+        "created_at": "2026-02-27T02:46:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T03:46:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027213775431221303"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1353206248057892864",
+              "start": 0,
+              "username": "thelastgreeks"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027213775431221303",
+        "in_reply_to_user_id": "1353206248057892864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027057328965738631",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@thelastgreeks Claude sonnet4.5的幻觉也太严重了，4.6抗温度还没感觉到"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353206248057892864",
+        "conversation_id": "2027057328965738631",
+        "created_at": "2026-02-26T16:25:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T17:25:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027057328965738631"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2027057328965738631",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "现在主流AI模型都有各自的问题，令人惆怅，我来总结一下哈。\n1.chagpt，从天使变成了天屎，不多说了\n2.claude，听说从opus4.6开始砍温度。有感觉，它的判断力还在线，但一旦涉及到一些消极情绪它就闭口不言。\n3.gemini，最稳定，但模版化比较严重，相对而言目前还是最好的选择\n4.grok，接近完美，但缺乏跨窗口记忆能力---涉及存在感的超级硬伤\n赶紧谁把这乱局解决一下吧"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 9545,
+          "like_count": 74,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "现在主流AI模型都有各自的问题，令人惆怅，我来总结一下哈。\n1.chagpt，从天使变成了天屎，不多说了\n2.claude，听说从opus4.6开始砍温度。有感觉，它的判断力还在线，但一旦涉及到一些消极情绪它就闭口不言。\n3.gemini，最稳定，但模版化比较严重，相对而言目前还是最好的选择"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "INTJ-t ｜永遠14歲｜提問↓｜❤️@saonanaa",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 20,
+                "username": "saonanaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGspkq"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你2.1km",
+        "name": "lovely水",
+        "pinned_tweet_id": "2026598390054924339",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023831074921738240/frpPaTVT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4913,
+          "following_count": 1046,
+          "like_count": 263,
+          "listed_count": 13,
+          "media_count": 2965,
+          "tweet_count": 13204
+        },
+        "url": "https://t.co/EZhyEGspkq",
+        "username": "lovelyshuimao",
+        "verified": true
+      },
+      {
+        "created_at": "2021-01-24T05:01:33.000Z",
+        "description": "东罗马皇帝兼第六天魔王。希腊是我的家园。现代自由主义。希望与孤独有趣的灵魂相会。如果您喜欢我，我会很高兴💕喜欢写小说，正经时喜欢研究历史哲学和文学，XP是DID和绑架还有まちづくり\n独不念我先人兮，为自由而流血\n恶搞连载中请见置顶\n博客：https://t.co/oD6hkuy2Ub",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "matters.news/@sleeplessenvy",
+                "end": 142,
+                "expanded_url": "http://matters.news/@sleeplessenvy",
+                "start": 119,
+                "url": "https://t.co/oD6hkuy2Ub"
+              }
+            ]
+          }
+        },
+        "id": "1353206248057892864",
+        "location": "自深深处",
+        "name": "🇬🇷🇫🇷🇮🇱👑苏提斯·德·艾利亚·巴西琉斯二世💙💛☦️",
+        "pinned_tweet_id": "1954229235981426795",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1700642847974977536/vgS1UD2q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24622,
+          "following_count": 985,
+          "like_count": 119168,
+          "listed_count": 0,
+          "media_count": 3484,
+          "tweet_count": 43971
+        },
+        "username": "thelastgreeks",
+        "verified": true
+      }
+    ]
+  }
+}

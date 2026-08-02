@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1748763011140169729",
+    "conversation_id": "2029028588431831119",
+    "created_at": "2026-06-30T11:04:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T12:04:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071912715300512122"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1439465002851725314",
+          "start": 0,
+          "username": "chengzi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071912715300512122",
+    "in_reply_to_user_id": "1439465002851725314",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029028588431831119",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chengzi 这么说古法男娘真的好辛苦啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "2029028588431831119",
+        "created_at": "2026-06-30T11:04:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T12:04:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071912715300512122"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1439465002851725314",
+              "start": 0,
+              "username": "chengzi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071912715300512122",
+        "in_reply_to_user_id": "1439465002851725314",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029028588431831119",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chengzi 这么说古法男娘真的好辛苦啊"
+      },
+      {
+        "article": {
+          "title": "男妹妹必看！控雄助雌的科学食谱。"
+        },
+        "attachments": {},
+        "author_id": "1439465002851725314",
+        "conversation_id": "2029028588431831119",
+        "created_at": "2026-03-04T02:58:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T03:58:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029028588431831119"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/i/article/2029…",
+              "end": 23,
+              "expanded_url": "http://x.com/i/article/2029017519843954688",
+              "start": 0,
+              "status": 500,
+              "unwound_url": "https://x.com/i/article/2029017519843954688",
+              "url": "https://t.co/bwFN5hldpB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029028588431831119",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1743,
+          "impression_count": 496768,
+          "like_count": 2198,
+          "quote_count": 15,
+          "reply_count": 31,
+          "retweet_count": 230
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/bwFN5hldpB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "🐱水猫星铃Lumia\n👩🏻‍💻INTJ ♀14 \n❤️@zhwevea\n🙋🏻‍♀️提問box——————↓\n✍🏻想要成为哲学作家\n🧠神经性两畸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 28,
+                "username": "zhwevea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGspkq"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你 4.3km",
+        "name": "lovely水",
+        "pinned_tweet_id": "2063974537272910172",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045354329792749568/b7JXuLvu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4976,
+          "following_count": 992,
+          "like_count": 274,
+          "listed_count": 19,
+          "media_count": 3312,
+          "tweet_count": 14834
+        },
+        "url": "https://t.co/EZhyEGspkq",
+        "username": "lovelyshuimao",
+        "verified": true
+      },
+      {
+        "created_at": "2021-09-19T05:43:05.000Z",
+        "description": "iiii| 记录一些日常生活碎片｜vlog博主｜艺术家｜美食博主｜看黄的不要来关注我！| This is an interesting account.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "chengzi.baby",
+                "end": 23,
+                "expanded_url": "http://chengzi.baby",
+                "start": 0,
+                "url": "https://t.co/VCsG9lSP0q"
+              }
+            ]
+          }
+        },
+        "id": "1439465002851725314",
+        "name": "橙子𝗖𝗵𝗲𝗻𝗴𝘇𝗶",
+        "pinned_tweet_id": "2066759541056999809",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044051122789273600/7sRjs3xI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18757,
+          "following_count": 946,
+          "like_count": 3390,
+          "listed_count": 55,
+          "media_count": 573,
+          "tweet_count": 2031
+        },
+        "url": "https://t.co/VCsG9lSP0q",
+        "username": "chengzi",
+        "verified": true
+      }
+    ]
+  }
+}

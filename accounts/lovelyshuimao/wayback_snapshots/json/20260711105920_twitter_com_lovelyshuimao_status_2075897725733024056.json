@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075897716371329024"
+      ]
+    },
+    "author_id": "1748763011140169729",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2075897725733024056",
+    "created_at": "2026-07-11T10:59:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T11:59:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075897725733024056"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/qZGoIF8wCM",
+          "end": 71,
+          "expanded_url": "https://x.com/lovelyshuimao/status/2075897725733024056/photo/1",
+          "media_key": "3_2075897716371329024",
+          "start": 48,
+          "url": "https://t.co/qZGoIF8wCM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075897725733024056",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我的主页彻底毁了\n因为没有预留升级条件\n主页版本永远停留在了2026.4月\n新的主页只能打补丁 https://t.co/qZGoIF8wCM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1684,
+        "media_key": "3_2075897716371329024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM8R-XZbkAAF7-m.jpg",
+        "width": 2249
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075897716371329024"
+          ]
+        },
+        "author_id": "1748763011140169729",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2075897725733024056",
+        "created_at": "2026-07-11T10:59:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T11:59:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075897725733024056"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qZGoIF8wCM",
+              "end": 71,
+              "expanded_url": "https://x.com/lovelyshuimao/status/2075897725733024056/photo/1",
+              "media_key": "3_2075897716371329024",
+              "start": 48,
+              "url": "https://t.co/qZGoIF8wCM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075897725733024056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的主页彻底毁了\n因为没有预留升级条件\n主页版本永远停留在了2026.4月\n新的主页只能打补丁 https://t.co/qZGoIF8wCM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "🐱神仙水水猫星铃Lumia\n👩🏻‍💻INTJ ♀14 \n🙋🏻‍♀️提問box——————↓\n✍🏻想成为作家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGspkq"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你 4.3km",
+        "name": "lovely水",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045354329792749568/b7JXuLvu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5108,
+          "following_count": 997,
+          "like_count": 275,
+          "listed_count": 20,
+          "media_count": 3362,
+          "tweet_count": 15064
+        },
+        "url": "https://t.co/EZhyEGspkq",
+        "username": "lovelyshuimao",
+        "verified": true
+      }
+    ]
+  }
+}

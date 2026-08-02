@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1748763011140169729",
+    "conversation_id": "2044029962135679213",
+    "created_at": "2026-04-15T05:53:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-15T06:53:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044292962654498821"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1987926163092885504",
+          "start": 0,
+          "username": "Moting284"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044292962654498821",
+    "in_reply_to_user_id": "1987926163092885504",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044029962135679213",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Moting284 续航\n好看\n精致\n简单"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "2044029962135679213",
+        "created_at": "2026-04-15T05:53:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T06:53:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044292962654498821"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1987926163092885504",
+              "start": 0,
+              "username": "Moting284"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044292962654498821",
+        "in_reply_to_user_id": "1987926163092885504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044029962135679213",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Moting284 续航\n好看\n精致\n简单"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987926163092885504",
+        "conversation_id": "2044029962135679213",
+        "created_at": "2026-04-14T12:28:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T13:27:57.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044029892023726580",
+          "2044029962135679213"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2044029962135679213",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 45,
+          "impression_count": 146092,
+          "like_count": 166,
+          "quote_count": 10,
+          "reply_count": 431,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "给我个必须买mac的优势 \n\n必须是win做不到的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "INTJ｜永遠14｜提問↓｜❤️对象ZhiWei @saonanaa",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 25,
+                "username": "saonanaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGspkq"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你2.1km",
+        "name": "lovely水",
+        "pinned_tweet_id": "2043969303633113452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023831074921738240/frpPaTVT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4775,
+          "following_count": 1001,
+          "like_count": 272,
+          "listed_count": 13,
+          "media_count": 3158,
+          "tweet_count": 13981
+        },
+        "url": "https://t.co/EZhyEGspkq",
+        "username": "lovelyshuimao",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-10T16:51:54.000Z",
+        "description": "被你发现啦，那就关注一下叭🎀 \n｜百万粉丝不到心理咨询❤️ \n｜读书差亿点点破万爱好者📖 \n｜点子不少但手残的Ai学习者🤖",
+        "id": "1987926163092885504",
+        "name": "撸猫不掉毛",
+        "pinned_tweet_id": "2043193263251972320",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027722953878867968/4grRuJCA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 366,
+          "following_count": 106,
+          "like_count": 1375,
+          "listed_count": 2,
+          "media_count": 85,
+          "tweet_count": 1216
+        },
+        "username": "Moting284",
+        "verified": true
+      }
+    ]
+  }
+}

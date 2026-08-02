@@ -1,0 +1,353 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2044739726985564160",
+        "3_2044739727027474432"
+      ]
+    },
+    "author_id": "1748763011140169729",
+    "conversation_id": "2044338941256736986",
+    "created_at": "2026-04-16T11:28:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T12:28:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044739733121880196"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1356583549",
+          "start": 0,
+          "username": "kagurazakayashi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/oASVoyysDV",
+          "end": 78,
+          "expanded_url": "https://x.com/lovelyshuimao/status/2044739733121880196/photo/1",
+          "media_key": "3_2044739726985564160",
+          "start": 55,
+          "url": "https://t.co/oASVoyysDV"
+        },
+        {
+          "display_url": "pic.x.com/oASVoyysDV",
+          "end": 78,
+          "expanded_url": "https://x.com/lovelyshuimao/status/2044739733121880196/photo/1",
+          "media_key": "3_2044739727027474432",
+          "start": 55,
+          "url": "https://t.co/oASVoyysDV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044739733121880196",
+    "in_reply_to_user_id": "1356583549",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044649056342020124",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kagurazakayashi 是2009年11月29日\n不是2011年1月20\n那是另一则新闻不是原图的 https://t.co/oASVoyysDV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 410,
+        "media_key": "3_2044739726985564160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGBf8r0akAAl6w7.jpg",
+        "width": 1320
+      },
+      {
+        "height": 597,
+        "media_key": "3_2044739727027474432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGBf8r-aEAA0wv2.jpg",
+        "width": 573
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044739726985564160",
+            "3_2044739727027474432"
+          ]
+        },
+        "author_id": "1748763011140169729",
+        "conversation_id": "2044338941256736986",
+        "created_at": "2026-04-16T11:28:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T12:28:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044739733121880196"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1356583549",
+              "start": 0,
+              "username": "kagurazakayashi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oASVoyysDV",
+              "end": 78,
+              "expanded_url": "https://x.com/lovelyshuimao/status/2044739733121880196/photo/1",
+              "media_key": "3_2044739726985564160",
+              "start": 55,
+              "url": "https://t.co/oASVoyysDV"
+            },
+            {
+              "display_url": "pic.x.com/oASVoyysDV",
+              "end": 78,
+              "expanded_url": "https://x.com/lovelyshuimao/status/2044739733121880196/photo/1",
+              "media_key": "3_2044739727027474432",
+              "start": 55,
+              "url": "https://t.co/oASVoyysDV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044739733121880196",
+        "in_reply_to_user_id": "1356583549",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044649056342020124",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kagurazakayashi 是2009年11月29日\n不是2011年1月20\n那是另一则新闻不是原图的 https://t.co/oASVoyysDV"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1356583549",
+        "conversation_id": "2044338941256736986",
+        "created_at": "2026-04-16T05:28:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T06:28:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044649056342020124"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "weibo.com/ttarticle/p/sh…",
+              "end": 137,
+              "expanded_url": "https://weibo.com/ttarticle/p/show?id=2309404229113077434315",
+              "start": 114,
+              "unwound_url": "https://weibo.com/ttarticle/p/show?id=2309404229113077434315",
+              "url": "https://t.co/xnhUhMjdUC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044649056342020124",
+        "in_reply_to_user_id": "1356583549",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "weibo.com/ttarticle/p/sh…",
+                "end": 137,
+                "expanded_url": "https://weibo.com/ttarticle/p/show?id=2309404229113077434315",
+                "start": 114,
+                "url": "https://t.co/fyE3RJkJHv"
+              },
+              {
+                "display_url": "baijiahao.baidu.com/s?id=159778970…",
+                "end": 211,
+                "expanded_url": "https://baijiahao.baidu.com/s?id=1597789700901875222",
+                "start": 188,
+                "url": "https://t.co/Hy1yNsvhNN"
+              },
+              {
+                "display_url": "tv.cctv.com/2011/07/04/VID…",
+                "end": 355,
+                "expanded_url": "https://tv.cctv.com/2011/07/04/VIDEjlBfCG7XapfwQgFTVqMe110704.shtml",
+                "start": 332,
+                "url": "https://t.co/NJ4puzePX0"
+              },
+              {
+                "display_url": "tv.cctv.com/2011/01/20/VID…",
+                "end": 505,
+                "expanded_url": "https://tv.cctv.com/2011/01/20/VIDEuTQ7mdsST4qqHqdgXRfX110111.shtml",
+                "start": 482,
+                "url": "https://t.co/Q9U2NBYre8"
+              },
+              {
+                "display_url": "tv.cctv.com/2017/06/05/VID…",
+                "end": 657,
+                "expanded_url": "https://tv.cctv.com/2017/06/05/VIDEKpYD8fCuHUafrIqR8ciP170605.shtml",
+                "start": 634,
+                "url": "https://t.co/Obrma93Rqt"
+              }
+            ]
+          },
+          "text": "来源追溯：该推文中提供的时间有误，并非都是“8年前”。\n\n第一张图：时间正确，2018年4月15日16时56分“人民日报评论”（人民日报社官方微信公众号/微博）发布了文章《“不一样的烟火”，一样可以绽放》。该内容的原文链接是： https://t.co/fyE3RJkJHv 。但是该条微博文章已经被删除，但是可以在其他权威媒体处找到备份，例如由浙江日报转发的人民日报文章： https://t.co/Hy1yNsvhNN 。\n\n第二张图：事实上该视频截图时间来自2011年，也就是15年前。该视频截图来自于中国中央电视台第13频道（新闻频道）2011年7月4日23时32分~33分《24小时》的内容《请尊重每一个群体的自我选择》，该报道录像在其官方网站上存档： https://t.co/NJ4puzePX0 。\n\n第三张图：事实上该视频截图时间来自2011年，也就是15年前。该视频截图来自于中国中央电视台第13频道（新闻频道）2011年1月20日18时34分~37分《共同关注》的报道《云南大理：市政府注资建立男同性恋酒吧》。该报道录像在其官方网站上存档： https://t.co/Q9U2NBYre8 。\n\n第四张图：事实上该视频截图时间来自2017，也就是9年前。该视频截图来自于中国中央电视台第4频道（中文国际频道）2017年6月5日12时45分~47分《中国新闻》的报道《台观光部门针对境外同性恋者设置旅游补助惹争议》。该报道录像在其官方网站上存档： https://t.co/Obrma93Rqt"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 9397,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044338941256736986",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "来源追溯：该推文中提供的时间有误，并非都是“8年前”。\n\n第一张图：时间正确，2018年4月15日16时56分“人民日报评论”（人民日报社官方微信公众号/微博）发布了文章《“不一样的烟火”，一样可以绽放》。该内容的原文链接是： https://t.co/xnhUhMjdUC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "能代买v的联系我，我给你钱！\nINTJ｜永遠14｜提問↓｜❤️对象ZhiWei @saonanaa",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 40,
+                "username": "saonanaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGspkq"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你2.1km",
+        "name": "神仙水水猫🍥",
+        "pinned_tweet_id": "2043969303633113452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044646777648009216/eRq3RkKD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4766,
+          "following_count": 1002,
+          "like_count": 274,
+          "listed_count": 13,
+          "media_count": 3163,
+          "tweet_count": 13994
+        },
+        "url": "https://t.co/EZhyEGspkq",
+        "username": "lovelyshuimao",
+        "verified": false
+      },
+      {
+        "created_at": "2013-04-16T10:37:57.000Z",
+        "description": "这里是3周目账号(2023.7-)，希望认识更多同好。没头像/没推/发广告/抽象会拉黑。女装不发R18(但有擦边的)，不讨论政治。喜欢女装、COS、KIG，无性SM(Switch)。友跨顺男偶尔发跨权。G+难民。女装和kig照看账号tag #雅诗自曝 。二次元纯净版+备号 @KagurazakaMasae 。更多见置顶",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 125,
+                "start": 120,
+                "tag": "雅诗自曝"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 153,
+                "start": 137,
+                "username": "KagurazakaMasae"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/KagurazakaYashi",
+                "end": 23,
+                "expanded_url": "https://t.me/KagurazakaYashi",
+                "start": 0,
+                "url": "https://t.co/s9yovgqV77"
+              }
+            ]
+          }
+        },
+        "id": "1356583549",
+        "location": "東京都新宿区神楽坂５丁目７",
+        "name": "神楽坂雅詩",
+        "pinned_tweet_id": "2015424289886134737",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974773629704708096/lVYzrnzS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15403,
+          "following_count": 6024,
+          "like_count": 22416,
+          "listed_count": 66,
+          "media_count": 554,
+          "tweet_count": 4317
+        },
+        "url": "https://t.co/s9yovgqV77",
+        "username": "kagurazakayashi",
+        "verified": true
+      }
+    ]
+  }
+}

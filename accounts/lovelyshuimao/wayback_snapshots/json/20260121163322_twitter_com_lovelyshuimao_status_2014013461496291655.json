@@ -1,0 +1,330 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1748763011140169729",
+    "conversation_id": "2013967678441234928",
+    "created_at": "2026-01-21T16:33:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-21T17:33:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014013461496291655"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2013874039195070464",
+          "start": 0,
+          "username": "liangxizjdq"
+        },
+        {
+          "end": 27,
+          "id": "1829498397184946176",
+          "start": 13,
+          "username": "liangxihuigui"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014013461496291655",
+    "in_reply_to_user_id": "2013874039195070464",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013967678441234928",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@liangxizjdq @liangxihuigui 因为找人大批量检举你了，除非你完全没说过任何争议，不然很容易被封"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [liangxihuigui].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "liangxihuigui",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "liangxihuigui"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2013966454790729729",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_ML0fdasAE4yRG.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2013966454786572288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_ML0fcbQAAe4K9.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2013966455021182976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_ML0gUXIAAFbmz.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2013966454945611776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_ML0gCWAAA9oK6.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "2013967678441234928",
+        "created_at": "2026-01-21T16:33:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T17:33:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014013461496291655"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2013874039195070464",
+              "start": 0,
+              "username": "liangxizjdq"
+            },
+            {
+              "end": 27,
+              "id": "1829498397184946176",
+              "start": 13,
+              "username": "liangxihuigui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014013461496291655",
+        "in_reply_to_user_id": "2013874039195070464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013967678441234928",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liangxizjdq @liangxihuigui 因为找人大批量检举你了，除非你完全没说过任何争议，不然很容易被封"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2013966454790729729",
+            "3_2013966454786572288",
+            "3_2013966455021182976",
+            "3_2013966454945611776"
+          ]
+        },
+        "author_id": "2013874039195070464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2013967678441234928",
+        "created_at": "2026-01-21T13:31:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T14:26:37.000Z",
+          "edits_remaining": 2,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013966463263256633",
+          "2013966802351767713",
+          "2013967357333643518",
+          "2013967678441234928"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 70,
+              "id": "1829498397184946176",
+              "start": 56,
+              "username": "liangxihuigui"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YO5kxxstKU",
+              "end": 177,
+              "expanded_url": "https://x.com/liangxizjdq/status/2013967678441234928/photo/1",
+              "media_key": "3_2013966454790729729",
+              "start": 154,
+              "url": "https://t.co/YO5kxxstKU"
+            },
+            {
+              "display_url": "pic.x.com/YO5kxxstKU",
+              "end": 177,
+              "expanded_url": "https://x.com/liangxizjdq/status/2013967678441234928/photo/1",
+              "media_key": "3_2013966454786572288",
+              "start": 154,
+              "url": "https://t.co/YO5kxxstKU"
+            },
+            {
+              "display_url": "pic.x.com/YO5kxxstKU",
+              "end": 177,
+              "expanded_url": "https://x.com/liangxizjdq/status/2013967678441234928/photo/1",
+              "media_key": "3_2013966455021182976",
+              "start": 154,
+              "url": "https://t.co/YO5kxxstKU"
+            },
+            {
+              "display_url": "pic.x.com/YO5kxxstKU",
+              "end": 177,
+              "expanded_url": "https://x.com/liangxizjdq/status/2013967678441234928/photo/1",
+              "media_key": "3_2013966454945611776",
+              "start": 154,
+              "url": "https://t.co/YO5kxxstKU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013967678441234928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 70,
+                "id": "1829498397184946176",
+                "start": 56,
+                "username": "liangxihuigui"
+              },
+              {
+                "end": 607,
+                "id": "1579636551612407813",
+                "start": 597,
+                "username": "liangxied"
+              }
+            ]
+          },
+          "text": "我是凉兮这是我新号，转发此条推特，抽10个人每人1888红包，一周后开奖，在昨天我30多万粉丝的大号被永久封禁了@liangxihuigui最近一直在为失踪孩子器官移植发声，影响力太大，他们把我弄封了，22年我微博为河南村镇银行发声封禁了永久，我开始转战推特，23年因为给柬埔寨缅甸被绑孩子发声几十万粉丝的大号，被封禁，24年底建了这个新号，一年时间再次被封，我觉得很委屈，\n\n别人玩网络为了赚钱，我纯为了有个能说话的地方，因为我不在意钱，我推特创作者收入6万多美元到现在没提现过一次，我老粉丝都知道我不在意钱，我只是看不惯这些恶魔欺负我们中国人，帮中国人发声，\n\n我认为这次被封号的原因有两种，一个是邪恶的部门集体用几百人同时举报触发了推特的封号算法机制给我干封了，还有个可能性就是他们直接把手伸到推特，找推特内部人封禁我了，为什么他们封禁我而不封禁别人？\n\n因为我的粉丝量在中文圈粘性最高，很多都是币圈的，而我还是纯粹的爱国者，反贼和听床师一般说的话没人信，可信度百分之10-20，所以很多人都把反贼说的当谣言看的，但我是凉兮，有信用背书，我说的话可信度百分之百，\n\n所以他们意识到这个问题所在，想方设法来封禁我账号，降低器官活摘影响力，我几乎是任何事情这些年最早发声的，造物主曾告诉我中国人在全世界被欺负，要让我肩负起责任，缅甸柬埔寨，也是最早我曝光的这些园区活摘器官，导致最早的大号被封@liangxied\n\n可以说我这些年以我血荐轩辕，捍卫华夏，各种威胁都不怕，造物主曾告诉我，00后将会改变中国现状，我们不能再软弱了！保护我们的孩子，与邪恶做对抗！\n\n新推特号id：liangxzjdq的意思是凉兮拯救地球的缩写！上帝与我同在，保佑我们中国同胞"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 102,
+          "impression_count": 216931,
+          "like_count": 1296,
+          "quote_count": 317,
+          "reply_count": 1614,
+          "retweet_count": 2181
+        },
+        "reply_settings": "everyone",
+        "text": "我是凉兮这是我新号，转发此条推特，抽10个人每人1888红包，一周后开奖，在昨天我30多万粉丝的大号被永久封禁了@liangxihuigui最近一直在为失踪孩子器官移植发声，影响力太大，他们把我弄封了，22年我微博为河南村镇银行发声封禁了永久，我开始转战推特，23年因为给柬埔寨缅甸被绑孩子发声几十万粉丝的 https://t.co/YO5kxxstKU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "水貓｜INTJ-t ｜永遠14歲｜提問↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGrRuS"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你2.1km",
+        "name": "lovely水",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009519740319092737/8QXu2gXD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3477,
+          "following_count": 1010,
+          "like_count": 261,
+          "listed_count": 10,
+          "media_count": 2753,
+          "tweet_count": 12740
+        },
+        "url": "https://t.co/EZhyEGrRuS",
+        "username": "lovelyshuimao",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-21T07:20:15.000Z",
+        "description": "",
+        "id": "2013874039195070464",
+        "name": "凉兮将军（与邪恶对抗）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013874726821863426/kFlVCkul_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13297,
+          "following_count": 9,
+          "like_count": 0,
+          "listed_count": 27,
+          "media_count": 4,
+          "tweet_count": 17
+        },
+        "username": "liangxizjdq",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1748763011140169729",
+    "conversation_id": "2075519204166676830",
+    "created_at": "2026-07-10T14:23:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T15:23:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075586686160097776"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1889861257",
+          "start": 0,
+          "username": "__summer__sea__"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075586686160097776",
+    "in_reply_to_user_id": "1889861257",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075519204166676830",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@__summer__sea__ 专注达在网上买真是疯了\n去医院点菜都比这个容易吧"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2352,
+        "media_key": "3_2075519193156628480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM25taibMAAEB46.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2556,
+        "media_key": "3_2075519197711679488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM25trgbwAAXJv9.jpg",
+        "width": 1179
+      },
+      {
+        "height": 2352,
+        "media_key": "3_2075519195547406336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM25tjcbkAAiM_7.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2352,
+        "media_key": "3_2075519193198596096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM25tasbkAA_w1K.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "2075519204166676830",
+        "created_at": "2026-07-10T14:23:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T15:23:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075586686160097776"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1889861257",
+              "start": 0,
+              "username": "__summer__sea__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075586686160097776",
+        "in_reply_to_user_id": "1889861257",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075519204166676830",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@__summer__sea__ 专注达在网上买真是疯了\n去医院点菜都比这个容易吧"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075519193156628480",
+            "3_2075519197711679488",
+            "3_2075519195547406336",
+            "3_2075519193198596096"
+          ]
+        },
+        "author_id": "1889861257",
+        "conversation_id": "2075519204166676830",
+        "created_at": "2026-07-10T09:55:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T10:55:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075519204166676830"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cfFsErchDu",
+              "end": 59,
+              "expanded_url": "https://x.com/__summer__sea__/status/2075519204166676830/photo/1",
+              "media_key": "3_2075519193156628480",
+              "start": 36,
+              "url": "https://t.co/cfFsErchDu"
+            },
+            {
+              "display_url": "pic.x.com/cfFsErchDu",
+              "end": 59,
+              "expanded_url": "https://x.com/__summer__sea__/status/2075519204166676830/photo/1",
+              "media_key": "3_2075519197711679488",
+              "start": 36,
+              "url": "https://t.co/cfFsErchDu"
+            },
+            {
+              "display_url": "pic.x.com/cfFsErchDu",
+              "end": 59,
+              "expanded_url": "https://x.com/__summer__sea__/status/2075519204166676830/photo/1",
+              "media_key": "3_2075519195547406336",
+              "start": 36,
+              "url": "https://t.co/cfFsErchDu"
+            },
+            {
+              "display_url": "pic.x.com/cfFsErchDu",
+              "end": 59,
+              "expanded_url": "https://x.com/__summer__sea__/status/2075519204166676830/photo/1",
+              "media_key": "3_2075519193198596096",
+              "start": 36,
+              "url": "https://t.co/cfFsErchDu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075519204166676830",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 752,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有人冒充我卖专注达，还骗别人钱我真服了买家找到我头上，我也不知道咋回事 https://t.co/cfFsErchDu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "🐱神仙水水猫星铃Lumia\n👩🏻‍💻INTJ ♀14 \n🙋🏻‍♀️提問box——————↓\n✍🏻想成为作家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGspkq"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你 4.3km",
+        "name": "lovely水",
+        "pinned_tweet_id": "2075250029720482257",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045354329792749568/b7JXuLvu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5042,
+          "following_count": 997,
+          "like_count": 275,
+          "listed_count": 20,
+          "media_count": 3354,
+          "tweet_count": 15030
+        },
+        "url": "https://t.co/EZhyEGspkq",
+        "username": "lovelyshuimao",
+        "verified": true
+      },
+      {
+        "created_at": "2013-09-21T11:07:58.000Z",
+        "description": "神户盐｜16岁｜护理专业｜渴望有人能拯救我｜情感淡漠｜家长不管党｜匿名:https://t.co/kXreZylfPF｜Q:3755457720｜我的tg:https://t.co/1e7qTaQHLq｜",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yan14866",
+                "end": 59,
+                "expanded_url": "https://ngl.link/yan14866",
+                "start": 36,
+                "url": "https://t.co/kXreZylfPF"
+              },
+              {
+                "display_url": "t.me/brentcruz106",
+                "end": 101,
+                "expanded_url": "https://t.me/brentcruz106",
+                "start": 78,
+                "url": "https://t.co/1e7qTaQHLq"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/brentcruz106",
+                "end": 23,
+                "expanded_url": "https://t.me/brentcruz106",
+                "start": 0,
+                "url": "https://t.co/1e7qTaQHLq"
+              }
+            ]
+          }
+        },
+        "id": "1889861257",
+        "name": "盐🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061179467889074177/WoZoQ9BB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1203,
+          "following_count": 1068,
+          "like_count": 8915,
+          "listed_count": 2,
+          "media_count": 199,
+          "tweet_count": 2883
+        },
+        "url": "https://t.co/1e7qTaQHLq",
+        "username": "__summer__sea__",
+        "verified": false
+      }
+    ]
+  }
+}

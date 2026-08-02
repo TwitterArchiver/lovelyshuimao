@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1748763011140169729",
+    "conversation_id": "2082819237161378200",
+    "created_at": "2026-07-30T15:29:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T16:29:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082851148646731906"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1843201902550634496",
+          "start": 0,
+          "username": "LwrDHYyuxR22499"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082851148646731906",
+    "in_reply_to_user_id": "1843201902550634496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082819237161378200",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LwrDHYyuxR22499 不是，那岂不是去开一个性别代词正确的扭转就可以全给她们抓进去"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2082818110424498176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOeoCUOaQAALmKP.jpg",
+        "width": 917
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2082818167383224320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOeoFoabcAAVusa.jpg",
+        "width": 917
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2082818297133965312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOeoNLxaoAArBlo.jpg",
+        "width": 917
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "2082819237161378200",
+        "created_at": "2026-07-30T15:29:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T16:29:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082851148646731906"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082851148646731906",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082819237161378200",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 不是，那岂不是去开一个性别代词正确的扭转就可以全给她们抓进去"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082818110424498176",
+            "3_2082818167383224320",
+            "3_2082818297133965312"
+          ]
+        },
+        "author_id": "1843201902550634496",
+        "conversation_id": "2082819237161378200",
+        "created_at": "2026-07-30T13:22:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T14:22:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082819237161378200"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MnMaTVmWvl",
+              "end": 167,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2082819237161378200/photo/1",
+              "media_key": "3_2082818110424498176",
+              "start": 144,
+              "url": "https://t.co/MnMaTVmWvl"
+            },
+            {
+              "display_url": "pic.x.com/MnMaTVmWvl",
+              "end": 167,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2082819237161378200/photo/1",
+              "media_key": "3_2082818167383224320",
+              "start": 144,
+              "url": "https://t.co/MnMaTVmWvl"
+            },
+            {
+              "display_url": "pic.x.com/MnMaTVmWvl",
+              "end": 167,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2082819237161378200/photo/1",
+              "media_key": "3_2082818297133965312",
+              "start": 144,
+              "url": "https://t.co/MnMaTVmWvl"
+            },
+            {
+              "display_url": "x.com/nagoribird/sta…",
+              "end": 191,
+              "expanded_url": "https://twitter.com/nagoribird/status/2082797374896832958",
+              "start": 168,
+              "url": "https://t.co/6qbwfAmUfQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082819237161378200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "拿着当时本来就不可能做到的事恶心我，\n把我赶走之后，\n又口口声声宣称自己可以不用指派性别开展救援，\n反说我是故意恶心跨性别群体。说“我把教官打到了自己站了上去”\n 那问题来了亲爱的各位\n\n北燕书救人了吗？\n她真的做得到吗不用指派性别吗？\n如果她自己都做不到的话\n这是“批评”还是引导网暴\n自我退出后\n推特上涌现出一大批被强行送进矫治机构的跨性别者，\n别说不用指派性别了\n其中有一例是她出手营救的吗？\n答案是没有。\n每当有人向她索要救援工作实例时，\n她便直接给对方扣上国安线人的帽子。\n🤣\n \n明明北燕书自己不救人\n却想尽各种办法也不许别人救\n就盼着受难者走向绝境，\n我问你这是杀人犯还是不是?\n这么浅显的道理，\n怎么就看不明白呢？"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1834,
+          "like_count": 21,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082797374896832958",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "拿着当时本来就不可能做到的事恶心我，\n把我赶走之后，\n又口口声声宣称自己可以不用指派性别开展救援，\n反说我是故意恶心跨性别群体。说“我把教官打到了自己站了上去”\n 那问题来了亲爱的各位\n\n北燕书救人了吗？\n她真的做得到吗不用指派性别吗？\n如果她自己都做不到的话\n这是“批评”还是引导网暴 https://t.co/MnMaTVmWvl https://t.co/6qbwfAmUfQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "🐱神仙水水猫星铃Lumia\n👩🏻‍💻INTJ ♀14 \n🙋🏻‍♀️提問box——————↓\n✍🏻想成為作家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGspkq"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你 4.3km",
+        "name": "lovely水",
+        "pinned_tweet_id": "2075897725733024056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045354329792749568/b7JXuLvu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5530,
+          "following_count": 996,
+          "like_count": 275,
+          "listed_count": 22,
+          "media_count": 3459,
+          "tweet_count": 15668
+        },
+        "url": "https://t.co/EZhyEGspkq",
+        "username": "lovelyshuimao",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人，反扭转救援信息战主力、体系化反扭设计者，反邪教，反家暴\n曾受邀BBC Eye联合调查曝光违规机构，个案不定期登刊央视、东方卫视、中华网、半月谈以及各大新闻媒体。\n斩获2026年度新闻界🥇卓越奖\n最大的愿望是中国老百姓都能过上好日子",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079781229529022464/zTPOeSt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6575,
+          "following_count": 3341,
+          "like_count": 4075,
+          "listed_count": 19,
+          "media_count": 517,
+          "tweet_count": 3586
+        },
+        "url": "",
+        "username": "LwrDHYyuxR22499",
+        "verified": true
+      }
+    ]
+  }
+}

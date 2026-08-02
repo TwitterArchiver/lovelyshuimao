@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083553337396613120"
+      ]
+    },
+    "author_id": "1748763011140169729",
+    "conversation_id": "2083553347676872993",
+    "created_at": "2026-08-01T14:00:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T15:00:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083553347676872993"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/SeuFzUnnLF",
+          "end": 36,
+          "expanded_url": "https://x.com/lovelyshuimao/status/2083553347676872993/photo/1",
+          "media_key": "3_2083553337396613120",
+          "start": 13,
+          "url": "https://t.co/SeuFzUnnLF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083553347676872993",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "卧槽，麦当劳新品好吃爆了 https://t.co/SeuFzUnnLF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 943,
+        "media_key": "3_2083553337396613120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOpEuKIa0AAOf5x.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083553337396613120"
+          ]
+        },
+        "author_id": "1748763011140169729",
+        "conversation_id": "2083553347676872993",
+        "created_at": "2026-08-01T14:00:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T15:00:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083553347676872993"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SeuFzUnnLF",
+              "end": 36,
+              "expanded_url": "https://x.com/lovelyshuimao/status/2083553347676872993/photo/1",
+              "media_key": "3_2083553337396613120",
+              "start": 13,
+              "url": "https://t.co/SeuFzUnnLF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083553347676872993",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "卧槽，麦当劳新品好吃爆了 https://t.co/SeuFzUnnLF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "🐱神仙水水猫星铃Lumia\n👩🏻‍💻INTJ ♀14 \n🙋🏻‍♀️提問box——————↓\n✍🏻想成為作家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGspkq"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你 4.3km",
+        "name": "lovely水",
+        "pinned_tweet_id": "2075897725733024056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045354329792749568/b7JXuLvu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5610,
+          "following_count": 996,
+          "like_count": 275,
+          "listed_count": 22,
+          "media_count": 3468,
+          "tweet_count": 15748
+        },
+        "url": "https://t.co/EZhyEGspkq",
+        "username": "lovelyshuimao",
+        "verified": true
+      }
+    ]
+  }
+}

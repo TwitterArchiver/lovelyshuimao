@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1748763011140169729",
+    "conversation_id": "2041742030976774494",
+    "created_at": "2026-04-09T04:02:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T05:02:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042090674426937547"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1594347608180654082",
+          "start": 0,
+          "username": "myed_kaisha"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042090674426937547",
+    "in_reply_to_user_id": "1594347608180654082",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041907406687396170",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@myed_kaisha 可能是因为你在成长呀\n你的经历是在增加的\n小孩可能只能上学，出市都难\n而且根据对数公式，你现在的对数中点正正好好和你的生命中点接近，都是8-9岁间，所以感知不强\n以一个30岁的人为例，他的对数中点在11岁\n而他生命的中点在15岁，感知就强了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "2041742030976774494",
+        "created_at": "2026-04-09T04:02:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T05:02:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042090674426937547"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1594347608180654082",
+              "start": 0,
+              "username": "myed_kaisha"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042090674426937547",
+        "in_reply_to_user_id": "1594347608180654082",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041907406687396170",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@myed_kaisha 可能是因为你在成长呀\n你的经历是在增加的\n小孩可能只能上学，出市都难\n而且根据对数公式，你现在的对数中点正正好好和你的生命中点接近，都是8-9岁间，所以感知不强\n以一个30岁的人为例，他的对数中点在11岁\n而他生命的中点在15岁，感知就强了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1594347608180654082",
+        "conversation_id": "2041742030976774494",
+        "created_at": "2026-04-08T15:53:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T16:53:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041907406687396170"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1748763011140169729",
+              "start": 0,
+              "username": "lovelyshuimao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041907406687396170",
+        "in_reply_to_user_id": "1748763011140169729",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1007,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041742030976774494",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lovelyshuimao 如果从这个图看的话，假如我现在19，到目前为止我生命的中点是9岁，但是在我直到目前的感觉是我在3年级到现在的经历远比从4岁到小学3年级的记忆丰富，是遗忘造成的吗？或者不同年龄数轴总长的微分是不同的?"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "INTJ｜永遠14｜提問↓｜❤️@saonanaa",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 16,
+                "username": "saonanaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGspkq"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你2.1km",
+        "name": "lovely水",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023831074921738240/frpPaTVT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4816,
+          "following_count": 1014,
+          "like_count": 272,
+          "listed_count": 13,
+          "media_count": 3122,
+          "tweet_count": 13857
+        },
+        "url": "https://t.co/EZhyEGspkq",
+        "username": "lovelyshuimao",
+        "verified": true
+      },
+      {
+        "created_at": "2022-11-20T15:11:16.000Z",
+        "description": "社会化抚养✮/配给制改革￥/暴力革命☭/ОГАСxAI全面接管经济系统\n原CopperO，就是社民/民社/降临派\n不会主动b人（除广告）\n可以友好交流（轮友互fo）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "falundafa.org",
+                "end": 23,
+                "expanded_url": "http://falundafa.org",
+                "start": 0,
+                "url": "https://t.co/VCqu2p2J1E"
+              }
+            ]
+          }
+        },
+        "id": "1594347608180654082",
+        "location": "喆国",
+        "name": "铜钢紧固件🔩生产公社",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008081991460438017/dftvXytV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 221,
+          "following_count": 241,
+          "like_count": 19441,
+          "listed_count": 0,
+          "media_count": 81,
+          "tweet_count": 2995
+        },
+        "url": "https://t.co/VCqu2p2J1E",
+        "username": "myed_kaisha",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1748763011140169729",
+    "conversation_id": "2080156105154666674",
+    "created_at": "2026-07-23T05:00:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T06:00:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080156105154666674"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/tushanhonghong…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/tushanhonghong9/status/2079822366738366775",
+          "start": 15,
+          "url": "https://t.co/Lb198sSvZk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080156105154666674",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079822366738366775",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这简直就是去所有人亚空间治疗 https://t.co/Lb198sSvZk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2079822356227530752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN0DaeLboAAnvYu.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "2080156105154666674",
+        "created_at": "2026-07-23T05:00:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T06:00:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080156105154666674"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/tushanhonghong…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/tushanhonghong9/status/2079822366738366775",
+              "start": 15,
+              "url": "https://t.co/Lb198sSvZk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080156105154666674",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079822366738366775",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这简直就是去所有人亚空间治疗 https://t.co/Lb198sSvZk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079822356227530752"
+          ]
+        },
+        "author_id": "1721003883579748352",
+        "conversation_id": "2079822366738366775",
+        "created_at": "2026-07-22T06:54:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T07:54:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079822366738366775"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QPL05wuHFO",
+              "end": 43,
+              "expanded_url": "https://x.com/tushanhonghong9/status/2079822366738366775/photo/1",
+              "media_key": "3_2079822356227530752",
+              "start": 20,
+              "url": "https://t.co/QPL05wuHFO"
+            },
+            {
+              "display_url": "x.com/tushanhonghong…",
+              "end": 67,
+              "expanded_url": "https://twitter.com/tushanhonghong9/status/2079566535333761421",
+              "start": 44,
+              "url": "https://t.co/XNIPgdDA95"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079822366738366775",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 35778,
+          "like_count": 190,
+          "quote_count": 3,
+          "reply_count": 39,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079566535333761421",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "被性别歧视了呜呜呜\n医生好，医院系统坏 https://t.co/QPL05wuHFO https://t.co/XNIPgdDA95"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "🐱神仙水水猫星铃Lumia\n👩🏻‍💻INTJ ♀14 \n🙋🏻‍♀️提問box——————↓\n✍🏻想成為作家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGspkq"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你 4.3km",
+        "name": "lovely水",
+        "pinned_tweet_id": "2075897725733024056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045354329792749568/b7JXuLvu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5463,
+          "following_count": 999,
+          "like_count": 275,
+          "listed_count": 22,
+          "media_count": 3422,
+          "tweet_count": 15415
+        },
+        "url": "https://t.co/EZhyEGspkq",
+        "username": "lovelyshuimao",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-05T03:18:25.000Z",
+        "description": "一场梦要多长，才生发希望？ 最苦相思，最远却是遗忘。/🍥250314/努力思考中...",
+        "id": "1721003883579748352",
+        "location": "涂山",
+        "name": "涂山红红",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1721008174629527552/jPpZLMx0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 848,
+          "following_count": 588,
+          "like_count": 73805,
+          "listed_count": 5,
+          "media_count": 195,
+          "tweet_count": 2804
+        },
+        "url": "",
+        "username": "tushanhonghong9",
+        "verified": true
+      }
+    ]
+  }
+}

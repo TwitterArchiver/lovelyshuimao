@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1748763011140169729",
+    "conversation_id": "2064143444147417330",
+    "created_at": "2026-06-09T08:18:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T09:18:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064260723493191848"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2028899853716320256",
+          "start": 0,
+          "username": "zzz1043903"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064260723493191848",
+    "in_reply_to_user_id": "2028899853716320256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064143444147417330",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zzz1043903 e是谁给你发的e"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2074,
+        "media_key": "3_2064143429358227456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKVPg0BakAAqm_T.jpg",
+        "width": 810
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "2064143444147417330",
+        "created_at": "2026-06-09T08:18:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T09:18:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064260723493191848"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2028899853716320256",
+              "start": 0,
+              "username": "zzz1043903"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064260723493191848",
+        "in_reply_to_user_id": "2028899853716320256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064143444147417330",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zzz1043903 e是谁给你发的e"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064143429358227456"
+          ]
+        },
+        "author_id": "2028899853716320256",
+        "conversation_id": "2064143444147417330",
+        "created_at": "2026-06-09T00:32:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T01:32:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064143444147417330"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7bTQkWX2PG",
+              "end": 39,
+              "expanded_url": "https://x.com/zzz1043903/status/2064143444147417330/photo/1",
+              "media_key": "3_2064143429358227456",
+              "start": 16,
+              "url": "https://t.co/7bTQkWX2PG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064143444147417330",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 619,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "牢中学生笑传之不战斗就无法生存 https://t.co/7bTQkWX2PG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "｜水猫星铃Lumia\n｜INTJ ♀14  \n｜❤️@saonanaa\n｜提問box——————————↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 27,
+                "username": "saonanaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGspkq"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你2.1km",
+        "name": "lovely水",
+        "pinned_tweet_id": "2063974537272910172",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045354329792749568/b7JXuLvu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4886,
+          "following_count": 1007,
+          "like_count": 274,
+          "listed_count": 17,
+          "media_count": 3245,
+          "tweet_count": 14572
+        },
+        "url": "https://t.co/EZhyEGspkq",
+        "username": "lovelyshuimao",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-03T18:26:54.000Z",
+        "description": "友跨| MTF 重抑\n含糖3.6.2026\n嚴重社恐 長期宅家 | 社會自由主義萬歲\n♡\n5.24.2010出廠|172cm 58.5kg",
+        "id": "2028899853716320256",
+        "location": "中華人民共和國",
+        "name": "許的什麼願🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029133812505165824/mqsMZ_Mw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 67,
+          "like_count": 33,
+          "listed_count": 1,
+          "media_count": 73,
+          "tweet_count": 759
+        },
+        "username": "zzz1043903",
+        "verified": false
+      }
+    ]
+  }
+}

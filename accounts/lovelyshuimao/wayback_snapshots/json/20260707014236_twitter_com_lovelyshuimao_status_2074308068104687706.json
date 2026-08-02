@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1748763011140169729",
+    "conversation_id": "2073940174288134412",
+    "created_at": "2026-07-07T01:42:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T02:42:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074308068104687706"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1913535505230442497",
+          "start": 0,
+          "username": "3638349600Ogas"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074308068104687706",
+    "in_reply_to_user_id": "1913535505230442497",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073940174288134412",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@3638349600Ogas 实际上中国 00 后本科率才 20%\nmtf 群体不清楚，可能不到 20%"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "2073940174288134412",
+        "created_at": "2026-07-07T01:42:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T02:42:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074308068104687706"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1913535505230442497",
+              "start": 0,
+              "username": "3638349600Ogas"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074308068104687706",
+        "in_reply_to_user_id": "1913535505230442497",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073940174288134412",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3638349600Ogas 实际上中国 00 后本科率才 20%\nmtf 群体不清楚，可能不到 20%"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913535505230442497",
+        "conversation_id": "2073940174288134412",
+        "created_at": "2026-07-06T01:20:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T02:20:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073940174288134412"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2073940174288134412",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 14594,
+          "like_count": 73,
+          "quote_count": 1,
+          "reply_count": 30,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "对于mtf来说，能够完成高等教育的可能性真的有50%吗..."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "🐱水猫星铃Lumia\n👩🏻‍💻INTJ ♀14 \n❤️@zhwevea\n🙋🏻‍♀️提問box——————↓\n✍🏻想要成为哲学作家\n🧠神经性两畸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 28,
+                "username": "zhwevea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGspkq"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你 4.3km",
+        "name": "lovely水",
+        "pinned_tweet_id": "2063974537272910172",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045354329792749568/b7JXuLvu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5024,
+          "following_count": 997,
+          "like_count": 275,
+          "listed_count": 20,
+          "media_count": 3333,
+          "tweet_count": 14949
+        },
+        "url": "https://t.co/EZhyEGspkq",
+        "username": "lovelyshuimao",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-19T10:10:19.000Z",
+        "description": "天赋家庭年龄一样不沾的三无木桶饭。战争雷霆空历导弹猴子陆历沙包。喜欢听泠鸢yousa，MyGo和世界情绪的歌。精神状态崩坏警告。                                       永远喜欢姐姐＆主人：@FuyutoriGin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 125,
+                "start": 113,
+                "username": "FuyutoriGin"
+              }
+            ]
+          }
+        },
+        "id": "1913535505230442497",
+        "location": "Chelyabinsk, Russia",
+        "name": "阿德利鹊🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044584965002903552/3Jb5oEd__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 375,
+          "following_count": 668,
+          "like_count": 1766,
+          "listed_count": 2,
+          "media_count": 231,
+          "tweet_count": 816
+        },
+        "url": "",
+        "username": "3638349600Ogas",
+        "verified": false
+      }
+    ]
+  }
+}

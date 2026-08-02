@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1748763011140169729",
+    "conversation_id": "2081640463967080508",
+    "created_at": "2026-07-28T17:36:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T18:36:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082158341296677166"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1187707142847062016",
+          "start": 0,
+          "username": "LGBwiththeT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082158341296677166",
+    "in_reply_to_user_id": "1187707142847062016",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081640463967080508",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LGBwiththeT 有没有一种可能，唯一一个偷拍、侵犯女性权利的就是她自己，那她还有资格说自己是女生吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "2081640463967080508",
+        "created_at": "2026-07-28T17:36:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T18:36:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082158341296677166"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1187707142847062016",
+              "start": 0,
+              "username": "LGBwiththeT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082158341296677166",
+        "in_reply_to_user_id": "1187707142847062016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081640463967080508",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LGBwiththeT 有没有一种可能，唯一一个偷拍、侵犯女性权利的就是她自己，那她还有资格说自己是女生吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1187707142847062016",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Author\n",
+              "id": "808408440301232128",
+              "name": "JK Rowling"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Author\n",
+              "id": "808408440301232128",
+              "name": "JK Rowling"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1166408461485101056",
+              "name": "Authors"
+            }
+          }
+        ],
+        "conversation_id": "2081640463967080508",
+        "created_at": "2026-07-27T07:18:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T08:18:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081640463967080508"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Her advice will result in cisgender women getting harassed and bullied while they're trying to pee in peace.",
+              "display_url": "lgbtqnation.com/2025/06/jk-row…",
+              "end": 236,
+              "expanded_url": "https://www.lgbtqnation.com/2025/06/jk-rowling-says-to-photograph-women-in-toilets-just-in-case-theyre-transgender/",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2081080845524201472/meWSBENz?format=jpg&name=orig",
+                  "width": 1197
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2081080845524201472/meWSBENz?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 213,
+              "status": 200,
+              "title": "JK Rowling says to photograph women in toilets just in case they’re transgender",
+              "unwound_url": "https://www.lgbtqnation.com/2025/06/jk-rowling-says-to-photograph-women-in-toilets-just-in-case-theyre-transgender/",
+              "url": "https://t.co/j8bAX8KinS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081640463967080508",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 116,
+          "impression_count": 118035,
+          "like_count": 2235,
+          "quote_count": 92,
+          "reply_count": 99,
+          "retweet_count": 405
+        },
+        "reply_settings": "everyone",
+        "text": "⚠️ JK Rowling says to photograph women in toilets, just in case they’re transgender\n\nBreaking multiple laws including voyeurism, harassment, privacy and misuse, and possibly intimacy laws.\n\nDangerous and illegal. https://t.co/j8bAX8KinS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "🐱神仙水水猫星铃Lumia\n👩🏻‍💻INTJ ♀14 \n🙋🏻‍♀️提問box——————↓\n✍🏻想成為作家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGspkq"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你 4.3km",
+        "name": "lovely水",
+        "pinned_tweet_id": "2075897725733024056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045354329792749568/b7JXuLvu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5518,
+          "following_count": 995,
+          "like_count": 275,
+          "listed_count": 22,
+          "media_count": 3444,
+          "tweet_count": 15599
+        },
+        "url": "https://t.co/EZhyEGspkq",
+        "username": "lovelyshuimao",
+        "verified": true
+      },
+      {
+        "created_at": "2019-10-25T12:27:13.000Z",
+        "description": "Trans history • Trans rights • Evidence over outrage 🏳️‍⚧️",
+        "id": "1187707142847062016",
+        "location": "Worldwide",
+        "name": "LGBwiththeT",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063665359413002240/G-0TRTij_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39016,
+          "following_count": 2500,
+          "like_count": 30497,
+          "listed_count": 0,
+          "media_count": 4025,
+          "tweet_count": 56987
+        },
+        "url": "",
+        "username": "LGBwiththeT",
+        "verified": false
+      }
+    ]
+  }
+}

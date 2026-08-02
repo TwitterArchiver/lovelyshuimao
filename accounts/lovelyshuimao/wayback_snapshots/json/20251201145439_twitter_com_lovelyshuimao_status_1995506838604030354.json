@@ -1,0 +1,117 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1748763011140169729",
+    "conversation_id": "1995506838604030354",
+    "created_at": "2025-12-01T14:54:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-01T15:54:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1995506838604030354"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1995506838604030354",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "美国的白领中产和中国比就是一个天上一个地下\n40层的摩天大楼里，一张桌子背靠落地窗前，上下班开着suv，家里是独栋别墅，大院子大沙发大电视，一家3代人住在一起其乐融融\n中国呢？全家人住在一个100平的房子，骑着电瓶车上下班，工位一个小格子，每天对着电脑，全家都要上班上学"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "1995506838604030354",
+        "created_at": "2025-12-01T14:54:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T15:54:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995506838604030354"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1995506838604030354",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "美国的白领中产和中国比就是一个天上一个地下\n40层的摩天大楼里，一张桌子背靠落地窗前，上下班开着suv，家里是独栋别墅，大院子大沙发大电视，一家3代人住在一起其乐融融\n中国呢？全家人住在一个100平的房子，骑着电瓶车上下班，工位一个小格子，每天对着电脑，全家都要上班上学"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "水貓🍕｜ENFP-t ｜永遠14｜是豪貓不o不圓不殘不死｜對象@saonanaa｜素食主義者｜提問箱鏈接↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 31,
+                "username": "saonanaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%B0%B4%E6%B…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E6%B0%B4%E6%B0%B493927",
+                "start": 0,
+                "url": "https://t.co/qmQkMr39z5"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你2.1km",
+        "name": "lovely水",
+        "pinned_tweet_id": "1995425834463887724",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994377431365697536/FlF4hwSr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2755,
+          "following_count": 1175,
+          "like_count": 249,
+          "listed_count": 7,
+          "media_count": 2341,
+          "tweet_count": 11426
+        },
+        "url": "https://t.co/qmQkMr39z5",
+        "username": "lovelyshuimao",
+        "verified": true
+      }
+    ]
+  }
+}

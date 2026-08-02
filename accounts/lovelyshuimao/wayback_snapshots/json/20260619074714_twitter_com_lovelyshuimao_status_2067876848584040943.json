@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1748763011140169729",
+    "conversation_id": "1912143234689642960",
+    "created_at": "2026-06-19T07:47:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T08:47:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067876848584040943"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1263379372037160960",
+          "start": 0,
+          "username": "xiufangwuyou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067876848584040943",
+    "in_reply_to_user_id": "1263379372037160960",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1912526602782867952",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiufangwuyou 不知道呀哇"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "1912143234689642960",
+        "created_at": "2026-06-19T07:47:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T08:47:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067876848584040943"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1263379372037160960",
+              "start": 0,
+              "username": "xiufangwuyou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067876848584040943",
+        "in_reply_to_user_id": "1263379372037160960",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1912526602782867952",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiufangwuyou 不知道呀哇"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1263379372037160960",
+        "conversation_id": "1912143234689642960",
+        "created_at": "2025-04-16T15:20:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-16T16:20:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1912526602782867952"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1912526602782867952",
+        "in_reply_to_user_id": "1748763011140169729",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1912143234689642960",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sxshuishuimao 哇，你是怎么办到的？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "｜水猫星铃Lumia\n｜INTJ ♀14 \n｜❤️@zhwevea\n｜提問box——————————↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 26,
+                "username": "zhwevea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGspkq"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你2.1km",
+        "name": "lovely水",
+        "pinned_tweet_id": "2063974537272910172",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045354329792749568/b7JXuLvu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4903,
+          "following_count": 1009,
+          "like_count": 274,
+          "listed_count": 17,
+          "media_count": 3272,
+          "tweet_count": 14692
+        },
+        "url": "https://t.co/EZhyEGspkq",
+        "username": "lovelyshuimao",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-21T08:01:38.000Z",
+        "description": "这里是无忧，可能是只男孩子？双属性偏m，性向女。见习摄影师，平面设计师，喜欢Lolita，汉服和其它可爱的东西。\n端游玩剑网三，电八PVE秀萝一只",
+        "id": "1263379372037160960",
+        "location": "成都",
+        "name": "无忧",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1263379542246187019/GsQk985f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 176,
+          "following_count": 1158,
+          "like_count": 22855,
+          "listed_count": 3,
+          "media_count": 99,
+          "tweet_count": 1659
+        },
+        "url": "",
+        "username": "xiufangwuyou",
+        "verified": false
+      }
+    ]
+  }
+}

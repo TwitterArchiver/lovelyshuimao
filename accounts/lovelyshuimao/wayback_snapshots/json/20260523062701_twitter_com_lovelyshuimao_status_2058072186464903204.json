@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1748763011140169729",
+    "conversation_id": "2057909910114075043",
+    "created_at": "2026-05-23T06:27:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T07:27:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058072186464903204"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1511436799000088577",
+          "start": 0,
+          "username": "GriseoQAQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058072186464903204",
+    "in_reply_to_user_id": "1511436799000088577",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057909910114075043",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GriseoQAQ 这也管\n动作像是什么鬼动作还有男女之分"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "2057909910114075043",
+        "created_at": "2026-05-23T06:27:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T07:27:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058072186464903204"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1511436799000088577",
+              "start": 0,
+              "username": "GriseoQAQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058072186464903204",
+        "in_reply_to_user_id": "1511436799000088577",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057909910114075043",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GriseoQAQ 这也管\n动作像是什么鬼动作还有男女之分"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511436799000088577",
+        "conversation_id": "2057909910114075043",
+        "created_at": "2026-05-22T19:42:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T20:42:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057909910114075043"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057909910114075043",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 25,
+          "impression_count": 13374,
+          "like_count": 255,
+          "quote_count": 2,
+          "reply_count": 15,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "在学校被老师鉴跨了.....\n老师讲讲完我们宿舍手机问题之后，留我下来说“有女生跟她反馈说你像女生”（动作像）\n然后其他的男生也有一些反馈\n她就用很意味深长的语气看着我\n“你想要完成你的梦想，你就考个好成绩去更能包容你的地方”\n然后对我家长说“有什么事一起沟通好了就行”\n呜呜呜老师呜呜呜呜......."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "｜水猫星铃Lumia\n｜INTJ ♀14  \n｜❤️@saonanaa\n｜提問box——————————↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 27,
+                "username": "saonanaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGspkq"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你2.1km",
+        "name": "lovely水",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045354329792749568/b7JXuLvu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4904,
+          "following_count": 1021,
+          "like_count": 274,
+          "listed_count": 15,
+          "media_count": 3218,
+          "tweet_count": 14379
+        },
+        "url": "https://t.co/EZhyEGspkq",
+        "username": "lovelyshuimao",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-05T20:13:22.000Z",
+        "description": "呜呜喵呜，无论何时何地～♪ 格蕾修都会回应你的期待♪坐标广西…无证含糖，在上高中/mtf/x?/喜欢的人@reallyshow_imp 永远喜欢宝宝诶嘿嘿ww♡/半家长党/hrt since2025.2.22 -       /想变得更可爱！/ 问答小房间w https://t.co/JOHSowzAko",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 52,
+                "username": "reallyshow_imp"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/griseo5201314",
+                "end": 153,
+                "expanded_url": "https://ngl.link/griseo5201314",
+                "start": 130,
+                "url": "https://t.co/JOHSowzAko"
+              }
+            ]
+          }
+        },
+        "id": "1511436799000088577",
+        "location": "格蕾修的小画室",
+        "name": "格蕾格蕾修？/夏目安安安～☆🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1979265992271499564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917257330665873409/FclANjkY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1305,
+          "following_count": 702,
+          "like_count": 6045,
+          "listed_count": 5,
+          "media_count": 674,
+          "tweet_count": 3282
+        },
+        "username": "GriseoQAQ",
+        "verified": false
+      }
+    ]
+  }
+}

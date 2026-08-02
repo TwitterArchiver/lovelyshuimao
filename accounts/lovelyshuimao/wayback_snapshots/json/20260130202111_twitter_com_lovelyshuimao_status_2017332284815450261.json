@@ -1,0 +1,470 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1748763011140169729",
+    "conversation_id": "2017041102403227782",
+    "created_at": "2026-01-30T20:21:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-30T21:21:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017332284815450261"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1304975497193877504",
+          "start": 0,
+          "username": "CyberCatX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017332284815450261",
+    "in_reply_to_user_id": "1304975497193877504",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017041102403227782",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CyberCatX 绿卡和身份哪个好拿呢？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "2017041102403227782",
+        "created_at": "2026-01-30T20:21:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T21:21:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017332284815450261"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1304975497193877504",
+              "start": 0,
+              "username": "CyberCatX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017332284815450261",
+        "in_reply_to_user_id": "1304975497193877504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017041102403227782",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CyberCatX 绿卡和身份哪个好拿呢？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1304975497193877504",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "description": "Auto racing action from the Formula One circuit.",
+              "id": "10002765236",
+              "name": "Formula One Racing"
+            }
+          },
+          {
+            "domain": {
+              "id": "6",
+              "name": "Sports Event"
+            },
+            "entity": {
+              "description": "The F1 World Championship takes to the track at Hungaroring, Mogyoród.",
+              "id": "1682471344305324038",
+              "name": "Hungarian Grand Prix 2023"
+            }
+          },
+          {
+            "domain": {
+              "id": "6",
+              "name": "Sports Event"
+            },
+            "entity": {
+              "description": "The F1 World Championship takes to the track at the Losail Circuit, Lusail.",
+              "id": "1710063341262036992",
+              "name": "Qatar Grand Prix 2023"
+            }
+          },
+          {
+            "domain": {
+              "id": "6",
+              "name": "Sports Event"
+            },
+            "entity": {
+              "description": "The F1 World Championship takes to the track at the Autódromo Hermanos Rodríguez, Mexico City.",
+              "id": "1718559425315696640",
+              "name": "Mexico City Grand Prix 2023"
+            }
+          },
+          {
+            "domain": {
+              "id": "6",
+              "name": "Sports Event"
+            },
+            "entity": {
+              "description": "The F1 World Championship takes to the track at the Autódromo José Carlos Pace, São Paulo.",
+              "id": "1719780187770945537",
+              "name": "São Paulo Grand Prix 2023"
+            }
+          },
+          {
+            "domain": {
+              "id": "6",
+              "name": "Sports Event"
+            },
+            "entity": {
+              "description": "The F1 World Championship takes to the track to the Las Vegas Circuit.",
+              "id": "1725575501769572352",
+              "name": "Las Vegas Grand Prix 2023"
+            }
+          },
+          {
+            "domain": {
+              "description": "Types of sports, like soccer and basketball",
+              "id": "11",
+              "name": "Sport"
+            },
+            "entity": {
+              "description": "Racing",
+              "id": "1058103880376971264",
+              "name": "Racing"
+            }
+          },
+          {
+            "domain": {
+              "description": "",
+              "id": "26",
+              "name": "Sports League"
+            },
+            "entity": {
+              "description": "Formula 1",
+              "id": "854701577994616832",
+              "name": "Formula 1"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "The F1 World Championship takes to the track at Hungaroring, Mogyoród.",
+              "id": "1682471344305324038",
+              "name": "Hungarian Grand Prix 2023"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "The F1 World Championship takes to the track at the Losail Circuit, Lusail.",
+              "id": "1710063341262036992",
+              "name": "Qatar Grand Prix 2023"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "The F1 World Championship takes to the track at the Autódromo Hermanos Rodríguez, Mexico City.",
+              "id": "1718559425315696640",
+              "name": "Mexico City Grand Prix 2023"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "The F1 World Championship takes to the track at the Autódromo José Carlos Pace, São Paulo.",
+              "id": "1719780187770945537",
+              "name": "São Paulo Grand Prix 2023"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "The F1 World Championship takes to the track to the Las Vegas Circuit.",
+              "id": "1725575501769572352",
+              "name": "Las Vegas Grand Prix 2023"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Auto racing",
+              "id": "847900599387430912",
+              "name": "Auto racing"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Formula 1",
+              "id": "854701577994616832",
+              "name": "Formula 1"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1364667946291798017",
+              "name": "Study abroad"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1497266565669998594",
+              "name": "Open-wheel racing"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1509530211146088466",
+              "name": "Motorsport"
+            }
+          }
+        ],
+        "conversation_id": "2017041102403227782",
+        "created_at": "2026-01-30T01:04:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T02:04:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017041102403227782"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2017041102403227782",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "所以留学美国拿绿卡，到底要过几关？几率有多大？\n\n我分享下自己的绿卡之路\n•读博：5年 F1签证\n•工作：3年 OPT\n•抽签：H1B 抽了3次才中\n•排期：EB1 等了3年才拿到绿卡\n总耗时：11年。\n这就是普通留学生留美的真实难度\n\n更关键的是4 个假设前提\n1.博士能顺利毕业（而且毕业不被压力整疯）\n2.毕业能找到工作，且公司愿意 sponsor 身份\n3.H1B 能在三年内抽中\n4.绿卡下来前不被裁员\n以上任何一步走错基本前功尽弃。。\n\n所以留学拿绿卡就像打台球：\n以为能一杆进洞\n但现实是你得通过：\n白球撞红球 → 红球撞蓝球 → 蓝球撞绿球 → 绿球撞黄球 → 最后才进袋。光有实力没用，还需要很多运气。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 210,
+          "impression_count": 149898,
+          "like_count": 532,
+          "quote_count": 20,
+          "reply_count": 120,
+          "retweet_count": 53
+        },
+        "reply_settings": "everyone",
+        "text": "所以留学美国拿绿卡，到底要过几关？几率有多大？\n\n我分享下自己的绿卡之路\n•读博：5年 F1签证\n•工作：3年 OPT\n•抽签：H1B 抽了3次才中\n•排期：EB1 等了3年才拿到绿卡\n总耗时：11年。\n这就是普通留学生留美的真实难度\n\n更关键的是4 个假设前提\n1.博士能顺利毕业（而且毕业不被压力整疯）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "水貓｜INTJ-t ｜永遠14歲｜提問↓｜❤️@saonanaa",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 23,
+                "username": "saonanaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGspkq"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你2.1km",
+        "name": "lovely水",
+        "pinned_tweet_id": "2014692818175025393",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009519740319092737/8QXu2gXD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3544,
+          "following_count": 999,
+          "like_count": 261,
+          "listed_count": 10,
+          "media_count": 2808,
+          "tweet_count": 12877
+        },
+        "url": "https://t.co/EZhyEGspkq",
+        "username": "lovelyshuimao",
+        "verified": true
+      },
+      {
+        "created_at": "2020-09-13T02:49:47.000Z",
+        "description": "科技与投资 深度访谈😼 | Deep dives on Tech & Investing💰 | US PhD 🎓 | $TSLA & $LMND & $TEM investor | 订阅加入投资成长社群",
+        "entities": {
+          "description": {
+            "cashtags": [
+              {
+                "end": 64,
+                "start": 59,
+                "tag": "TSLA"
+              },
+              {
+                "end": 72,
+                "start": 67,
+                "tag": "LMND"
+              },
+              {
+                "end": 79,
+                "start": 75,
+                "tag": "TEM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@CybercatX01",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@CybercatX01",
+                "start": 0,
+                "url": "https://t.co/9WJcuHaTb7"
+              }
+            ]
+          }
+        },
+        "id": "1304975497193877504",
+        "location": "US",
+        "name": "CyberCat",
+        "pinned_tweet_id": "2017041102403227782",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1751329469682348032/IPP41SXR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21606,
+          "following_count": 246,
+          "like_count": 16760,
+          "listed_count": 255,
+          "media_count": 1045,
+          "tweet_count": 5482
+        },
+        "url": "https://t.co/9WJcuHaTb7",
+        "username": "CyberCatX",
+        "verified": true
+      }
+    ]
+  }
+}

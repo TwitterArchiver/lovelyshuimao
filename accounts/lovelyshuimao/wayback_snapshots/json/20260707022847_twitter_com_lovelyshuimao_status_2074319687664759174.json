@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074319675580964864"
+      ]
+    },
+    "author_id": "1748763011140169729",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2074319687664759174",
+    "created_at": "2026-07-07T02:28:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T03:28:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074319687664759174"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Mp0TG5FSMz",
+          "end": 72,
+          "expanded_url": "https://x.com/lovelyshuimao/status/2074319687664759174/photo/1",
+          "media_key": "3_2074319675580964864",
+          "start": 49,
+          "url": "https://t.co/Mp0TG5FSMz"
+        },
+        {
+          "display_url": "x.com/lovelyshuimao/…",
+          "end": 96,
+          "expanded_url": "https://twitter.com/lovelyshuimao/status/2074061471777239300",
+          "start": 73,
+          "url": "https://t.co/zrjydU8mj5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074319687664759174",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074061471777239300",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "箱子📦被浮木拿进家放客厅了\n还好这么大个箱子而且没有任何信息\n没拆，可能当成我买了什么其他东西吧 https://t.co/Mp0TG5FSMz https://t.co/zrjydU8mj5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4032,
+        "media_key": "3_2074319675580964864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMl2wTWbYAAQkew.jpg",
+        "width": 3024
+      },
+      {
+        "height": 1315,
+        "media_key": "3_2074061464172961792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMiL6a5bIAA6deL.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074319675580964864"
+          ]
+        },
+        "author_id": "1748763011140169729",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2074319687664759174",
+        "created_at": "2026-07-07T02:28:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T03:28:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074319687664759174"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Mp0TG5FSMz",
+              "end": 72,
+              "expanded_url": "https://x.com/lovelyshuimao/status/2074319687664759174/photo/1",
+              "media_key": "3_2074319675580964864",
+              "start": 49,
+              "url": "https://t.co/Mp0TG5FSMz"
+            },
+            {
+              "display_url": "x.com/lovelyshuimao/…",
+              "end": 96,
+              "expanded_url": "https://twitter.com/lovelyshuimao/status/2074061471777239300",
+              "start": 73,
+              "url": "https://t.co/zrjydU8mj5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074319687664759174",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074061471777239300",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "箱子📦被浮木拿进家放客厅了\n还好这么大个箱子而且没有任何信息\n没拆，可能当成我买了什么其他东西吧 https://t.co/Mp0TG5FSMz https://t.co/zrjydU8mj5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074061464172961792"
+          ]
+        },
+        "author_id": "1748763011140169729",
+        "conversation_id": "2074061471777239300",
+        "created_at": "2026-07-06T09:22:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T10:22:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074061471777239300"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UlrkV4Ok6g",
+              "end": 39,
+              "expanded_url": "https://x.com/lovelyshuimao/status/2074061471777239300/photo/1",
+              "media_key": "3_2074061464172961792",
+              "start": 16,
+              "url": "https://t.co/UlrkV4Ok6g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074061471777239300",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 29610,
+          "like_count": 119,
+          "quote_count": 0,
+          "reply_count": 18,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "放门口了？😨\n这tm是什么意思 https://t.co/UlrkV4Ok6g"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "🐱水猫星铃Lumia\n👩🏻‍💻INTJ ♀14 \n❤️@zhwevea\n🙋🏻‍♀️提問box——————↓\n✍🏻想要成为哲学作家\n🧠神经性两畸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 28,
+                "username": "zhwevea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGspkq"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你 4.3km",
+        "name": "lovely水",
+        "pinned_tweet_id": "2063974537272910172",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045354329792749568/b7JXuLvu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5025,
+          "following_count": 997,
+          "like_count": 275,
+          "listed_count": 20,
+          "media_count": 3335,
+          "tweet_count": 14960
+        },
+        "url": "https://t.co/EZhyEGspkq",
+        "username": "lovelyshuimao",
+        "verified": true
+      }
+    ]
+  }
+}

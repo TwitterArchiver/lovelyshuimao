@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1748763011140169729",
+    "conversation_id": "2047291901233987637",
+    "created_at": "2026-04-25T00:22:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T01:22:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047833532253515821"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1260553941714186241",
+          "start": 0,
+          "username": "whyyoutouzhele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047833532253515821",
+    "in_reply_to_user_id": "1260553941714186241",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047291901233987637",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whyyoutouzhele 原体\n苹方"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1460,
+        "media_key": "3_2047289059106545664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGlujWCW4AAANO_.jpg",
+        "width": 1269
+      },
+      {
+        "height": 1466,
+        "media_key": "3_2047289074319286272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGlukOtW4AAPPb_.jpg",
+        "width": 1162
+      },
+      {
+        "height": 1456,
+        "media_key": "3_2047289081290276864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGlukorXwAAaxnk.jpg",
+        "width": 1095
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "2047291901233987637",
+        "created_at": "2026-04-25T00:22:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T01:22:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047833532253515821"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1260553941714186241",
+              "start": 0,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047833532253515821",
+        "in_reply_to_user_id": "1260553941714186241",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047291901233987637",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whyyoutouzhele 原体\n苹方"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047289059106545664",
+            "3_2047289074319286272",
+            "3_2047289081290276864"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "conversation_id": "2047291901233987637",
+        "created_at": "2026-04-23T12:30:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T13:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047291901233987637"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eGbdZUQ27E",
+              "end": 135,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2047291901233987637/photo/1",
+              "media_key": "3_2047289059106545664",
+              "start": 112,
+              "url": "https://t.co/eGbdZUQ27E"
+            },
+            {
+              "display_url": "pic.x.com/eGbdZUQ27E",
+              "end": 135,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2047291901233987637/photo/1",
+              "media_key": "3_2047289074319286272",
+              "start": 112,
+              "url": "https://t.co/eGbdZUQ27E"
+            },
+            {
+              "display_url": "pic.x.com/eGbdZUQ27E",
+              "end": 135,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2047291901233987637/photo/1",
+              "media_key": "3_2047289081290276864",
+              "start": 112,
+              "url": "https://t.co/eGbdZUQ27E"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047291901233987637",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "最近，上海广播电台主持人印海蓉，接受新京报采访时表示：要改变现在屏幕默认字体多为西方设计的“等线黑体”现象，应把宋体字确认为国家屏显的默认字体。\n理由是“像黑体这类无衬线字体的设计源自西方，遵循的是西方的审美和文明标识”。\n“这个问题之所以几十年都没有被关注到，是因为它很隐蔽，但它对文化传承的侵蚀是渐进且深远的”。\n\n媒体人、博主唐辉吉质疑：人大代表的建议，应该关乎国家大局、关乎民生福祉、关乎未来发展，而不是停留在这种鸡毛蒜皮、细枝末节的小事上。\n而字体，只是一种阅读工具。黑体适合屏幕阅读，清晰护眼；宋体适合印刷，端庄稳重。两者各有其用，与文化安全、文化侵蚀毫无关系。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 264,
+          "impression_count": 359183,
+          "like_count": 1272,
+          "quote_count": 26,
+          "reply_count": 352,
+          "retweet_count": 67
+        },
+        "reply_settings": "everyone",
+        "text": "最近，上海广播电台主持人印海蓉，接受新京报采访时表示：要改变现在屏幕默认字体多为西方设计的“等线黑体”现象，应把宋体字确认为国家屏显的默认字体。\n理由是“像黑体这类无衬线字体的设计源自西方，遵循的是西方的审美和文明标识”。 https://t.co/eGbdZUQ27E"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "｜水猫星铃Lumia\n｜INTJ  永遠14\n｜❤️ZhiWei @saonanaa\n｜提問——————————↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 33,
+                "username": "saonanaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGspkq"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你2.1km",
+        "name": "lovely水",
+        "pinned_tweet_id": "2046127996961161240",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045354329792749568/b7JXuLvu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4777,
+          "following_count": 1011,
+          "like_count": 273,
+          "listed_count": 13,
+          "media_count": 3177,
+          "tweet_count": 14089
+        },
+        "url": "https://t.co/EZhyEGspkq",
+        "username": "lovelyshuimao",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 129,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 106,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2019752134674141562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2200782,
+          "following_count": 1037,
+          "like_count": 9422,
+          "listed_count": 8638,
+          "media_count": 45715,
+          "tweet_count": 52799
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

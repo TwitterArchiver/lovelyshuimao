@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075886419856474112"
+      ]
+    },
+    "author_id": "1748763011140169729",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2075886435786530846",
+    "created_at": "2026-07-11T10:14:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T11:14:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075886435786530846"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/14QlkNl2YJ",
+          "end": 44,
+          "expanded_url": "https://x.com/lovelyshuimao/status/2075886435786530846/photo/1",
+          "media_key": "3_2075886419856474112",
+          "start": 21,
+          "url": "https://t.co/14QlkNl2YJ"
+        },
+        {
+          "display_url": "x.com/lovelyshuimao/…",
+          "end": 68,
+          "expanded_url": "https://twitter.com/lovelyshuimao/status/2075885559558603160",
+          "start": 45,
+          "url": "https://t.co/TONtHDQnJc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075886435786530846",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075885559558603160",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "唉呀我草这魔爪怎么这么坏呀\n给我划个口子 https://t.co/14QlkNl2YJ https://t.co/TONtHDQnJc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3024,
+        "media_key": "3_2075886419856474112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM8Hs0maQAAxe6F.jpg",
+        "width": 3024
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2075885542554914816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM8G5wZa0AAhcic.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075886419856474112"
+          ]
+        },
+        "author_id": "1748763011140169729",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2075886435786530846",
+        "created_at": "2026-07-11T10:14:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T11:14:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075886435786530846"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/14QlkNl2YJ",
+              "end": 44,
+              "expanded_url": "https://x.com/lovelyshuimao/status/2075886435786530846/photo/1",
+              "media_key": "3_2075886419856474112",
+              "start": 21,
+              "url": "https://t.co/14QlkNl2YJ"
+            },
+            {
+              "display_url": "x.com/lovelyshuimao/…",
+              "end": 68,
+              "expanded_url": "https://twitter.com/lovelyshuimao/status/2075885559558603160",
+              "start": 45,
+              "url": "https://t.co/TONtHDQnJc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075886435786530846",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075885559558603160",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "唉呀我草这魔爪怎么这么坏呀\n给我划个口子 https://t.co/14QlkNl2YJ https://t.co/TONtHDQnJc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075885542554914816"
+          ]
+        },
+        "author_id": "1748763011140169729",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2075885559558603160",
+        "created_at": "2026-07-11T10:11:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T11:11:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075885559558603160"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mywOzJQlvs",
+              "end": 49,
+              "expanded_url": "https://x.com/lovelyshuimao/status/2075885559558603160/photo/1",
+              "media_key": "3_2075885542554914816",
+              "start": 26,
+              "url": "https://t.co/mywOzJQlvs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075885559558603160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "台风来了\n别人都是提前储备物资\n我是冒雨买了喝的（ https://t.co/mywOzJQlvs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "🐱神仙水水猫星铃Lumia\n👩🏻‍💻INTJ ♀14 \n🙋🏻‍♀️提問box——————↓\n✍🏻想成为作家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGspkq"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你 4.3km",
+        "name": "lovely水",
+        "pinned_tweet_id": "2063974537272910172",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045354329792749568/b7JXuLvu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5102,
+          "following_count": 997,
+          "like_count": 275,
+          "listed_count": 20,
+          "media_count": 3361,
+          "tweet_count": 15061
+        },
+        "url": "https://t.co/EZhyEGspkq",
+        "username": "lovelyshuimao",
+        "verified": true
+      }
+    ]
+  }
+}

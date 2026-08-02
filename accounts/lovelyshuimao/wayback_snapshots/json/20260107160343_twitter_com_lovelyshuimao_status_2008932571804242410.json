@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1748763011140169729",
+    "conversation_id": "2008603489958756618",
+    "created_at": "2026-01-07T16:03:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-07T17:03:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008932571804242410"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "90053407",
+          "start": 0,
+          "username": "euglin0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008932571804242410",
+    "in_reply_to_user_id": "90053407",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008932339259486393",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@euglin0 中国大陆，台湾，我都是这样翻译的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "2008603489958756618",
+        "created_at": "2026-01-07T16:03:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T17:03:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008932571804242410"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "90053407",
+              "start": 0,
+              "username": "euglin0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008932571804242410",
+        "in_reply_to_user_id": "90053407",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008932339259486393",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@euglin0 中国大陆，台湾，我都是这样翻译的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "90053407",
+        "conversation_id": "2008603489958756618",
+        "created_at": "2026-01-07T16:02:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T17:02:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008932339259486393"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1748763011140169729",
+              "start": 0,
+              "username": "lovelyshuimao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008932339259486393",
+        "in_reply_to_user_id": "1748763011140169729",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008603489958756618",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lovelyshuimao 藍媒：大陸\n綠媒：中國\n其他：China"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "水貓｜ENFP-t ｜永遠8歲｜提問↓ ｜對象@saonanaa｜素食哦｜心理兩畸｜蓝v互fo｜侵删",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 23,
+                "username": "saonanaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGrRuS"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你2.1km",
+        "name": "lovely水",
+        "pinned_tweet_id": "2007376785382748406",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002694749883682816/cD8uYfnW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3281,
+          "following_count": 1008,
+          "like_count": 255,
+          "listed_count": 8,
+          "media_count": 2655,
+          "tweet_count": 12359
+        },
+        "url": "https://t.co/EZhyEGrRuS",
+        "username": "lovelyshuimao",
+        "verified": true
+      },
+      {
+        "created_at": "2009-11-15T00:13:08.000Z",
+        "description": "a son, a grandson, and a racist white supremacist.  Fled Taiwan and immigrated to Canada in 1991 because China bad, white good.",
+        "id": "90053407",
+        "location": "British Columbia",
+        "name": "Eugene Lin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1533638273213423616/15tpOBuB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 169,
+          "following_count": 247,
+          "like_count": 2946,
+          "listed_count": 5,
+          "media_count": 357,
+          "tweet_count": 2975
+        },
+        "username": "euglin0",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1748763011140169729",
+    "conversation_id": "2035968222030451000",
+    "created_at": "2026-03-23T11:04:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-23T12:04:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036036365742395842"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1324198319535521795",
+          "start": 0,
+          "username": "KKaWSB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036036365742395842",
+    "in_reply_to_user_id": "1324198319535521795",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035968222030451000",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KKaWSB 上下两个大桶的其实更好\n小桶洗不干净的"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 23870,
+        "height": 1280,
+        "media_key": "13_2035968095152652288",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2035968095152652288/img/jfGCS0rziVLLXOju.jpg",
+        "public_metrics": {
+          "view_count": 30962
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2035968095152652288/vid/avc1/320x568/8vIUtN0xYvQFPMRG.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2035968095152652288/vid/avc1/480x852/nj580aYt32bKoyOu.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2035968095152652288/vid/avc1/720x1280/hyf-IT8e9zQ2mkIZ.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2035968095152652288/pl/OpGaar0m4QqO_sS2.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "2035968222030451000",
+        "created_at": "2026-03-23T11:04:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T12:04:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036036365742395842"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1324198319535521795",
+              "start": 0,
+              "username": "KKaWSB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036036365742395842",
+        "in_reply_to_user_id": "1324198319535521795",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035968222030451000",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KKaWSB 上下两个大桶的其实更好\n小桶洗不干净的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2035968095152652288"
+          ]
+        },
+        "author_id": "1324198319535521795",
+        "conversation_id": "2035968222030451000",
+        "created_at": "2026-03-23T06:33:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T07:33:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035968222030451000"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NWfyznMBt4",
+              "end": 52,
+              "expanded_url": "https://x.com/KKaWSB/status/2035968222030451000/video/1",
+              "media_key": "13_2035968095152652288",
+              "start": 29,
+              "url": "https://t.co/NWfyznMBt4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035968222030451000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 38,
+          "impression_count": 67121,
+          "like_count": 141,
+          "quote_count": 2,
+          "reply_count": 48,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "设计这款带独立内衣隔间的洗衣机的人……绝对是个女孩。😌✨ https://t.co/NWfyznMBt4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "INTJ-t ｜永遠14歲｜提問↓｜❤️@saonanaa",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 20,
+                "username": "saonanaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGspkq"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你2.1km",
+        "name": "lovely水",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023831074921738240/frpPaTVT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4843,
+          "following_count": 1024,
+          "like_count": 269,
+          "listed_count": 13,
+          "media_count": 3062,
+          "tweet_count": 13551
+        },
+        "url": "https://t.co/EZhyEGspkq",
+        "username": "lovelyshuimao",
+        "verified": true
+      },
+      {
+        "created_at": "2020-11-05T03:54:29.000Z",
+        "description": "Co-founder @ CarbonSilicon AI | AI Quant Trading | Based in Palo Alto | 加密投研 | 美股 | 科技 | 宏观 | 招募工程师（可兼职）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/KKcasi",
+                "end": 23,
+                "expanded_url": "https://t.me/KKcasi",
+                "start": 0,
+                "url": "https://t.co/QsTW1lrCWR"
+              }
+            ]
+          }
+        },
+        "id": "1324198319535521795",
+        "location": "Atlanta, GA",
+        "name": "KK.aWSB",
+        "pinned_tweet_id": "1968453490084299020",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1597151544004132864/tTRRgVeE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71754,
+          "following_count": 2829,
+          "like_count": 9022,
+          "listed_count": 613,
+          "media_count": 5095,
+          "tweet_count": 10573
+        },
+        "url": "https://t.co/QsTW1lrCWR",
+        "username": "KKaWSB",
+        "verified": true
+      }
+    ]
+  }
+}

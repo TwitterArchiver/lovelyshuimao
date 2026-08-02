@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1748763011140169729",
+    "conversation_id": "2012070788703432758",
+    "created_at": "2026-01-17T19:10:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-17T20:10:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012603415747309696"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1939985156778983424",
+          "start": 0,
+          "username": "Yan_SealBabie"
+        },
+        {
+          "end": 29,
+          "id": "1445400963632750596",
+          "start": 15,
+          "username": "Im_Just__Girl"
+        },
+        {
+          "end": 38,
+          "id": "1662374338908270592",
+          "start": 30,
+          "username": "8az_pap"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012603415747309696",
+    "in_reply_to_user_id": "1939985156778983424",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012378568106406091",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yan_SealBabie @Im_Just__Girl @8az_pap 大街上随便找个男的就行了，这就是后10%"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "2012070788703432758",
+        "created_at": "2026-01-17T19:10:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T20:10:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012603415747309696"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1939985156778983424",
+              "start": 0,
+              "username": "Yan_SealBabie"
+            },
+            {
+              "end": 29,
+              "id": "1445400963632750596",
+              "start": 15,
+              "username": "Im_Just__Girl"
+            },
+            {
+              "end": 38,
+              "id": "1662374338908270592",
+              "start": 30,
+              "username": "8az_pap"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012603415747309696",
+        "in_reply_to_user_id": "1939985156778983424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012378568106406091",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yan_SealBabie @Im_Just__Girl @8az_pap 大街上随便找个男的就行了，这就是后10%"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1939985156778983424",
+        "conversation_id": "2012070788703432758",
+        "created_at": "2026-01-17T04:16:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T05:16:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012378568106406091"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1445400963632750596",
+              "start": 0,
+              "username": "Im_Just__Girl"
+            },
+            {
+              "end": 23,
+              "id": "1662374338908270592",
+              "start": 15,
+              "username": "8az_pap"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012378568106406091",
+        "in_reply_to_user_id": "1445400963632750596",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 270,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012282870585311415",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Im_Just__Girl @8az_pap 我想看看后10%的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "水貓｜INTJ-t ｜永遠14歲｜提問↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGrRuS"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你2.1km",
+        "name": "lovely水",
+        "pinned_tweet_id": "2009971664344494303",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009519740319092737/8QXu2gXD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3317,
+          "following_count": 1014,
+          "like_count": 260,
+          "listed_count": 10,
+          "media_count": 2724,
+          "tweet_count": 12559
+        },
+        "url": "https://t.co/EZhyEGrRuS",
+        "username": "lovelyshuimao",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-01T09:51:34.000Z",
+        "description": "#TS #人妖 / 做点吃的 / 旅行家 / 喜欢历史，政治，军事 / 反女权 （只有这个号是本人）",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 3,
+                "start": 0,
+                "tag": "TS"
+              },
+              {
+                "end": 7,
+                "start": 4,
+                "tag": "人妖"
+              }
+            ]
+          }
+        },
+        "id": "1939985156778983424",
+        "location": "英国 伦敦 🇬🇧",
+        "name": "言",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993087958535065600/-1UD0j5J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 224,
+          "following_count": 197,
+          "like_count": 1630,
+          "listed_count": 1,
+          "media_count": 24,
+          "tweet_count": 954
+        },
+        "username": "Yan_SealBabie",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-05T14:51:49.000Z",
+        "description": "985本 QS50硕在读|I'm a Good girl. Please don't hurt me.👧|洪水将至🌈|女诬退散！|喜阴冷潮湿|pass跨妹OK|打舞萌的MTF永远是男人，计算机理工MTF永远是男人。|男娘拯救世界！",
+        "id": "1445400963632750596",
+        "location": "Girls Home",
+        "name": "Danielle",
+        "pinned_tweet_id": "1987920278366941404",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977019999081709568/Vs0ILDtR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 280,
+          "following_count": 662,
+          "like_count": 10131,
+          "listed_count": 4,
+          "media_count": 101,
+          "tweet_count": 5095
+        },
+        "username": "Im_Just__Girl",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-27T08:26:20.000Z",
+        "description": "出厂日期：2006.11.15\n翻车顺男\nHRT 2025.9.03-2025.10.03\n2026.1.2-？\n半个家长党\n持证不含糖😋",
+        "id": "1662374338908270592",
+        "location": "杭州下沙",
+        "name": "8az_🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978061538394349568/KPunYccH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166,
+          "following_count": 37,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 111
+        },
+        "username": "8az_pap",
+        "verified": false
+      }
+    ]
+  }
+}

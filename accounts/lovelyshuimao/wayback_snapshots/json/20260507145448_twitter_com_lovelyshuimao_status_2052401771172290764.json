@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1748763011140169729",
+    "conversation_id": "2052058653776380327",
+    "created_at": "2026-05-07T14:54:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T15:54:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052401771172290764"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2046238259919912960",
+          "start": 0,
+          "username": "Type_zhi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052401771172290764",
+    "in_reply_to_user_id": "2046238259919912960",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052058653776380327",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Type_zhi 没养成敲门习惯\n我自己去父母房间都不敲门的\n所以现在全家都锁门了（都有独立房间）\n我一般先直接开门他们听到门把手动了的声音也会来开，约等于敲门了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "2052058653776380327",
+        "created_at": "2026-05-07T14:54:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T15:54:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052401771172290764"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2046238259919912960",
+              "start": 0,
+              "username": "Type_zhi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052401771172290764",
+        "in_reply_to_user_id": "2046238259919912960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052058653776380327",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Type_zhi 没养成敲门习惯\n我自己去父母房间都不敲门的\n所以现在全家都锁门了（都有独立房间）\n我一般先直接开门他们听到门把手动了的声音也会来开，约等于敲门了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046238259919912960",
+        "conversation_id": "2052058653776380327",
+        "created_at": "2026-05-06T16:11:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T17:11:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052058653776380327"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052058653776380327",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 15549,
+          "like_count": 161,
+          "quote_count": 1,
+          "reply_count": 39,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "不是为什么家长都不敲门进来的\n我爸刚才直接推门进来了。。我还在换衣服啊啊啊😭\n然后看到我骂了我两句...然后把门关上又推开了。。。😅\n这是何意味。。。\n家长为什么要随便看孩子的隐私"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "｜水猫星铃Lumia\n｜INTJ 永遠14\n｜❤️@saonanaa\n｜提問——————————↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 25,
+                "username": "saonanaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGspkq"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你2.1km",
+        "name": "lovely水",
+        "pinned_tweet_id": "2049024358027547007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045354329792749568/b7JXuLvu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4899,
+          "following_count": 1018,
+          "like_count": 274,
+          "listed_count": 15,
+          "media_count": 3197,
+          "tweet_count": 14222
+        },
+        "url": "https://t.co/EZhyEGspkq",
+        "username": "lovelyshuimao",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-20T14:43:50.000Z",
+        "description": "🏳️‍⚧️🍥/一只17岁的xyn..../hrt🍥:2025-1-19/生日🎂2009-03-07 03:37/在读女高（确信）/有小证了捏🥺/还在上学喵☺️/想和大家做朋友喵 欢迎扩列喵🤓（限跨性别）/现居湖北/还有myl你还我的号😭😭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "typezhi.top",
+                "end": 23,
+                "expanded_url": "https://typezhi.top/",
+                "start": 0,
+                "url": "https://t.co/ff58O0W0jN"
+              }
+            ]
+          }
+        },
+        "id": "2046238259919912960",
+        "location": "湖北",
+        "name": "知式🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2046852648339681308",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046251484065771520/Q4-YXewi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 805,
+          "following_count": 507,
+          "like_count": 28,
+          "listed_count": 2,
+          "media_count": 14,
+          "tweet_count": 131
+        },
+        "url": "https://t.co/ff58O0W0jN",
+        "username": "Type_zhi",
+        "verified": false
+      }
+    ]
+  }
+}

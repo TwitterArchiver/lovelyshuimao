@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1748763011140169729",
+    "conversation_id": "2043521596812620255",
+    "created_at": "2026-04-13T08:17:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T09:17:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043604374841389546"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1815033214353936384",
+          "start": 0,
+          "username": "Euroocean"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043604374841389546",
+    "in_reply_to_user_id": "1815033214353936384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043521596812620255",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Euroocean 这实在是太偷懒了…\n好歹改改吧，内核不变\n这样一篇原创的就产出了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "2043521596812620255",
+        "created_at": "2026-04-13T08:17:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T09:17:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043604374841389546"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1815033214353936384",
+              "start": 0,
+              "username": "Euroocean"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043604374841389546",
+        "in_reply_to_user_id": "1815033214353936384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043521596812620255",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Euroocean 这实在是太偷懒了…\n好歹改改吧，内核不变\n这样一篇原创的就产出了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1815033214353936384",
+        "conversation_id": "2043521596812620255",
+        "created_at": "2026-04-13T02:48:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T03:48:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043521596812620255"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043521596812620255",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 2276,
+          "like_count": 37,
+          "quote_count": 0,
+          "reply_count": 19,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感觉推特确实是洗稿天堂\n\n只要你有耐心\n去b站和小红书关注一堆情感、心理、个人成长博主\n然后把口播稿扒下来，改成适合推特的文体，发上去\n谁能发现？\n\n如果你不是逮着一个猛薅，而是东抄抄西抄抄，更发现不了了\n甚至著作权法也只是保护表达形式，不保护思想内容\n\n这代替不了原创，但可以帮你稳定出摊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "INTJ｜永遠14｜提問↓｜❤️对象ZhiWei @saonanaa",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 25,
+                "username": "saonanaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGspkq"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你2.1km",
+        "name": "lovely水",
+        "pinned_tweet_id": "2043012092362657805",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023831074921738240/frpPaTVT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4775,
+          "following_count": 999,
+          "like_count": 272,
+          "listed_count": 12,
+          "media_count": 3148,
+          "tweet_count": 13961
+        },
+        "url": "https://t.co/EZhyEGspkq",
+        "username": "lovelyshuimao",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-21T14:37:08.000Z",
+        "description": "04年自媒体人🎤/深度思考🧠/勇闯世界🏄‍♀️/个人成长🏃‍♂️/狠抓搞钱💰\nAI、美股、web3、创业……哪个新潮聊哪个",
+        "id": "1815033214353936384",
+        "name": "欧海",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012537719000305665/0eFzrATl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1083,
+          "following_count": 617,
+          "like_count": 1280,
+          "listed_count": 1,
+          "media_count": 76,
+          "tweet_count": 1100
+        },
+        "username": "Euroocean",
+        "verified": true
+      }
+    ]
+  }
+}

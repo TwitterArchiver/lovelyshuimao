@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1748763011140169729",
+    "conversation_id": "1995717937991201017",
+    "created_at": "2025-12-02T14:53:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-02T15:53:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995868851897262310"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1572532372347953154",
+          "start": 0,
+          "username": "preferredwm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995868851897262310",
+    "in_reply_to_user_id": "1572532372347953154",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995868281824227697",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@preferredwm 直男常规想法"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "1995717937991201017",
+        "created_at": "2025-12-02T14:53:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T15:53:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995868851897262310"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1572532372347953154",
+              "start": 0,
+              "username": "preferredwm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995868851897262310",
+        "in_reply_to_user_id": "1572532372347953154",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995868281824227697",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@preferredwm 直男常规想法"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1572532372347953154",
+        "conversation_id": "1995717937991201017",
+        "created_at": "2025-12-02T14:50:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T15:50:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995868281824227697"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1748763011140169729",
+              "start": 0,
+              "username": "lovelyshuimao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995868281824227697",
+        "in_reply_to_user_id": "1748763011140169729",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995717937991201017",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lovelyshuimao 这个对比图上面那个就是百合漫啊，下面那个就是战斗剧了，无非就是梗图作者自己的认知里，女寝都是在谈恋爱而男寝剑拔弩张，只能说对女生间的关系幻想偏多。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "水貓🍕｜ENFP-t ｜永遠14哦｜是豪貓不o不圓不殘不死｜對象@saonanaa｜素食主義者｜提問箱鏈接↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 32,
+                "username": "saonanaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%B0%B4%E6%B…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E6%B0%B4%E6%B0%B493927",
+                "start": 0,
+                "url": "https://t.co/qmQkMr39z5"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你2.1km",
+        "name": "lovely水",
+        "pinned_tweet_id": "1995425834463887724",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994377431365697536/FlF4hwSr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2853,
+          "following_count": 1241,
+          "like_count": 251,
+          "listed_count": 7,
+          "media_count": 2345,
+          "tweet_count": 11449
+        },
+        "url": "https://t.co/qmQkMr39z5",
+        "username": "lovelyshuimao",
+        "verified": true
+      },
+      {
+        "created_at": "2022-09-21T10:25:18.000Z",
+        "description": "genZ/Founder/AI/ENTP\nWELCOME TO MY WORLD",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "2wood.cn",
+                "end": 23,
+                "expanded_url": "https://2wood.cn",
+                "start": 0,
+                "url": "https://t.co/Mk63NbFTTW"
+              }
+            ]
+          }
+        },
+        "id": "1572532372347953154",
+        "location": "Antarctica",
+        "name": "preferred",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966815606336090113/rmSO_mZ4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 617,
+          "following_count": 973,
+          "like_count": 4458,
+          "listed_count": 0,
+          "media_count": 176,
+          "tweet_count": 1227
+        },
+        "url": "https://t.co/Mk63NbFTTW",
+        "username": "preferredwm",
+        "verified": false
+      }
+    ]
+  }
+}

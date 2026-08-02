@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1748763011140169729",
+    "conversation_id": "2013752961911173483",
+    "created_at": "2026-01-21T10:31:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-21T11:31:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013922343026868474"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "164792207",
+          "start": 0,
+          "username": "waterpoop666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013922343026868474",
+    "in_reply_to_user_id": "164792207",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013920420425265219",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@waterpoop666 语音输入才对应手机/平板，我很多字如果不打拼音就写不出来"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "2013752961911173483",
+        "created_at": "2026-01-21T10:31:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T11:31:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013922343026868474"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "164792207",
+              "start": 0,
+              "username": "waterpoop666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013922343026868474",
+        "in_reply_to_user_id": "164792207",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013920420425265219",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@waterpoop666 语音输入才对应手机/平板，我很多字如果不打拼音就写不出来"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "164792207",
+        "conversation_id": "2013752961911173483",
+        "created_at": "2026-01-21T10:23:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T11:23:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013920420425265219"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1748763011140169729",
+              "start": 0,
+              "username": "lovelyshuimao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013920420425265219",
+        "in_reply_to_user_id": "1748763011140169729",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013752961911173483",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lovelyshuimao 这让我想到了上高中时刚接触手机，我只会手写输入，因为拼音输入需要学，直到后来我学会了拼音输入，就再也不想用手写输入了 现在很多中老年到死都只会用手写输入，因为更直观，不用学，他们根本不知道自己错过了什么 \n在这里，手写输入相当于手机和平板，拼音输入就是电脑。一下好理解了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "水貓｜INTJ-t ｜永遠14歲｜提問↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGrRuS"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你2.1km",
+        "name": "lovely水",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009519740319092737/8QXu2gXD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3452,
+          "following_count": 1017,
+          "like_count": 260,
+          "listed_count": 10,
+          "media_count": 2747,
+          "tweet_count": 12717
+        },
+        "url": "https://t.co/EZhyEGrRuS",
+        "username": "lovelyshuimao",
+        "verified": true
+      },
+      {
+        "created_at": "2010-07-09T19:33:51.000Z",
+        "description": "Human waste",
+        "id": "164792207",
+        "location": "NYC",
+        "name": "PeepeePoo八九六四祈翠熊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1818257758984220672/Hv5CD5T6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1451,
+          "following_count": 252,
+          "like_count": 5977,
+          "listed_count": 21,
+          "media_count": 749,
+          "tweet_count": 30996
+        },
+        "username": "waterpoop666",
+        "verified": false
+      }
+    ]
+  }
+}

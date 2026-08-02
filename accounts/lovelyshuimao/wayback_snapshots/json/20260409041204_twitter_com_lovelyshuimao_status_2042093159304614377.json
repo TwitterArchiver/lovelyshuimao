@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2042093154380484608"
+      ]
+    },
+    "author_id": "1748763011140169729",
+    "conversation_id": "2042093159304614377",
+    "created_at": "2026-04-09T04:12:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T05:12:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042093159304614377"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/yBodqAcVyb",
+          "end": 133,
+          "expanded_url": "https://x.com/lovelyshuimao/status/2042093159304614377/photo/1",
+          "media_key": "3_2042093154380484608",
+          "start": 110,
+          "url": "https://t.co/yBodqAcVyb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042093159304614377",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "最近说b站要加广告\n我觉得b站不是要加广告\n是应该收会员\n现在tm大会员都有广告\n大会员应该全程无广\n然后把钱给创作者收益\n说实话现在b站的视频\n要么是纯为爱发电的\n要么软广和硬广\n优质内容几乎被那些不缺钱的头部垄断了 https://t.co/yBodqAcVyb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 713,
+        "media_key": "3_2042093154380484608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFb454kbEAAv74h.jpg",
+        "width": 751
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042093154380484608"
+          ]
+        },
+        "author_id": "1748763011140169729",
+        "conversation_id": "2042093159304614377",
+        "created_at": "2026-04-09T04:12:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T05:12:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042093159304614377"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yBodqAcVyb",
+              "end": 133,
+              "expanded_url": "https://x.com/lovelyshuimao/status/2042093159304614377/photo/1",
+              "media_key": "3_2042093154380484608",
+              "start": 110,
+              "url": "https://t.co/yBodqAcVyb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042093159304614377",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最近说b站要加广告\n我觉得b站不是要加广告\n是应该收会员\n现在tm大会员都有广告\n大会员应该全程无广\n然后把钱给创作者收益\n说实话现在b站的视频\n要么是纯为爱发电的\n要么软广和硬广\n优质内容几乎被那些不缺钱的头部垄断了 https://t.co/yBodqAcVyb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "INTJ｜永遠14｜提問↓｜❤️@saonanaa",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 16,
+                "username": "saonanaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGspkq"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你2.1km",
+        "name": "lovely水",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023831074921738240/frpPaTVT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4816,
+          "following_count": 1014,
+          "like_count": 272,
+          "listed_count": 13,
+          "media_count": 3123,
+          "tweet_count": 13860
+        },
+        "url": "https://t.co/EZhyEGspkq",
+        "username": "lovelyshuimao",
+        "verified": true
+      }
+    ]
+  }
+}

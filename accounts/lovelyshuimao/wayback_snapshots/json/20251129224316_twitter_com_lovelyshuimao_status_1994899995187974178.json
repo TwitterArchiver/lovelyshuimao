@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1748763011140169729",
+    "conversation_id": "1994794773304283154",
+    "created_at": "2025-11-29T22:43:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-29T23:43:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994899995187974178"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1080037159111815168",
+          "start": 0,
+          "username": "a315897"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994899995187974178",
+    "in_reply_to_user_id": "1080037159111815168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994812860195901754",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@a315897 ace6也不错"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "1994794773304283154",
+        "created_at": "2025-11-29T22:43:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T23:43:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994899995187974178"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1080037159111815168",
+              "start": 0,
+              "username": "a315897"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994899995187974178",
+        "in_reply_to_user_id": "1080037159111815168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994812860195901754",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@a315897 ace6也不错"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1080037159111815168",
+        "conversation_id": "1994794773304283154",
+        "created_at": "2025-11-29T16:57:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T17:57:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994812860195901754"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1748763011140169729",
+              "start": 0,
+              "username": "lovelyshuimao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994812860195901754",
+        "in_reply_to_user_id": "1748763011140169729",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994794773304283154",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lovelyshuimao 一加ACE6T（确信）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "水貓🍕｜ENFP-t ｜永遠14｜是豪貓不o不圓不殘不死｜對象@saonanaa｜素食主義者｜提問箱鏈接↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 31,
+                "username": "saonanaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%B0%B4%E6%B…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E6%B0%B4%E6%B0%B493927",
+                "start": 0,
+                "url": "https://t.co/qmQkMr39z5"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你2.1km",
+        "name": "lovely水",
+        "pinned_tweet_id": "1994304923094098025",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994377431365697536/FlF4hwSr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2713,
+          "following_count": 1125,
+          "like_count": 248,
+          "listed_count": 7,
+          "media_count": 2326,
+          "tweet_count": 11353
+        },
+        "url": "https://t.co/qmQkMr39z5",
+        "username": "lovelyshuimao",
+        "verified": true
+      },
+      {
+        "created_at": "2019-01-01T09:44:59.000Z",
+        "description": "跨性别友好\n（这么强调怎么有种不怀好意的友好的感觉？嗯，一定是错觉\n\n16项人格测完了是isfp🤔🤔不太懂捏",
+        "id": "1080037159111815168",
+        "name": "萨姆林",
+        "pinned_tweet_id": "1497911685969231882",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1568804198887870466/N6Vl-_3f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 259,
+          "following_count": 315,
+          "like_count": 5197,
+          "listed_count": 3,
+          "media_count": 1425,
+          "tweet_count": 19455
+        },
+        "username": "a315897",
+        "verified": false
+      }
+    ]
+  }
+}

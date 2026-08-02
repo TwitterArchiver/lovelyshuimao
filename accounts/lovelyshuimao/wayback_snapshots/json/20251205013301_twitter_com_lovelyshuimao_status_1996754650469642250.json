@@ -1,0 +1,352 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1748763011140169729",
+    "conversation_id": "1994853504616407450",
+    "created_at": "2025-12-05T01:33:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-05T02:33:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996754650469642250"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1882678524596867072",
+          "start": 0,
+          "username": "gdioiui"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996754650469642250",
+    "in_reply_to_user_id": "1882678524596867072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994853504616407450",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gdioiui o什么"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1133,
+        "media_key": "3_1994853501420408835",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G68ksLsbkAMrNnN.jpg",
+        "width": 2142
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1994853501319663616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G68ksLUaUAAsbX0.jpg",
+        "width": 921
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1994853500812234752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G68ksJbbkAAZsmP.jpg",
+        "width": 921
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1994853501353271296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G68ksLcbIAABJZa.jpg",
+        "width": 921
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "1994853504616407450",
+        "created_at": "2025-12-05T01:33:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-05T02:33:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996754650469642250"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1882678524596867072",
+              "start": 0,
+              "username": "gdioiui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996754650469642250",
+        "in_reply_to_user_id": "1882678524596867072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994853504616407450",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gdioiui o什么"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994853501420408835",
+            "3_1994853501319663616",
+            "3_1994853500812234752",
+            "3_1994853501353271296"
+          ]
+        },
+        "author_id": "1882678524596867072",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "1994853504616407450",
+        "created_at": "2025-11-29T19:38:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T20:38:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994853504616407450"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wCxRPANVki",
+              "end": 189,
+              "expanded_url": "https://x.com/gdioiui/status/1994853504616407450/photo/1",
+              "media_key": "3_1994853501420408835",
+              "start": 166,
+              "url": "https://t.co/wCxRPANVki"
+            },
+            {
+              "display_url": "pic.x.com/wCxRPANVki",
+              "end": 189,
+              "expanded_url": "https://x.com/gdioiui/status/1994853504616407450/photo/1",
+              "media_key": "3_1994853501319663616",
+              "start": 166,
+              "url": "https://t.co/wCxRPANVki"
+            },
+            {
+              "display_url": "pic.x.com/wCxRPANVki",
+              "end": 189,
+              "expanded_url": "https://x.com/gdioiui/status/1994853504616407450/photo/1",
+              "media_key": "3_1994853500812234752",
+              "start": 166,
+              "url": "https://t.co/wCxRPANVki"
+            },
+            {
+              "display_url": "pic.x.com/wCxRPANVki",
+              "end": 189,
+              "expanded_url": "https://x.com/gdioiui/status/1994853504616407450/photo/1",
+              "media_key": "3_1994853501353271296",
+              "start": 166,
+              "url": "https://t.co/wCxRPANVki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994853504616407450",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "和 莎儿 一起o的     好像搞多了 \n后面测了个血压 我已经（和清醒朋友）确定了（188/85）\ngrok一直说我看错了 是128 108 \n我还以为我幻觉真看不清     Gemini看了的 别的没问\n躺床上了 应该没事 尽量睡\n不要学 不要学 我疯到一分钟几十条消息\n几分钟就把ggrok用满了\n可能血压仪坏了\n我一会在测 好像是不能连续多次测量\n或者换一只手也可以\n不过最好是躺床上 但是床上不知道准不准\n算通宵了吧先 睡了  这个点也没必要晚安啦 \n不要担心 明天醒过来尽早发消息T^T"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2121,
+          "like_count": 28,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "和 莎儿 一起o的     好像搞多了 \n后面测了个血压 我已经（和清醒朋友）确定了（188/85）\ngrok一直说我看错了 是128 108 \n我还以为我幻觉真看不清     Gemini看了的 别的没问\n躺床上了 应该没事 尽量睡\n不要学 不要学 我疯到一分钟几十条消息\n几分钟就把ggrok用满了\n可能血压仪坏了\n我一会在测 https://t.co/wCxRPANVki"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "水貓🍕｜ENFP-t ｜永遠14哦｜是豪貓不o不圓不殘不死｜對象@saonanaa｜素食主義者｜提問箱鏈接↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 32,
+                "username": "saonanaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%B0%B4%E6%B…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E6%B0%B4%E6%B0%B493927",
+                "start": 0,
+                "url": "https://t.co/qmQkMr39z5"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你2.1km",
+        "name": "lovely水",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996464884062818304/V790rprR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2909,
+          "following_count": 1258,
+          "like_count": 251,
+          "listed_count": 7,
+          "media_count": 2367,
+          "tweet_count": 11558
+        },
+        "url": "https://t.co/qmQkMr39z5",
+        "username": "lovelyshuimao",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "退役oier（11.30）不知道要干嘛ing\n精神病警戒线------\n高二在读 高强度（高压低分)|| intp-t\n特长：c+ 翻墙 发病（负能高）\nMTX🍥 &ba日服开服牢玩家||梓厨高浓度发癫警告\n只听术 爱看轻小说 （虚空回响派）\n（可能时无多日）\n171/50   胸围71腰围60肌无力",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blogout.9701853.xyz",
+                "end": 23,
+                "expanded_url": "http://blogout.9701853.xyz",
+                "start": 0,
+                "url": "https://t.co/FUXWMVI0KP"
+              }
+            ]
+          }
+        },
+        "id": "1882678524596867072",
+        "location": "地下室",
+        "name": "圣三一第一步枪🍥",
+        "pinned_tweet_id": "1991908303778254951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994250445293015043/zFQsHP0K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 527,
+          "following_count": 95,
+          "like_count": 510,
+          "listed_count": 0,
+          "media_count": 225,
+          "tweet_count": 1584
+        },
+        "url": "https://t.co/FUXWMVI0KP",
+        "username": "gdioiui",
+        "verified": true
+      }
+    ]
+  }
+}

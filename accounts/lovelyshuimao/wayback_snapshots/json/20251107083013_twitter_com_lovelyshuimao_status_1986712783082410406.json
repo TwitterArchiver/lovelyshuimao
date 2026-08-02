@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1748763011140169729",
+    "conversation_id": "1986463883725529182",
+    "created_at": "2025-11-07T08:30:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-07T09:30:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986712783082410406"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1926098091821727744",
+          "start": 0,
+          "username": "superikun_"
+        },
+        {
+          "end": 26,
+          "id": "1872130736872144897",
+          "start": 12,
+          "username": "yanzhenzhen21"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986712783082410406",
+    "in_reply_to_user_id": "1926098091821727744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986712506816217396",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@superikun_ @yanzhenzhen21 谢谢啦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "1986463883725529182",
+        "created_at": "2025-11-07T08:30:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T09:30:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986712783082410406"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1926098091821727744",
+              "start": 0,
+              "username": "superikun_"
+            },
+            {
+              "end": 26,
+              "id": "1872130736872144897",
+              "start": 12,
+              "username": "yanzhenzhen21"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986712783082410406",
+        "in_reply_to_user_id": "1926098091821727744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986712506816217396",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@superikun_ @yanzhenzhen21 谢谢啦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1926098091821727744",
+        "conversation_id": "1986463883725529182",
+        "created_at": "2025-11-07T08:29:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T09:29:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986712506816217396"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1748763011140169729",
+              "start": 0,
+              "username": "lovelyshuimao"
+            },
+            {
+              "end": 29,
+              "id": "1872130736872144897",
+              "start": 15,
+              "username": "yanzhenzhen21"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986712506816217396",
+        "in_reply_to_user_id": "1748763011140169729",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986465431507640424",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lovelyshuimao @yanzhenzhen21 盐酸含量太高酸性太强"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "ENFP-t ｜永遠14｜是豪貓不o不圓不殘不死｜對象@saonanaa｜素食主义者｜提問箱鏈接↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 27,
+                "username": "saonanaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%B0%B4%E6%B…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E6%B0%B4%E6%B0%B493927",
+                "start": 0,
+                "url": "https://t.co/qmQkMr2BJx"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你2.1km",
+        "name": "lovely水(水猫)🍕",
+        "pinned_tweet_id": "1986463883725529182",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967556205590831104/87BEnlAx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2554,
+          "following_count": 1123,
+          "like_count": 245,
+          "listed_count": 7,
+          "media_count": 2241,
+          "tweet_count": 11078
+        },
+        "url": "https://t.co/qmQkMr2BJx",
+        "username": "lovelyshuimao",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-24T02:09:21.000Z",
+        "description": "FPV|穿越机|AMD YES",
+        "id": "1926098091821727744",
+        "name": "超级板烧鸡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984945732030488576/udDN-PbN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 38,
+          "like_count": 84,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 28
+        },
+        "username": "superikun_",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-26T04:02:16.000Z",
+        "description": "09年mtf 🏳️‍⚧ / 常住地区开封 / 性格温顺欢迎找我聊天₍˄·͈༝·͈˄*₎◞ ̑̑ / 我不会讨厌任何人，我爱你们所有人，世界好温柔我爱这个世界，世界支离破碎抱抱我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/shen_dian",
+                "end": 23,
+                "expanded_url": "https://t.me/shen_dian",
+                "start": 0,
+                "url": "https://t.co/em3JVvNBnq"
+              }
+            ]
+          }
+        },
+        "id": "1872130736872144897",
+        "location": "月球",
+        "name": "言箴甄🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985476488385458176/j0Tc333U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 659,
+          "following_count": 720,
+          "like_count": 20328,
+          "listed_count": 0,
+          "media_count": 104,
+          "tweet_count": 939
+        },
+        "url": "https://t.co/em3JVvNBnq",
+        "username": "yanzhenzhen21",
+        "verified": false
+      }
+    ]
+  }
+}

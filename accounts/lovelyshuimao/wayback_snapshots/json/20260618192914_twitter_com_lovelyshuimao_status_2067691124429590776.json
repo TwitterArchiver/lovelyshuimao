@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2040330860839497728"
+      ],
+      "media_source_tweet_id": [
+        "2040331148241547641"
+      ]
+    },
+    "author_id": "1748763011140169729",
+    "conversation_id": "2067691124429590776",
+    "created_at": "2026-06-18T19:29:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T20:29:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067691124429590776"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1834826132270743552",
+          "start": 3,
+          "username": "KazimasX"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/a9EoHxOwsA",
+          "end": 99,
+          "expanded_url": "https://x.com/KazimasX/status/2040331148241547641/photo/1",
+          "media_key": "16_2040330860839497728",
+          "start": 76,
+          "url": "https://t.co/a9EoHxOwsA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067691124429590776",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040331148241547641",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @KazimasX: 时间过好快，不知不觉又好几个月没更新了，之前不更新是因为天太冷了懒得脱衣服，现在天热了会更新了吗？会吗会吗会吗会吗会吗会吗 https://t.co/a9EoHxOwsA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 500,
+        "media_key": "16_2040330860839497728",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HFC2G5ia8AAbDpj.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HFC2G5ia8AAbDpj.mp4"
+          }
+        ],
+        "width": 500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2040330860839497728"
+          ],
+          "media_source_tweet_id": [
+            "2040331148241547641"
+          ]
+        },
+        "author_id": "1748763011140169729",
+        "conversation_id": "2067691124429590776",
+        "created_at": "2026-06-18T19:29:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T20:29:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067691124429590776"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1834826132270743552",
+              "start": 3,
+              "username": "KazimasX"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/a9EoHxOwsA",
+              "end": 99,
+              "expanded_url": "https://x.com/KazimasX/status/2040331148241547641/photo/1",
+              "media_key": "16_2040330860839497728",
+              "start": 76,
+              "url": "https://t.co/a9EoHxOwsA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067691124429590776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040331148241547641",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @KazimasX: 时间过好快，不知不觉又好几个月没更新了，之前不更新是因为天太冷了懒得脱衣服，现在天热了会更新了吗？会吗会吗会吗会吗会吗会吗 https://t.co/a9EoHxOwsA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2040330860839497728"
+          ]
+        },
+        "author_id": "1834826132270743552",
+        "conversation_id": "2040331148241547641",
+        "created_at": "2026-04-04T07:30:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T08:30:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040331148241547641"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/a9EoHxOwsA",
+              "end": 85,
+              "expanded_url": "https://x.com/KazimasX/status/2040331148241547641/photo/1",
+              "media_key": "16_2040330860839497728",
+              "start": 62,
+              "url": "https://t.co/a9EoHxOwsA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040331148241547641",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 22983,
+          "like_count": 127,
+          "quote_count": 0,
+          "reply_count": 23,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "时间过好快，不知不觉又好几个月没更新了，之前不更新是因为天太冷了懒得脱衣服，现在天热了会更新了吗？会吗会吗会吗会吗会吗会吗 https://t.co/a9EoHxOwsA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "｜水猫星铃Lumia\n｜INTJ ♀14 \n｜❤️@zhwevea\n｜提問box——————————↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 26,
+                "username": "zhwevea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGspkq"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你2.1km",
+        "name": "lovely水",
+        "pinned_tweet_id": "2063974537272910172",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045354329792749568/b7JXuLvu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4905,
+          "following_count": 1009,
+          "like_count": 274,
+          "listed_count": 17,
+          "media_count": 3272,
+          "tweet_count": 14679
+        },
+        "url": "https://t.co/EZhyEGspkq",
+        "username": "lovelyshuimao",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-14T05:27:00.000Z",
+        "description": "ka星外星人desu！在地球的话大概就是小男娘吧！",
+        "id": "1834826132270743552",
+        "location": "ka星ka国ka市ka城幸ka小区9幢102",
+        "name": "Kazima",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1834826221987020800/t49OqIUx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9477,
+          "following_count": 19,
+          "like_count": 11,
+          "listed_count": 18,
+          "media_count": 49,
+          "tweet_count": 70
+        },
+        "url": "",
+        "username": "KazimasX",
+        "verified": false
+      }
+    ]
+  }
+}

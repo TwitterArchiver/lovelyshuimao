@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1748763011140169729",
+    "conversation_id": "2008603489958756618",
+    "created_at": "2026-01-07T16:02:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-07T17:02:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008932254412861489"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1301403383513845760",
+          "start": 0,
+          "username": "ababaayaya"
+        },
+        {
+          "end": 24,
+          "id": "1481152738922680321",
+          "start": 12,
+          "username": "alan1010434"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008932254412861489",
+    "in_reply_to_user_id": "1301403383513845760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008928247015416087",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ababaayaya @alan1010434 每个人的感觉不一样嘛，可能是因为我长期在简中语境下"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "2008603489958756618",
+        "created_at": "2026-01-07T16:02:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T17:02:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008932254412861489"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1301403383513845760",
+              "start": 0,
+              "username": "ababaayaya"
+            },
+            {
+              "end": 24,
+              "id": "1481152738922680321",
+              "start": 12,
+              "username": "alan1010434"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008932254412861489",
+        "in_reply_to_user_id": "1301403383513845760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008928247015416087",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ababaayaya @alan1010434 每个人的感觉不一样嘛，可能是因为我长期在简中语境下"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1301403383513845760",
+        "conversation_id": "2008603489958756618",
+        "created_at": "2026-01-07T15:46:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T16:46:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008928247015416087"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1748763011140169729",
+              "start": 0,
+              "username": "lovelyshuimao"
+            },
+            {
+              "end": 27,
+              "id": "1481152738922680321",
+              "start": 15,
+              "username": "alan1010434"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008928247015416087",
+        "in_reply_to_user_id": "1748763011140169729",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008855265043689549",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lovelyshuimao @alan1010434 明天過後有種神秘與未知的感覺\n反而比較吸引我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "水貓｜ENFP-t ｜永遠8歲｜提問↓ ｜對象@saonanaa｜素食哦｜心理兩畸｜蓝v互fo｜侵删",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 23,
+                "username": "saonanaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGrRuS"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你2.1km",
+        "name": "lovely水",
+        "pinned_tweet_id": "2007376785382748406",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002694749883682816/cD8uYfnW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3280,
+          "following_count": 1008,
+          "like_count": 255,
+          "listed_count": 8,
+          "media_count": 2655,
+          "tweet_count": 12358
+        },
+        "url": "https://t.co/EZhyEGrRuS",
+        "username": "lovelyshuimao",
+        "verified": true
+      },
+      {
+        "created_at": "2020-09-03T06:15:37.000Z",
+        "description": "啊哈",
+        "id": "1301403383513845760",
+        "name": "123",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 2297,
+          "like_count": 80434,
+          "listed_count": 10,
+          "media_count": 93,
+          "tweet_count": 7772
+        },
+        "username": "ababaayaya",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-12T06:35:12.000Z",
+        "description": "",
+        "id": "1481152738922680321",
+        "location": "Taiwan",
+        "name": "alan",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1786261936549806080/2NygdVts_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 273,
+          "like_count": 37,
+          "listed_count": 4,
+          "media_count": 6,
+          "tweet_count": 1013
+        },
+        "username": "alan1010434",
+        "verified": false
+      }
+    ]
+  }
+}

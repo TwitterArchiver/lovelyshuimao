@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1748763011140169729",
+    "conversation_id": "2046033356098552002",
+    "created_at": "2026-04-20T13:06:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T14:06:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046213973289423141"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2893510872",
+          "start": 0,
+          "username": "Hayami_kiraa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046213973289423141",
+    "in_reply_to_user_id": "2893510872",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046033356098552002",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hayami_kiraa 就说一个，国内是喝汤的，食材不吃喝汤，这卡路里怎么可能测的出来（"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 614,
+        "media_key": "3_2045927839258550272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGSYh68WoAAYa3n.png",
+        "width": 664
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "2046033356098552002",
+        "created_at": "2026-04-20T13:06:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T14:06:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046213973289423141"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2893510872",
+              "start": 0,
+              "username": "Hayami_kiraa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046213973289423141",
+        "in_reply_to_user_id": "2893510872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046033356098552002",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hayami_kiraa 就说一个，国内是喝汤的，食材不吃喝汤，这卡路里怎么可能测的出来（"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045927839258550272"
+          ]
+        },
+        "author_id": "2893510872",
+        "conversation_id": "2046033356098552002",
+        "created_at": "2026-04-20T01:09:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T02:09:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046033356098552002"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EIhOM9WORQ",
+              "end": 99,
+              "expanded_url": "https://x.com/Hayami_kiraa/status/2046033356098552002/photo/1",
+              "media_key": "3_2045927839258550272",
+              "start": 76,
+              "url": "https://t.co/EIhOM9WORQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046033356098552002",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 82,
+          "impression_count": 109068,
+          "like_count": 695,
+          "quote_count": 12,
+          "reply_count": 148,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "我笑死了，一直很好奇为啥国外卡路里追踪的 AI 食物拍照 app 这么火，但国内一直无人问津。现在终于知道了 — \n\n因为中餐完全分析不出来原食材😂😂 https://t.co/EIhOM9WORQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "｜INTJ\n｜永遠14\n｜❤️ZhiWei @saonanaa\n｜提問——————————↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 22,
+                "username": "saonanaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGspkq"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你2.1km",
+        "name": "lovely水",
+        "pinned_tweet_id": "2046127996961161240",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045354329792749568/b7JXuLvu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4795,
+          "following_count": 1009,
+          "like_count": 273,
+          "listed_count": 13,
+          "media_count": 3167,
+          "tweet_count": 14019
+        },
+        "url": "https://t.co/EZhyEGspkq",
+        "username": "lovelyshuimao",
+        "verified": false
+      },
+      {
+        "created_at": "2014-11-08T08:13:17.000Z",
+        "description": "🇨🇳-🇩🇪 Shanghai - Berlin｜AI Builder｜ex Product manager Temu & Tiktok｜Content Creator｜IG：hayami_kiraa｜Tele：https://t.co/KoSOVOQSgX",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/hayami_kiraa",
+                "end": 128,
+                "expanded_url": "http://t.me/hayami_kiraa",
+                "start": 105,
+                "url": "https://t.co/KoSOVOQSgX"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hayami.typlog.io",
+                "end": 23,
+                "expanded_url": "https://hayami.typlog.io",
+                "start": 0,
+                "url": "https://t.co/IrU2I5EGQP"
+              }
+            ]
+          }
+        },
+        "id": "2893510872",
+        "location": "Berlin",
+        "name": "早见Hayami",
+        "pinned_tweet_id": "2046183381835096494",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046158892506267648/HFMBulGd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41214,
+          "following_count": 1023,
+          "like_count": 417,
+          "listed_count": 261,
+          "media_count": 1304,
+          "tweet_count": 3468
+        },
+        "url": "https://t.co/IrU2I5EGQP",
+        "username": "Hayami_kiraa",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1913824345966952448"
+      ],
+      "media_source_tweet_id": [
+        "1913824357765550439"
+      ]
+    },
+    "author_id": "1748763011140169729",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2022164157471371416",
+    "created_at": "2026-02-13T04:21:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T05:21:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022164157471371416"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1748763011140169729",
+          "start": 3,
+          "username": "lovelyshuimao"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/eybkbK6Nfr",
+          "end": 48,
+          "expanded_url": "https://x.com/sxshuishuimao/status/1913824357765550439/photo/1",
+          "media_key": "3_1913824345966952448",
+          "start": 25,
+          "url": "https://t.co/eybkbK6Nfr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022164157471371416",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1913824357765550439",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lovelyshuimao: 面基面基！ https://t.co/eybkbK6Nfr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1913824345966952448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Go9FGk_awAADNpV.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1913824345966952448"
+          ],
+          "media_source_tweet_id": [
+            "1913824357765550439"
+          ]
+        },
+        "author_id": "1748763011140169729",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2022164157471371416",
+        "created_at": "2026-02-13T04:21:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T05:21:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022164157471371416"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1748763011140169729",
+              "start": 3,
+              "username": "lovelyshuimao"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/eybkbK6Nfr",
+              "end": 48,
+              "expanded_url": "https://x.com/sxshuishuimao/status/1913824357765550439/photo/1",
+              "media_key": "3_1913824345966952448",
+              "start": 25,
+              "url": "https://t.co/eybkbK6Nfr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022164157471371416",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1913824357765550439",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lovelyshuimao: 面基面基！ https://t.co/eybkbK6Nfr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1913824345966952448"
+          ]
+        },
+        "author_id": "1748763011140169729",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1913824357765550439",
+        "created_at": "2025-04-20T05:17:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-20T06:17:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1913824357765550439"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eybkbK6Nfr",
+              "end": 29,
+              "expanded_url": "https://x.com/sxshuishuimao/status/1913824357765550439/photo/1",
+              "media_key": "3_1913824345966952448",
+              "start": 6,
+              "url": "https://t.co/eybkbK6Nfr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913824357765550439",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 809,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "面基面基！ https://t.co/eybkbK6Nfr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "INTJ-t ｜永遠14歲｜提問↓｜❤️@saonanaa",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 20,
+                "username": "saonanaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGspkq"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你2.1km",
+        "name": "神仙水水猫🍕🧊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022012338992558081/ZKVb9XnG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3615,
+          "following_count": 991,
+          "like_count": 262,
+          "listed_count": 11,
+          "media_count": 2865,
+          "tweet_count": 13006
+        },
+        "url": "https://t.co/EZhyEGspkq",
+        "username": "lovelyshuimao",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1748763011140169729",
+    "conversation_id": "2079047129805553982",
+    "created_at": "2026-07-20T18:10:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T19:10:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079267630452703353"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2043978653227212801",
+          "start": 0,
+          "username": "astrangecat0"
+        },
+        {
+          "end": 22,
+          "id": "941177293233197056",
+          "start": 14,
+          "username": "SenYe10"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079267630452703353",
+    "in_reply_to_user_id": "2043978653227212801",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079060057652924812",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@astrangecat0 @SenYe10 瑞幸啊大哥而且才9.9这和每天喝一杯饮料有什么区别\n贵点的饮料都5-6块了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "2079047129805553982",
+        "created_at": "2026-07-20T18:10:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T19:10:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079267630452703353"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2043978653227212801",
+              "start": 0,
+              "username": "astrangecat0"
+            },
+            {
+              "end": 22,
+              "id": "941177293233197056",
+              "start": 14,
+              "username": "SenYe10"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079267630452703353",
+        "in_reply_to_user_id": "2043978653227212801",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079060057652924812",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@astrangecat0 @SenYe10 瑞幸啊大哥而且才9.9这和每天喝一杯饮料有什么区别\n贵点的饮料都5-6块了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2043978653227212801",
+        "conversation_id": "2079047129805553982",
+        "created_at": "2026-07-20T04:25:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T05:25:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079060057652924812"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "941177293233197056",
+              "start": 0,
+              "username": "SenYe10"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079060057652924812",
+        "in_reply_to_user_id": "941177293233197056",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 38793,
+          "like_count": 692,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079047129805553982",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SenYe10 每天一杯瑞幸，不太像贫困生啊。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "🐱神仙水水猫星铃Lumia\n👩🏻‍💻INTJ ♀14 \n🙋🏻‍♀️提問box——————↓\n✍🏻想成為作家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGspkq"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你 4.3km",
+        "name": "lovely水",
+        "pinned_tweet_id": "2075897725733024056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045354329792749568/b7JXuLvu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5253,
+          "following_count": 997,
+          "like_count": 275,
+          "listed_count": 22,
+          "media_count": 3413,
+          "tweet_count": 15331
+        },
+        "url": "https://t.co/EZhyEGspkq",
+        "username": "lovelyshuimao",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-14T09:04:35.000Z",
+        "description": "一只奇怪的猫，有可能出现在任何地方",
+        "id": "2043978653227212801",
+        "name": "奇怪的猫 | 狗宝真帅🐕",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062143410992300032/G9G3DlEf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2848,
+          "following_count": 2941,
+          "like_count": 1572,
+          "listed_count": 4,
+          "media_count": 511,
+          "tweet_count": 16239
+        },
+        "url": "",
+        "username": "astrangecat0",
+        "verified": true
+      },
+      {
+        "created_at": "2017-12-14T05:25:27.000Z",
+        "description": "赚钱|出海|认清趋势变化|对抗失落经济|数字游民 | 人生/人性社会洞察\n读好书|2026年6月~12月，计划读20本书，感悟&正能量分享",
+        "id": "941177293233197056",
+        "name": "Sen Ye",
+        "pinned_tweet_id": "2078647340978897220",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006540570559180800/DYRsAlPd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4457,
+          "following_count": 2138,
+          "like_count": 20670,
+          "listed_count": 17,
+          "media_count": 383,
+          "tweet_count": 14797
+        },
+        "url": "",
+        "username": "SenYe10",
+        "verified": true
+      }
+    ]
+  }
+}

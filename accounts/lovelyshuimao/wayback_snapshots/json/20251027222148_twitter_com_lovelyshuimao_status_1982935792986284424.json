@@ -1,0 +1,154 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1748763011140169729",
+    "conversation_id": "1982935792986284424",
+    "created_at": "2025-10-27T22:21:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-27T23:21:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1982935792986284424"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 55,
+          "id": "1758508742780567552",
+          "start": 39,
+          "username": "JarvisJian13747"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982935792986284424",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "目前xm榜单再加一入\nxm有美国绿卡，xm家长党，xm在美国穿裙子呜呜呜😭🥺\n@JarvisJian13747"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "1982935792986284424",
+        "created_at": "2025-10-27T22:21:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T23:21:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982935792986284424"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 55,
+              "id": "1758508742780567552",
+              "start": 39,
+              "username": "JarvisJian13747"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982935792986284424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "目前xm榜单再加一入\nxm有美国绿卡，xm家长党，xm在美国穿裙子呜呜呜😭🥺\n@JarvisJian13747"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "ENFP-t ｜素食主义者｜永远14｜是豪猫不o不圆不割不死｜对象@saonanaa｜男的不HRT｜雙相｜家暴當｜提問箱鏈接↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 33,
+                "username": "saonanaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%B0%B4%E6%B…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E6%B0%B4%E6%B0%B493927",
+                "start": 0,
+                "url": "https://t.co/qmQkMr2BJx"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你2.1km",
+        "name": "lovely水水猫🍕",
+        "pinned_tweet_id": "1982658874365923671",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967556205590831104/87BEnlAx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2387,
+          "following_count": 1092,
+          "like_count": 242,
+          "listed_count": 7,
+          "media_count": 2146,
+          "tweet_count": 10730
+        },
+        "url": "https://t.co/qmQkMr2BJx",
+        "username": "lovelyshuimao",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-16T15:09:45.000Z",
+        "description": "是一只不大聪明笨蛋，体重:55kg，身高180 笨蛋现在18岁了喵，中国的家在江门哦，有想要的可以随时来哦(只接受同类喵），我现在在旧金山还没回国哦，喵喵喵，爱好:漫展，骑车，户外，刷机",
+        "id": "1758508742780567552",
+        "location": "San Francisco, CA",
+        "name": "唔中意食碳酸钡千寻酱喵～🏳️‍⚧️♿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966594203921924096/lbk6wpSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 56,
+          "like_count": 537,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 61
+        },
+        "username": "JarvisJian13747",
+        "verified": false
+      }
+    ]
+  }
+}

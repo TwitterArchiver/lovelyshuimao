@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1748763011140169729",
+    "conversation_id": "2069042554985935161",
+    "created_at": "2026-06-22T23:02:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T00:02:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069194428523356501"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1989080651916890112",
+          "start": 0,
+          "username": "lapinD1231"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069194428523356501",
+    "in_reply_to_user_id": "1989080651916890112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069126749645099488",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lapinD1231 gay通常不是讨厌娘化女性化的嘛"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "2069042554985935161",
+        "created_at": "2026-06-22T23:02:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T00:02:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069194428523356501"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1989080651916890112",
+              "start": 0,
+              "username": "lapinD1231"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069194428523356501",
+        "in_reply_to_user_id": "1989080651916890112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069126749645099488",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lapinD1231 gay通常不是讨厌娘化女性化的嘛"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989080651916890112",
+        "conversation_id": "2069042554985935161",
+        "created_at": "2026-06-22T18:33:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T19:33:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069126749645099488"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1748763011140169729",
+              "start": 0,
+              "username": "lovelyshuimao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069126749645099488",
+        "in_reply_to_user_id": "1748763011140169729",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069042554985935161",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lovelyshuimao 男娘的性別認同是男人，同時性取向是生理男的情況下，就是所謂的男娘Gay。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "🐱水猫星铃Lumia\n👩🏻‍💻INTJ ♀14 \n❤️@zhwevea\n🙋🏻‍♀️提問box——————————↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 28,
+                "username": "zhwevea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGspkq"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你2.1km",
+        "name": "lovely水",
+        "pinned_tweet_id": "2063974537272910172",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045354329792749568/b7JXuLvu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4901,
+          "following_count": 1004,
+          "like_count": 274,
+          "listed_count": 17,
+          "media_count": 3277,
+          "tweet_count": 14713
+        },
+        "url": "https://t.co/EZhyEGspkq",
+        "username": "lovelyshuimao",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-13T21:20:17.000Z",
+        "description": "INTP-T  天秤座⚖️ 犬儒主義 無性戀 \n喜好美麗的人事物🧡  芫荽駄目👎\n「永遠的17歲」\n喜歡吃巧克力 棒棒糖 牛奶糖 各類甜食",
+        "id": "1989080651916890112",
+        "location": "Lune-Terre",
+        "name": "P",
+        "pinned_tweet_id": "2047331493035553192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989081768398659584/7D49V_PR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 3610,
+          "like_count": 23775,
+          "listed_count": 0,
+          "media_count": 90,
+          "tweet_count": 2630
+        },
+        "url": "",
+        "username": "lapinD1231",
+        "verified": false
+      }
+    ]
+  }
+}

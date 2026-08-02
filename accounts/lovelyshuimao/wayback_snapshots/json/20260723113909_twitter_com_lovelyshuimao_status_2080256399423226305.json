@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1748763011140169729",
+    "conversation_id": "2080215065790431239",
+    "created_at": "2026-07-23T11:39:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T12:39:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080256399423226305"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1685990126810525696",
+          "start": 0,
+          "username": "LazyChara"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080256399423226305",
+    "in_reply_to_user_id": "1685990126810525696",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080253144009949553",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LazyChara yes"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "2080215065790431239",
+        "created_at": "2026-07-23T11:39:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T12:39:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080256399423226305"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1685990126810525696",
+              "start": 0,
+              "username": "LazyChara"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080256399423226305",
+        "in_reply_to_user_id": "1685990126810525696",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080253144009949553",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LazyChara yes"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1685990126810525696",
+        "conversation_id": "2080215065790431239",
+        "created_at": "2026-07-23T11:26:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T12:26:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080253144009949553"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1748763011140169729",
+              "start": 0,
+              "username": "lovelyshuimao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080253144009949553",
+        "in_reply_to_user_id": "1748763011140169729",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080215065790431239",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lovelyshuimao 950xl？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "🐱神仙水水猫星铃Lumia\n👩🏻‍💻INTJ ♀14 \n🙋🏻‍♀️提問box——————↓\n✍🏻想成為作家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGspkq"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你 4.3km",
+        "name": "lovely水",
+        "pinned_tweet_id": "2075897725733024056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045354329792749568/b7JXuLvu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5478,
+          "following_count": 998,
+          "like_count": 275,
+          "listed_count": 22,
+          "media_count": 3425,
+          "tweet_count": 15451
+        },
+        "url": "https://t.co/EZhyEGspkq",
+        "username": "lovelyshuimao",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-31T12:26:01.000Z",
+        "description": "头像和背图是OC\n持证上岗\n曾经是方块人玩家\n重度RAC杂食成分的游戏玩家\n爱好去废品站捡电子垃圾\n有点编码能力\nRE DATE:26.6.19",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/1994337933",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/1994337933",
+                "start": 0,
+                "url": "https://t.co/13tMIYE4Ab"
+              }
+            ]
+          }
+        },
+        "id": "1685990126810525696",
+        "location": "地球",
+        "name": "Matsuki_LazyChara🍥",
+        "pinned_tweet_id": "2070156306774962406",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075738603725238272/4QkL_d0t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 65,
+          "like_count": 52,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 143
+        },
+        "url": "https://t.co/13tMIYE4Ab",
+        "username": "LazyChara",
+        "verified": true
+      }
+    ]
+  }
+}

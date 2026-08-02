@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1748763011140169729",
+    "conversation_id": "1995632028063351184",
+    "created_at": "2025-12-03T00:33:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-03T01:33:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996014996799774926"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1586375892154036224",
+          "start": 0,
+          "username": "LyraSumusha"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996014996799774926",
+    "in_reply_to_user_id": "1586375892154036224",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995632028063351184",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LyraSumusha 注射死刑通常在完全麻醉下用快速让心脏停跳的药物尽可能让人感知不到痛苦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "1995632028063351184",
+        "created_at": "2025-12-03T00:33:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T01:33:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996014996799774926"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1586375892154036224",
+              "start": 0,
+              "username": "LyraSumusha"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996014996799774926",
+        "in_reply_to_user_id": "1586375892154036224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995632028063351184",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LyraSumusha 注射死刑通常在完全麻醉下用快速让心脏停跳的药物尽可能让人感知不到痛苦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1586375892154036224",
+        "conversation_id": "1995632028063351184",
+        "created_at": "2025-12-01T23:12:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T00:12:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995632028063351184"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1995632028063351184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 31899,
+          "like_count": 207,
+          "quote_count": 4,
+          "reply_count": 61,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "看到b站一个讲注射死刑的视频，说过程其实并不是无感而是很痛苦，不像理论上那么人道，弹幕纷纷“那是好事啊”“受害者可不这样想”“舒服了”，让我毫不怀疑老中很多人都是潜在的变态杀人犯，享受折磨只是被法律压抑了本性，借着受害者的名义流露出来真实感情，毕竟死人又不会说话"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "水貓🍕｜ENFP-t ｜永遠14哦｜是豪貓不o不圓不殘不死｜對象@saonanaa｜素食主義者｜提問箱鏈接↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 32,
+                "username": "saonanaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%B0%B4%E6%B…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E6%B0%B4%E6%B0%B493927",
+                "start": 0,
+                "url": "https://t.co/qmQkMr39z5"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你2.1km",
+        "name": "lovely水",
+        "pinned_tweet_id": "1995425834463887724",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994377431365697536/FlF4hwSr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2871,
+          "following_count": 1248,
+          "like_count": 251,
+          "listed_count": 7,
+          "media_count": 2347,
+          "tweet_count": 11466
+        },
+        "url": "https://t.co/qmQkMr39z5",
+        "username": "lovelyshuimao",
+        "verified": true
+      },
+      {
+        "created_at": "2022-10-29T15:14:37.000Z",
+        "description": "MTF/ADHD/INFP/178cm/65kg/会化妆会伪音/化妆品研发工程师（/喜欢夸夸/需要回fo请引起我的注意/里推@yumaohu0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 62,
+                "username": "yumaohu0"
+              }
+            ]
+          }
+        },
+        "id": "1586375892154036224",
+        "location": "距您 7.9 km",
+        "name": "羽毛Lyra💄",
+        "pinned_tweet_id": "1657380686091939840",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1733567241688428544/AKBoYBC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4245,
+          "following_count": 372,
+          "like_count": 4919,
+          "listed_count": 15,
+          "media_count": 272,
+          "tweet_count": 4143
+        },
+        "username": "LyraSumusha",
+        "verified": false
+      }
+    ]
+  }
+}

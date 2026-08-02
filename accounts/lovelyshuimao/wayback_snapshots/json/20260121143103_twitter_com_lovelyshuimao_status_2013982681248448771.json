@@ -1,0 +1,166 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2013982667885490176"
+      ]
+    },
+    "author_id": "1748763011140169729",
+    "conversation_id": "2013982681248448771",
+    "created_at": "2026-01-21T14:31:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-21T15:31:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2013982681248448771"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/frMZAjk1kx",
+          "end": 28,
+          "expanded_url": "https://x.com/lovelyshuimao/status/2013982681248448771/video/1",
+          "media_key": "13_2013982667885490176",
+          "start": 5,
+          "url": "https://t.co/frMZAjk1kx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013982681248448771",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "注意安全 https://t.co/frMZAjk1kx"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 3566,
+        "height": 480,
+        "media_key": "13_2013982667885490176",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2013982667885490176/img/f84bn-hQllGPaS0Q.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2013982667885490176/vid/avc1/320x320/g4Ty4o743rnL2kJ6.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2013982667885490176/vid/avc1/480x480/vjsX4nWHy0VjsJ8X.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2013982667885490176/pl/pjzozh27mOlqj9Dz.m3u8"
+          }
+        ],
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2013982667885490176"
+          ]
+        },
+        "author_id": "1748763011140169729",
+        "conversation_id": "2013982681248448771",
+        "created_at": "2026-01-21T14:31:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T15:31:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013982681248448771"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/frMZAjk1kx",
+              "end": 28,
+              "expanded_url": "https://x.com/lovelyshuimao/status/2013982681248448771/video/1",
+              "media_key": "13_2013982667885490176",
+              "start": 5,
+              "url": "https://t.co/frMZAjk1kx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013982681248448771",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "注意安全 https://t.co/frMZAjk1kx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "水貓｜INTJ-t ｜永遠14歲｜提問↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGrRuS"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你2.1km",
+        "name": "lovely水",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009519740319092737/8QXu2gXD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3468,
+          "following_count": 1009,
+          "like_count": 261,
+          "listed_count": 10,
+          "media_count": 2751,
+          "tweet_count": 12734
+        },
+        "url": "https://t.co/EZhyEGrRuS",
+        "username": "lovelyshuimao",
+        "verified": true
+      }
+    ]
+  }
+}

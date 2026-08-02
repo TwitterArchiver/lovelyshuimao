@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1748763011140169729",
+    "conversation_id": "2013621086580081050",
+    "created_at": "2026-01-20T23:23:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-21T00:23:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013754262992351578"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "452072245",
+          "start": 0,
+          "username": "lxfater"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013754262992351578",
+    "in_reply_to_user_id": "452072245",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013621086580081050",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lxfater 不，目前用过来时候Gemini这么扯淡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "2013621086580081050",
+        "created_at": "2026-01-20T23:23:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T00:23:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013754262992351578"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "452072245",
+              "start": 0,
+              "username": "lxfater"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013754262992351578",
+        "in_reply_to_user_id": "452072245",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013621086580081050",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lxfater 不，目前用过来时候Gemini这么扯淡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "452072245",
+        "conversation_id": "2013621086580081050",
+        "created_at": "2026-01-20T14:34:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T15:34:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013621086580081050"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2013621086580081050",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6445,
+          "like_count": 24,
+          "quote_count": 1,
+          "reply_count": 14,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "模型有了跨对话的记忆不见得是好事\n\n之前和他聊过独立开发，现在什么都往独立开发扯"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "水貓｜INTJ-t ｜永遠14歲｜提問↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGrRuS"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你2.1km",
+        "name": "lovely水",
+        "pinned_tweet_id": "2013295023412941092",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009519740319092737/8QXu2gXD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3434,
+          "following_count": 1016,
+          "like_count": 260,
+          "listed_count": 10,
+          "media_count": 2743,
+          "tweet_count": 12683
+        },
+        "url": "https://t.co/EZhyEGrRuS",
+        "username": "lovelyshuimao",
+        "verified": true
+      },
+      {
+        "created_at": "2012-01-01T11:26:00.000Z",
+        "description": "我在用 AI 协助我创业，赚钱，走向自由\n我的录屏软件  https://t.co/S9MMiRiy7L\ngithub 维护 3w star 项目：https://t.co/ytvQf2mtZO",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "demoget.com",
+                "end": 52,
+                "expanded_url": "http://www.demoget.com",
+                "start": 29,
+                "url": "https://t.co/S9MMiRiy7L"
+              },
+              {
+                "display_url": "github.com/lxfater",
+                "end": 97,
+                "expanded_url": "https://github.com/lxfater",
+                "start": 74,
+                "url": "https://t.co/ytvQf2mtZO"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lxfater.com",
+                "end": 23,
+                "expanded_url": "https://www.lxfater.com",
+                "start": 0,
+                "url": "https://t.co/lajBhdRd8K"
+              }
+            ]
+          }
+        },
+        "id": "452072245",
+        "location": "我的所有信息-》》",
+        "name": "铁锤人",
+        "pinned_tweet_id": "1934177207607542044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005527237874089984/LyyR6wom_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56897,
+          "following_count": 1168,
+          "like_count": 6370,
+          "listed_count": 636,
+          "media_count": 1161,
+          "tweet_count": 10598
+        },
+        "url": "https://t.co/lajBhdRd8K",
+        "username": "lxfater",
+        "verified": true
+      }
+    ]
+  }
+}

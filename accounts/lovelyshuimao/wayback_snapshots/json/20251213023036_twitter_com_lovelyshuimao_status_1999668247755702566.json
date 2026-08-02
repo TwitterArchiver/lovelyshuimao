@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1748763011140169729",
+    "conversation_id": "1999370950614360207",
+    "created_at": "2025-12-13T02:30:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-13T03:30:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999668247755702566"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1491568506898649088",
+          "start": 0,
+          "username": "a2013bc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999668247755702566",
+    "in_reply_to_user_id": "1491568506898649088",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999370950614360207",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@a2013bc 如果是流水的话也不算花钱.."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "1999370950614360207",
+        "created_at": "2025-12-13T02:30:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T03:30:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999668247755702566"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1491568506898649088",
+              "start": 0,
+              "username": "a2013bc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999668247755702566",
+        "in_reply_to_user_id": "1491568506898649088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999370950614360207",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@a2013bc 如果是流水的话也不算花钱.."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1491568506898649088",
+        "conversation_id": "1999370950614360207",
+        "created_at": "2025-12-12T06:49:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T07:49:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999370950614360207"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ggdxfulan/stat…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/ggdxfulan/status/1999299995896545494",
+              "start": 15,
+              "url": "https://t.co/6cryn6wWWp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999370950614360207",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3113,
+          "like_count": 42,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999299995896545494",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "半年能花掉两百万也是本事啊😰 https://t.co/6cryn6wWWp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "水貓🍕｜ENFP-t ｜永遠14｜對象@saonanaa｜素食主義者｜提問箱鏈接↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 19,
+                "username": "saonanaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%B0%B4%E6%B…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E6%B0%B4%E6%B0%B493927",
+                "start": 0,
+                "url": "https://t.co/qmQkMr39z5"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你2.1km",
+        "name": "lovely水",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998279626989449216/6L9PHOSs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3029,
+          "following_count": 1247,
+          "like_count": 251,
+          "listed_count": 8,
+          "media_count": 2435,
+          "tweet_count": 11771
+        },
+        "url": "https://t.co/qmQkMr39z5",
+        "username": "lovelyshuimao",
+        "verified": true
+      },
+      {
+        "created_at": "2022-02-10T00:24:05.000Z",
+        "description": "",
+        "id": "1491568506898649088",
+        "location": "宿舍",
+        "name": "米利坚苏丹川罕川德🇺🇦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1806289308728672256/01sqJGA3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1239,
+          "following_count": 1303,
+          "like_count": 16026,
+          "listed_count": 6,
+          "media_count": 1692,
+          "tweet_count": 24336
+        },
+        "username": "a2013bc",
+        "verified": false
+      }
+    ]
+  }
+}

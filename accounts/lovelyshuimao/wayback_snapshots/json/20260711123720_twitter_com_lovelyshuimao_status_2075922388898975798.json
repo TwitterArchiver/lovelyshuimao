@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075922378639732736"
+      ]
+    },
+    "author_id": "1748763011140169729",
+    "conversation_id": "2075828559386640844",
+    "created_at": "2026-07-11T12:37:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T13:37:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075922388898975798"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1915233729720770560",
+          "start": 0,
+          "username": "microcharon"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/lIZXvUOcPq",
+          "end": 55,
+          "expanded_url": "https://x.com/lovelyshuimao/status/2075922388898975798/photo/1",
+          "media_key": "3_2075922378639732736",
+          "start": 32,
+          "url": "https://t.co/lIZXvUOcPq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075922388898975798",
+    "in_reply_to_user_id": "1915233729720770560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075828559386640844",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@microcharon 这不是ai功能嘛\n你应该要的是涂鸦？ https://t.co/lIZXvUOcPq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1045,
+        "media_key": "3_2075922378639732736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM8oZ5ga8AAzbgI.jpg",
+        "width": 1320
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2075828551342018560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM7TEbla0AAjweB.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075922378639732736"
+          ]
+        },
+        "author_id": "1748763011140169729",
+        "conversation_id": "2075828559386640844",
+        "created_at": "2026-07-11T12:37:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T13:37:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075922388898975798"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1915233729720770560",
+              "start": 0,
+              "username": "microcharon"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lIZXvUOcPq",
+              "end": 55,
+              "expanded_url": "https://x.com/lovelyshuimao/status/2075922388898975798/photo/1",
+              "media_key": "3_2075922378639732736",
+              "start": 32,
+              "url": "https://t.co/lIZXvUOcPq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075922388898975798",
+        "in_reply_to_user_id": "1915233729720770560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075828559386640844",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@microcharon 这不是ai功能嘛\n你应该要的是涂鸦？ https://t.co/lIZXvUOcPq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075828551342018560"
+          ]
+        },
+        "author_id": "1915233729720770560",
+        "conversation_id": "2075828559386640844",
+        "created_at": "2026-07-11T06:24:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T07:24:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075828559386640844"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zKC3fmKXLL",
+              "end": 62,
+              "expanded_url": "https://x.com/microcharon/status/2075828559386640844/photo/1",
+              "media_key": "3_2075828551342018560",
+              "start": 39,
+              "url": "https://t.co/zKC3fmKXLL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075828559386640844",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 352,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为啥苹果自带的图片不做个马赛克功能而是给了个消除功能？\n\n为啥不学学安卓！？ https://t.co/zKC3fmKXLL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "🐱神仙水水猫星铃Lumia\n👩🏻‍💻INTJ ♀14 \n🙋🏻‍♀️提問box——————↓\n✍🏻想成为作家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGspkq"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你 4.3km",
+        "name": "lovely水",
+        "pinned_tweet_id": "2075897725733024056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045354329792749568/b7JXuLvu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5121,
+          "following_count": 997,
+          "like_count": 275,
+          "listed_count": 20,
+          "media_count": 3364,
+          "tweet_count": 15067
+        },
+        "url": "https://t.co/EZhyEGspkq",
+        "username": "lovelyshuimao",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-24T02:38:12.000Z",
+        "description": "Avant-Garde Jazz",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "microcharon.com",
+                "end": 23,
+                "expanded_url": "https://microcharon.com",
+                "start": 0,
+                "url": "https://t.co/HNrqQNZ4IJ"
+              }
+            ]
+          }
+        },
+        "id": "1915233729720770560",
+        "location": "Germany",
+        "name": "Sherlock Zhang",
+        "pinned_tweet_id": "2066903202826793293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074715450437681152/AOJfPzje_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 441,
+          "following_count": 544,
+          "like_count": 1055,
+          "listed_count": 0,
+          "media_count": 306,
+          "tweet_count": 1897
+        },
+        "url": "https://t.co/HNrqQNZ4IJ",
+        "username": "microcharon",
+        "verified": true
+      }
+    ]
+  }
+}

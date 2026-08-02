@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1748763011140169729",
+    "conversation_id": "2037841240402874605",
+    "created_at": "2026-03-28T14:39:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T15:39:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037902356722167998"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1433678976564662273",
+          "start": 0,
+          "username": "hsn8086"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037902356722167998",
+    "in_reply_to_user_id": "1433678976564662273",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037841240402874605",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@hsn8086 但是吧阈值会提高\n应该发明一种吃了快乐一天，不吃也不会伤心一天的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2037841228117786624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEfdzM6bQAAH-Fl.jpg",
+        "width": 872
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "2037841240402874605",
+        "created_at": "2026-03-28T14:39:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T15:39:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037902356722167998"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1433678976564662273",
+              "start": 0,
+              "username": "hsn8086"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037902356722167998",
+        "in_reply_to_user_id": "1433678976564662273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037841240402874605",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@hsn8086 但是吧阈值会提高\n应该发明一种吃了快乐一天，不吃也不会伤心一天的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037841228117786624"
+          ]
+        },
+        "author_id": "1433678976564662273",
+        "conversation_id": "2037841240402874605",
+        "created_at": "2026-03-28T10:36:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T11:36:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037841240402874605"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/H603zWJXEM",
+              "end": 30,
+              "expanded_url": "https://x.com/hsn8086/status/2037841240402874605/photo/1",
+              "media_key": "3_2037841228117786624",
+              "start": 7,
+              "url": "https://t.co/H603zWJXEM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037841240402874605",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 47,
+          "impression_count": 155667,
+          "like_count": 897,
+          "quote_count": 8,
+          "reply_count": 39,
+          "retweet_count": 16
+        },
+        "reply_settings": "other",
+        "text": "那他妈是毒品 https://t.co/H603zWJXEM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "INTJ-t ｜永遠14歲｜提問↓｜❤️@saonanaa",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 20,
+                "username": "saonanaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGspkq"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你2.1km",
+        "name": "lovely水",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023831074921738240/frpPaTVT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4882,
+          "following_count": 1021,
+          "like_count": 270,
+          "listed_count": 13,
+          "media_count": 3086,
+          "tweet_count": 13706
+        },
+        "url": "https://t.co/EZhyEGspkq",
+        "username": "lovelyshuimao",
+        "verified": true
+      },
+      {
+        "created_at": "2021-09-03T06:31:41.000Z",
+        "description": "你好, 我是hsn! 老图: @hsn8086xe | 注: 推文内容仅供娱乐,真假自辨!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 15,
+                "username": "hsn8086xe"
+              }
+            ]
+          }
+        },
+        "id": "1433678976564662273",
+        "location": "Internet",
+        "name": "hsn",
+        "pinned_tweet_id": "2037745732862816262",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036780825325576192/hV1zXUhb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118224,
+          "following_count": 1126,
+          "like_count": 52250,
+          "listed_count": 276,
+          "media_count": 20144,
+          "tweet_count": 30367
+        },
+        "username": "hsn8086",
+        "verified": true
+      }
+    ]
+  }
+}

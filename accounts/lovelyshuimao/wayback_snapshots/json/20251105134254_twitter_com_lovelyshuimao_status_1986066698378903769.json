@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1748763011140169729",
+    "conversation_id": "1985709552659288125",
+    "created_at": "2025-11-05T13:42:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-05T14:42:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986066698378903769"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1790006276162048000",
+          "start": 0,
+          "username": "Freunsigned"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986066698378903769",
+    "in_reply_to_user_id": "1790006276162048000",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985709552659288125",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Freunsigned 我觉得“中国人”这个概念是西方近现代提出的，你认为你是中国人是因为被西方洗脑了\n所以我不是中国人，所以我可以得心理疾病"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "1985709552659288125",
+        "created_at": "2025-11-05T13:42:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T14:42:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986066698378903769"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1790006276162048000",
+              "start": 0,
+              "username": "Freunsigned"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986066698378903769",
+        "in_reply_to_user_id": "1790006276162048000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985709552659288125",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Freunsigned 我觉得“中国人”这个概念是西方近现代提出的，你认为你是中国人是因为被西方洗脑了\n所以我不是中国人，所以我可以得心理疾病"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790006276162048000",
+        "conversation_id": "1985709552659288125",
+        "created_at": "2025-11-04T14:03:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-04T15:03:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985709552659288125"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1985709552659288125",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 30,
+          "impression_count": 36249,
+          "like_count": 581,
+          "quote_count": 12,
+          "reply_count": 62,
+          "retweet_count": 24
+        },
+        "reply_settings": "everyone",
+        "text": "班主任逆天言论+1\n我们国家以前是没有心理疾病的，是西方带进来的，你觉得你有心理疾病是被西方洗脑了，所以说西方的这个很厉害"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "ENFP-t ｜永遠14｜是豪貓不o不圓不殘不死｜對象@saonanaa｜雙相＆抑鬱｜家長不管黨｜提問箱鏈接↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 27,
+                "username": "saonanaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%B0%B4%E6%B…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E6%B0%B4%E6%B0%B493927",
+                "start": 0,
+                "url": "https://t.co/qmQkMr2BJx"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你2.1km",
+        "name": "lovely水水猫🍕",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967556205590831104/87BEnlAx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2484,
+          "following_count": 1122,
+          "like_count": 245,
+          "listed_count": 7,
+          "media_count": 2230,
+          "tweet_count": 11040
+        },
+        "url": "https://t.co/qmQkMr2BJx",
+        "username": "lovelyshuimao",
+        "verified": true
+      },
+      {
+        "created_at": "2024-05-13T13:08:58.000Z",
+        "description": "𝕴 𝖌𝖑𝖎𝖒𝖕𝖘𝖊 𝖇𝖚𝖙 𝖆 𝖘𝖍𝖆𝖉𝖔𝖜\n𝑰 ❤️ 𝑴𝑨𝑪𝑨𝑶. || 🏳️‍🌈🏳️‍⚧️ || 🇭🇰🇲🇴🇨🇳 ||  🇺🇸🇨🇦🇯🇵🇸🇬 || 可以叫我小福喵",
+        "id": "1790006276162048000",
+        "location": "浙江",
+        "name": "𝐅𝐫𝐞𝐮𝐧𝐬𝐢𝐠𝐧𝐞𝐝 ⵣ🇭🇰🇲🇴(退役版",
+        "pinned_tweet_id": "1982810466498773301",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970079770223505408/Bmyp5Lv__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 625,
+          "following_count": 652,
+          "like_count": 18499,
+          "listed_count": 2,
+          "media_count": 160,
+          "tweet_count": 3335
+        },
+        "username": "Freunsigned",
+        "verified": false
+      }
+    ]
+  }
+}

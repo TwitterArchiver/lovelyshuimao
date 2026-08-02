@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1748763011140169729",
+    "conversation_id": "1998083865400025570",
+    "created_at": "2025-12-09T05:27:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-09T06:27:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998263139780186596"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1111954699316453376",
+          "start": 0,
+          "username": "xmxzsystembu"
+        },
+        {
+          "end": 21,
+          "id": "1613079089879076864",
+          "start": 14,
+          "username": "Cldeop"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998263139780186596",
+    "in_reply_to_user_id": "1111954699316453376",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998262843901354191",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xmxzsystembu @Cldeop 2007成老灯😱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "1998083865400025570",
+        "created_at": "2025-12-09T05:27:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-09T06:27:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998263139780186596"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1111954699316453376",
+              "start": 0,
+              "username": "xmxzsystembu"
+            },
+            {
+              "end": 21,
+              "id": "1613079089879076864",
+              "start": 14,
+              "username": "Cldeop"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998263139780186596",
+        "in_reply_to_user_id": "1111954699316453376",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998262843901354191",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xmxzsystembu @Cldeop 2007成老灯😱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1111954699316453376",
+        "conversation_id": "1998083865400025570",
+        "created_at": "2025-12-09T05:26:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-09T06:26:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998262843901354191"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1748763011140169729",
+              "start": 0,
+              "username": "lovelyshuimao"
+            },
+            {
+              "end": 22,
+              "id": "1613079089879076864",
+              "start": 15,
+              "username": "Cldeop"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998262843901354191",
+        "in_reply_to_user_id": "1748763011140169729",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998172381748285801",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lovelyshuimao @Cldeop 你已经是一个成熟的老登了，要把小登的位子让给后来人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "水貓🍕｜ENFP-t ｜永遠14｜對象@saonanaa｜素食主義者｜提問箱鏈接↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 19,
+                "username": "saonanaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%B0%B4%E6%B…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E6%B0%B4%E6%B0%B493927",
+                "start": 0,
+                "url": "https://t.co/qmQkMr39z5"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你2.1km",
+        "name": "lovely水",
+        "pinned_tweet_id": "1998223600432886177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996464884062818304/V790rprR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3009,
+          "following_count": 1258,
+          "like_count": 251,
+          "listed_count": 7,
+          "media_count": 2398,
+          "tweet_count": 11684
+        },
+        "url": "https://t.co/qmQkMr39z5",
+        "username": "lovelyshuimao",
+        "verified": true
+      },
+      {
+        "created_at": "2019-03-30T11:33:54.000Z",
+        "description": "籼米小组日本分部的说。半官方账号（大概）。本社自产作品分享和社长的傻乎乎的日常。开业第十一年的同人制作组。\n籼米小组日本支社どす。半公式アカウント(多分)、本社の作品や社長の天然ボケな日々をツイッターする。開業十一年目の同人ゲーム社団。\nお互いの文化と歴史を尊重して、心の中に一番欲しいなゲームを作ろう!",
+        "id": "1111954699316453376",
+        "location": "丹後田辺藩",
+        "name": "籼米小组日本支社＠師走🐍",
+        "pinned_tweet_id": "1874131638327923188",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1274650995826421760/3I4SHuG9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 400,
+          "following_count": 99,
+          "like_count": 314,
+          "listed_count": 7,
+          "media_count": 2222,
+          "tweet_count": 22873
+        },
+        "username": "xmxzsystembu",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-11T07:43:29.000Z",
+        "description": "yún jiū｜くもはと\n推特𝕏 见证每一种生物\n生活号@ACldJP\n欢迎私信投稿",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 28,
+                "username": "ACldJP"
+              }
+            ]
+          }
+        },
+        "id": "1613079089879076864",
+        "location": "点一下「查看更多」试试？",
+        "name": "雲鳩",
+        "pinned_tweet_id": "1950895151779561979",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976306297789370368/tQr5aNJl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93452,
+          "following_count": 665,
+          "like_count": 32611,
+          "listed_count": 270,
+          "media_count": 13878,
+          "tweet_count": 20010
+        },
+        "username": "Cldeop",
+        "verified": true
+      }
+    ]
+  }
+}

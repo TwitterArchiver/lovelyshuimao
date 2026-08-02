@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1748763011140169729",
+    "conversation_id": "2075524485097345102",
+    "created_at": "2026-07-10T14:06:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T15:06:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075582328035008688"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2022582598455955456",
+          "start": 0,
+          "username": "Clisncalmhen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075582328035008688",
+    "in_reply_to_user_id": "2022582598455955456",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075576503560286628",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Clisncalmhen 我也觉得"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "2075524485097345102",
+        "created_at": "2026-07-10T14:06:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T15:06:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075582328035008688"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2022582598455955456",
+              "start": 0,
+              "username": "Clisncalmhen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075582328035008688",
+        "in_reply_to_user_id": "2022582598455955456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075576503560286628",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Clisncalmhen 我也觉得"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022582598455955456",
+        "conversation_id": "2075524485097345102",
+        "created_at": "2026-07-10T13:42:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T14:42:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075576503560286628"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1748763011140169729",
+              "start": 0,
+              "username": "lovelyshuimao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075576503560286628",
+        "in_reply_to_user_id": "1748763011140169729",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075524485097345102",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lovelyshuimao 目前药物可以用女性身份证在网上买，或者X找自制凝胶（搜失信名单里应该会有能用于购买的身份证）SRS的话攒钱去国外做就好，不需要国内开证这么麻烦的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "🐱神仙水水猫星铃Lumia\n👩🏻‍💻INTJ ♀14 \n🙋🏻‍♀️提問box——————↓\n✍🏻想成为作家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGspkq"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你 4.3km",
+        "name": "lovely水",
+        "pinned_tweet_id": "2075250029720482257",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045354329792749568/b7JXuLvu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5041,
+          "following_count": 997,
+          "like_count": 275,
+          "listed_count": 20,
+          "media_count": 3353,
+          "tweet_count": 15025
+        },
+        "url": "https://t.co/EZhyEGspkq",
+        "username": "lovelyshuimao",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-14T08:04:20.000Z",
+        "description": "mtx/INTP-HA/欢迎私信贴贴喵",
+        "id": "2022582598455955456",
+        "location": "上海",
+        "name": "🏳️‍⚧️琳綝冉🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022582670551609344/N8wNgNfM_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99,
+          "following_count": 173,
+          "like_count": 383,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 170
+        },
+        "url": "",
+        "username": "Clisncalmhen",
+        "verified": false
+      }
+    ]
+  }
+}

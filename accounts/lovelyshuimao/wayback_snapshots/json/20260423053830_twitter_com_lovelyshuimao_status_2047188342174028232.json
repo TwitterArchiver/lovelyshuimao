@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1748763011140169729",
+    "conversation_id": "2047188342174028232",
+    "created_at": "2026-04-23T05:38:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T06:38:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047188342174028232"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/lvmaosamaovo/s…",
+          "end": 89,
+          "expanded_url": "https://twitter.com/lvmaosamaovo/status/2046930526599319687",
+          "start": 66,
+          "url": "https://t.co/usIDcRcYKW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047188342174028232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046930526599319687",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "每年都有这样的人呢～\n想起来2024年\n刚刚吃糖的时候也想要去查六项\n生怕自己吃坏了（\n然后我还私信去问一些大佬老资历\n时间的好快 https://t.co/usIDcRcYKW"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "2047188342174028232",
+        "created_at": "2026-04-23T05:38:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T06:38:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047188342174028232"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lvmaosamaovo/s…",
+              "end": 89,
+              "expanded_url": "https://twitter.com/lvmaosamaovo/status/2046930526599319687",
+              "start": 66,
+              "url": "https://t.co/usIDcRcYKW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047188342174028232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046930526599319687",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "每年都有这样的人呢～\n想起来2024年\n刚刚吃糖的时候也想要去查六项\n生怕自己吃坏了（\n然后我还私信去问一些大佬老资历\n时间的好快 https://t.co/usIDcRcYKW"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2027280531097088000",
+        "conversation_id": "2046930526599319687",
+        "created_at": "2026-04-22T12:34:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T13:34:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046930526599319687"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2046930526599319687",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 3301,
+          "like_count": 23,
+          "quote_count": 1,
+          "reply_count": 15,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有没有入知道未成年可不可以自己去查激素六项 我感觉我还是得确定一下自己到底该怎么吃药… 但是又怕医院不让查"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "｜INTJ\n｜永遠14\n｜❤️ZhiWei @saonanaa\n｜提問——————————↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 22,
+                "username": "saonanaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGspkq"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你2.1km",
+        "name": "lovely水",
+        "pinned_tweet_id": "2046127996961161240",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045354329792749568/b7JXuLvu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4781,
+          "following_count": 1009,
+          "like_count": 273,
+          "listed_count": 13,
+          "media_count": 3172,
+          "tweet_count": 14055
+        },
+        "url": "https://t.co/EZhyEGspkq",
+        "username": "lovelyshuimao",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-27T07:14:07.000Z",
+        "description": "咕咕嘎嘎(๑˃̵ᴗ˂̵) 🍥⋆̩̩̩✧⊹꙳✨꒰ঌʚɞ໒꒱⋆̩̩̩🍥（mtx？\n欢迎同类互fo 所有同类都会回fo喵～ hrt🍥｜2026_4_19\n大！家！快！来！找！我！玩！啊！\n✝︎天使様、ご挨拶申し上げます！✝︎\n✝︎私は天より降り注ぐ光、混沌のネット世界を照らす存在なのです✝︎",
+        "id": "2027280531097088000",
+        "name": "☁️Lvmao๑˃̵ᴗ˂̵🏳️‍⚧️🍥〜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046302106936897536/wD1z616h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 308,
+          "following_count": 215,
+          "like_count": 572,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 288
+        },
+        "username": "Lvmaosamaovo",
+        "verified": false
+      }
+    ]
+  }
+}

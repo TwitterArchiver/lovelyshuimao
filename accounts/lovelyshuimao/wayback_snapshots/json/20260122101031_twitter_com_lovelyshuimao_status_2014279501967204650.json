@@ -1,0 +1,310 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1748763011140169729",
+    "conversation_id": "2013924333648011707",
+    "created_at": "2026-01-22T10:10:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-22T11:10:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2014279501967204650"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1356924709036679168",
+          "start": 0,
+          "username": "wjf110"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014279501967204650",
+    "in_reply_to_user_id": "1356924709036679168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013924333648011707",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wjf110 这些又不是天天买.."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "2013924333648011707",
+        "created_at": "2026-01-22T10:10:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-22T11:10:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014279501967204650"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1356924709036679168",
+              "start": 0,
+              "username": "wjf110"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014279501967204650",
+        "in_reply_to_user_id": "1356924709036679168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013924333648011707",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wjf110 这些又不是天天买.."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1356924709036679168",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+              "id": "1557696505548394496",
+              "name": "Beauty, Cosmetic & Personal Care Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Beauty",
+              "id": "850395585941086209",
+              "name": "Beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1256236649253449729",
+              "name": "Fashion & beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Fragrances",
+              "id": "856559465000091648",
+              "name": "Perfumes & fragrances"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Perfumes",
+              "id": "855110667916918784",
+              "name": "Perfumes"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Beauty",
+              "id": "850395585941086209",
+              "name": "Beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Perfumes",
+              "id": "855110667916918784",
+              "name": "Perfumes"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Fragrances",
+              "id": "856559465000091648",
+              "name": "Perfumes & fragrances"
+            }
+          }
+        ],
+        "conversation_id": "2013924333648011707",
+        "created_at": "2026-01-21T10:39:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T11:39:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013924333648011707"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2013924333648011707",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "为什么女人会没钱？\n\n因为她们要买洗发水、洗面奶、护发素、沐浴露、卸妆油、卸妆乳、睫毛膏、眉笔、腮红、口红、唇彩、染眉膏、粉底液、BB霜、眼霜、隔离霜、防晒霜、眼影、香水、乳液、精华、气垫、双眼皮贴、指甲油、假睫毛、面膜、面霜。\n\n还要买单肩包、双肩包、手提包、斜挎包、小圆包。\n\n买衣服裤子，t恤、衬衫、裙子、连衣裙，包臀的、轻松的、收紧的、性感的、宽松的、休闲的、运动的、淑女风的、田园风的、萝莉风的、萝莉控的。\n\n还要买高跟鞋、中跟鞋、平底鞋、运动鞋、休闲鞋、长靴、短靴、长袜、短袜、丝袜。\n\n你说她们怎么可能有钱？"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 125,
+          "impression_count": 84572,
+          "like_count": 446,
+          "quote_count": 11,
+          "reply_count": 113,
+          "retweet_count": 31
+        },
+        "reply_settings": "everyone",
+        "text": "为什么女人会没钱？\n\n因为她们要买洗发水、洗面奶、护发素、沐浴露、卸妆油、卸妆乳、睫毛膏、眉笔、腮红、口红、唇彩、染眉膏、粉底液、BB霜、眼霜、隔离霜、防晒霜、眼影、香水、乳液、精华、气垫、双眼皮贴、指甲油、假睫毛、面膜、面霜。\n\n还要买单肩包、双肩包、手提包、斜挎包、小圆包。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "水貓｜INTJ-t ｜永遠14歲｜提問↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGrRuS"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你2.1km",
+        "name": "lovely水",
+        "pinned_tweet_id": "2014101790581739949",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009519740319092737/8QXu2gXD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3504,
+          "following_count": 1010,
+          "like_count": 260,
+          "listed_count": 10,
+          "media_count": 2755,
+          "tweet_count": 12748
+        },
+        "url": "https://t.co/EZhyEGrRuS",
+        "username": "lovelyshuimao",
+        "verified": true
+      },
+      {
+        "created_at": "2021-02-03T11:17:24.000Z",
+        "description": "🦍 🦍TG: https://t.co/Jt8KmJOw3X\n\n｜AI  defi赛道｜\n｜二级 MEME｜\n\nBinance   :https://t.co/6WgatcApv9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/wjf110",
+                "end": 30,
+                "expanded_url": "https://t.me/wjf110",
+                "start": 7,
+                "url": "https://t.co/Jt8KmJOw3X"
+              },
+              {
+                "display_url": "maxweb.cab/join?ref=WJF110",
+                "end": 90,
+                "expanded_url": "https://www.maxweb.cab/join?ref=WJF110",
+                "start": 67,
+                "url": "https://t.co/6WgatcApv9"
+              }
+            ]
+          }
+        },
+        "id": "1356924709036679168",
+        "name": "好家伙🥷",
+        "pinned_tweet_id": "1728640398321750172",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1568617853930307584/D-4SOnGT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72254,
+          "following_count": 12020,
+          "like_count": 87843,
+          "listed_count": 152,
+          "media_count": 2183,
+          "tweet_count": 46868
+        },
+        "username": "wjf110",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1748763011140169729",
+    "conversation_id": "2000760168393441662",
+    "created_at": "2025-12-17T14:14:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-17T15:14:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001295057471541721"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1679436559551168512",
+          "start": 0,
+          "username": "OhonoJP"
+        },
+        {
+          "end": 25,
+          "id": "1238831198513831938",
+          "start": 9,
+          "username": "CAPy9iUiGOJqqFG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001295057471541721",
+    "in_reply_to_user_id": "1679436559551168512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001139379352559679",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OhonoJP @CAPy9iUiGOJqqFG 说不定是低端流水线的那种？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "2000760168393441662",
+        "created_at": "2025-12-17T14:14:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-17T15:14:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001295057471541721"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1679436559551168512",
+              "start": 0,
+              "username": "OhonoJP"
+            },
+            {
+              "end": 25,
+              "id": "1238831198513831938",
+              "start": 9,
+              "username": "CAPy9iUiGOJqqFG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001295057471541721",
+        "in_reply_to_user_id": "1679436559551168512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001139379352559679",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OhonoJP @CAPy9iUiGOJqqFG 说不定是低端流水线的那种？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1679436559551168512",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026738409",
+              "name": "Sony"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026738409",
+              "name": "Sony"
+            }
+          }
+        ],
+        "conversation_id": "2000760168393441662",
+        "created_at": "2025-12-17T03:56:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-17T04:56:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001139379352559679"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1238831198513831938",
+              "start": 0,
+              "username": "CAPy9iUiGOJqqFG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001139379352559679",
+        "in_reply_to_user_id": "1238831198513831938",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2159,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000760168393441662",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CAPy9iUiGOJqqFG 天下谣言一大抄，皆因作者没有脑\n\nSony集团全体员工数只有11万。若一次性解雇其中3万，只能说明一个事实，那就是Sony要倒闭了。\n但事实是，Sony还活着，活得好好的。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "水貓🍕｜ENFP-t ｜永遠14｜對象@saonanaa｜素食主義者｜提問箱鏈接↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 19,
+                "username": "saonanaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%B0%B4%E6%B…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E6%B0%B4%E6%B0%B493927",
+                "start": 0,
+                "url": "https://t.co/qmQkMr39z5"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你2.1km",
+        "name": "lovely水",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998279626989449216/6L9PHOSs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3016,
+          "following_count": 1239,
+          "like_count": 252,
+          "listed_count": 8,
+          "media_count": 2481,
+          "tweet_count": 11901
+        },
+        "url": "https://t.co/qmQkMr39z5",
+        "username": "lovelyshuimao",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-13T10:24:26.000Z",
+        "description": "这人不坏，但也不善。\n信奉以直报怨，以德报德才是天道。",
+        "id": "1679436559551168512",
+        "location": "日本 神奈川県",
+        "name": "大野人",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961422819507752961/S5rIKm74_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1062,
+          "following_count": 303,
+          "like_count": 18464,
+          "listed_count": 27,
+          "media_count": 2319,
+          "tweet_count": 28304
+        },
+        "username": "OhonoJP",
+        "verified": true
+      },
+      {
+        "created_at": "2020-03-14T14:17:29.000Z",
+        "description": "",
+        "id": "1238831198513831938",
+        "name": "黄浦记忆",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1238845248471617536/JaffI3RC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60800,
+          "following_count": 854,
+          "like_count": 23142,
+          "listed_count": 215,
+          "media_count": 14179,
+          "tweet_count": 17433
+        },
+        "username": "CAPy9iUiGOJqqFG",
+        "verified": false
+      }
+    ]
+  }
+}

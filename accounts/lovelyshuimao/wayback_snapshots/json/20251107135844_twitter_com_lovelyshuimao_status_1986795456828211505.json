@@ -1,0 +1,183 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1986794761991438336",
+        "3_1986794761974657024"
+      ]
+    },
+    "author_id": "1748763011140169729",
+    "conversation_id": "1986795456828211505",
+    "created_at": "2025-11-07T13:58:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-07T14:58:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1986795456828211505"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/BL61GuqgN5",
+          "end": 60,
+          "expanded_url": "https://x.com/lovelyshuimao/status/1986795456828211505/photo/1",
+          "media_key": "3_1986794761991438336",
+          "start": 37,
+          "url": "https://t.co/BL61GuqgN5"
+        },
+        {
+          "display_url": "pic.x.com/BL61GuqgN5",
+          "end": 60,
+          "expanded_url": "https://x.com/lovelyshuimao/status/1986795456828211505/photo/1",
+          "media_key": "3_1986794761974657024",
+          "start": 37,
+          "url": "https://t.co/BL61GuqgN5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986795456828211505",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "终于会系三角巾了！\n学了一会本来以为和红领巾一样结果红领巾也忘记怎么系了 https://t.co/BL61GuqgN5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2836,
+        "media_key": "3_1986794761991438336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5KDTz4bQAANnr_.jpg",
+        "width": 2314
+      },
+      {
+        "height": 3654,
+        "media_key": "3_1986794761974657024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5KDTz0bMAAfPaL.jpg",
+        "width": 2923
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1986794761991438336",
+            "3_1986794761974657024"
+          ]
+        },
+        "author_id": "1748763011140169729",
+        "conversation_id": "1986795456828211505",
+        "created_at": "2025-11-07T13:58:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T14:58:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986795456828211505"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BL61GuqgN5",
+              "end": 60,
+              "expanded_url": "https://x.com/lovelyshuimao/status/1986795456828211505/photo/1",
+              "media_key": "3_1986794761991438336",
+              "start": 37,
+              "url": "https://t.co/BL61GuqgN5"
+            },
+            {
+              "display_url": "pic.x.com/BL61GuqgN5",
+              "end": 60,
+              "expanded_url": "https://x.com/lovelyshuimao/status/1986795456828211505/photo/1",
+              "media_key": "3_1986794761974657024",
+              "start": 37,
+              "url": "https://t.co/BL61GuqgN5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986795456828211505",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "终于会系三角巾了！\n学了一会本来以为和红领巾一样结果红领巾也忘记怎么系了 https://t.co/BL61GuqgN5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "ENFP-t ｜永遠14｜是豪貓不o不圓不殘不死｜對象@saonanaa｜素食主义者｜提問箱鏈接↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 27,
+                "username": "saonanaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%B0%B4%E6%B…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E6%B0%B4%E6%B0%B493927",
+                "start": 0,
+                "url": "https://t.co/qmQkMr2BJx"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你2.1km",
+        "name": "lovely水(水猫)🍕",
+        "pinned_tweet_id": "1986463883725529182",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967556205590831104/87BEnlAx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2562,
+          "following_count": 1124,
+          "like_count": 245,
+          "listed_count": 7,
+          "media_count": 2244,
+          "tweet_count": 11093
+        },
+        "url": "https://t.co/qmQkMr2BJx",
+        "username": "lovelyshuimao",
+        "verified": true
+      }
+    ]
+  }
+}

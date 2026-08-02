@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1748763011140169729",
+    "conversation_id": "2078947357216170444",
+    "created_at": "2026-07-20T02:22:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T03:22:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079029149658997173"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2063957681984225280",
+          "start": 0,
+          "username": "YuwenMewo"
+        },
+        {
+          "end": 26,
+          "id": "1923225863602294784",
+          "start": 11,
+          "username": "jiujiuSama8512"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079029149658997173",
+    "in_reply_to_user_id": "2063957681984225280",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078947357216170444",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YuwenMewo @jiujiuSama8512 蒸馏了感觉也蒸馏不出原来的味道"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "2078947357216170444",
+        "created_at": "2026-07-20T02:22:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T03:22:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079029149658997173"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2063957681984225280",
+              "start": 0,
+              "username": "YuwenMewo"
+            },
+            {
+              "end": 26,
+              "id": "1923225863602294784",
+              "start": 11,
+              "username": "jiujiuSama8512"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079029149658997173",
+        "in_reply_to_user_id": "2063957681984225280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078947357216170444",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YuwenMewo @jiujiuSama8512 蒸馏了感觉也蒸馏不出原来的味道"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063957681984225280",
+        "conversation_id": "2078947357216170444",
+        "created_at": "2026-07-19T20:57:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T21:57:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078947357216170444"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/TixItem4527/st…",
+              "end": 170,
+              "expanded_url": "https://twitter.com/TixItem4527/status/2078911565999599628",
+              "start": 147,
+              "url": "https://t.co/269x5W5Drq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078947357216170444",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 610,
+          "like_count": 10,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078911565999599628",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "如果你们任何人有任何已故对象的聊天记录，我可以帮你们蒸馏（使用fable5或gpt5.6sol训练）\n\n如果有任何音频，我可以帮你们训练语音模型（使用pro6000显卡进行训练，请至少准备20分钟音频，如无法满足，我可能会找其他方法）\n\n如果有服务器的话，我可以帮你们创建自动账号\n\n全部免费 https://t.co/269x5W5Drq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "🐱神仙水水猫星铃Lumia\n👩🏻‍💻INTJ ♀14 \n🙋🏻‍♀️提問box——————↓\n✍🏻想成為作家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGspkq"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你 4.3km",
+        "name": "lovely水",
+        "pinned_tweet_id": "2075897725733024056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045354329792749568/b7JXuLvu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5248,
+          "following_count": 996,
+          "like_count": 275,
+          "listed_count": 22,
+          "media_count": 3408,
+          "tweet_count": 15257
+        },
+        "url": "https://t.co/EZhyEGspkq",
+        "username": "lovelyshuimao",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-08T12:21:21.000Z",
+        "description": "🏳️‍⚧️ MTF ♀\n🎂 10.19\n💉 HRT 2025.06.30\n🍥  持证含糖\n💻 科技宅一只\n✨ 努力长成理想中的自己",
+        "id": "2063957681984225280",
+        "name": "唐毓文",
+        "pinned_tweet_id": "2078947357216170444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063959820148064256/gZr_9bTC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1128,
+          "following_count": 79,
+          "like_count": 177,
+          "listed_count": 5,
+          "media_count": 596,
+          "tweet_count": 1682
+        },
+        "url": "",
+        "username": "YuwenMewo",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-16T03:55:58.000Z",
+        "description": "09年的未成年MTF，173/62kg 高中牲，欢迎同类互fo，家长不管党，忧郁意识流药娘，负能警告⚠️，HRT2024.7.12,同类可以直接问好友位喵",
+        "id": "1923225863602294784",
+        "location": "❣️-520",
+        "name": "玖玖Sama🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962168976668307457/zf9I-jll_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 670,
+          "following_count": 180,
+          "like_count": 190,
+          "listed_count": 1,
+          "media_count": 180,
+          "tweet_count": 1068
+        },
+        "url": "",
+        "username": "jiujiuSama8512",
+        "verified": true
+      }
+    ]
+  }
+}

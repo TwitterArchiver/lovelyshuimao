@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1748763011140169729",
+    "conversation_id": "2043596486618013986",
+    "created_at": "2026-04-13T08:25:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T09:25:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043606547025313838"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1714571705694420992",
+          "start": 0,
+          "username": "Ayuki_Believe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043606547025313838",
+    "in_reply_to_user_id": "1714571705694420992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043596486618013986",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ayuki_Believe 马桶！\n（这个时候就凸显马桶的优势了）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "2043596486618013986",
+        "created_at": "2026-04-13T08:25:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T09:25:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043606547025313838"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1714571705694420992",
+              "start": 0,
+              "username": "Ayuki_Believe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043606547025313838",
+        "in_reply_to_user_id": "1714571705694420992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043596486618013986",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ayuki_Believe 马桶！\n（这个时候就凸显马桶的优势了）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1714571705694420992",
+        "conversation_id": "2043596486618013986",
+        "created_at": "2026-04-13T07:45:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T08:45:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043596486618013986"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043596486618013986",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 38,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我现在有点怕上厕所玩手机\n清明的时候 我拉肚子 蹲下来没注意 手机真他妈掉坑里了\n（拉肚子是因为喝了西梅汁  看罗森五块钱一大瓶就买了 太口渴了）\n好在可以抢救没有大碍"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "INTJ｜永遠14｜提問↓｜❤️对象ZhiWei @saonanaa",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 25,
+                "username": "saonanaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGspkq"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你2.1km",
+        "name": "lovely水",
+        "pinned_tweet_id": "2043012092362657805",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023831074921738240/frpPaTVT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4775,
+          "following_count": 999,
+          "like_count": 272,
+          "listed_count": 12,
+          "media_count": 3149,
+          "tweet_count": 13963
+        },
+        "url": "https://t.co/EZhyEGspkq",
+        "username": "lovelyshuimao",
+        "verified": true
+      },
+      {
+        "created_at": "2023-10-18T09:19:08.000Z",
+        "description": "一个抽象可爱碎碎念高强度冲浪小女孩 喜欢分享自己的一切 （中文繁體English ok） 🫶爱人：@Takitsuki_Shoko| 🥰好妹妹： @Kisen0v0| 碎碎念小号 @Ayuki_Rotsuki 欢迎扩列",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 49,
+                "username": "Takitsuki_Shoko"
+              },
+              {
+                "end": 82,
+                "start": 73,
+                "username": "Kisen0v0"
+              },
+              {
+                "end": 104,
+                "start": 90,
+                "username": "Ayuki_Rotsuki"
+              }
+            ]
+          }
+        },
+        "id": "1714571705694420992",
+        "location": "美乐蒂家",
+        "name": "TekeliLi_iLilekeT",
+        "pinned_tweet_id": "2023370212536668504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022602123947741184/iEGRxH1p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3501,
+          "following_count": 470,
+          "like_count": 8752,
+          "listed_count": 8,
+          "media_count": 1262,
+          "tweet_count": 3629
+        },
+        "username": "Ayuki_Believe",
+        "verified": false
+      }
+    ]
+  }
+}

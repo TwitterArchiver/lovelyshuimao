@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1748763011140169729",
+    "conversation_id": "2042860941730042108",
+    "created_at": "2026-04-11T09:41:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T10:41:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042900813304205324"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1599242022019534850",
+          "start": 0,
+          "username": "demonyins"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042900813304205324",
+    "in_reply_to_user_id": "1599242022019534850",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042860941730042108",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@demonyins 我60多万拿到钱了…非常意外\n之前都拿不到收益"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "2042860941730042108",
+        "created_at": "2026-04-11T09:41:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T10:41:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042900813304205324"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1599242022019534850",
+              "start": 0,
+              "username": "demonyins"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042900813304205324",
+        "in_reply_to_user_id": "1599242022019534850",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042860941730042108",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@demonyins 我60多万拿到钱了…非常意外\n之前都拿不到收益"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1599242022019534850",
+        "conversation_id": "2042860941730042108",
+        "created_at": "2026-04-11T07:02:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T08:02:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042860941730042108"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2042860941730042108",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "取消 Premium+ 了，当前只显示为Premium。不是冲动，是想清楚了。🧵我因为是年付的，没法取消。\n\nX 的吃相越来越难看。用「收益分成」吊着一批人冲蓝 V，结果呢？规则说改就改，当初靠低保撑起的博主生态，已经开始崩了。\n\nX 本质上是一个创作者平台，不是流量平台。但它现在的商业模式，正在逼走创作者。没有创作者，平台还剩什么？\n\n我把我老公的蓝 V 停了，把小号的蓝 V 停了，把自己的 Premium+ 降了级。\n\n省下来的钱订了 Claude。同样是花钱——一个让你上瘾刷屏，一个帮你真实产出。💡\n\n先观望，看政策。但我不再愿意当韭菜了。🌿"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1905,
+          "like_count": 44,
+          "quote_count": 2,
+          "reply_count": 29,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "取消 Premium+ 了，当前只显示为Premium。不是冲动，是想清楚了。🧵我因为是年付的，没法取消。\n\nX 的吃相越来越难看。用「收益分成」吊着一批人冲蓝 V，结果呢？规则说改就改，当初靠低保撑起的博主生态，已经开始崩了。\n\nX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "INTJ｜永遠14｜提問↓｜❤️对象ZhiWei @saonanaa",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 25,
+                "username": "saonanaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGspkq"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你2.1km",
+        "name": "lovely水",
+        "pinned_tweet_id": "2042828746793869607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023831074921738240/frpPaTVT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4787,
+          "following_count": 1006,
+          "like_count": 272,
+          "listed_count": 13,
+          "media_count": 3141,
+          "tweet_count": 13928
+        },
+        "url": "https://t.co/EZhyEGspkq",
+        "username": "lovelyshuimao",
+        "verified": true
+      },
+      {
+        "created_at": "2022-12-04T03:20:19.000Z",
+        "description": "𝑺𝙝𝒂𝙧𝒊𝙣𝒈 𝒎𝙮 𝙜𝒓𝙤𝒘𝙩𝒉 𝒆𝙭𝒑𝙚𝒓𝙞𝒆𝙣𝒄𝙚 𝙤𝒏 𝑿.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/demonyins",
+                "end": 23,
+                "expanded_url": "https://t.me/demonyins",
+                "start": 0,
+                "url": "https://t.co/3v1BFQdz7b"
+              }
+            ]
+          }
+        },
+        "id": "1599242022019534850",
+        "location": "Seattle, Washington, USA",
+        "name": "𝒅𝙚𝒎𝙤𝒏𝙮𝒊𝙣𝒔",
+        "pinned_tweet_id": "2042860941730042108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024479970483970049/U1p9DSCV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6197,
+          "following_count": 5548,
+          "like_count": 15942,
+          "listed_count": 18,
+          "media_count": 855,
+          "tweet_count": 15144
+        },
+        "url": "https://t.co/3v1BFQdz7b",
+        "username": "demonyins",
+        "verified": true
+      }
+    ]
+  }
+}

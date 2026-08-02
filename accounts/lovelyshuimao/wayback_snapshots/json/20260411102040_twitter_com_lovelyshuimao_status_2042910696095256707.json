@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1748763011140169729",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for New Years Eve for all years.",
+          "id": "1319305164751163393",
+          "name": "New Years Eve"
+        }
+      },
+      {
+        "domain": {
+          "description": "Holidays like Christmas or Halloween",
+          "id": "119",
+          "name": "Holiday"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for New Years Eve for all years.",
+          "id": "1319305164751163393",
+          "name": "New Years Eve"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Holidays",
+          "id": "847548225712119808",
+          "name": "Holidays"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291095284756357120",
+          "name": "Cultural events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1296381531510849536",
+          "name": "New Years Eve\t"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      }
+    ],
+    "conversation_id": "2042910696095256707",
+    "created_at": "2026-04-11T10:20:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T11:20:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042910696095256707"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2042910696095256707",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "正月理发死舅舅的来历\n很久很久以前\n每年的正月都是要理发的，为了辞旧迎新\n但是呢有一群人看着自己好不容易留了一年的头发被理掉，出现对去年的极度想念，随着思绪停留在了去年，变得疯疯癫癫\n甚至有人因为灵魂停滞不前，而被你鬼附身导致神智不清上吊、跳河\n后来这一现象被民间总结\n正月千万不能理头，会思旧\n于是就出现了：正月理头，思旧\n不知为何传着传着就变成了正月理头死舅舅"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "正月理发死舅舅的来历\n很久很久以前\n每年的正月都是要理发的，为了辞旧迎新\n但是呢有一群人看着自己好不容易留了一年的头发被理掉，出现对去年的极度想念，随着思绪停留在了去年，变得疯疯癫癫\n甚至有人因为灵魂停滞不前，而被你鬼附身导致神智不清上吊、跳河\n后来这一现象被民间总结"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for New Years Eve for all years.",
+              "id": "1319305164751163393",
+              "name": "New Years Eve"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for New Years Eve for all years.",
+              "id": "1319305164751163393",
+              "name": "New Years Eve"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Holidays",
+              "id": "847548225712119808",
+              "name": "Holidays"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291095284756357120",
+              "name": "Cultural events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1296381531510849536",
+              "name": "New Years Eve\t"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "2042910696095256707",
+        "created_at": "2026-04-11T10:20:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T11:20:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042910696095256707"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2042910696095256707",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "正月理发死舅舅的来历\n很久很久以前\n每年的正月都是要理发的，为了辞旧迎新\n但是呢有一群人看着自己好不容易留了一年的头发被理掉，出现对去年的极度想念，随着思绪停留在了去年，变得疯疯癫癫\n甚至有人因为灵魂停滞不前，而被你鬼附身导致神智不清上吊、跳河\n后来这一现象被民间总结\n正月千万不能理头，会思旧\n于是就出现了：正月理头，思旧\n不知为何传着传着就变成了正月理头死舅舅"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "正月理发死舅舅的来历\n很久很久以前\n每年的正月都是要理发的，为了辞旧迎新\n但是呢有一群人看着自己好不容易留了一年的头发被理掉，出现对去年的极度想念，随着思绪停留在了去年，变得疯疯癫癫\n甚至有人因为灵魂停滞不前，而被你鬼附身导致神智不清上吊、跳河\n后来这一现象被民间总结"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "INTJ｜永遠14｜提問↓｜❤️对象ZhiWei @saonanaa",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 25,
+                "username": "saonanaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGspkq"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你2.1km",
+        "name": "lovely水",
+        "pinned_tweet_id": "2042828746793869607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023831074921738240/frpPaTVT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4790,
+          "following_count": 1006,
+          "like_count": 272,
+          "listed_count": 13,
+          "media_count": 3141,
+          "tweet_count": 13935
+        },
+        "url": "https://t.co/EZhyEGspkq",
+        "username": "lovelyshuimao",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,313 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1748763011140169729",
+    "conversation_id": "2057705551484875109",
+    "created_at": "2026-05-22T06:41:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T07:41:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057713537477390342"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1117644610396778501",
+          "start": 0,
+          "username": "canderyy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057713537477390342",
+    "in_reply_to_user_id": "1117644610396778501",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057713112187650544",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@canderyy 你这是哪个城市\n可能物价不同吧，反正我这里3000绝对活不了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 258,
+        "media_key": "3_2057712642249342976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI52vvMaQAATcwx.png",
+        "width": 568
+      },
+      {
+        "height": 1706,
+        "media_key": "3_2057712642245185536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI52vvLa0AAJ_kg.jpg",
+        "width": 1279
+      },
+      {
+        "height": 1706,
+        "media_key": "3_2057712642249412608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI52vvMbUAA8_x0.jpg",
+        "width": 1279
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "2057705551484875109",
+        "created_at": "2026-05-22T06:41:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T07:41:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057713537477390342"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1117644610396778501",
+              "start": 0,
+              "username": "canderyy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057713537477390342",
+        "in_reply_to_user_id": "1117644610396778501",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057713112187650544",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@canderyy 你这是哪个城市\n可能物价不同吧，反正我这里3000绝对活不了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057712642249342976",
+            "3_2057712642245185536",
+            "3_2057712642249412608"
+          ]
+        },
+        "author_id": "1117644610396778501",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Porridge",
+              "id": "842448587472564225",
+              "name": "Porridge"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Porridge",
+              "id": "842448587472564225",
+              "name": "Porridge"
+            }
+          }
+        ],
+        "conversation_id": "2057705551484875109",
+        "created_at": "2026-05-22T06:40:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T07:40:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057713112187650544"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1748763011140169729",
+              "start": 0,
+              "username": "lovelyshuimao"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7Y1zWxNcOP",
+              "end": 141,
+              "expanded_url": "https://x.com/canderyy/status/2057713112187650544/photo/1",
+              "media_key": "3_2057712642249342976",
+              "start": 118,
+              "url": "https://t.co/7Y1zWxNcOP"
+            },
+            {
+              "display_url": "pic.x.com/7Y1zWxNcOP",
+              "end": 141,
+              "expanded_url": "https://x.com/canderyy/status/2057713112187650544/photo/1",
+              "media_key": "3_2057712642245185536",
+              "start": 118,
+              "url": "https://t.co/7Y1zWxNcOP"
+            },
+            {
+              "display_url": "pic.x.com/7Y1zWxNcOP",
+              "end": 141,
+              "expanded_url": "https://x.com/canderyy/status/2057713112187650544/photo/1",
+              "media_key": "3_2057712642249412608",
+              "start": 118,
+              "url": "https://t.co/7Y1zWxNcOP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057713112187650544",
+        "in_reply_to_user_id": "1748763011140169729",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057710342898397441",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lovelyshuimao 比较体面的餐食，和比较体面的住宿，但是一般3k的不会这么整就是了，3k还是要前面那个标准才能存钱，早饭馒头或者白粥，晚饭馒头配咸菜，中饭可以15元的，一个人住300月租的小平房不丢人，有个床就可以了🤣🤣🤣 https://t.co/7Y1zWxNcOP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "｜水猫星铃Lumia\n｜INTJ ♀14  \n｜❤️@saonanaa\n｜提問box——————————↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 27,
+                "username": "saonanaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGspkq"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你2.1km",
+        "name": "lovely水",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045354329792749568/b7JXuLvu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4909,
+          "following_count": 1019,
+          "like_count": 274,
+          "listed_count": 15,
+          "media_count": 3215,
+          "tweet_count": 14368
+        },
+        "url": "https://t.co/EZhyEGspkq",
+        "username": "lovelyshuimao",
+        "verified": false
+      },
+      {
+        "created_at": "2019-04-15T04:23:34.000Z",
+        "description": "38岁老登，老倒霉蛋一个，老婆我永远爱你😘",
+        "id": "1117644610396778501",
+        "location": "浙江省宁波市",
+        "name": "向晚初霁",
+        "pinned_tweet_id": "1943202703271956749",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052989898991489024/oauN18S8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 727,
+          "following_count": 149,
+          "like_count": 4434,
+          "listed_count": 2,
+          "media_count": 573,
+          "tweet_count": 2514
+        },
+        "username": "canderyy",
+        "verified": false
+      }
+    ]
+  }
+}

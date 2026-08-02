@@ -1,0 +1,117 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1748763011140169729",
+    "conversation_id": "2072949183351591203",
+    "created_at": "2026-07-03T07:42:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T08:42:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072949183351591203"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2072949183351591203",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "性别：女\n生理性别：女（因为压根没有生理性别只有生殖器之分）\n生殖器：阴茎（阴茎没有性别是个器官）\n染色体性别：女（因为染色体压根没性别之分）\n第23对染色体：xy（xy是染色体组合压根没性别）\n指派性别：男（只有这个是真正的可以判断为男，因为这个本来就是出生时他人指派的）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "2072949183351591203",
+        "created_at": "2026-07-03T07:42:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T08:42:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072949183351591203"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2072949183351591203",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "性别：女\n生理性别：女（因为压根没有生理性别只有生殖器之分）\n生殖器：阴茎（阴茎没有性别是个器官）\n染色体性别：女（因为染色体压根没性别之分）\n第23对染色体：xy（xy是染色体组合压根没性别）\n指派性别：男（只有这个是真正的可以判断为男，因为这个本来就是出生时他人指派的）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "🐱水猫星铃Lumia\n👩🏻‍💻INTJ ♀14 \n❤️@zhwevea\n🙋🏻‍♀️提問box——————↓\n✍🏻想要成为哲学作家\n🧠神经性两畸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 28,
+                "username": "zhwevea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGspkq"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你 4.3km",
+        "name": "lovely水",
+        "pinned_tweet_id": "2072584547917836627",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045354329792749568/b7JXuLvu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4996,
+          "following_count": 1005,
+          "like_count": 275,
+          "listed_count": 19,
+          "media_count": 3317,
+          "tweet_count": 14873
+        },
+        "url": "https://t.co/EZhyEGspkq",
+        "username": "lovelyshuimao",
+        "verified": true
+      }
+    ]
+  }
+}

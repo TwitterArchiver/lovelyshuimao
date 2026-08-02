@@ -1,0 +1,119 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1748763011140169729",
+    "conversation_id": "1998572778824634446",
+    "created_at": "2025-12-10T01:57:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-10T02:57:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1998572778824634446"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1998572778824634446",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "我之前太多的时间困在了房间里，点外卖，耍手机，一切都在房间里完成，困住我了的思绪也关闭了我的心灵\n我本以为我现在多出去走走少看点手机，多和现实世界交互可以冲破牢笼\n结果是把困在房子里的自己带到了任何地方，即便出门也只是身体出去了，思维仍感受不到现实的交互，从看手机屏幕变成看世界大屏幕"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我之前太多的时间困在了房间里，点外卖，耍手机，一切都在房间里完成，困住我了的思绪也关闭了我的心灵\n我本以为我现在多出去走走少看点手机，多和现实世界交互可以冲破牢笼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "1998572778824634446",
+        "created_at": "2025-12-10T01:57:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-10T02:57:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998572778824634446"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1998572778824634446",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我之前太多的时间困在了房间里，点外卖，耍手机，一切都在房间里完成，困住我了的思绪也关闭了我的心灵\n我本以为我现在多出去走走少看点手机，多和现实世界交互可以冲破牢笼\n结果是把困在房子里的自己带到了任何地方，即便出门也只是身体出去了，思维仍感受不到现实的交互，从看手机屏幕变成看世界大屏幕"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我之前太多的时间困在了房间里，点外卖，耍手机，一切都在房间里完成，困住我了的思绪也关闭了我的心灵\n我本以为我现在多出去走走少看点手机，多和现实世界交互可以冲破牢笼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "水貓🍕｜ENFP-t ｜永遠14｜對象@saonanaa｜素食主義者｜提問箱鏈接↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 19,
+                "username": "saonanaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%B0%B4%E6%B…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E6%B0%B4%E6%B0%B493927",
+                "start": 0,
+                "url": "https://t.co/qmQkMr39z5"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你2.1km",
+        "name": "lovely水",
+        "pinned_tweet_id": "1998223600432886177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998279626989449216/6L9PHOSs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3020,
+          "following_count": 1259,
+          "like_count": 251,
+          "listed_count": 7,
+          "media_count": 2407,
+          "tweet_count": 11718
+        },
+        "url": "https://t.co/qmQkMr39z5",
+        "username": "lovelyshuimao",
+        "verified": true
+      }
+    ]
+  }
+}

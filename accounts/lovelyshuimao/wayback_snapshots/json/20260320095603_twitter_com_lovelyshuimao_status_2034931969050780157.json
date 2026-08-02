@@ -1,0 +1,371 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2034931962524442630"
+      ]
+    },
+    "author_id": "1748763011140169729",
+    "conversation_id": "2034904924086313298",
+    "created_at": "2026-03-20T09:56:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-20T10:56:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034931969050780157"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "709787332254117888",
+          "start": 0,
+          "username": "howie_serious"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/hfdZwKg0vG",
+          "end": 38,
+          "expanded_url": "https://x.com/lovelyshuimao/status/2034931969050780157/photo/1",
+          "media_key": "3_2034931962524442630",
+          "start": 15,
+          "url": "https://t.co/hfdZwKg0vG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034931969050780157",
+    "in_reply_to_user_id": "709787332254117888",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034904924086313298",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@howie_serious https://t.co/hfdZwKg0vG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 844,
+        "media_key": "3_2034931962524442630",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD2H1qBboAYQwo6.jpg",
+        "width": 1320
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2034904915236331520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD1vPTBboAAm_kr.jpg",
+        "width": 996
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2034931962524442630"
+          ]
+        },
+        "author_id": "1748763011140169729",
+        "conversation_id": "2034904924086313298",
+        "created_at": "2026-03-20T09:56:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T10:56:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034931969050780157"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "709787332254117888",
+              "start": 0,
+              "username": "howie_serious"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hfdZwKg0vG",
+              "end": 38,
+              "expanded_url": "https://x.com/lovelyshuimao/status/2034931969050780157/photo/1",
+              "media_key": "3_2034931962524442630",
+              "start": 15,
+              "url": "https://t.co/hfdZwKg0vG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034931969050780157",
+        "in_reply_to_user_id": "709787332254117888",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034904924086313298",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@howie_serious https://t.co/hfdZwKg0vG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2034904915236331520"
+          ]
+        },
+        "author_id": "709787332254117888",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2034904924086313298",
+        "created_at": "2026-03-20T08:08:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T09:08:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034904924086313298"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kpCyObLk0I",
+              "end": 167,
+              "expanded_url": "https://x.com/howie_serious/status/2034904924086313298/photo/1",
+              "media_key": "3_2034904915236331520",
+              "start": 144,
+              "url": "https://t.co/kpCyObLk0I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034904924086313298",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 7431,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不要试图骗claude 说你是新加坡华人\n\n手机和 mac 都改新加披时区，一直挂新加坡 ip 也不行\n\n能骗 chatgpt，但 claude 骗不过🤣\n\n另外，cluade 封号一直还是按规则来的。如果哪天换成用 claude 本身来判断呢？不用规则，用神经网络判断，那就真完蛋了。 https://t.co/kpCyObLk0I"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "INTJ-t ｜永遠14歲｜提問↓｜❤️@saonanaa",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 20,
+                "username": "saonanaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGspkq"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你2.1km",
+        "name": "lovely水",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023831074921738240/frpPaTVT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4836,
+          "following_count": 1025,
+          "like_count": 268,
+          "listed_count": 13,
+          "media_count": 3049,
+          "tweet_count": 13496
+        },
+        "url": "https://t.co/EZhyEGspkq",
+        "username": "lovelyshuimao",
+        "verified": true
+      },
+      {
+        "created_at": "2016-03-15T17:04:22.000Z",
+        "description": "purity of thought. be exactly who you are : just a serious man. 思想纯净，做好自己：严肃对待自己的兴趣，不要浮皮潦草。\n\n公众号：howie和小能熊\nyoutube：https://t.co/J1aSMKnUFo",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@howieserious",
+                "end": 138,
+                "expanded_url": "https://www.youtube.com/@howieserious",
+                "start": 115,
+                "url": "https://t.co/J1aSMKnUFo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "gpt.candobear.com",
+                "end": 23,
+                "expanded_url": "https://gpt.candobear.com",
+                "start": 0,
+                "url": "https://t.co/CpwBqd0mg1"
+              }
+            ]
+          }
+        },
+        "id": "709787332254117888",
+        "location": "beijing",
+        "name": "howie.serious",
+        "pinned_tweet_id": "2009058742776848520",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/738174666309652480/UgeKnQOm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53549,
+          "following_count": 362,
+          "like_count": 4865,
+          "listed_count": 736,
+          "media_count": 2441,
+          "tweet_count": 7685
+        },
+        "url": "https://t.co/CpwBqd0mg1",
+        "username": "howie_serious",
+        "verified": true
+      }
+    ]
+  }
+}

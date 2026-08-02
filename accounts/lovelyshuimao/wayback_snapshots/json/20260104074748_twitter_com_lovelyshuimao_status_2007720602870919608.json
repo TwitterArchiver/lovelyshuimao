@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1748763011140169729",
+    "conversation_id": "2007508244655419882",
+    "created_at": "2026-01-04T07:47:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-04T08:47:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007720602870919608"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "940403420766150656",
+          "start": 0,
+          "username": "Necokeine"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007720602870919608",
+    "in_reply_to_user_id": "940403420766150656",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007720004356288869",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Necokeine 只是让腐木震惊啦（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "2007508244655419882",
+        "created_at": "2026-01-04T07:47:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T08:47:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007720602870919608"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "940403420766150656",
+              "start": 0,
+              "username": "Necokeine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007720602870919608",
+        "in_reply_to_user_id": "940403420766150656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007720004356288869",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Necokeine 只是让腐木震惊啦（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "940403420766150656",
+        "conversation_id": "2007508244655419882",
+        "created_at": "2026-01-04T07:45:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T08:45:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007720004356288869"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1748763011140169729",
+              "start": 0,
+              "username": "lovelyshuimao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007720004356288869",
+        "in_reply_to_user_id": "1748763011140169729",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007508244655419882",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lovelyshuimao 2333 推特谈不上多反华吧？邪教也不算多，诈骗也基本没有吧？毕竟推特上咋诈骗……色情最近被管的很厉害……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "水貓｜ENFP-t ｜永遠8歲｜提問↓ ｜對象@saonanaa｜Vegan｜心理兩畸｜蓝v互fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 23,
+                "username": "saonanaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGrRuS"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你2.1km",
+        "name": "lovely水",
+        "pinned_tweet_id": "2007376785382748406",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002694749883682816/cD8uYfnW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3246,
+          "following_count": 1005,
+          "like_count": 254,
+          "listed_count": 8,
+          "media_count": 2608,
+          "tweet_count": 12189
+        },
+        "url": "https://t.co/EZhyEGrRuS",
+        "username": "lovelyshuimao",
+        "verified": true
+      },
+      {
+        "created_at": "2017-12-12T02:10:22.000Z",
+        "description": "Go, Dream, Deliver\n我会中文  Can speak English  少しの日本语も話しできます\n到处出现，到处消失。\n旅が大好き、色々な場に行きたいです。\n三观比较硬，立场偏左\nPowtain 开发者 https://t.co/sDGm3BqvGH\nTelegram: https://t.co/xaFd1fJPBg",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "powtain.com",
+                "end": 134,
+                "expanded_url": "http://powtain.com",
+                "start": 111,
+                "url": "https://t.co/sDGm3BqvGH"
+              },
+              {
+                "display_url": "t.me/necokeine",
+                "end": 168,
+                "expanded_url": "https://t.me/necokeine",
+                "start": 145,
+                "url": "https://t.co/xaFd1fJPBg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "web.powtain.com/home",
+                "end": 23,
+                "expanded_url": "http://web.powtain.com/home",
+                "start": 0,
+                "url": "https://t.co/yf7pbmoHU8"
+              }
+            ]
+          }
+        },
+        "id": "940403420766150656",
+        "location": "上海",
+        "name": "知识和历史的半兽",
+        "pinned_tweet_id": "1943363060758122572",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1501095595838439427/ANgAmBua_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 310,
+          "following_count": 501,
+          "like_count": 9651,
+          "listed_count": 4,
+          "media_count": 42,
+          "tweet_count": 5709
+        },
+        "url": "https://t.co/yf7pbmoHU8",
+        "username": "Necokeine",
+        "verified": false
+      }
+    ]
+  }
+}

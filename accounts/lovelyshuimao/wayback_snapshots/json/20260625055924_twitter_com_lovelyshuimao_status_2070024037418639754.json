@@ -1,0 +1,338 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070024032603586560"
+      ]
+    },
+    "author_id": "1748763011140169729",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2069945674645528690",
+    "created_at": "2026-06-25T05:59:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T06:59:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070024037418639754"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1704469304077611008",
+          "start": 0,
+          "username": "jiaoyanboluooo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/kQqIbQziGV",
+          "end": 39,
+          "expanded_url": "https://x.com/lovelyshuimao/status/2070024037418639754/photo/1",
+          "media_key": "3_2070024032603586560",
+          "start": 16,
+          "url": "https://t.co/kQqIbQziGV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070024037418639754",
+    "in_reply_to_user_id": "1704469304077611008",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069945674645528690",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiaoyanboluooo https://t.co/kQqIbQziGV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 865,
+        "media_key": "3_2070024032603586560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLoz4-PbwAAUDRl.jpg",
+        "width": 544
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2069945666395406336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLnsndXbgAAVmVW.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070024032603586560"
+          ]
+        },
+        "author_id": "1748763011140169729",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2069945674645528690",
+        "created_at": "2026-06-25T05:59:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T06:59:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070024037418639754"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1704469304077611008",
+              "start": 0,
+              "username": "jiaoyanboluooo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kQqIbQziGV",
+              "end": 39,
+              "expanded_url": "https://x.com/lovelyshuimao/status/2070024037418639754/photo/1",
+              "media_key": "3_2070024032603586560",
+              "start": 16,
+              "url": "https://t.co/kQqIbQziGV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070024037418639754",
+        "in_reply_to_user_id": "1704469304077611008",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069945674645528690",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiaoyanboluooo https://t.co/kQqIbQziGV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069945666395406336"
+          ]
+        },
+        "author_id": "1704469304077611008",
+        "conversation_id": "2069945674645528690",
+        "created_at": "2026-06-25T00:48:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T01:48:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069945674645528690"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "一份结合了心理学量表与行为逻辑测试的深度鉴定系统",
+              "display_url": "femboy.test.nagisa.icu",
+              "end": 45,
+              "expanded_url": "https://femboy.test.nagisa.icu/",
+              "start": 22,
+              "status": 200,
+              "title": "男娘潜质综合评估量表",
+              "unwound_url": "https://femboy.test.nagisa.icu/",
+              "url": "https://t.co/MBafzTKjZq"
+            },
+            {
+              "display_url": "pic.x.com/9kcxfg9p5V",
+              "end": 69,
+              "expanded_url": "https://x.com/jiaoyanboluooo/status/2069945674645528690/photo/1",
+              "media_key": "3_2069945666395406336",
+              "start": 46,
+              "url": "https://t.co/9kcxfg9p5V"
+            },
+            {
+              "display_url": "x.com/lovelyshuimao/…",
+              "end": 93,
+              "expanded_url": "https://twitter.com/lovelyshuimao/status/2069642240662860186",
+              "start": 70,
+              "url": "https://t.co/LZ5iZyfLKO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069945674645528690",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 396,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069642240662860186",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "杂鱼😋\n我测出了「深度觉醒预备役」\n网址：\nhttps://t.co/MBafzTKjZq https://t.co/9kcxfg9p5V https://t.co/LZ5iZyfLKO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "🐱水猫星铃Lumia\n👩🏻‍💻INTJ ♀14 \n❤️@zhwevea\n🙋🏻‍♀️提問box————————↓\n✍🏻想要成为哲学作家",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 28,
+                "username": "zhwevea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGrRuS"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你2.1km",
+        "name": "lovely水",
+        "pinned_tweet_id": "2063974537272910172",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045354329792749568/b7JXuLvu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4921,
+          "following_count": 1007,
+          "like_count": 274,
+          "listed_count": 18,
+          "media_count": 3284,
+          "tweet_count": 14748
+        },
+        "url": "https://t.co/EZhyEGrRuS",
+        "username": "lovelyshuimao",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-20T12:15:32.000Z",
+        "description": "ISFP/mtf/生产日期7.24/od/双相喵？/臭蝈蝻/🏳️‍⚧️/steam好友码：1737257608/究极无敌大抖m 或sub？/无证含糖/不要靠近我，我只会让你伤心/主人@Amour761\n给我发送匿名消息！  ↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 91,
+                "username": "Amour761"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jiaoyanboluooo1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jiaoyanboluooo1",
+                "start": 0,
+                "url": "https://t.co/DbZcrDCjo5"
+              }
+            ]
+          }
+        },
+        "id": "1704469304077611008",
+        "location": "狗笼里",
+        "name": "椒盐菠萝🍥",
+        "pinned_tweet_id": "2062570727690346728",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040790835063881728/wk-qi4m1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5157,
+          "following_count": 4166,
+          "like_count": 29136,
+          "listed_count": 12,
+          "media_count": 1497,
+          "tweet_count": 6362
+        },
+        "url": "https://t.co/DbZcrDCjo5",
+        "username": "jiaoyanboluooo",
+        "verified": true
+      }
+    ]
+  }
+}

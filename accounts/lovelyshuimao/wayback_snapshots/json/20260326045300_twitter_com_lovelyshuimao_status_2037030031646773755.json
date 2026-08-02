@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1748763011140169729",
+    "conversation_id": "2036697516079743231",
+    "created_at": "2026-03-26T04:53:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T05:53:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037030031646773755"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1937048792487849984",
+          "start": 0,
+          "username": "nanami269322"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037030031646773755",
+    "in_reply_to_user_id": "1937048792487849984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036697516079743231",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nanami269322 主要是资源越多的的地方高考反而越简单"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2262,
+        "media_key": "3_2036697045143257088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEPNK_LaAAA3oZQ.jpg",
+        "width": 1216
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "2036697516079743231",
+        "created_at": "2026-03-26T04:53:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T05:53:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037030031646773755"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1937048792487849984",
+              "start": 0,
+              "username": "nanami269322"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037030031646773755",
+        "in_reply_to_user_id": "1937048792487849984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036697516079743231",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nanami269322 主要是资源越多的的地方高考反而越简单"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2036697045143257088"
+          ]
+        },
+        "author_id": "1937048792487849984",
+        "conversation_id": "2036697516079743231",
+        "created_at": "2026-03-25T06:51:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T07:51:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036697516079743231"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mgiWgU3XY3",
+              "end": 143,
+              "expanded_url": "https://x.com/nanami269322/status/2036697516079743231/photo/1",
+              "media_key": "3_2036697045143257088",
+              "start": 120,
+              "url": "https://t.co/mgiWgU3XY3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036697516079743231",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 10275,
+          "like_count": 79,
+          "quote_count": 4,
+          "reply_count": 20,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "问题在于，高考仅仅限于形式上的平等。而在事实上，它非但不是阶级跃迁的工具，而是阶级固化、压迫的表现形式和工具。所谓平等，也是对于相同阶层内部的相对平等。普通家庭根本没有财力支撑孩子获取多余的教育资源，山河四省等地的升学压力也不是北京能比的 https://t.co/mgiWgU3XY3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "INTJ-t ｜永遠14歲｜提問↓｜❤️@saonanaa",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 20,
+                "username": "saonanaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGspkq"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你2.1km",
+        "name": "lovely水",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023831074921738240/frpPaTVT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4855,
+          "following_count": 1026,
+          "like_count": 270,
+          "listed_count": 13,
+          "media_count": 3066,
+          "tweet_count": 13601
+        },
+        "url": "https://t.co/EZhyEGspkq",
+        "username": "lovelyshuimao",
+        "verified": true
+      },
+      {
+        "created_at": "2025-06-23T07:23:30.000Z",
+        "description": "時は流れて、大切な人ともう一度会えるように",
+        "id": "1937048792487849984",
+        "location": "克拉科夫",
+        "name": "七海燈子☭🚩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036092788811689984/otIjGDOg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 423,
+          "following_count": 651,
+          "like_count": 31392,
+          "listed_count": 0,
+          "media_count": 1038,
+          "tweet_count": 4005
+        },
+        "username": "nanami269322",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1748763011140169729",
+    "conversation_id": "2013752961911173483",
+    "created_at": "2026-01-21T10:14:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-21T11:14:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013918031479538006"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "18580530",
+          "start": 0,
+          "username": "suimusou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013918031479538006",
+    "in_reply_to_user_id": "18580530",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013917498195014060",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@suimusou 共享精神确实被搞死了\n不过是国内"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "2013752961911173483",
+        "created_at": "2026-01-21T10:14:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T11:14:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013918031479538006"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "18580530",
+              "start": 0,
+              "username": "suimusou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013918031479538006",
+        "in_reply_to_user_id": "18580530",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013917498195014060",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suimusou 共享精神确实被搞死了\n不过是国内"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "18580530",
+        "conversation_id": "2013752961911173483",
+        "created_at": "2026-01-21T10:12:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T11:12:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013917498195014060"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1748763011140169729",
+              "start": 0,
+              "username": "lovelyshuimao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013917498195014060",
+        "in_reply_to_user_id": "1748763011140169729",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013752961911173483",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lovelyshuimao app本身就是对网络的圈地，本质跟gfw并没差别，在app时代长大的孩子天生就像没见过大海的鱼…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "水貓｜INTJ-t ｜永遠14歲｜提問↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGrRuS"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你2.1km",
+        "name": "lovely水",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009519740319092737/8QXu2gXD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3449,
+          "following_count": 1017,
+          "like_count": 260,
+          "listed_count": 10,
+          "media_count": 2747,
+          "tweet_count": 12713
+        },
+        "url": "https://t.co/EZhyEGrRuS",
+        "username": "lovelyshuimao",
+        "verified": true
+      },
+      {
+        "created_at": "2009-01-03T15:22:24.000Z",
+        "description": "@tos IM NOT BOT. IM JUST ROM. DONOT q me elon!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 4,
+                "start": 0,
+                "username": "tos"
+              }
+            ]
+          }
+        },
+        "id": "18580530",
+        "location": "広東",
+        "name": "Est",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1250811565504262145/OJlkhDG1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 223,
+          "following_count": 1118,
+          "like_count": 74902,
+          "listed_count": 17,
+          "media_count": 3714,
+          "tweet_count": 9525
+        },
+        "username": "suimusou",
+        "verified": false
+      }
+    ]
+  }
+}

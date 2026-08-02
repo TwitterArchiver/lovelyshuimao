@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1748763011140169729",
+    "conversation_id": "2035545726122684567",
+    "created_at": "2026-03-22T06:20:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-22T07:20:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035602584627749282"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1472219833261772801",
+          "start": 0,
+          "username": "xxx_jjkk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035602584627749282",
+    "in_reply_to_user_id": "1472219833261772801",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035545726122684567",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xxx_jjkk 也就右美列管了，其他的不成od教程了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2035545723153039360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD-2DOiaQAAcP-O.jpg",
+        "width": 560
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2035545723417305088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD-2DPhaoAAnA_O.jpg",
+        "width": 557
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2035545723706724352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD-2DQma0AAdIpR.jpg",
+        "width": 545
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2035545723849388032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD-2DRIbsAAMxWk.jpg",
+        "width": 542
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "2035545726122684567",
+        "created_at": "2026-03-22T06:20:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T07:20:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035602584627749282"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1472219833261772801",
+              "start": 0,
+              "username": "xxx_jjkk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035602584627749282",
+        "in_reply_to_user_id": "1472219833261772801",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035545726122684567",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xxx_jjkk 也就右美列管了，其他的不成od教程了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2035545723153039360",
+            "3_2035545723417305088",
+            "3_2035545723706724352",
+            "3_2035545723849388032"
+          ]
+        },
+        "author_id": "1472219833261772801",
+        "conversation_id": "2035545726122684567",
+        "created_at": "2026-03-22T02:34:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T03:34:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035545726122684567"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Td5rkFQoMk",
+              "end": 121,
+              "expanded_url": "https://x.com/xxx_jjkk/status/2035545726122684567/photo/1",
+              "media_key": "3_2035545723153039360",
+              "start": 98,
+              "url": "https://t.co/Td5rkFQoMk"
+            },
+            {
+              "display_url": "pic.x.com/Td5rkFQoMk",
+              "end": 121,
+              "expanded_url": "https://x.com/xxx_jjkk/status/2035545726122684567/photo/1",
+              "media_key": "3_2035545723417305088",
+              "start": 98,
+              "url": "https://t.co/Td5rkFQoMk"
+            },
+            {
+              "display_url": "pic.x.com/Td5rkFQoMk",
+              "end": 121,
+              "expanded_url": "https://x.com/xxx_jjkk/status/2035545726122684567/photo/1",
+              "media_key": "3_2035545723706724352",
+              "start": 98,
+              "url": "https://t.co/Td5rkFQoMk"
+            },
+            {
+              "display_url": "pic.x.com/Td5rkFQoMk",
+              "end": 121,
+              "expanded_url": "https://x.com/xxx_jjkk/status/2035545726122684567/photo/1",
+              "media_key": "3_2035545723849388032",
+              "start": 98,
+              "url": "https://t.co/Td5rkFQoMk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035545726122684567",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 4004,
+          "like_count": 91,
+          "quote_count": 3,
+          "reply_count": 7,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "来来来，有没有小白不懂od圈的文化。广州禁毒官方出的教学指南，还有官方手拿正版盒子，可以方便你截图就上淘宝拼多多京东搜索，非常方便和正规！再也不怕买到假药了。\n(他还挺潮，穿champion呢) https://t.co/Td5rkFQoMk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "INTJ-t ｜永遠14歲｜提問↓｜❤️@saonanaa",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 20,
+                "username": "saonanaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGspkq"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你2.1km",
+        "name": "lovely水",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023831074921738240/frpPaTVT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4845,
+          "following_count": 1024,
+          "like_count": 268,
+          "listed_count": 13,
+          "media_count": 3060,
+          "tweet_count": 13533
+        },
+        "url": "https://t.co/EZhyEGspkq",
+        "username": "lovelyshuimao",
+        "verified": true
+      },
+      {
+        "created_at": "2021-12-18T14:59:07.000Z",
+        "description": "我这一生都存进这小小的屏幕里\n当我离去了\n至少这里曾有我活过的痕迹",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xxxynyn",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xxxynyn",
+                "start": 0,
+                "url": "https://t.co/yz1Ew7xhf4"
+              }
+            ]
+          }
+        },
+        "id": "1472219833261772801",
+        "name": "旖旎",
+        "pinned_tweet_id": "2032136848383099280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035262095277862912/s0vuE8mi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 400,
+          "following_count": 382,
+          "like_count": 7805,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 1153
+        },
+        "url": "https://t.co/yz1Ew7xhf4",
+        "username": "xxx_jjkk",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,314 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1992444368096223232",
+        "3_1992444375096520705",
+        "3_1992444381887098881",
+        "3_1992444386714787840"
+      ],
+      "media_source_tweet_id": [
+        "1992444390233850346",
+        "1992444390233850346",
+        "1992444390233850346",
+        "1992444390233850346"
+      ]
+    },
+    "author_id": "1748763011140169729",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1992480981975216496",
+    "created_at": "2025-11-23T06:30:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-23T07:30:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992480981975216496"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1884536290005368832",
+          "start": 3,
+          "username": "FGfr_218"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/bSY4nEyavL",
+          "end": 80,
+          "expanded_url": "https://x.com/FGfr_218/status/1992444390233850346/photo/1",
+          "media_key": "3_1992444368096223232",
+          "start": 57,
+          "url": "https://t.co/bSY4nEyavL"
+        },
+        {
+          "display_url": "pic.x.com/bSY4nEyavL",
+          "end": 80,
+          "expanded_url": "https://x.com/FGfr_218/status/1992444390233850346/photo/1",
+          "media_key": "3_1992444375096520705",
+          "start": 57,
+          "url": "https://t.co/bSY4nEyavL"
+        },
+        {
+          "display_url": "pic.x.com/bSY4nEyavL",
+          "end": 80,
+          "expanded_url": "https://x.com/FGfr_218/status/1992444390233850346/photo/1",
+          "media_key": "3_1992444381887098881",
+          "start": 57,
+          "url": "https://t.co/bSY4nEyavL"
+        },
+        {
+          "display_url": "pic.x.com/bSY4nEyavL",
+          "end": 80,
+          "expanded_url": "https://x.com/FGfr_218/status/1992444390233850346/photo/1",
+          "media_key": "3_1992444386714787840",
+          "start": 57,
+          "url": "https://t.co/bSY4nEyavL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992480981975216496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992444390233850346",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @FGfr_218: [置顶帖子]\np1服务价格表\np2素颜p3cos照\np4主包小群（发帖子时刚建群）🥺 https://t.co/bSY4nEyavL"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1992480981975216496].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1992480981975216496",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1992480981975216496"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1992444368096223232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6aVmKsaYAABfHe.jpg",
+        "width": 605
+      },
+      {
+        "height": 1920,
+        "media_key": "3_1992444375096520705",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6aVmkxacAEy-LS.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1365,
+        "media_key": "3_1992444381887098881",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6aVm-EacAEcZfK.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2062,
+        "media_key": "3_1992444386714787840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6aVnQDbIAAzzZS.jpg",
+        "width": 1160
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992444368096223232",
+            "3_1992444375096520705",
+            "3_1992444381887098881",
+            "3_1992444386714787840"
+          ]
+        },
+        "author_id": "1884536290005368832",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1992444390233850346",
+        "created_at": "2025-11-23T04:05:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T05:05:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992444390233850346"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bSY4nEyavL",
+              "end": 66,
+              "expanded_url": "https://x.com/FGfr_218/status/1992444390233850346/photo/1",
+              "media_key": "3_1992444368096223232",
+              "start": 43,
+              "url": "https://t.co/bSY4nEyavL"
+            },
+            {
+              "display_url": "pic.x.com/bSY4nEyavL",
+              "end": 66,
+              "expanded_url": "https://x.com/FGfr_218/status/1992444390233850346/photo/1",
+              "media_key": "3_1992444375096520705",
+              "start": 43,
+              "url": "https://t.co/bSY4nEyavL"
+            },
+            {
+              "display_url": "pic.x.com/bSY4nEyavL",
+              "end": 66,
+              "expanded_url": "https://x.com/FGfr_218/status/1992444390233850346/photo/1",
+              "media_key": "3_1992444381887098881",
+              "start": 43,
+              "url": "https://t.co/bSY4nEyavL"
+            },
+            {
+              "display_url": "pic.x.com/bSY4nEyavL",
+              "end": 66,
+              "expanded_url": "https://x.com/FGfr_218/status/1992444390233850346/photo/1",
+              "media_key": "3_1992444386714787840",
+              "start": 43,
+              "url": "https://t.co/bSY4nEyavL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992444390233850346",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 321,
+          "like_count": 15,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "[置顶帖子]\np1服务价格表\np2素颜p3cos照\np4主包小群（发帖子时刚建群）🥺 https://t.co/bSY4nEyavL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "水貓🍕｜ENFP-t ｜永遠14｜是豪貓不o不圓不殘不死｜對象@saonanaa｜素食主義者｜提問箱鏈接↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 31,
+                "username": "saonanaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%B0%B4%E6%B…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E6%B0%B4%E6%B0%B493927",
+                "start": 0,
+                "url": "https://t.co/qmQkMr39z5"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你2.1km",
+        "name": "lovely水",
+        "pinned_tweet_id": "1990800664876958201",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967556205590831104/87BEnlAx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2685,
+          "following_count": 1117,
+          "like_count": 245,
+          "listed_count": 7,
+          "media_count": 2295,
+          "tweet_count": 11238
+        },
+        "url": "https://t.co/qmQkMr39z5",
+        "username": "lovelyshuimao",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-29T09:37:26.000Z",
+        "description": "07年/社恐/重度焦虑/泛性恋/无证含糖/二次元/coser/目标赚够手术费/戒od中/加油加油gogogo/坐标河南郑州 /大家每天都要加油哇//好好活着不要死哦",
+        "id": "1884536290005368832",
+        "location": "舞萌国",
+        "name": "雯菓ふわり🏳️‍⚧️🍬",
+        "pinned_tweet_id": "1992444390233850346",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984441327866822659/X7r98E7I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1342,
+          "following_count": 437,
+          "like_count": 1903,
+          "listed_count": 4,
+          "media_count": 119,
+          "tweet_count": 1357
+        },
+        "username": "FGfr_218",
+        "verified": true
+      }
+    ]
+  }
+}

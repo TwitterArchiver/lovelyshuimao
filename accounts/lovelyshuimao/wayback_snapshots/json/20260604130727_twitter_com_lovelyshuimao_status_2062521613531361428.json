@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1748763011140169729",
+    "conversation_id": "2062355386179690571",
+    "created_at": "2026-06-04T13:07:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T14:07:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062521613531361428"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1823560880476577794",
+          "start": 0,
+          "username": "homelesser2887"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062521613531361428",
+    "in_reply_to_user_id": "1823560880476577794",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062506621591556594",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@homelesser2887 法律大多要求轻伤以上，而不是那种普通打骂就"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "2062355386179690571",
+        "created_at": "2026-06-04T13:07:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T14:07:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062521613531361428"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1823560880476577794",
+              "start": 0,
+              "username": "homelesser2887"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062521613531361428",
+        "in_reply_to_user_id": "1823560880476577794",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062506621591556594",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@homelesser2887 法律大多要求轻伤以上，而不是那种普通打骂就"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1823560880476577794",
+        "conversation_id": "2062355386179690571",
+        "created_at": "2026-06-04T12:07:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T13:07:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062506621591556594"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1748763011140169729",
+              "start": 0,
+              "username": "lovelyshuimao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062506621591556594",
+        "in_reply_to_user_id": "1823560880476577794",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062503689936589045",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lovelyshuimao 反家暴法2 14 23条 未成年保护法17 117条 教育促进法22条\n但是报案的时候 调解阶段就默认为正常“家事”申诉终止"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "｜水猫星铃Lumia\n｜INTJ ♀14  \n｜❤️@saonanaa\n｜提問box——————————↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 27,
+                "username": "saonanaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGspkq"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你2.1km",
+        "name": "lovely水",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045354329792749568/b7JXuLvu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4882,
+          "following_count": 1006,
+          "like_count": 275,
+          "listed_count": 17,
+          "media_count": 3232,
+          "tweet_count": 14492
+        },
+        "url": "https://t.co/EZhyEGspkq",
+        "username": "lovelyshuimao",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-14T03:23:00.000Z",
+        "description": "ℑ 𝔭𝔞𝔩𝔭𝔦𝔱𝔞𝔱𝔢 𝔦𝔫 𝔶𝔬𝔲𝔯 𝔞𝔟𝔰𝔢𝔫𝔠𝔢.",
+        "id": "1823560880476577794",
+        "name": "ℭ𝔲𝔯𝔲𝔷·𝔇𝔬𝔞𝔫🏴",
+        "pinned_tweet_id": "2057455738507972762",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020839033375723520/cMYh7JM6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 50,
+          "like_count": 9620,
+          "listed_count": 0,
+          "media_count": 296,
+          "tweet_count": 5171
+        },
+        "username": "homelesser2887",
+        "verified": false
+      }
+    ]
+  }
+}

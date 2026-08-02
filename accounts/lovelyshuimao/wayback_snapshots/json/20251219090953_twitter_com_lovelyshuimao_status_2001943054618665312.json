@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1748763011140169729",
+    "conversation_id": "2001570813460578534",
+    "created_at": "2025-12-19T09:09:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-19T10:09:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001943054618665312"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "877812343912226817",
+          "start": 0,
+          "username": "HeQiQiHe77"
+        },
+        {
+          "end": 24,
+          "id": "1574516663935901696",
+          "start": 12,
+          "username": "wangjupaian"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001943054618665312",
+    "in_reply_to_user_id": "877812343912226817",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001625893853442086",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HeQiQiHe77 @wangjupaian 钱不够硬买才是被消费主义洗脑，钱到位了买叫符合身份😃"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "2001570813460578534",
+        "created_at": "2025-12-19T09:09:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-19T10:09:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001943054618665312"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "877812343912226817",
+              "start": 0,
+              "username": "HeQiQiHe77"
+            },
+            {
+              "end": 24,
+              "id": "1574516663935901696",
+              "start": 12,
+              "username": "wangjupaian"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001943054618665312",
+        "in_reply_to_user_id": "877812343912226817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001625893853442086",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HeQiQiHe77 @wangjupaian 钱不够硬买才是被消费主义洗脑，钱到位了买叫符合身份😃"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "877812343912226817",
+        "conversation_id": "2001570813460578534",
+        "created_at": "2025-12-18T12:09:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-18T13:09:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001625893853442086"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1574516663935901696",
+              "start": 0,
+              "username": "wangjupaian"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001625893853442086",
+        "in_reply_to_user_id": "1574516663935901696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3846,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001570813460578534",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wangjupaian 不知道为啥要买这么贵的包，都那个身份了，还会被消费主义洗脑吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "水貓🍕｜ENFP-t ｜永遠14｜對象@saonanaa｜不嚴素食主義者｜向我提问！↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 19,
+                "username": "saonanaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%B0%B4%E6%B…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E6%B0%B4%E6%B0%B493927",
+                "start": 0,
+                "url": "https://t.co/qmQkMr2BJx"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你2.1km",
+        "name": "lovely水",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001528350221934592/WkEMbLFd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3066,
+          "following_count": 1237,
+          "like_count": 252,
+          "listed_count": 8,
+          "media_count": 2499,
+          "tweet_count": 11959
+        },
+        "url": "https://t.co/qmQkMr2BJx",
+        "username": "lovelyshuimao",
+        "verified": true
+      },
+      {
+        "created_at": "2017-06-22T08:55:46.000Z",
+        "description": "CS × Brain Science in tech and labs | Writer & content creator | Follow me: https://t.co/wCxKKww3RC | Ex- Tencent, Alibaba, CUHK, UCSF",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "HeQi.Quest",
+                "end": 99,
+                "expanded_url": "https://HeQi.Quest",
+                "start": 76,
+                "url": "https://t.co/wCxKKww3RC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "heqi.quest",
+                "end": 23,
+                "expanded_url": "https://heqi.quest",
+                "start": 0,
+                "url": "https://t.co/GzYWor1M9F"
+              }
+            ]
+          }
+        },
+        "id": "877812343912226817",
+        "location": "San Jose, CA",
+        "name": "He Qi 戚何",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998244290322182144/EnN0rQ8d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 595,
+          "following_count": 5585,
+          "like_count": 333,
+          "listed_count": 5,
+          "media_count": 709,
+          "tweet_count": 3204
+        },
+        "url": "https://t.co/GzYWor1M9F",
+        "username": "HeQiQiHe77",
+        "verified": true
+      },
+      {
+        "created_at": "2022-09-26T21:50:31.000Z",
+        "description": "《王局拍案》官号，小编值班，欢迎投稿",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@wangzhian",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@wangzhian",
+                "start": 0,
+                "url": "https://t.co/FWdZ3jWWoT"
+              }
+            ]
+          }
+        },
+        "id": "1574516663935901696",
+        "name": "王局拍案",
+        "pinned_tweet_id": "2001624379440988374",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1650147662111604737/Rb-AggZX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112378,
+          "following_count": 141,
+          "like_count": 51,
+          "listed_count": 302,
+          "media_count": 2842,
+          "tweet_count": 3220
+        },
+        "url": "https://t.co/FWdZ3jWWoT",
+        "username": "wangjupaian",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,673 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1748763011140169729",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1303989823011606528",
+          "name": "Tech events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "10044903039",
+          "name": "Apple - iOS"
+        }
+      }
+    ],
+    "conversation_id": "2082757883549401520",
+    "created_at": "2026-07-30T10:47:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T11:47:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082780088362549563"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "908312740455907330",
+          "start": 0,
+          "username": "qiuylove"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/0xstudy/status…",
+          "end": 33,
+          "expanded_url": "https://x.com/0xstudy/status/2050392846495367487?s=46",
+          "start": 10,
+          "url": "https://t.co/GDKpdII5Oa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082780088362549563",
+    "in_reply_to_user_id": "908312740455907330",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050392846495367487",
+        "type": "quoted"
+      },
+      {
+        "id": "2082779985191076176",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qiuylove https://t.co/GDKpdII5Oa"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2082779985191076176].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2082779985191076176",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2082779985191076176"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1387,
+        "media_key": "3_2050392838777761792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHR1bGVacAAKZ31.jpg",
+        "width": 1280
+      },
+      {
+        "height": 1387,
+        "media_key": "3_2050392838765223936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHR1bGSbIAA8Lfu.jpg",
+        "width": 1280
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2050392838790406144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHR1bGYbYAAjikU.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10044903039",
+              "name": "Apple - iOS"
+            }
+          }
+        ],
+        "conversation_id": "2082757883549401520",
+        "created_at": "2026-07-30T10:47:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T11:47:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082780088362549563"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "908312740455907330",
+              "start": 0,
+              "username": "qiuylove"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/0xstudy/status…",
+              "end": 33,
+              "expanded_url": "https://x.com/0xstudy/status/2050392846495367487?s=46",
+              "start": 10,
+              "url": "https://t.co/GDKpdII5Oa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082780088362549563",
+        "in_reply_to_user_id": "908312740455907330",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050392846495367487",
+            "type": "quoted"
+          },
+          {
+            "id": "2082779985191076176",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qiuylove https://t.co/GDKpdII5Oa"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050392838777761792",
+            "3_2050392838765223936",
+            "3_2050392838790406144"
+          ]
+        },
+        "author_id": "1876957995806158848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10044903039",
+              "name": "Apple - iOS"
+            }
+          }
+        ],
+        "conversation_id": "2050392846495367487",
+        "created_at": "2026-05-02T01:52:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T02:52:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050392846495367487"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "raw.githubusercontent.com/ttyyss2233/Too…",
+              "end": 109,
+              "expanded_url": "https://raw.githubusercontent.com/ttyyss2233/Tool/main/shadowrocket/mokuai/Apns.module",
+              "start": 86,
+              "status": 200,
+              "unwound_url": "https://raw.githubusercontent.com/ttyyss2233/Tool/main/shadowrocket/mokuai/Apns.module",
+              "url": "https://t.co/SZzsvdtGj4"
+            },
+            {
+              "display_url": "pic.x.com/Fzvqxi7RDm",
+              "end": 180,
+              "expanded_url": "https://x.com/0xStudy/status/2050392846495367487/photo/1",
+              "media_key": "3_2050392838777761792",
+              "start": 157,
+              "url": "https://t.co/Fzvqxi7RDm"
+            },
+            {
+              "display_url": "pic.x.com/Fzvqxi7RDm",
+              "end": 180,
+              "expanded_url": "https://x.com/0xStudy/status/2050392846495367487/photo/1",
+              "media_key": "3_2050392838765223936",
+              "start": 157,
+              "url": "https://t.co/Fzvqxi7RDm"
+            },
+            {
+              "display_url": "pic.x.com/Fzvqxi7RDm",
+              "end": 180,
+              "expanded_url": "https://x.com/0xStudy/status/2050392846495367487/photo/1",
+              "media_key": "3_2050392838790406144",
+              "start": 157,
+              "url": "https://t.co/Fzvqxi7RDm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050392846495367487",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 197,
+                "id": "1504072337980751875",
+                "start": 187,
+                "username": "Ai_JasonX"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "raw.githubusercontent.com/ttyyss2233/Too…",
+                "end": 109,
+                "expanded_url": "https://raw.githubusercontent.com/ttyyss2233/Tool/main/shadowrocket/mokuai/Apns.module",
+                "start": 86,
+                "url": "https://t.co/54glhQOITR"
+              }
+            ]
+          },
+          "text": "苹果IOS的推送出问题了  刚解决\n\n这几天没信息弹窗和推送总觉得怪怪的，搜了一下才发现挺多人都收不到信息\n\n去小火箭设置了一下马上就收到了弹窗信息\n1️⃣先加一个模块：\nhttps://t.co/54glhQOITR\n打开复制进去就行\n\n2️⃣打开隧道里的APNs 我全都开了\n\n3️⃣关闭Vpn 打开飞行模式 过一分钟重新打开，完成就能收到推送了\n\n链接内容来源：感谢 @Ai_JasonX \n\n美滋滋 不知道后面什么时候会修复，我18.5的备用机都收不到消息…反正没那么夸张到要去换外版手机，自己设置一下就好了\n\n（小火箭要是很久没更新了没隧道那个功能，得删掉后用共享ID重新下载一个，或者用之前的ID更新一下）"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1409,
+          "impression_count": 310286,
+          "like_count": 1194,
+          "quote_count": 45,
+          "reply_count": 278,
+          "retweet_count": 159
+        },
+        "reply_settings": "everyone",
+        "text": "苹果IOS的推送出问题了  刚解决\n\n这几天没信息弹窗和推送总觉得怪怪的，搜了一下才发现挺多人都收不到信息\n\n去小火箭设置了一下马上就收到了弹窗信息\n1️⃣先加一个模块：\nhttps://t.co/SZzsvdtGj4\n打开复制进去就行\n\n2️⃣打开隧道里的APNs 我全都开了\n\n3️⃣关闭Vpn 打开飞行模式 https://t.co/Fzvqxi7RDm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "🐱神仙水水猫星铃Lumia\n👩🏻‍💻INTJ ♀14 \n🙋🏻‍♀️提問box——————↓\n✍🏻想成為作家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGspkq"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你 4.3km",
+        "name": "lovely水",
+        "pinned_tweet_id": "2075897725733024056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045354329792749568/b7JXuLvu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5528,
+          "following_count": 996,
+          "like_count": 275,
+          "listed_count": 22,
+          "media_count": 3458,
+          "tweet_count": 15658
+        },
+        "url": "https://t.co/EZhyEGspkq",
+        "username": "lovelyshuimao",
+        "verified": true
+      },
+      {
+        "created_at": "2017-09-14T12:53:27.000Z",
+        "description": "⚠️fo前请DM说明来意/❤️纯情女高？！/单取大概率回block/🥵涩涩or技术推/🥺出厂16年的人类小女孩喵/退役CChOer/INFP/les/sub/免费私信树洞 /✈️https://t.co/BFK1NVA58J / 阿弃主人@Ak1raQ_love (这个不是对象喵对象是顺女) / 有对象❤️勿扰",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 131,
+                "start": 119,
+                "username": "Ak1raQ_love"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/xyn8964",
+                "end": 112,
+                "expanded_url": "https://t.me/xyn8964",
+                "start": 89,
+                "url": "https://t.co/BFK1NVA58J"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "dmit.io/aff.php?aff=16…",
+                "end": 23,
+                "expanded_url": "https://www.dmit.io/aff.php?aff=16563",
+                "start": 0,
+                "url": "https://t.co/paxAwGcI8h"
+              }
+            ]
+          }
+        },
+        "id": "908312740455907330",
+        "location": "Seattle, WA",
+        "name": "ザコいの秋月ちゃん 🎀🕯️",
+        "pinned_tweet_id": "2024703264550498423",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940249656916664320/-CxMK7qJ_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 412,
+          "following_count": 925,
+          "like_count": 85681,
+          "listed_count": 1,
+          "media_count": 125,
+          "tweet_count": 3951
+        },
+        "url": "https://t.co/paxAwGcI8h",
+        "username": "qiuylove",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-08T11:44:07.000Z",
+        "description": "发着玩 有内容 不坑人 写教程\n/@AbstractChain Giga Chad/\n\n安全首选 交易所、钱包  轻松买美股 就上 #OKX \n直达: https://t.co/HSkkclbUqz",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 70,
+                "start": 66,
+                "tag": "OKX"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 31,
+                "start": 17,
+                "username": "AbstractChain"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "okx.com/zh-hans/join/5…",
+                "end": 99,
+                "expanded_url": "http://www.okx.com/zh-hans/join/56551706",
+                "start": 76,
+                "url": "https://t.co/HSkkclbUqz"
+              }
+            ]
+          }
+        },
+        "id": "1876957995806158848",
+        "name": "0xStudy",
+        "pinned_tweet_id": "2075020862198071358",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011185527865950208/Iovpo2hL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16572,
+          "following_count": 810,
+          "like_count": 21979,
+          "listed_count": 382,
+          "media_count": 4062,
+          "tweet_count": 27577
+        },
+        "url": "",
+        "username": "0xStudy",
+        "verified": true
+      }
+    ]
+  }
+}

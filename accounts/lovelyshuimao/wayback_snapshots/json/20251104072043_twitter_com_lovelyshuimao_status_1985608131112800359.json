@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1748763011140169729",
+    "conversation_id": "1985031536295764389",
+    "created_at": "2025-11-04T07:20:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-04T08:20:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985608131112800359"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1912916776519954432",
+          "start": 0,
+          "username": "liu_lu43456"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985608131112800359",
+    "in_reply_to_user_id": "1912916776519954432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985031536295764389",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@liu_lu43456 有墙导致信息源少，有屏蔽是导致大家养成打谜语的习惯，有主旋律导致声音单调"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "1985031536295764389",
+        "created_at": "2025-11-04T07:20:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-04T08:20:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985608131112800359"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1912916776519954432",
+              "start": 0,
+              "username": "liu_lu43456"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985608131112800359",
+        "in_reply_to_user_id": "1912916776519954432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985031536295764389",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liu_lu43456 有墙导致信息源少，有屏蔽是导致大家养成打谜语的习惯，有主旋律导致声音单调"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1912916776519954432",
+        "conversation_id": "1985031536295764389",
+        "created_at": "2025-11-02T17:09:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T18:09:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985031536295764389"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1985031536295764389",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 48,
+          "impression_count": 216681,
+          "like_count": 1811,
+          "quote_count": 15,
+          "reply_count": 311,
+          "retweet_count": 79
+        },
+        "reply_settings": "everyone",
+        "text": "我是不理解墙内为什么总是弱智梗频出，例如“那咋了”“受着”“最棒的小羊”搞得老中好像没有正常人了一样，这种梗能大范围流行并被使用只能证明傻子终究是占据了墙内网络的大部分话语权"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "ENFP-t ｜永遠14｜是豪貓不o不圓不殘不死｜對象@saonanaa｜雙相＆抑鬱｜家長不管黨｜提問箱鏈接↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 27,
+                "username": "saonanaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%B0%B4%E6%B…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E6%B0%B4%E6%B0%B493927",
+                "start": 0,
+                "url": "https://t.co/qmQkMr2BJx"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你2.1km",
+        "name": "lovely水水猫🍕",
+        "pinned_tweet_id": "1983629097923440976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967556205590831104/87BEnlAx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2472,
+          "following_count": 1120,
+          "like_count": 245,
+          "listed_count": 7,
+          "media_count": 2214,
+          "tweet_count": 10973
+        },
+        "url": "https://t.co/qmQkMr2BJx",
+        "username": "lovelyshuimao",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-17T17:11:35.000Z",
+        "description": "MBTI:INTP-T/5w4/戒OD💊/双相/泛性恋，智性恋/躁期/自伤/会回关，没回关叫我一下/",
+        "id": "1912916776519954432",
+        "location": "石家庄",
+        "name": "Gyouboshi小鹿＃毕宿五",
+        "pinned_tweet_id": "1984282652321652840",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985065808847044608/Uat0xkD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 95,
+          "like_count": 302,
+          "listed_count": 2,
+          "media_count": 91,
+          "tweet_count": 672
+        },
+        "username": "liu_lu43456",
+        "verified": false
+      }
+    ]
+  }
+}

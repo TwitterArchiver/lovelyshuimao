@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2038053598936883200"
+      ],
+      "media_source_tweet_id": [
+        "2038053601579266516"
+      ]
+    },
+    "author_id": "1748763011140169729",
+    "conversation_id": "2038812381221126545",
+    "created_at": "2026-03-31T02:55:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T03:55:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038812381221126545"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1453575590729162758",
+          "start": 3,
+          "username": "obe_ZX"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/RGFuAfpVoS",
+          "end": 119,
+          "expanded_url": "https://x.com/obe_ZX/status/2038053601579266516/photo/1",
+          "media_key": "3_2038053598936883200",
+          "start": 96,
+          "url": "https://t.co/RGFuAfpVoS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038812381221126545",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038053601579266516",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @obe_ZX: 有这么一种病，得了它会在体表长一颗畸形的肿瘤，肿瘤并不会直接危及人的生命，但会不断地分泌一种物质，毒害人的精神，最终，得了这种病的人会陷入极其严重的精神疾病(1/n) https://t.co/RGFuAfpVoS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 742,
+        "media_key": "3_2038053598936883200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEie8z3W4AA6Kk0.jpg",
+        "width": 1455
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038053598936883200"
+          ],
+          "media_source_tweet_id": [
+            "2038053601579266516"
+          ]
+        },
+        "author_id": "1748763011140169729",
+        "conversation_id": "2038812381221126545",
+        "created_at": "2026-03-31T02:55:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T03:55:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038812381221126545"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1453575590729162758",
+              "start": 3,
+              "username": "obe_ZX"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RGFuAfpVoS",
+              "end": 119,
+              "expanded_url": "https://x.com/obe_ZX/status/2038053601579266516/photo/1",
+              "media_key": "3_2038053598936883200",
+              "start": 96,
+              "url": "https://t.co/RGFuAfpVoS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038812381221126545",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038053601579266516",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @obe_ZX: 有这么一种病，得了它会在体表长一颗畸形的肿瘤，肿瘤并不会直接危及人的生命，但会不断地分泌一种物质，毒害人的精神，最终，得了这种病的人会陷入极其严重的精神疾病(1/n) https://t.co/RGFuAfpVoS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038053598936883200"
+          ]
+        },
+        "author_id": "1453575590729162758",
+        "conversation_id": "2038053601579266516",
+        "created_at": "2026-03-29T00:40:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T01:40:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038053601579266516"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RGFuAfpVoS",
+              "end": 107,
+              "expanded_url": "https://x.com/obe_ZX/status/2038053601579266516/photo/1",
+              "media_key": "3_2038053598936883200",
+              "start": 84,
+              "url": "https://t.co/RGFuAfpVoS"
+            },
+            {
+              "display_url": "x.com/obe_ZX/status/…",
+              "end": 131,
+              "expanded_url": "https://twitter.com/obe_ZX/status/2037884775734677549",
+              "start": 108,
+              "url": "https://t.co/4UlZB3VKUd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038053601579266516",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 1450,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037884775734677549",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有这么一种病，得了它会在体表长一颗畸形的肿瘤，肿瘤并不会直接危及人的生命，但会不断地分泌一种物质，毒害人的精神，最终，得了这种病的人会陷入极其严重的精神疾病(1/n) https://t.co/RGFuAfpVoS https://t.co/4UlZB3VKUd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "INTJ-t ｜永遠14｜提問↓｜❤️@saonanaa",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 19,
+                "username": "saonanaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGspkq"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你2.1km",
+        "name": "lovely水",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023831074921738240/frpPaTVT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4881,
+          "following_count": 1024,
+          "like_count": 270,
+          "listed_count": 13,
+          "media_count": 3088,
+          "tweet_count": 13725
+        },
+        "url": "https://t.co/EZhyEGspkq",
+        "username": "lovelyshuimao",
+        "verified": true
+      },
+      {
+        "created_at": "2021-10-28T04:13:37.000Z",
+        "description": "07年夏季Trans F | 持证但是DIY HRTing | 175/53.4kg | 尝试增肥ing | 半家长党（妈妈）+半家长不管党（生父） | 最喜欢的姐姐@ye_han67658",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 83,
+                "username": "ye_han67658"
+              }
+            ]
+          }
+        },
+        "id": "1453575590729162758",
+        "location": "小骨灰盒",
+        "name": "栀子MOCHI 🍡🏳️‍⚧️",
+        "pinned_tweet_id": "2007341646145638708",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037399355464818688/q56FkSGM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 741,
+          "following_count": 520,
+          "like_count": 19334,
+          "listed_count": 4,
+          "media_count": 358,
+          "tweet_count": 2095
+        },
+        "username": "obe_ZX",
+        "verified": false
+      }
+    ]
+  }
+}

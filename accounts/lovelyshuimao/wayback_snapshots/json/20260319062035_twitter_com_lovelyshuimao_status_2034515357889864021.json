@@ -1,0 +1,464 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1748763011140169729",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "10040276682",
+          "name": "Apple Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "id": "1288826829634035714",
+          "name": "Backstage"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10040276682",
+          "name": "Apple Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music and radio",
+          "id": "847524658970636288",
+          "name": "Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1196457934370172928",
+          "name": "Music industry"
+        }
+      }
+    ],
+    "conversation_id": "2034443561194995798",
+    "created_at": "2026-03-19T06:20:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-19T07:20:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034515357889864021"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1220290277056897025",
+          "start": 0,
+          "username": "pangyusio"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034515357889864021",
+    "in_reply_to_user_id": "1220290277056897025",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034443561194995798",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pangyusio 我不喜欢那种系统掌控我的感觉，凡是字节系的我都不用，用的Apple Music"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2556,
+        "media_key": "3_2034443289731174400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDvLZKAakAAOwO9.jpg",
+        "width": 1179
+      },
+      {
+        "height": 2556,
+        "media_key": "3_2034443329736429568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDvLbfCaUAA4Qhl.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10040276682",
+              "name": "Apple Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "id": "1288826829634035714",
+              "name": "Backstage"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10040276682",
+              "name": "Apple Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196457934370172928",
+              "name": "Music industry"
+            }
+          }
+        ],
+        "conversation_id": "2034443561194995798",
+        "created_at": "2026-03-19T06:20:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T07:20:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034515357889864021"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1220290277056897025",
+              "start": 0,
+              "username": "pangyusio"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034515357889864021",
+        "in_reply_to_user_id": "1220290277056897025",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034443561194995798",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pangyusio 我不喜欢那种系统掌控我的感觉，凡是字节系的我都不用，用的Apple Music"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2034443289731174400",
+            "3_2034443329736429568"
+          ]
+        },
+        "author_id": "1220290277056897025",
+        "conversation_id": "2034443561194995798",
+        "created_at": "2026-03-19T01:35:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T02:35:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034443561194995798"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TzsKRvaPQX",
+              "end": 154,
+              "expanded_url": "https://x.com/pangyusio/status/2034443561194995798/photo/1",
+              "media_key": "3_2034443289731174400",
+              "start": 131,
+              "url": "https://t.co/TzsKRvaPQX"
+            },
+            {
+              "display_url": "pic.x.com/TzsKRvaPQX",
+              "end": 154,
+              "expanded_url": "https://x.com/pangyusio/status/2034443561194995798/photo/1",
+              "media_key": "3_2034443329736429568",
+              "start": 131,
+              "url": "https://t.co/TzsKRvaPQX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034443561194995798",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "最近试了下字节的汽水音乐，再打开 QQ 音乐，有种从 2026 穿越回 2016 的感觉。\n\n汽水音乐的逻辑和抖音一脉相承：选个类型，算法推歌，切歌上下滑。整个 App 只有一个核心交互，极简到没有任何决策成本。\n\nQQ 音乐呢？成千上万个歌单，每天推荐 30 首歌。本质上还是十年前网易云那套\"编辑+协同过滤\"的思路，只不过加了更多版权和社交。页面也跟狗皮膏药一样复杂。\n\n都 2026 年了，这套东西看着实在像上个时代的产物。\n\n腾讯的路径一直是：找到被验证的产品，抄过来，嫁接社交关系链和版权优势，靠体量碾压。QQ 音乐对网易云如此，微信对米聊亦如此。\n\n但字节的打法是用算法重新定义交互本身。说白了，歌单这个产品形态，在足够强的推荐算法面前，就是个冗余设计。\n\n字节可怕的地方在于，它不跟你比功能多、版权全，是直接把竞争拉到你不擅长的维度——算法驱动的用户体验。\n\n腾讯如果继续在旧框架里迭代，大概率会像门户网站遇上信息流，赢了所有旧对手，却输给一个改变规则的人。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 123,
+          "impression_count": 165227,
+          "like_count": 353,
+          "quote_count": 17,
+          "reply_count": 173,
+          "retweet_count": 26
+        },
+        "reply_settings": "everyone",
+        "text": "最近试了下字节的汽水音乐，再打开 QQ 音乐，有种从 2026 穿越回 2016 的感觉。\n\n汽水音乐的逻辑和抖音一脉相承：选个类型，算法推歌，切歌上下滑。整个 App 只有一个核心交互，极简到没有任何决策成本。\n\nQQ 音乐呢？成千上万个歌单，每天推荐 30 https://t.co/TzsKRvaPQX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "INTJ-t ｜永遠14歲｜提問↓｜❤️@saonanaa",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 20,
+                "username": "saonanaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGspkq"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你2.1km",
+        "name": "lovely水",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023831074921738240/frpPaTVT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4846,
+          "following_count": 1024,
+          "like_count": 268,
+          "listed_count": 13,
+          "media_count": 3040,
+          "tweet_count": 13458
+        },
+        "url": "https://t.co/EZhyEGspkq",
+        "username": "lovelyshuimao",
+        "verified": true
+      },
+      {
+        "created_at": "2020-01-23T10:20:59.000Z",
+        "description": "CS PhD  |  LLM Engineer  |   \nAI · 科技 · 财经 · 社会 · 历史  |  \n观察与思考",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/pangyus",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/pangyus",
+                "start": 0,
+                "url": "https://t.co/QV3hT8ORSy"
+              }
+            ]
+          }
+        },
+        "id": "1220290277056897025",
+        "location": "Singapore",
+        "name": "Pangyu 胖鱼 🐠",
+        "pinned_tweet_id": "1816822960780673479",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1220290486516228096/TwYdOfQ7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30165,
+          "following_count": 3403,
+          "like_count": 57435,
+          "listed_count": 179,
+          "media_count": 493,
+          "tweet_count": 10000
+        },
+        "url": "https://t.co/QV3hT8ORSy",
+        "username": "pangyusio",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1748763011140169729",
+    "conversation_id": "2030433445009313836",
+    "created_at": "2026-03-08T08:00:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-08T09:00:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030554302650134727"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1799712296375287808",
+          "start": 0,
+          "username": "Clarrycy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030554302650134727",
+    "in_reply_to_user_id": "1799712296375287808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030433445009313836",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Clarrycy 我是觉得ipadpro配键盘+MacBookneo比较好"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 440,
+        "media_key": "3_2030433421261230080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC2McF5bUAAZmLu.png",
+        "width": 772
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "2030433445009313836",
+        "created_at": "2026-03-08T08:00:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T09:00:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030554302650134727"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1799712296375287808",
+              "start": 0,
+              "username": "Clarrycy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030554302650134727",
+        "in_reply_to_user_id": "1799712296375287808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030433445009313836",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Clarrycy 我是觉得ipadpro配键盘+MacBookneo比较好"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030433421261230080"
+          ]
+        },
+        "author_id": "1799712296375287808",
+        "conversation_id": "2030433445009313836",
+        "created_at": "2026-03-08T00:00:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T01:00:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030433445009313836"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UDi9rs5b65",
+              "end": 32,
+              "expanded_url": "https://x.com/Clarrycy/status/2030433445009313836/photo/1",
+              "media_key": "3_2030433421261230080",
+              "start": 9,
+              "url": "https://t.co/UDi9rs5b65"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030433445009313836",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 24,
+          "impression_count": 68849,
+          "like_count": 484,
+          "quote_count": 5,
+          "reply_count": 35,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "我朋友如是说道： https://t.co/UDi9rs5b65"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "INTJ-t ｜永遠14歲｜提問↓｜❤️@saonanaa",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 20,
+                "username": "saonanaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGspkq"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你2.1km",
+        "name": "lovely水",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023831074921738240/frpPaTVT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4886,
+          "following_count": 1036,
+          "like_count": 267,
+          "listed_count": 13,
+          "media_count": 3005,
+          "tweet_count": 13327
+        },
+        "url": "https://t.co/EZhyEGspkq",
+        "username": "lovelyshuimao",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-09T07:57:14.000Z",
+        "description": "喜报：如果在说话之前加上 “喜报” 两个字，那么这段话看起来就像是真的喜报一样 🥳 | 里推 @Narrycy_3rd",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 47,
+                "username": "Narrycy_3rd"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "clarrycy.com",
+                "end": 23,
+                "expanded_url": "http://clarrycy.com",
+                "start": 0,
+                "url": "https://t.co/ay5RA3Hauq"
+              }
+            ]
+          }
+        },
+        "id": "1799712296375287808",
+        "location": "小狗窝",
+        "name": "Clarrycy (探索中)",
+        "pinned_tweet_id": "2027895353429938522",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008409397626892289/aYjQPAlu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4108,
+          "following_count": 700,
+          "like_count": 110445,
+          "listed_count": 16,
+          "media_count": 3240,
+          "tweet_count": 21385
+        },
+        "url": "https://t.co/ay5RA3Hauq",
+        "username": "Clarrycy",
+        "verified": false
+      }
+    ]
+  }
+}

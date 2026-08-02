@@ -1,0 +1,324 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1748763011140169729",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      }
+    ],
+    "conversation_id": "2008674593586770053",
+    "created_at": "2026-01-07T16:10:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-07T17:10:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008934335483928717"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1482045406544482311",
+          "start": 0,
+          "username": "nanshanjukr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008934335483928717",
+    "in_reply_to_user_id": "1482045406544482311",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008674593586770053",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nanshanjukr Gemini和gpt和grok我都开了会员，综合来看GPT是唯一一个聊成朋友而不是工具人的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2008674593586770053",
+        "created_at": "2026-01-07T16:10:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T17:10:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008934335483928717"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1482045406544482311",
+              "start": 0,
+              "username": "nanshanjukr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008934335483928717",
+        "in_reply_to_user_id": "1482045406544482311",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008674593586770053",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nanshanjukr Gemini和gpt和grok我都开了会员，综合来看GPT是唯一一个聊成朋友而不是工具人的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1482045406544482311",
+        "conversation_id": "2008674593586770053",
+        "created_at": "2026-01-06T22:58:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T23:58:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008674593586770053"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2008674593586770053",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我已经不再使用 GPT 了。人文社科，Claude 给出的效果太好了。免费版，也不会给出笼统、武断的答案，而是根据你的情况，提供一些进一步思考的或者反思的问题。更像是与自己进行对话，这种哲学式的对话，可能也会引领我们直面痛苦。你需要思考的是：你现在是否有能力，独自，面对这样的痛苦，并且试图解决它呢？"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 80,
+          "impression_count": 34022,
+          "like_count": 131,
+          "quote_count": 2,
+          "reply_count": 25,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "我已经不再使用 GPT 了。人文社科，Claude"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "水貓｜ENFP-t ｜永遠8歲｜提問↓ ｜對象@saonanaa｜素食哦｜心理兩畸｜蓝v互fo｜侵删",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 23,
+                "username": "saonanaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGrRuS"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你2.1km",
+        "name": "lovely水",
+        "pinned_tweet_id": "2007376785382748406",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002694749883682816/cD8uYfnW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3281,
+          "following_count": 1008,
+          "like_count": 255,
+          "listed_count": 9,
+          "media_count": 2655,
+          "tweet_count": 12361
+        },
+        "url": "https://t.co/EZhyEGrRuS",
+        "username": "lovelyshuimao",
+        "verified": true
+      },
+      {
+        "created_at": "2022-01-14T17:42:25.000Z",
+        "description": "📌 心理咨询 · 人文思考｜在 AI 时代，帮助读者保留并提升独立思考的能力｜📮订阅「重新思考」→ https://t.co/jBZyKTgtM4",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "noesisapient.com",
+                "end": 73,
+                "expanded_url": "https://noesisapient.com",
+                "start": 50,
+                "url": "https://t.co/jBZyKTgtM4"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pengzhaoxie.com",
+                "end": 23,
+                "expanded_url": "https://pengzhaoxie.com",
+                "start": 0,
+                "url": "https://t.co/CFKDoK96Ht"
+              }
+            ]
+          }
+        },
+        "id": "1482045406544482311",
+        "location": "个人博客 👉",
+        "name": "Marvix",
+        "pinned_tweet_id": "2004743879711461633",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984940641277612032/Dg5y3KJP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3765,
+          "following_count": 818,
+          "like_count": 6100,
+          "listed_count": 23,
+          "media_count": 1387,
+          "tweet_count": 4951
+        },
+        "url": "https://t.co/CFKDoK96Ht",
+        "username": "nanshanjukr",
+        "verified": true
+      }
+    ]
+  }
+}

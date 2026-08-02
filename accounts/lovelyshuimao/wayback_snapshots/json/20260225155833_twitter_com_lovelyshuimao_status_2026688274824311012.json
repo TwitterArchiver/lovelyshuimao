@@ -1,0 +1,311 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1748763011140169729",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      }
+    ],
+    "conversation_id": "2026177211557188005",
+    "created_at": "2026-02-25T15:58:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-25T16:58:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026688274824311012"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2272211010",
+          "start": 0,
+          "username": "putty014"
+        },
+        {
+          "end": 18,
+          "id": "635941366",
+          "start": 10,
+          "username": "unixzii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026688274824311012",
+    "in_reply_to_user_id": "2272211010",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026208779365405029",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@putty014 @unixzii 国内是用国产安卓，手机厂搞你\n用原生安卓，压不住app厂，还是一样流氓\n还是苹果比较好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          }
+        ],
+        "conversation_id": "2026177211557188005",
+        "created_at": "2026-02-25T15:58:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T16:58:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026688274824311012"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2272211010",
+              "start": 0,
+              "username": "putty014"
+            },
+            {
+              "end": 18,
+              "id": "635941366",
+              "start": 10,
+              "username": "unixzii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026688274824311012",
+        "in_reply_to_user_id": "2272211010",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026208779365405029",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@putty014 @unixzii 国内是用国产安卓，手机厂搞你\n用原生安卓，压不住app厂，还是一样流氓\n还是苹果比较好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2272211010",
+        "conversation_id": "2026177211557188005",
+        "created_at": "2026-02-24T08:13:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T09:13:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026208779365405029"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "635941366",
+              "start": 0,
+              "username": "unixzii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026208779365405029",
+        "in_reply_to_user_id": "635941366",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7025,
+          "like_count": 28,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026177211557188005",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@unixzii 没毛病，要么苹果，要么原生安卓，不要有侥幸心理。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "INTJ-t ｜永遠14歲｜提問↓｜❤️@saonanaa",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 20,
+                "username": "saonanaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGspkq"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你2.1km",
+        "name": "lovely水",
+        "pinned_tweet_id": "2026598390054924339",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023831074921738240/frpPaTVT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4875,
+          "following_count": 1045,
+          "like_count": 263,
+          "listed_count": 13,
+          "media_count": 2959,
+          "tweet_count": 13181
+        },
+        "url": "https://t.co/EZhyEGspkq",
+        "username": "lovelyshuimao",
+        "verified": true
+      },
+      {
+        "created_at": "2014-01-01T23:27:45.000Z",
+        "description": "💦Debian, Kicad, 日本語を勉強してる、ごめん。",
+        "id": "2272211010",
+        "name": "Putty",
+        "pinned_tweet_id": "2022064405526327405",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016403890669793281/H-8ATF7y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1143,
+          "following_count": 475,
+          "like_count": 916,
+          "listed_count": 2,
+          "media_count": 226,
+          "tweet_count": 6938
+        },
+        "username": "putty014",
+        "verified": true
+      },
+      {
+        "created_at": "2012-07-15T05:48:20.000Z",
+        "description": "Gen Z. Internetrovert. No-stack engineer. UX enthusiast. Console gamer. Curiosity-driven learner. The rebel. He/him 🏳️‍🌈. Stand w/ 🇺🇦. Opinions are my own.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "cyandev.app",
+                "end": 23,
+                "expanded_url": "https://cyandev.app",
+                "start": 0,
+                "url": "https://t.co/tnjbWvL8Lh"
+              }
+            ]
+          }
+        },
+        "id": "635941366",
+        "location": "Universe",
+        "name": "Cyandev",
+        "pinned_tweet_id": "2006302911354245624",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1662772448696365056/m4N0QjDP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15811,
+          "following_count": 198,
+          "like_count": 5989,
+          "listed_count": 122,
+          "media_count": 1220,
+          "tweet_count": 9393
+        },
+        "url": "https://t.co/tnjbWvL8Lh",
+        "username": "unixzii",
+        "verified": false
+      }
+    ]
+  }
+}

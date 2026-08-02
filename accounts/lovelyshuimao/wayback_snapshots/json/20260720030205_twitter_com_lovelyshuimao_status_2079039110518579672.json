@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1748763011140169729",
+    "conversation_id": "2079039110518579672",
+    "created_at": "2026-07-20T03:02:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T04:02:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079039110518579672"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/mimisamaovo/st…",
+          "end": 66,
+          "expanded_url": "https://twitter.com/mimisamaovo/status/2078615527376015459",
+          "start": 43,
+          "url": "https://t.co/dj7qSKDDcD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079039110518579672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078615527376015459",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "合着是因为左边是2023年右边是2026年是吧\n等女孩长成女人的时候左边的也买不到了 https://t.co/dj7qSKDDcD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1012,
+        "media_key": "3_2078615517322248192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNi5zM6bgAAkVxK.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "2079039110518579672",
+        "created_at": "2026-07-20T03:02:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T04:02:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079039110518579672"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mimisamaovo/st…",
+              "end": 66,
+              "expanded_url": "https://twitter.com/mimisamaovo/status/2078615527376015459",
+              "start": 43,
+              "url": "https://t.co/dj7qSKDDcD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079039110518579672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078615527376015459",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "合着是因为左边是2023年右边是2026年是吧\n等女孩长成女人的时候左边的也买不到了 https://t.co/dj7qSKDDcD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078615517322248192"
+          ]
+        },
+        "author_id": "2038184435477319680",
+        "conversation_id": "2078615527376015459",
+        "created_at": "2026-07-18T22:58:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T23:58:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078615527376015459"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AECVCP7VJS",
+              "end": 30,
+              "expanded_url": "https://x.com/MIMIsamaOvo/status/2078615527376015459/photo/1",
+              "media_key": "3_2078615517322248192",
+              "start": 7,
+              "url": "https://t.co/AECVCP7VJS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078615527376015459",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 5945,
+          "like_count": 84,
+          "quote_count": 3,
+          "reply_count": 12,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "这药没力气（ https://t.co/AECVCP7VJS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "🐱神仙水水猫星铃Lumia\n👩🏻‍💻INTJ ♀14 \n🙋🏻‍♀️提問box——————↓\n✍🏻想成為作家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGspkq"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你 4.3km",
+        "name": "lovely水",
+        "pinned_tweet_id": "2075897725733024056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045354329792749568/b7JXuLvu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5248,
+          "following_count": 996,
+          "like_count": 275,
+          "listed_count": 22,
+          "media_count": 3408,
+          "tweet_count": 15265
+        },
+        "url": "https://t.co/EZhyEGspkq",
+        "username": "lovelyshuimao",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-29T09:21:29.000Z",
+        "description": "梦到什么发什么，关注mimi谢谢喵\n戒毒中day0",
+        "id": "2038184435477319680",
+        "location": "戒毒所",
+        "name": "MIMI",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069136182697672704/2H0_ygY3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 35,
+          "like_count": 157,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 121
+        },
+        "url": "",
+        "username": "MIMIsamaOvo",
+        "verified": false
+      }
+    ]
+  }
+}

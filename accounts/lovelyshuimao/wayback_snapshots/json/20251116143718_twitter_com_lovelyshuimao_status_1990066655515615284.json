@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1748763011140169729",
+    "conversation_id": "1989713023033118918",
+    "created_at": "2025-11-16T14:37:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-16T15:37:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990066655515615284"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1376015806564208644",
+          "start": 0,
+          "username": "Bluemangoo_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990066655515615284",
+    "in_reply_to_user_id": "1376015806564208644",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990062551439384927",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Bluemangoo_ 满嘴网络烂梗，其实不一定理解意思，比如绝绝子，yyds之前也是网络烂梗，但是词汇谁进化的，学字的话现在也没有去看辞海，就是这个道理"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "1989713023033118918",
+        "created_at": "2025-11-16T14:37:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T15:37:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990066655515615284"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1376015806564208644",
+              "start": 0,
+              "username": "Bluemangoo_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990066655515615284",
+        "in_reply_to_user_id": "1376015806564208644",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990062551439384927",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Bluemangoo_ 满嘴网络烂梗，其实不一定理解意思，比如绝绝子，yyds之前也是网络烂梗，但是词汇谁进化的，学字的话现在也没有去看辞海，就是这个道理"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1376015806564208644",
+        "conversation_id": "1989713023033118918",
+        "created_at": "2025-11-16T14:21:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T15:21:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990062551439384927"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1748763011140169729",
+              "start": 0,
+              "username": "lovelyshuimao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990062551439384927",
+        "in_reply_to_user_id": "1748763011140169729",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989713023033118918",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lovelyshuimao 那什么。小学三年级以前还是少接触吧。满嘴都是什么东西也不太好。至少先把字认全再考虑什么的。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "水貓🍕｜ENFP-t ｜永遠14｜是豪貓不o不圓不殘不死｜對象@saonanaa｜素食主義者｜提問箱鏈接↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 31,
+                "username": "saonanaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%B0%B4%E6%B…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E6%B0%B4%E6%B0%B493927",
+                "start": 0,
+                "url": "https://t.co/qmQkMr39z5"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你2.1km",
+        "name": "lovely水",
+        "pinned_tweet_id": "1989256039670370746",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967556205590831104/87BEnlAx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2634,
+          "following_count": 1118,
+          "like_count": 245,
+          "listed_count": 7,
+          "media_count": 2269,
+          "tweet_count": 11158
+        },
+        "url": "https://t.co/qmQkMr39z5",
+        "username": "lovelyshuimao",
+        "verified": true
+      },
+      {
+        "created_at": "2021-03-28T03:38:55.000Z",
+        "description": "不真实俱乐部成员，假笑俱乐部创建者，屎山堆砌者，初音过去单推人  |  彻底失败，加速灭亡。 | bsky=bluemangoo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bmgo.link",
+                "end": 23,
+                "expanded_url": "https://bmgo.link",
+                "start": 0,
+                "url": "https://t.co/jX7LxhnXEQ"
+              }
+            ]
+          }
+        },
+        "id": "1376015806564208644",
+        "location": "Here for you",
+        "name": "芒果 Bluemangoo",
+        "pinned_tweet_id": "1712133992991039881",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1445021290813812745/jyxqFCSj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 227,
+          "following_count": 483,
+          "like_count": 9651,
+          "listed_count": 0,
+          "media_count": 431,
+          "tweet_count": 4065
+        },
+        "url": "https://t.co/jX7LxhnXEQ",
+        "username": "Bluemangoo_",
+        "verified": false
+      }
+    ]
+  }
+}

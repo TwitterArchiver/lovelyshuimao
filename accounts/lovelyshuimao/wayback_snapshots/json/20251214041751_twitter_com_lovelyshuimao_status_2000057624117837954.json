@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1748763011140169729",
+    "conversation_id": "1999831310194692205",
+    "created_at": "2025-12-14T04:17:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-14T05:17:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000057624117837954"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "170414522",
+          "start": 0,
+          "username": "lcayu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000057624117837954",
+    "in_reply_to_user_id": "170414522",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999831310194692205",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lcayu 谢了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "1999831310194692205",
+        "created_at": "2025-12-14T04:17:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T05:17:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000057624117837954"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "170414522",
+              "start": 0,
+              "username": "lcayu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000057624117837954",
+        "in_reply_to_user_id": "170414522",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999831310194692205",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lcayu 谢了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "170414522",
+        "conversation_id": "1999831310194692205",
+        "created_at": "2025-12-13T13:18:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T14:18:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999831310194692205"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1999831310194692205",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 7989,
+          "like_count": 76,
+          "quote_count": 1,
+          "reply_count": 20,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我发现相同场景下，不同语言的“羞耻度”是完全不同的。\n\n比如在帮伴侣做了某件小事后，拿下东西之类的。在汉语语境下，如果说谢谢，那就显得太不熟了！\n\n但是用日语说一下：ありがとう，就没违和感了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "水貓🍕｜ENFP-t ｜永遠14｜對象@saonanaa｜素食主義者｜提問箱鏈接↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 19,
+                "username": "saonanaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%B0%B4%E6%B…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E6%B0%B4%E6%B0%B493927",
+                "start": 0,
+                "url": "https://t.co/qmQkMr39z5"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你2.1km",
+        "name": "lovely水",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998279626989449216/6L9PHOSs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3027,
+          "following_count": 1245,
+          "like_count": 251,
+          "listed_count": 8,
+          "media_count": 2442,
+          "tweet_count": 11792
+        },
+        "url": "https://t.co/qmQkMr39z5",
+        "username": "lovelyshuimao",
+        "verified": true
+      },
+      {
+        "created_at": "2010-07-24T19:32:34.000Z",
+        "description": "Hourensou Engineer👨‍💻.\nToo young too simple,sometimes naive.\n俺中国語本当上手。\n想躺平而不得中🐮🐴。\n锁推follower会被B哦\n\n📷 🎸 🎶 🚴‍♂️ 👨‍🍳",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/lanpice/",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/lanpice/",
+                "start": 0,
+                "url": "https://t.co/QRLOYhp91J"
+              }
+            ]
+          }
+        },
+        "id": "170414522",
+        "location": "日本",
+        "name": "Lanpice",
+        "pinned_tweet_id": "1925512190305739048",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2206242728/104_15274625_76408dadc67079c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10472,
+          "following_count": 932,
+          "like_count": 6972,
+          "listed_count": 68,
+          "media_count": 2273,
+          "tweet_count": 28109
+        },
+        "url": "https://t.co/QRLOYhp91J",
+        "username": "lcayu",
+        "verified": false
+      }
+    ]
+  }
+}

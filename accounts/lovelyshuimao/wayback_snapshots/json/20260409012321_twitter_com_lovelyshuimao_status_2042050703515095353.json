@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1748763011140169729",
+    "conversation_id": "2041822955400056920",
+    "created_at": "2026-04-09T01:23:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T02:23:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042050703515095353"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1674644891278745601",
+          "start": 0,
+          "username": "3Afengjingqu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/lovelyshuimao/…",
+          "end": 37,
+          "expanded_url": "https://x.com/lovelyshuimao/status/2042050645356847246?s=46",
+          "start": 14,
+          "url": "https://t.co/sp2Ayq8zkX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042050703515095353",
+    "in_reply_to_user_id": "1674644891278745601",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042050645356847246",
+        "type": "quoted"
+      },
+      {
+        "id": "2042012355027149196",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@3Afengjingqu https://t.co/sp2Ayq8zkX"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "2041822955400056920",
+        "created_at": "2026-04-09T01:23:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T02:23:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042050703515095353"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1674644891278745601",
+              "start": 0,
+              "username": "3Afengjingqu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/lovelyshuimao/…",
+              "end": 37,
+              "expanded_url": "https://x.com/lovelyshuimao/status/2042050645356847246?s=46",
+              "start": 14,
+              "url": "https://t.co/sp2Ayq8zkX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042050703515095353",
+        "in_reply_to_user_id": "1674644891278745601",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042050645356847246",
+            "type": "quoted"
+          },
+          {
+            "id": "2042012355027149196",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3Afengjingqu https://t.co/sp2Ayq8zkX"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "2041822955400056920",
+        "created_at": "2026-04-09T01:23:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T02:23:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042050645356847246"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1843670253655732226",
+              "start": 0,
+              "username": "jean_mayi7849"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042050645356847246",
+        "in_reply_to_user_id": "1843670253655732226",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041892448243442081",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jean_mayi7849 我的诗大多非常简短，暂时没有想要整理成作品集（当然水平可能也不够）\n主题围绕很多，和死亡相关的比较多\n大多是真实体验有感而发，然后再去排版修饰的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1674644891278745601",
+        "conversation_id": "2041822955400056920",
+        "created_at": "2026-04-08T22:50:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T23:50:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042012355027149196"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1748763011140169729",
+              "start": 0,
+              "username": "lovelyshuimao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042012355027149196",
+        "in_reply_to_user_id": "1748763011140169729",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041822955400056920",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lovelyshuimao 诗人，好厉害"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "INTJ｜永遠14｜提問↓｜❤️@saonanaa",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 16,
+                "username": "saonanaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGspkq"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你2.1km",
+        "name": "lovely水",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023831074921738240/frpPaTVT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4816,
+          "following_count": 1014,
+          "like_count": 272,
+          "listed_count": 13,
+          "media_count": 3122,
+          "tweet_count": 13855
+        },
+        "url": "https://t.co/EZhyEGspkq",
+        "username": "lovelyshuimao",
+        "verified": true
+      },
+      {
+        "created_at": "2023-06-30T05:04:04.000Z",
+        "description": "梦想是有自己的巧克力工厂⌯'Ⱉ'⌯｜\n性无能＿我是女的皮下男不用关注我｜对恨女顺直以外的一切人友好前提是不要性骚扰我",
+        "id": "1674644891278745601",
+        "location": "士多啤梨星球",
+        "name": "司濯咘瑞",
+        "pinned_tweet_id": "1903543023738446172",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858046600322637824/7P8Nrb0u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 133,
+          "like_count": 6896,
+          "listed_count": 1,
+          "media_count": 38,
+          "tweet_count": 758
+        },
+        "username": "3Afengjingqu",
+        "verified": false
+      }
+    ]
+  }
+}

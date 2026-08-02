@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1748763011140169729",
+    "conversation_id": "2009522407976128571",
+    "created_at": "2026-01-09T11:25:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-09T12:25:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009587235491029080"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1862977940935315456",
+          "start": 0,
+          "username": "Rainbow_080131"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009587235491029080",
+    "in_reply_to_user_id": "1862977940935315456",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009586991017644311",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rainbow_080131 去精神病院也没事，父母不交钱也关不了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "2009522407976128571",
+        "created_at": "2026-01-09T11:25:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T12:25:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009587235491029080"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1862977940935315456",
+              "start": 0,
+              "username": "Rainbow_080131"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009587235491029080",
+        "in_reply_to_user_id": "1862977940935315456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009586991017644311",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rainbow_080131 去精神病院也没事，父母不交钱也关不了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1862977940935315456",
+        "conversation_id": "2009522407976128571",
+        "created_at": "2026-01-09T11:24:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T12:24:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009586991017644311"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1748763011140169729",
+              "start": 0,
+              "username": "lovelyshuimao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009586991017644311",
+        "in_reply_to_user_id": "1748763011140169729",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009586562728882313",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lovelyshuimao 并非，有些学校会和公家机构串通一气，这次事件也是因为父母报警但是学校动用资本和权力逼的他们和解"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "水貓｜ENFP-t ｜永遠8歲｜提問↓ ｜對象@saonanaa｜素食主体｜心理兩畸｜蓝v互fo｜侵删",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 23,
+                "username": "saonanaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGrRuS"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你2.1km",
+        "name": "lovely水",
+        "pinned_tweet_id": "2009051621188358212",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009519740319092737/8QXu2gXD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3306,
+          "following_count": 1018,
+          "like_count": 255,
+          "listed_count": 10,
+          "media_count": 2669,
+          "tweet_count": 12416
+        },
+        "url": "https://t.co/EZhyEGrRuS",
+        "username": "lovelyshuimao",
+        "verified": true
+      },
+      {
+        "created_at": "2024-11-30T21:52:16.000Z",
+        "description": "小药娘 无证含糖/\n17岁 /中度抑郁/无党派(也许?)/\n178/62kg /目前在上海，下海中，包养也可以的/\n希望有朋友-🚪88-/\n也出原味(自付运费，也可以买新的给我穿🤔然后我给你加料🤓👆)/\nhttps://t.co/ZLktImR2WF\n下面链接是匿名问🥰",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Rainbow_080131",
+                "end": 125,
+                "expanded_url": "http://t.me/Rainbow_080131",
+                "start": 102,
+                "url": "https://t.co/ZLktImR2WF"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rainbow54219",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rainbow54219",
+                "start": 0,
+                "url": "https://t.co/3dG6fmxkaw"
+              }
+            ]
+          }
+        },
+        "id": "1862977940935315456",
+        "name": "𝓡𝓪𝓲𝓷𝓫𝓸𝔀🍥🐱",
+        "pinned_tweet_id": "1995687473192849452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999772295993425921/YztlbTBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 151,
+          "following_count": 43,
+          "like_count": 6,
+          "listed_count": 1,
+          "media_count": 82,
+          "tweet_count": 510
+        },
+        "url": "https://t.co/3dG6fmxkaw",
+        "username": "Rainbow_080131",
+        "verified": true
+      }
+    ]
+  }
+}

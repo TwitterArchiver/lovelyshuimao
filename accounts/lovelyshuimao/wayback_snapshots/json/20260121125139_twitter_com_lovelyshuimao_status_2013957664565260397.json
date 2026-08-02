@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1748763011140169729",
+    "conversation_id": "2013752961911173483",
+    "created_at": "2026-01-21T12:51:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-21T13:51:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013957664565260397"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "4399043300",
+          "start": 0,
+          "username": "Kouneli_537"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013957664565260397",
+    "in_reply_to_user_id": "4399043300",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013956969611346307",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kouneli_537 你说的这些功能我根本听不懂听都没听过（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "2013752961911173483",
+        "created_at": "2026-01-21T12:51:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T13:51:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013957664565260397"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "4399043300",
+              "start": 0,
+              "username": "Kouneli_537"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013957664565260397",
+        "in_reply_to_user_id": "4399043300",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013956969611346307",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kouneli_537 你说的这些功能我根本听不懂听都没听过（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4399043300",
+        "conversation_id": "2013752961911173483",
+        "created_at": "2026-01-21T12:48:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T13:48:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013956969611346307"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1748763011140169729",
+              "start": 0,
+              "username": "lovelyshuimao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013956969611346307",
+        "in_reply_to_user_id": "1748763011140169729",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013752961911173483",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lovelyshuimao 电脑上我可以用可以用niri + noctalia-shell + ketty，并配合vim + arm-none-eabi + pyocd 愉快的玩stm32，手机和平板可做不到"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "水貓｜INTJ-t ｜永遠14歲｜提問↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGrRuS"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你2.1km",
+        "name": "lovely水",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009519740319092737/8QXu2gXD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3462,
+          "following_count": 1018,
+          "like_count": 260,
+          "listed_count": 10,
+          "media_count": 2748,
+          "tweet_count": 12727
+        },
+        "url": "https://t.co/EZhyEGrRuS",
+        "username": "lovelyshuimao",
+        "verified": true
+      },
+      {
+        "created_at": "2015-11-29T12:48:58.000Z",
+        "description": "福瑞佬观查员 / 兔头🐰/ 透明日常&评论区推主/ 玩弹弓的/吐槽役 /放弃画画的画渣 / 咸鱼 / 退堂鼓大师 / 中立生物 / 败家小神仙 /喜欢任何可爱的事物",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/xiaoxi_pohai",
+                "end": 23,
+                "expanded_url": "https://t.me/xiaoxi_pohai",
+                "start": 0,
+                "url": "https://t.co/CePs5mHBQk"
+              }
+            ]
+          }
+        },
+        "id": "4399043300",
+        "location": "Hong Kong",
+        "name": "兔头小希🐾",
+        "pinned_tweet_id": "1973041169526599756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1868594832505253890/qoS79stN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 88,
+          "like_count": 6958,
+          "listed_count": 3,
+          "media_count": 308,
+          "tweet_count": 3072
+        },
+        "url": "https://t.co/CePs5mHBQk",
+        "username": "Kouneli_537",
+        "verified": false
+      }
+    ]
+  }
+}

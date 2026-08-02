@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1748763011140169729",
+    "conversation_id": "2001014533503201616",
+    "created_at": "2025-12-17T13:06:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-17T14:06:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001277735034048975"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1815878828419629056",
+          "start": 0,
+          "username": "qiqi1127520"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001277735034048975",
+    "in_reply_to_user_id": "1815878828419629056",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001014533503201616",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qiqi1127520 中国物价不贵，比第一世界和第三世界还便宜，就是钱难赚，但是如果能脱产会过的非常爽，比如学生（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "2001014533503201616",
+        "created_at": "2025-12-17T13:06:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-17T14:06:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001277735034048975"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1815878828419629056",
+              "start": 0,
+              "username": "qiqi1127520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001277735034048975",
+        "in_reply_to_user_id": "1815878828419629056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001014533503201616",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qiqi1127520 中国物价不贵，比第一世界和第三世界还便宜，就是钱难赚，但是如果能脱产会过的非常爽，比如学生（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1815878828419629056",
+        "conversation_id": "2001014533503201616",
+        "created_at": "2025-12-16T19:40:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-16T20:40:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2001014533503201616"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2001014533503201616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 33,
+          "impression_count": 57313,
+          "like_count": 562,
+          "quote_count": 6,
+          "reply_count": 127,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "我真的觉得这个社会非常的恶心 我不知道是中国这样还是所有国家这样 因为我发现现在中国普通百姓真的完全就是赚不到钱 但是有钱的那些富二代还是照样有钱 经济下行为什么物价这么贵？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "水貓🍕｜ENFP-t ｜永遠14｜對象@saonanaa｜素食主義者｜提問箱鏈接↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 19,
+                "username": "saonanaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%B0%B4%E6%B…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E6%B0%B4%E6%B0%B493927",
+                "start": 0,
+                "url": "https://t.co/qmQkMr39z5"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你2.1km",
+        "name": "lovely水",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998279626989449216/6L9PHOSs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3018,
+          "following_count": 1241,
+          "like_count": 252,
+          "listed_count": 8,
+          "media_count": 2479,
+          "tweet_count": 11896
+        },
+        "url": "https://t.co/qmQkMr39z5",
+        "username": "lovelyshuimao",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-23T22:37:21.000Z",
+        "description": "双相#虽然大部分都在郁期 有时候会突然精神 不要去关注我国内社交软件谢谢☺️",
+        "id": "1815878828419629056",
+        "name": "kiro",
+        "pinned_tweet_id": "1995737289104748689",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998418685254635520/lTGjR6mY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1426,
+          "following_count": 102,
+          "like_count": 3112,
+          "listed_count": 5,
+          "media_count": 34,
+          "tweet_count": 1053
+        },
+        "username": "qiqi1127520",
+        "verified": false
+      }
+    ]
+  }
+}

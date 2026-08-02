@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1748763011140169729",
+    "conversation_id": "2037114745535553845",
+    "created_at": "2026-03-27T03:34:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T04:34:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037372620728103313"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1457686450577707019",
+          "start": 0,
+          "username": "xiexiuX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037372620728103313",
+    "in_reply_to_user_id": "1457686450577707019",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037114745535553845",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiexiuX 难"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "2037114745535553845",
+        "created_at": "2026-03-27T03:34:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T04:34:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037372620728103313"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1457686450577707019",
+              "start": 0,
+              "username": "xiexiuX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037372620728103313",
+        "in_reply_to_user_id": "1457686450577707019",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037114745535553845",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiexiuX 难"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1457686450577707019",
+        "conversation_id": "2037114745535553845",
+        "created_at": "2026-03-26T10:29:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T11:29:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037114745535553845"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2037114745535553845",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4337,
+          "like_count": 45,
+          "quote_count": 0,
+          "reply_count": 69,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "新手普通人不蹭流量纯靠自己发帖可以在1个月内搞500万流量吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "INTJ-t ｜永遠14歲｜提問↓｜❤️@saonanaa",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 20,
+                "username": "saonanaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGspkq"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你2.1km",
+        "name": "lovely水",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023831074921738240/frpPaTVT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4866,
+          "following_count": 1027,
+          "like_count": 269,
+          "listed_count": 13,
+          "media_count": 3076,
+          "tweet_count": 13647
+        },
+        "url": "https://t.co/EZhyEGspkq",
+        "username": "lovelyshuimao",
+        "verified": true
+      },
+      {
+        "created_at": "2021-11-08T12:28:44.000Z",
+        "description": "我是逻辑简单的高等生物，赚钱不是人生最终的目的，有钱只是幸福必备的条件，所以努力便是当下唯一的主题！💎💎💎💎💎",
+        "id": "1457686450577707019",
+        "name": "笑点有点高",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037064880633831424/oIYDixhv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1055,
+          "following_count": 1091,
+          "like_count": 40,
+          "listed_count": 6,
+          "media_count": 482,
+          "tweet_count": 4752
+        },
+        "username": "xiexiuX",
+        "verified": true
+      }
+    ]
+  }
+}

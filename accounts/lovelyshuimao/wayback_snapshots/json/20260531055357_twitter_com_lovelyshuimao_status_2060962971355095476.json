@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060962960965812224"
+      ]
+    },
+    "author_id": "1748763011140169729",
+    "conversation_id": "2060962971355095476",
+    "created_at": "2026-05-31T05:53:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T06:53:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060962971355095476"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/g04mygNcdp",
+          "end": 36,
+          "expanded_url": "https://x.com/lovelyshuimao/status/2060962971355095476/photo/1",
+          "media_key": "3_2060962960965812224",
+          "start": 13,
+          "url": "https://t.co/g04mygNcdp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060962971355095476",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "他以为是LGBTrump https://t.co/g04mygNcdp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 713,
+        "media_key": "3_2060962960965812224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJoC5L-awAAeSQa.jpg",
+        "width": 1078
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060962960965812224"
+          ]
+        },
+        "author_id": "1748763011140169729",
+        "conversation_id": "2060962971355095476",
+        "created_at": "2026-05-31T05:53:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T06:53:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060962971355095476"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/g04mygNcdp",
+              "end": 36,
+              "expanded_url": "https://x.com/lovelyshuimao/status/2060962971355095476/photo/1",
+              "media_key": "3_2060962960965812224",
+              "start": 13,
+              "url": "https://t.co/g04mygNcdp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060962971355095476",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "他以为是LGBTrump https://t.co/g04mygNcdp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "｜水猫星铃Lumia\n｜INTJ ♀14  \n｜❤️@saonanaa\n｜提問box——————————↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 27,
+                "username": "saonanaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGspkq"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你2.1km",
+        "name": "lovely水",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045354329792749568/b7JXuLvu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4905,
+          "following_count": 1018,
+          "like_count": 275,
+          "listed_count": 17,
+          "media_count": 3227,
+          "tweet_count": 14464
+        },
+        "url": "https://t.co/EZhyEGspkq",
+        "username": "lovelyshuimao",
+        "verified": false
+      }
+    ]
+  }
+}

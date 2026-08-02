@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1748763011140169729",
+    "conversation_id": "1984565235186090218",
+    "created_at": "2025-11-02T09:18:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-02T10:18:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984913107228205515"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1426015810472972298",
+          "start": 0,
+          "username": "srkmanno"
+        },
+        {
+          "end": 22,
+          "id": "1420072716963520520",
+          "start": 10,
+          "username": "meiqinyuban"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984913107228205515",
+    "in_reply_to_user_id": "1426015810472972298",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984799888983695594",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@srkmanno @meiqinyuban beta1开始用的，知道还是很卡，17pm买了卡在激活页面了，u2也是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "1984565235186090218",
+        "created_at": "2025-11-02T09:18:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T10:18:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984913107228205515"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1426015810472972298",
+              "start": 0,
+              "username": "srkmanno"
+            },
+            {
+              "end": 22,
+              "id": "1420072716963520520",
+              "start": 10,
+              "username": "meiqinyuban"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984913107228205515",
+        "in_reply_to_user_id": "1426015810472972298",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984799888983695594",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@srkmanno @meiqinyuban beta1开始用的，知道还是很卡，17pm买了卡在激活页面了，u2也是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1426015810472972298",
+        "conversation_id": "1984565235186090218",
+        "created_at": "2025-11-02T01:49:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T02:49:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984799888983695594"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1420072716963520520",
+              "start": 0,
+              "username": "meiqinyuban"
+            },
+            {
+              "end": 27,
+              "id": "1748763011140169729",
+              "start": 13,
+              "username": "lovelyshuimao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984799888983695594",
+        "in_reply_to_user_id": "1420072716963520520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 109,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984672626326036971",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meiqinyuban @lovelyshuimao 我觉得不怎么卡\n可能是因为从4测开始用，小bug都修好了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "ENFP-t ｜永远14｜是豪猫不o不圆不割不死｜对象@saonanaa｜雙相＆抑鬱｜家長不管黨｜提問箱鏈接↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 27,
+                "username": "saonanaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%B0%B4%E6%B…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E6%B0%B4%E6%B0%B493927",
+                "start": 0,
+                "url": "https://t.co/qmQkMr2BJx"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你2.1km",
+        "name": "lovely水水猫🍕",
+        "pinned_tweet_id": "1983629097923440976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967556205590831104/87BEnlAx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2440,
+          "following_count": 1118,
+          "like_count": 244,
+          "listed_count": 7,
+          "media_count": 2190,
+          "tweet_count": 10911
+        },
+        "url": "https://t.co/qmQkMr2BJx",
+        "username": "lovelyshuimao",
+        "verified": true
+      },
+      {
+        "created_at": "2021-08-13T03:00:52.000Z",
+        "description": "ᴍᴀʏ ɪ ᴇɴᴊᴏʏ ᴍʏ ʟɪғᴇ ᴀɴᴅ ᴘʀᴀᴄᴛɪᴄᴇ ᴍʏ ᴀʀᴛ,ʀᴇsᴘᴇᴄᴛᴇᴅ ʙʏ ᴀʟʟ ᴍᴀɴ ᴀɴᴅ ɪɴ ᴀʟʟ ᴛɪᴍᴇs | 雑多 | 撮影 | ﾅﾁｮ､fbk推し | アークナイツ(大陸情報あり)/音ゲー/maimaiDX | DM⇒FB 🩵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+miPhtPfBEaQ0Z…",
+                "end": 23,
+                "expanded_url": "https://t.me/+miPhtPfBEaQ0ZmU1",
+                "start": 0,
+                "url": "https://t.co/4lOlgS0NO9"
+              }
+            ]
+          }
+        },
+        "id": "1426015810472972298",
+        "location": "Soochow",
+        "name": "白上アノ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972872237675061249/WWc3hZO5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1365,
+          "following_count": 859,
+          "like_count": 156778,
+          "listed_count": 3,
+          "media_count": 4021,
+          "tweet_count": 17170
+        },
+        "url": "https://t.co/4lOlgS0NO9",
+        "username": "srkmanno",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-27T17:25:17.000Z",
+        "description": "河北邯郸 中国CN/EN 双性恋 性别中立 纯爱天下第一！ 前雷石/视易系网络版KTV系统维保，娱乐级街机音游玩家/电子DIY  GNU/Linux  把我当男的当女的都行 或许是男娘（？ 在沧州黄骅上学，专科在读需要互fo请私信窝！",
+        "id": "1420072716963520520",
+        "location": "Handan Hebei China",
+        "name": "美琴御坂🏳️‍🌈",
+        "pinned_tweet_id": "1963997598450336007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965688044788600832/HaT0uDQL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 997,
+          "following_count": 729,
+          "like_count": 11812,
+          "listed_count": 1,
+          "media_count": 1056,
+          "tweet_count": 6252
+        },
+        "username": "meiqinyuban",
+        "verified": false
+      }
+    ]
+  }
+}

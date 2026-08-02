@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1748763011140169729",
+    "conversation_id": "1982420381198864777",
+    "created_at": "2025-10-27T13:26:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-27T14:26:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982801070347743595"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1087995157599997952",
+          "start": 0,
+          "username": "jltyycm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982801070347743595",
+    "in_reply_to_user_id": "1087995157599997952",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982798567233229028",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jltyycm 去的时候走了30分钟累死了，回去做的地铁"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "1982420381198864777",
+        "created_at": "2025-10-27T13:26:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T14:26:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982801070347743595"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1087995157599997952",
+              "start": 0,
+              "username": "jltyycm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982801070347743595",
+        "in_reply_to_user_id": "1087995157599997952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982798567233229028",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jltyycm 去的时候走了30分钟累死了，回去做的地铁"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1087995157599997952",
+        "conversation_id": "1982420381198864777",
+        "created_at": "2025-10-27T13:16:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T14:16:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982798567233229028"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1748763011140169729",
+              "start": 0,
+              "username": "lovelyshuimao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982798567233229028",
+        "in_reply_to_user_id": "1748763011140169729",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 65,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982420381198864777",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lovelyshuimao 为啥不从B口走过去 也就8分钟路程…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "ENFP-t ｜素食主义者｜永远14｜是豪猫不o不圆不割不死｜对象@saonanaa｜男的不HRT｜雙相｜家暴當｜提問箱鏈接↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 33,
+                "username": "saonanaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%B0%B4%E6%B…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E6%B0%B4%E6%B0%B493927",
+                "start": 0,
+                "url": "https://t.co/qmQkMr2BJx"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你2.1km",
+        "name": "lovely水水猫🍕",
+        "pinned_tweet_id": "1982658874365923671",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967556205590831104/87BEnlAx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2381,
+          "following_count": 1091,
+          "like_count": 242,
+          "listed_count": 7,
+          "media_count": 2140,
+          "tweet_count": 10707
+        },
+        "url": "https://t.co/qmQkMr2BJx",
+        "username": "lovelyshuimao",
+        "verified": false
+      },
+      {
+        "created_at": "2019-01-23T08:47:14.000Z",
+        "description": "Trust, but verify. Ph. D. 十年股票/基金/贵金属/外汇投資經驗。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCZS9H…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/channel/UCZS9HSSUVrNAtAnIMHXwHmQ",
+                "start": 0,
+                "url": "https://t.co/GsoNFdg1g0"
+              }
+            ]
+          }
+        },
+        "id": "1087995157599997952",
+        "location": "Kowloon City District",
+        "name": "九龙塘右眼财迷",
+        "pinned_tweet_id": "1923306003493179572",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1087995342564528128/8BFXb1Bw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14990,
+          "following_count": 4272,
+          "like_count": 3149,
+          "listed_count": 116,
+          "media_count": 3884,
+          "tweet_count": 7702
+        },
+        "url": "https://t.co/GsoNFdg1g0",
+        "username": "jltyycm",
+        "verified": true
+      }
+    ]
+  }
+}

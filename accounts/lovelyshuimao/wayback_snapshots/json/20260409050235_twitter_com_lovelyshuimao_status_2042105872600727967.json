@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2042105864329555971"
+      ]
+    },
+    "author_id": "1748763011140169729",
+    "conversation_id": "2042105872600727967",
+    "created_at": "2026-04-09T05:02:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T06:02:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042105872600727967"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/GY5DzHlOOb",
+          "end": 60,
+          "expanded_url": "https://x.com/lovelyshuimao/status/2042105872600727967/photo/1",
+          "media_key": "3_2042105864329555971",
+          "start": 37,
+          "url": "https://t.co/GY5DzHlOOb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042105872600727967",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "other",
+    "text": "有人用过Gemini的这个个性化智能吗\n好像只有少部分人才有\n有什么区别 https://t.co/GY5DzHlOOb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2135,
+        "media_key": "3_2042105864329555971",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFcEds0a8AMdxyC.jpg",
+        "width": 1319
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042105864329555971"
+          ]
+        },
+        "author_id": "1748763011140169729",
+        "conversation_id": "2042105872600727967",
+        "created_at": "2026-04-09T05:02:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T06:02:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042105872600727967"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GY5DzHlOOb",
+              "end": 60,
+              "expanded_url": "https://x.com/lovelyshuimao/status/2042105872600727967/photo/1",
+              "media_key": "3_2042105864329555971",
+              "start": 37,
+              "url": "https://t.co/GY5DzHlOOb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042105872600727967",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "有人用过Gemini的这个个性化智能吗\n好像只有少部分人才有\n有什么区别 https://t.co/GY5DzHlOOb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "INTJ｜永遠14｜提問↓｜❤️@saonanaa",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 16,
+                "username": "saonanaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGspkq"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你2.1km",
+        "name": "lovely水",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023831074921738240/frpPaTVT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4813,
+          "following_count": 1013,
+          "like_count": 272,
+          "listed_count": 13,
+          "media_count": 3125,
+          "tweet_count": 13866
+        },
+        "url": "https://t.co/EZhyEGspkq",
+        "username": "lovelyshuimao",
+        "verified": true
+      }
+    ]
+  }
+}

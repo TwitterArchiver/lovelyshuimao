@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1748763011140169729",
+    "conversation_id": "2067278270136299567",
+    "created_at": "2026-06-17T19:44:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T20:44:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067332487710425214"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1363778249277382656",
+          "start": 0,
+          "username": "JVltGillEasbaig"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067332487710425214",
+    "in_reply_to_user_id": "1363778249277382656",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067298842165588236",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JVltGillEasbaig 这是数学算出来的啊我不是写了正态分布"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "2067278270136299567",
+        "created_at": "2026-06-17T19:44:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T20:44:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067332487710425214"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1363778249277382656",
+              "start": 0,
+              "username": "JVltGillEasbaig"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067332487710425214",
+        "in_reply_to_user_id": "1363778249277382656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067298842165588236",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JVltGillEasbaig 这是数学算出来的啊我不是写了正态分布"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1363778249277382656",
+        "conversation_id": "2067278270136299567",
+        "created_at": "2026-06-17T17:30:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T18:30:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067298842165588236"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1748763011140169729",
+              "start": 0,
+              "username": "lovelyshuimao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067298842165588236",
+        "in_reply_to_user_id": "1748763011140169729",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 37,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067278270136299567",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lovelyshuimao 我去这是你？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "｜水猫星铃Lumia\n｜INTJ ♀14 \n｜❤️@zhwvea\n｜提問box——————————↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 26,
+                "username": "zhwvea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGspkq"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你2.1km",
+        "name": "lovely水",
+        "pinned_tweet_id": "2063974537272910172",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045354329792749568/b7JXuLvu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4906,
+          "following_count": 1008,
+          "like_count": 274,
+          "listed_count": 17,
+          "media_count": 3270,
+          "tweet_count": 14671
+        },
+        "url": "https://t.co/EZhyEGspkq",
+        "username": "lovelyshuimao",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-22T09:10:56.000Z",
+        "description": "ᛋᚨᚢᛚ:ᚺᚢᚷᚨᚱ:ᛚᛁᚲᛁᛚᛚᛁᚾᚾ:ᛏᛁᛚ:ᛚᛟᚠᛏᛊ:ᛚᛁᚠᛊ",
+        "id": "1363778249277382656",
+        "location": "Silent Hill, Maine, USA",
+        "name": "JoannaGillespuic",
+        "pinned_tweet_id": "2054057274277302458",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054574979145220096/BH8Ellu__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 499,
+          "following_count": 539,
+          "like_count": 16380,
+          "listed_count": 0,
+          "media_count": 261,
+          "tweet_count": 8332
+        },
+        "username": "JVltGillEasbaig",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1748763011140169729",
+    "conversation_id": "2037452242417230282",
+    "created_at": "2026-03-27T13:19:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T14:19:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037519973481140382"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1442050453194244102",
+          "start": 0,
+          "username": "HfSr_official"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037519973481140382",
+    "in_reply_to_user_id": "1442050453194244102",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037518173336211645",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HfSr_official 女生也是长发\n而且也没法解释为什么小学男生多是寸头\n和工作后"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "2037452242417230282",
+        "created_at": "2026-03-27T13:19:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T14:19:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037519973481140382"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1442050453194244102",
+              "start": 0,
+              "username": "HfSr_official"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037519973481140382",
+        "in_reply_to_user_id": "1442050453194244102",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037518173336211645",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HfSr_official 女生也是长发\n而且也没法解释为什么小学男生多是寸头\n和工作后"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1442050453194244102",
+        "conversation_id": "2037452242417230282",
+        "created_at": "2026-03-27T13:12:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T14:12:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037518173336211645"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1748763011140169729",
+              "start": 0,
+              "username": "lovelyshuimao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037518173336211645",
+        "in_reply_to_user_id": "1748763011140169729",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037452242417230282",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lovelyshuimao 学校管发型的出发点很简单，剪成劳改头就不会有人天天在意发型耽误学习，强制穿校服也是一个道理。就算建国以来的社会风气是尊崇长发，学校也会推行卤蛋头的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "INTJ-t ｜永遠14歲｜提問↓｜❤️@saonanaa",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 20,
+                "username": "saonanaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGspkq"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你2.1km",
+        "name": "lovely水",
+        "pinned_tweet_id": "2037392664845537335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023831074921738240/frpPaTVT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4875,
+          "following_count": 1019,
+          "like_count": 269,
+          "listed_count": 13,
+          "media_count": 3081,
+          "tweet_count": 13672
+        },
+        "url": "https://t.co/EZhyEGspkq",
+        "username": "lovelyshuimao",
+        "verified": true
+      },
+      {
+        "created_at": "2021-09-26T08:56:58.000Z",
+        "description": "在炎炎国人/希望互关请私信/备用账号:@HfSr_unofficial/仅限熟人小号:@HfSr_hidden/正在与冰霜哥布林@kawaiiangel42散发恋爱的酸臭味😋",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 19,
+                "username": "HfSr_unofficial"
+              },
+              {
+                "end": 55,
+                "start": 43,
+                "username": "HfSr_hidden"
+              },
+              {
+                "end": 78,
+                "start": 64,
+                "username": "kawaiiangel42"
+              }
+            ]
+          }
+        },
+        "id": "1442050453194244102",
+        "location": "/dev/null",
+        "name": "HfSr🇨🇳🇹🇼🇷🇺🇺🇦🇵🇸🇮🇱🇰🇵🇰🇷🇵🇰🇮🇳",
+        "pinned_tweet_id": "1939184333845340312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1794946950015660032/uc_vaLVT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1639,
+          "following_count": 330,
+          "like_count": 36192,
+          "listed_count": 12,
+          "media_count": 1847,
+          "tweet_count": 25974
+        },
+        "username": "HfSr_official",
+        "verified": false
+      }
+    ]
+  }
+}

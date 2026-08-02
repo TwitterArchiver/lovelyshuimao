@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1991645333395496960"
+      ]
+    },
+    "author_id": "1748763011140169729",
+    "conversation_id": "1991645340580389268",
+    "created_at": "2025-11-20T23:10:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-21T00:10:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1991645340580389268"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/SGS9jbebhE",
+          "end": 73,
+          "expanded_url": "https://x.com/lovelyshuimao/status/1991645340580389268/photo/1",
+          "media_key": "3_1991645333395496960",
+          "start": 50,
+          "url": "https://t.co/SGS9jbebhE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991645340580389268",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "从现在开始我将不吃不喝（因为吃不起了）\n除非有好心人给我钱…（也不是乞讨一定要钱啦，我很能扛饿的） https://t.co/SGS9jbebhE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1863,
+        "media_key": "3_1991645333395496960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6O-4OeaYAA36-0.jpg",
+        "width": 1308
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1991645333395496960"
+          ]
+        },
+        "author_id": "1748763011140169729",
+        "conversation_id": "1991645340580389268",
+        "created_at": "2025-11-20T23:10:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T00:10:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991645340580389268"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SGS9jbebhE",
+              "end": 73,
+              "expanded_url": "https://x.com/lovelyshuimao/status/1991645340580389268/photo/1",
+              "media_key": "3_1991645333395496960",
+              "start": 50,
+              "url": "https://t.co/SGS9jbebhE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991645340580389268",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "从现在开始我将不吃不喝（因为吃不起了）\n除非有好心人给我钱…（也不是乞讨一定要钱啦，我很能扛饿的） https://t.co/SGS9jbebhE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "水貓🍕｜ENFP-t ｜永遠14｜是豪貓不o不圓不殘不死｜對象@saonanaa｜素食主義者｜提問箱鏈接↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 31,
+                "username": "saonanaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%B0%B4%E6%B…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E6%B0%B4%E6%B0%B493927",
+                "start": 0,
+                "url": "https://t.co/qmQkMr39z5"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你2.1km",
+        "name": "lovely水",
+        "pinned_tweet_id": "1991204405165846657",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967556205590831104/87BEnlAx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2678,
+          "following_count": 1115,
+          "like_count": 245,
+          "listed_count": 7,
+          "media_count": 2291,
+          "tweet_count": 11214
+        },
+        "url": "https://t.co/qmQkMr39z5",
+        "username": "lovelyshuimao",
+        "verified": true
+      }
+    ]
+  }
+}

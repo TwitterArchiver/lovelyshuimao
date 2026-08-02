@@ -1,0 +1,325 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1748763011140169729",
+    "conversation_id": "2009544888149594143",
+    "created_at": "2026-01-09T16:16:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-09T17:16:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009660559759999466"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1556577100693651456",
+          "start": 0,
+          "username": "tychozzz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009660559759999466",
+    "in_reply_to_user_id": "1556577100693651456",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009544888149594143",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tychozzz 苹果键盘有ai审核错别字功能"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "2009544888149594143",
+        "created_at": "2026-01-09T16:16:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T17:16:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009660559759999466"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1556577100693651456",
+              "start": 0,
+              "username": "tychozzz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009660559759999466",
+        "in_reply_to_user_id": "1556577100693651456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009544888149594143",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tychozzz 苹果键盘有ai审核错别字功能"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1556577100693651456",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2009544888149594143",
+        "created_at": "2026-01-09T08:36:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T09:36:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009544888149594143"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2009544888149594143",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "强烈建议每个做自媒体的朋友，在发推文之前，把你写的内容丢给 ChatGPT 或者其它 AI 模型，过一遍错别字和笔误审核，尤其是长推文或者文章。\n\n虽然说这种小错误不会影响整体内容的可读性，但毕竟也会影响观感，有时候还会因为错别字闹出一些笑话。\n\n这是我用的 Prompt，供大家参考：\n\n“这是一篇对外发布的文章，请你严格审查一遍全文的错别字与逻辑错误，并分点给出。”\n\n我觉得细节决定成败，长期来看，细节会提升信任感。抓住每个小细节，流量就慢慢做起来啦。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 53,
+          "impression_count": 13654,
+          "like_count": 54,
+          "quote_count": 2,
+          "reply_count": 39,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "强烈建议每个做自媒体的朋友，在发推文之前，把你写的内容丢给 ChatGPT 或者其它 AI 模型，过一遍错别字和笔误审核，尤其是长推文或者文章。\n\n虽然说这种小错误不会影响整体内容的可读性，但毕竟也会影响观感，有时候还会因为错别字闹出一些笑话。\n\n这是我用的 Prompt，供大家参考："
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "水貓｜ENFP-t ｜永遠8歲｜提問↓ ｜對象@saonanaa｜素食主体｜心理兩畸｜蓝v互fo｜侵删",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 23,
+                "username": "saonanaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGrRuS"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你2.1km",
+        "name": "lovely水",
+        "pinned_tweet_id": "2009051621188358212",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009519740319092737/8QXu2gXD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3306,
+          "following_count": 1019,
+          "like_count": 257,
+          "listed_count": 10,
+          "media_count": 2669,
+          "tweet_count": 12427
+        },
+        "url": "https://t.co/EZhyEGrRuS",
+        "username": "lovelyshuimao",
+        "verified": true
+      },
+      {
+        "created_at": "2022-08-08T09:44:48.000Z",
+        "description": "爱投资的一枚程序员。投资导航作者，必备一站式导航网站：https://t.co/xhaBzx5OyW 美股/比特币长期投资者，持续分享有价值内容。Youtube频道：https://t.co/Mqj49gMmmb okx20%返佣：https://t.co/OPyhN9O8ps",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "invest-nav.com",
+                "end": 50,
+                "expanded_url": "http://invest-nav.com",
+                "start": 27,
+                "url": "https://t.co/xhaBzx5OyW"
+              },
+              {
+                "display_url": "youtube.com/@nicogrowthz",
+                "end": 106,
+                "expanded_url": "http://youtube.com/@nicogrowthz",
+                "start": 83,
+                "url": "https://t.co/Mqj49gMmmb"
+              },
+              {
+                "display_url": "okx.com/join/71309601",
+                "end": 139,
+                "expanded_url": "http://okx.com/join/71309601",
+                "start": 116,
+                "url": "https://t.co/OPyhN9O8ps"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/nicoinvestment",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/nicoinvestment",
+                "start": 0,
+                "url": "https://t.co/KKYvBKh8Cm"
+              }
+            ]
+          }
+        },
+        "id": "1556577100693651456",
+        "location": "Singapore",
+        "name": "Nico投资有道",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1724683452761657344/XthDIwUS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54776,
+          "following_count": 296,
+          "like_count": 8561,
+          "listed_count": 606,
+          "media_count": 937,
+          "tweet_count": 5719
+        },
+        "url": "https://t.co/KKYvBKh8Cm",
+        "username": "tychozzz",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1748763011140169729",
+    "conversation_id": "2011313735860916322",
+    "created_at": "2026-01-14T15:45:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-14T16:45:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2011464782352916963"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1712759769659068416",
+          "start": 0,
+          "username": "DoxXin97340"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2011464782352916963",
+    "in_reply_to_user_id": "1712759769659068416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2011461693852021042",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DoxXin97340 这个39也有250了呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "2011313735860916322",
+        "created_at": "2026-01-14T15:45:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-14T16:45:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011464782352916963"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1712759769659068416",
+              "start": 0,
+              "username": "DoxXin97340"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011464782352916963",
+        "in_reply_to_user_id": "1712759769659068416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011461693852021042",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DoxXin97340 这个39也有250了呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1712759769659068416",
+        "conversation_id": "2011313735860916322",
+        "created_at": "2026-01-14T15:33:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-14T16:33:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011461693852021042"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1748763011140169729",
+              "start": 0,
+              "username": "lovelyshuimao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011461693852021042",
+        "in_reply_to_user_id": "1748763011140169729",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011313735860916322",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lovelyshuimao 39这么小🥹"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "水貓｜INTJ-t ｜永遠14歲｜提問↓ ｜對象@saonanaa｜心理兩畸｜侵删",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 24,
+                "username": "saonanaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGrRuS"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你2.1km",
+        "name": "lovely水",
+        "pinned_tweet_id": "2009971664344494303",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009519740319092737/8QXu2gXD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3322,
+          "following_count": 1016,
+          "like_count": 255,
+          "listed_count": 10,
+          "media_count": 2697,
+          "tweet_count": 12500
+        },
+        "url": "https://t.co/EZhyEGrRuS",
+        "username": "lovelyshuimao",
+        "verified": true
+      },
+      {
+        "created_at": "2023-10-13T09:19:14.000Z",
+        "description": "希望做一个安静的人\n尊重你们的每一条选择，总会有条通向远方\n不割手不od\n杯子@Scighost_zhouc",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 39,
+                "username": "Scighost_zhouc"
+              }
+            ]
+          }
+        },
+        "id": "1712759769659068416",
+        "location": "Apple park",
+        "name": "Gpong-棍木版🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010013872527134721/1mZjoicj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116,
+          "following_count": 310,
+          "like_count": 621,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 797
+        },
+        "username": "DoxXin97340",
+        "verified": false
+      }
+    ]
+  }
+}

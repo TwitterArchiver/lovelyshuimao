@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1748763011140169729",
+    "conversation_id": "2039961102138716252",
+    "created_at": "2026-04-04T14:34:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-04T15:34:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040437899112689681"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1545277694325116928",
+          "start": 0,
+          "username": "BI3BXI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040437899112689681",
+    "in_reply_to_user_id": "1545277694325116928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039961102138716252",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BI3BXI 如果尿是彻底分层的倒掉就可以了\n如果是混合的，那本来就是一瓶稀释的尿"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 858,
+        "media_key": "3_2039702286205886464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE56bCjaoAAgYyK.jpg",
+        "width": 858
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "2039961102138716252",
+        "created_at": "2026-04-04T14:34:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T15:34:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040437899112689681"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1545277694325116928",
+              "start": 0,
+              "username": "BI3BXI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040437899112689681",
+        "in_reply_to_user_id": "1545277694325116928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039961102138716252",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BI3BXI 如果尿是彻底分层的倒掉就可以了\n如果是混合的，那本来就是一瓶稀释的尿"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039702286205886464"
+          ]
+        },
+        "author_id": "1545277694325116928",
+        "conversation_id": "2039961102138716252",
+        "created_at": "2026-04-03T07:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T08:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039961102138716252"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/diDGSEUZcx",
+              "end": 54,
+              "expanded_url": "https://x.com/BI3BXI/status/2039961102138716252/photo/1",
+              "media_key": "3_2039702286205886464",
+              "start": 31,
+              "url": "https://t.co/diDGSEUZcx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039961102138716252",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 19631,
+          "like_count": 282,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "你有一壶86400毫升的水\n\n结果其中的400毫升被换成了尿 https://t.co/diDGSEUZcx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "INTJ-t ｜永遠14｜提問↓｜❤️@saonanaa",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 19,
+                "username": "saonanaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGspkq"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你2.1km",
+        "name": "lovely水",
+        "pinned_tweet_id": "2038820925995647210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023831074921738240/frpPaTVT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4869,
+          "following_count": 1028,
+          "like_count": 272,
+          "listed_count": 13,
+          "media_count": 3101,
+          "tweet_count": 13791
+        },
+        "url": "https://t.co/EZhyEGspkq",
+        "username": "lovelyshuimao",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "Premium+用户｜Enby🏳️‍⚧️｜❤️@Show5560｜杂鱼@Lingjiaxin233｜本垢@yqua_｜Sister @Tennoujinyano｜Work for @snowfairy011026｜小说见文章栏",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 23,
+                "username": "Show5560"
+              },
+              {
+                "end": 49,
+                "start": 35,
+                "username": "Lingjiaxin233"
+              },
+              {
+                "end": 58,
+                "start": 52,
+                "username": "yqua_"
+              },
+              {
+                "end": 80,
+                "start": 66,
+                "username": "Tennoujinyano"
+              },
+              {
+                "end": 106,
+                "start": 90,
+                "username": "snowfairy011026"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "王串场",
+        "name": "喝味全的味铨🍥",
+        "pinned_tweet_id": "2025597427319980516",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998173383339712512/6wVG25qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8365,
+          "following_count": 3892,
+          "like_count": 38879,
+          "listed_count": 21,
+          "media_count": 2362,
+          "tweet_count": 9297
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "BI3BXI",
+        "verified": true
+      }
+    ]
+  }
+}

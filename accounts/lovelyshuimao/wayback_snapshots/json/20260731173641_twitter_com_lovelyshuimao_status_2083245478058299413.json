@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1748763011140169729",
+    "conversation_id": "2083245478058299413",
+    "created_at": "2026-07-31T17:36:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T18:36:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083245478058299413"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/lwrdhyyuxr2249…",
+          "end": 155,
+          "expanded_url": "https://twitter.com/lwrdhyyuxr22499/status/2083020444161167685",
+          "start": 132,
+          "url": "https://t.co/YpL2OSUXkp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083245478058299413",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083020444161167685",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "搞全跨小队的真的让我气笑了\n不管是出于什么理由、什么目的，都应该团结尽可能多的朋友，把敌人搞得少少的\n而且就跨女那个体能那个精神状态，别人不知道我还不知道吗，我不是歧视但是也要尊知道客观体能和状态差异吧\n不是，我是真怕有一天会被一个尊重性别代词的正确扭转给抓进去 https://t.co/YpL2OSUXkp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2083020434136858624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOhgDGybgAAcr_y.jpg",
+        "width": 556
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2083020232629927936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOhf3YHbwAAT21p.jpg",
+        "width": 311
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "2083245478058299413",
+        "created_at": "2026-07-31T17:36:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T18:36:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083245478058299413"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lwrdhyyuxr2249…",
+              "end": 155,
+              "expanded_url": "https://twitter.com/lwrdhyyuxr22499/status/2083020444161167685",
+              "start": 132,
+              "url": "https://t.co/YpL2OSUXkp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083245478058299413",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083020444161167685",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "搞全跨小队的真的让我气笑了\n不管是出于什么理由、什么目的，都应该团结尽可能多的朋友，把敌人搞得少少的\n而且就跨女那个体能那个精神状态，别人不知道我还不知道吗，我不是歧视但是也要尊知道客观体能和状态差异吧\n不是，我是真怕有一天会被一个尊重性别代词的正确扭转给抓进去 https://t.co/YpL2OSUXkp"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083020434136858624",
+            "3_2083020232629927936"
+          ]
+        },
+        "author_id": "1843201902550634496",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2083020444161167685",
+        "created_at": "2026-07-31T02:42:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T03:42:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083020444161167685"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EFUKTXc4wo",
+              "end": 142,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2083020444161167685/photo/1",
+              "media_key": "3_2083020434136858624",
+              "start": 119,
+              "url": "https://t.co/EFUKTXc4wo"
+            },
+            {
+              "display_url": "pic.x.com/EFUKTXc4wo",
+              "end": 142,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2083020444161167685/photo/1",
+              "media_key": "3_2083020232629927936",
+              "start": 119,
+              "url": "https://t.co/EFUKTXc4wo"
+            },
+            {
+              "display_url": "x.com/LwrDHYyuxR2249…",
+              "end": 166,
+              "expanded_url": "https://twitter.com/LwrDHYyuxR22499/status/2082757528761586111",
+              "start": 143,
+              "url": "https://t.co/HNUWaccYhK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083020444161167685",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 12592,
+          "like_count": 72,
+          "quote_count": 1,
+          "reply_count": 50,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082757528761586111",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "已经叫你王人去“了解情况”了\n这位自称睾丸受到私刑的\n还是个跨性别者\n\n我一眼就看出这不是顺直\n这下鉴跨了\n\n不过情理上讲我已经退出跨性别救助了\n但北燕书建立了一个完全排除我还有受过我指导的任何人得组织\n这北燕书不彰显一下威能吗👂🏻👂🏻 https://t.co/EFUKTXc4wo https://t.co/HNUWaccYhK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "🐱神仙水水猫星铃Lumia\n👩🏻‍💻INTJ ♀14 \n🙋🏻‍♀️提問box——————↓\n✍🏻想成為作家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGspkq"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你 4.3km",
+        "name": "lovely水",
+        "pinned_tweet_id": "2075897725733024056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045354329792749568/b7JXuLvu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5576,
+          "following_count": 996,
+          "like_count": 275,
+          "listed_count": 22,
+          "media_count": 3465,
+          "tweet_count": 15721
+        },
+        "url": "https://t.co/EZhyEGspkq",
+        "username": "lovelyshuimao",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人，反扭转救援信息战主力、体系化反扭设计者，反邪教，反家暴\n曾受邀BBC Eye联合调查曝光违规机构，个案不定期登刊央视、东方卫视、中华网、半月谈以及各大新闻媒体。\n斩获2026年度新闻界🥇卓越奖\n最大的愿望是中国老百姓都能过上好日子",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079781229529022464/zTPOeSt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6738,
+          "following_count": 3346,
+          "like_count": 4105,
+          "listed_count": 19,
+          "media_count": 522,
+          "tweet_count": 3610
+        },
+        "url": "",
+        "username": "LwrDHYyuxR22499",
+        "verified": true
+      }
+    ]
+  }
+}

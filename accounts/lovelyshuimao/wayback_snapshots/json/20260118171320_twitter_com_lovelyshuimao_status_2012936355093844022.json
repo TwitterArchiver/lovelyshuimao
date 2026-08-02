@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1748763011140169729",
+    "conversation_id": "2012895221311230452",
+    "created_at": "2026-01-18T17:13:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-18T18:13:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012936355093844022"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1791324673214648321",
+          "start": 0,
+          "username": "IrNyako"
+        },
+        {
+          "end": 24,
+          "id": "1980236829455511552",
+          "start": 9,
+          "username": "PaulDrizzyvlni"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012936355093844022",
+    "in_reply_to_user_id": "1791324673214648321",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012905534924452068",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@IrNyako @PaulDrizzyvlni 我也是，可能是因为我是短发吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "2012895221311230452",
+        "created_at": "2026-01-18T17:13:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T18:13:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012936355093844022"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1791324673214648321",
+              "start": 0,
+              "username": "IrNyako"
+            },
+            {
+              "end": 24,
+              "id": "1980236829455511552",
+              "start": 9,
+              "username": "PaulDrizzyvlni"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012936355093844022",
+        "in_reply_to_user_id": "1791324673214648321",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012905534924452068",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IrNyako @PaulDrizzyvlni 我也是，可能是因为我是短发吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1791324673214648321",
+        "conversation_id": "2012895221311230452",
+        "created_at": "2026-01-18T15:10:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T16:10:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012905534924452068"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1980236829455511552",
+              "start": 0,
+              "username": "PaulDrizzyvlni"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012905534924452068",
+        "in_reply_to_user_id": "1980236829455511552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 105,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012895221311230452",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PaulDrizzyvlni 为什么只有我被传是给！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "水貓｜INTJ-t ｜永遠14歲｜提問↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGrRuS"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你2.1km",
+        "name": "lovely水",
+        "pinned_tweet_id": "2009971664344494303",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009519740319092737/8QXu2gXD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3347,
+          "following_count": 1014,
+          "like_count": 260,
+          "listed_count": 10,
+          "media_count": 2728,
+          "tweet_count": 12588
+        },
+        "url": "https://t.co/EZhyEGrRuS",
+        "username": "lovelyshuimao",
+        "verified": true
+      },
+      {
+        "created_at": "2024-05-17T04:27:58.000Z",
+        "description": "INFP / 🇨🇳 / A cat / Hate school / Re-Reborn 2025.11.22",
+        "id": "1791324673214648321",
+        "location": "Nyakotopia",
+        "name": "Grande Matcha Frappuccino",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869767649850527744/u4_zzFw2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 100,
+          "like_count": 161,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 121
+        },
+        "username": "IrNyako",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-20T11:37:56.000Z",
+        "description": "重生日 25.11.18/天空树/爱发高p照仔细甄别😵‍💫/成分复杂/篮球世家🌚运动跨😹best athlete must be @Yg_Trece @TheTraeYoung !/特别的人 @HappyHejsDay @cosmorisa @LumidexNZ 以及最特别的 @shixveriya 🥰",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 65,
+                "username": "Yg_Trece"
+              },
+              {
+                "end": 88,
+                "start": 75,
+                "username": "TheTraeYoung"
+              },
+              {
+                "end": 109,
+                "start": 96,
+                "username": "HappyHejsDay"
+              },
+              {
+                "end": 120,
+                "start": 110,
+                "username": "cosmorisa"
+              },
+              {
+                "end": 131,
+                "start": 121,
+                "username": "LumidexNZ"
+              },
+              {
+                "end": 150,
+                "start": 139,
+                "username": "shixveriya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pauldrizzyvlni",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pauldrizzyvlni",
+                "start": 0,
+                "url": "https://t.co/MqRT8JnadN"
+              }
+            ]
+          }
+        },
+        "id": "1980236829455511552",
+        "location": "Palmdale, California, USA",
+        "name": "wish happiness 😵‍💫🍥😵‍💫",
+        "pinned_tweet_id": "2002025908065149029",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997894762838556672/_NU9ap_W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 696,
+          "following_count": 591,
+          "like_count": 1860,
+          "listed_count": 1,
+          "media_count": 114,
+          "tweet_count": 1777
+        },
+        "url": "https://t.co/MqRT8JnadN",
+        "username": "PaulDrizzyvlni",
+        "verified": false
+      }
+    ]
+  }
+}

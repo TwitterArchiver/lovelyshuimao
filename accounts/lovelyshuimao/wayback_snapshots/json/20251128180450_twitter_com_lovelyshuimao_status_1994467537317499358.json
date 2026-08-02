@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1748763011140169729",
+    "conversation_id": "1994457214741107005",
+    "created_at": "2025-11-28T18:04:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-28T19:04:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994467537317499358"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1835303480896155648",
+          "start": 0,
+          "username": "gu_niu50358"
+        },
+        {
+          "end": 22,
+          "id": "1690570637499154432",
+          "start": 13,
+          "username": "saonanaa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994467537317499358",
+    "in_reply_to_user_id": "1835303480896155648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994460104473673942",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gu_niu50358 @saonanaa 支持，希望禁掉皮炎，然后用嘴拉屎👍"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "1994457214741107005",
+        "created_at": "2025-11-28T18:04:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T19:04:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994467537317499358"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1835303480896155648",
+              "start": 0,
+              "username": "gu_niu50358"
+            },
+            {
+              "end": 22,
+              "id": "1690570637499154432",
+              "start": 13,
+              "username": "saonanaa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994467537317499358",
+        "in_reply_to_user_id": "1835303480896155648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994460104473673942",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gu_niu50358 @saonanaa 支持，希望禁掉皮炎，然后用嘴拉屎👍"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1835303480896155648",
+        "conversation_id": "1994457214741107005",
+        "created_at": "2025-11-28T17:35:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T18:35:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994460104473673942"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1690570637499154432",
+              "start": 0,
+              "username": "saonanaa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994460104473673942",
+        "in_reply_to_user_id": "1690570637499154432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994457214741107005",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@saonanaa 木桶饭能不能别天天这么扫😓 屁眼怪 后备军了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "水貓🍕｜ENFP-t ｜永遠14｜是豪貓不o不圓不殘不死｜對象@saonanaa｜素食主義者｜提問箱鏈接↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 31,
+                "username": "saonanaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%B0%B4%E6%B…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E6%B0%B4%E6%B0%B493927",
+                "start": 0,
+                "url": "https://t.co/qmQkMr39z5"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你2.1km",
+        "name": "lovely水",
+        "pinned_tweet_id": "1994304923094098025",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994377431365697536/FlF4hwSr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2712,
+          "following_count": 1126,
+          "like_count": 248,
+          "listed_count": 7,
+          "media_count": 2323,
+          "tweet_count": 11337
+        },
+        "url": "https://t.co/qmQkMr39z5",
+        "username": "lovelyshuimao",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-15T13:03:50.000Z",
+        "description": "1.跨性别是精神病，该进精神病院😓 \n2.理想是世界没有跨\n3.拆除跨旗子和鱼板标识，屏蔽大数据跨性别人物和社区 \n4.当跨也不要进圈子，这会提前结束你青春的生命，这圈子已经烂完，看圈子如喝慢性毒药 \n5.天救自救者\n6.专用挂人抵制&羞辱木桶饭的号🤣 跨搐不服受着",
+        "id": "1835303480896155648",
+        "location": "地狱",
+        "name": "米（跨搐圈加丝光☞🏳️‍⚧️🚫）",
+        "pinned_tweet_id": "1993689062285492362",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994380763731804160/0ICLsm6n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 124,
+          "like_count": 251,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 320
+        },
+        "username": "gu_niu50358",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-13T03:47:17.000Z",
+        "description": "Zhi Wei｜高贵顺直男｜.NET开发者 & 构建 OneLauncher & 欢迎光顾GitHub｜大坏猫 @lovelyshuimao & 浙江穷入 & 欢迎来找我玩",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 56,
+                "username": "lovelyshuimao"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/zhweaa",
+                "end": 23,
+                "expanded_url": "https://github.com/zhweaa",
+                "start": 0,
+                "url": "https://t.co/Lsl0VyzXWN"
+              }
+            ]
+          }
+        },
+        "id": "1690570637499154432",
+        "location": "🌏🌐",
+        "name": "Zhi Wei",
+        "pinned_tweet_id": "1993980106398896618",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984943840160256000/CDlRt_Jg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6602,
+          "following_count": 430,
+          "like_count": 32892,
+          "listed_count": 15,
+          "media_count": 2101,
+          "tweet_count": 18538
+        },
+        "url": "https://t.co/Lsl0VyzXWN",
+        "username": "saonanaa",
+        "verified": true
+      }
+    ]
+  }
+}

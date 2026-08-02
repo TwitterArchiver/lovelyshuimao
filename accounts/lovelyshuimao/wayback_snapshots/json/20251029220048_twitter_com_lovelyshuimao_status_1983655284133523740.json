@@ -1,0 +1,117 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1748763011140169729",
+    "conversation_id": "1983655284133523740",
+    "created_at": "2025-10-29T22:00:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-29T23:00:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1983655284133523740"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1983655284133523740",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我觉得人是不可能被手机害了的\n手机就是一个巨大的信息水面\n大家觉得谁谁谁被手机害了无非就是他得到了一个令你难以置信的信息，而你认为这是虚假信息\n但是一个人在信息漩涡中，就算充斥着大量虚假信息，量变引起质变，他最终所得的信息还是远远超过不看手机的人的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "1983655284133523740",
+        "created_at": "2025-10-29T22:00:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T23:00:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983655284133523740"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1983655284133523740",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我觉得人是不可能被手机害了的\n手机就是一个巨大的信息水面\n大家觉得谁谁谁被手机害了无非就是他得到了一个令你难以置信的信息，而你认为这是虚假信息\n但是一个人在信息漩涡中，就算充斥着大量虚假信息，量变引起质变，他最终所得的信息还是远远超过不看手机的人的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "ENFP-t ｜永远14｜是豪猫不o不圆不割不死｜对象@saonanaa｜雙相＆抑鬱｜家長不管黨｜提問箱鏈接↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 27,
+                "username": "saonanaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%B0%B4%E6%B…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E6%B0%B4%E6%B0%B493927",
+                "start": 0,
+                "url": "https://t.co/qmQkMr2BJx"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你2.1km",
+        "name": "lovely水水猫🍕",
+        "pinned_tweet_id": "1983629097923440976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967556205590831104/87BEnlAx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2418,
+          "following_count": 1116,
+          "like_count": 242,
+          "listed_count": 7,
+          "media_count": 2170,
+          "tweet_count": 10840
+        },
+        "url": "https://t.co/qmQkMr2BJx",
+        "username": "lovelyshuimao",
+        "verified": true
+      }
+    ]
+  }
+}

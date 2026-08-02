@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1748763011140169729",
+    "conversation_id": "2042836582953291864",
+    "created_at": "2026-04-11T05:26:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T06:26:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042836582953291864"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/aureliax17qwq/…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/aureliax17qwq/status/2042790762656731168",
+          "start": 24,
+          "url": "https://t.co/lmxqjiY41Z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042836582953291864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042790762656731168",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "一旦放开杀人，殡仪馆生意会迎来报复性增长🤓☝️ https://t.co/lmxqjiY41Z"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "2042836582953291864",
+        "created_at": "2026-04-11T05:26:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T06:26:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042836582953291864"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/aureliax17qwq/…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/aureliax17qwq/status/2042790762656731168",
+              "start": 24,
+              "url": "https://t.co/lmxqjiY41Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042836582953291864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042790762656731168",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "一旦放开杀人，殡仪馆生意会迎来报复性增长🤓☝️ https://t.co/lmxqjiY41Z"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1611246341728120835",
+        "conversation_id": "2042790762656731168",
+        "created_at": "2026-04-11T02:24:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T03:24:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042790762656731168"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2042790762656731168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1009,
+          "like_count": 44,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一旦放开计划生育，人口就会报复性增长。\n一旦解除限购，就会迎来报复性购房。\n一旦放开安乐死，就会迎来报复性死亡。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "INTJ｜永遠14｜提問↓｜❤️对象ZhiWei @saonanaa",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 25,
+                "username": "saonanaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGspkq"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你2.1km",
+        "name": "lovely水",
+        "pinned_tweet_id": "2042828746793869607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023831074921738240/frpPaTVT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4790,
+          "following_count": 1006,
+          "like_count": 272,
+          "listed_count": 13,
+          "media_count": 3137,
+          "tweet_count": 13918
+        },
+        "url": "https://t.co/EZhyEGspkq",
+        "username": "lovelyshuimao",
+        "verified": true
+      },
+      {
+        "created_at": "2023-01-06T06:20:59.000Z",
+        "description": "免费但失败的心理委员，欢迎聊天当树洞｜mtf｜06｜重抑｜INFP｜💊｜想倾诉或聊天可以找我说话｜tg：https://t.co/5kLEQoTlFF ｜最爱的小孩@dnshu135734｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 82,
+                "username": "dnshu135734"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/Aureliax17",
+                "end": 75,
+                "expanded_url": "http://t.me/Aureliax17",
+                "start": 52,
+                "url": "https://t.co/5kLEQoTlFF"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aureliax17",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aureliax17",
+                "start": 0,
+                "url": "https://t.co/h6OCEkrSu6"
+              }
+            ]
+          }
+        },
+        "id": "1611246341728120835",
+        "location": "长安",
+        "name": "海月水母x17🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008776444445626368/iHOJfO5R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1693,
+          "following_count": 416,
+          "like_count": 6174,
+          "listed_count": 2,
+          "media_count": 135,
+          "tweet_count": 1643
+        },
+        "url": "https://t.co/h6OCEkrSu6",
+        "username": "Aureliax17QwQ",
+        "verified": true
+      }
+    ]
+  }
+}

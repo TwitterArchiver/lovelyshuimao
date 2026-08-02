@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1748763011140169729",
+    "conversation_id": "1997615323647017450",
+    "created_at": "2025-12-09T23:26:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-10T00:26:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998534673404932159"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1842203626418409472",
+          "start": 0,
+          "username": "yyyzlz3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998534673404932159",
+    "in_reply_to_user_id": "1842203626418409472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997615323647017450",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yyyzlz3 中医就是死不掉也治不好，西医就不一定了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 861,
+        "media_key": "3_1997615320664788992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7j0jOIaUAAXqJP.jpg",
+        "width": 802
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "1997615323647017450",
+        "created_at": "2025-12-09T23:26:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-10T00:26:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998534673404932159"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1842203626418409472",
+              "start": 0,
+              "username": "yyyzlz3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998534673404932159",
+        "in_reply_to_user_id": "1842203626418409472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997615323647017450",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yyyzlz3 中医就是死不掉也治不好，西医就不一定了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1997615320664788992"
+          ]
+        },
+        "author_id": "1842203626418409472",
+        "conversation_id": "1997615323647017450",
+        "created_at": "2025-12-07T10:33:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-07T11:33:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1997615323647017450"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/T1nHIMThoZ",
+              "end": 60,
+              "expanded_url": "https://x.com/yyyzlz3/status/1997615323647017450/photo/1",
+              "media_key": "3_1997615320664788992",
+              "start": 37,
+              "url": "https://t.co/T1nHIMThoZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997615323647017450",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 50,
+          "impression_count": 269771,
+          "like_count": 1369,
+          "quote_count": 5,
+          "reply_count": 63,
+          "retweet_count": 28
+        },
+        "reply_settings": "everyone",
+        "text": "比自学中医更可怕的出现了\n自学中医你还能多活一段时间\n这个阎王都留不住人 https://t.co/T1nHIMThoZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "水貓🍕｜ENFP-t ｜永遠14｜對象@saonanaa｜素食主義者｜提問箱鏈接↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 19,
+                "username": "saonanaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%B0%B4%E6%B…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E6%B0%B4%E6%B0%B493927",
+                "start": 0,
+                "url": "https://t.co/qmQkMr39z5"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你2.1km",
+        "name": "lovely水",
+        "pinned_tweet_id": "1998223600432886177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998279626989449216/6L9PHOSs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3017,
+          "following_count": 1257,
+          "like_count": 251,
+          "listed_count": 7,
+          "media_count": 2403,
+          "tweet_count": 11699
+        },
+        "url": "https://t.co/qmQkMr39z5",
+        "username": "lovelyshuimao",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-04T14:02:46.000Z",
+        "description": "@yzhlzi3二代目，旧账处于封禁和未封禁之间的量子叠加态，我带着梗图和对🐜🐉的怨恨回来了",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 0,
+                "username": "yzhlzi3"
+              }
+            ]
+          }
+        },
+        "id": "1842203626418409472",
+        "location": "罗克萨特主义合众国联盟",
+        "name": "狸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965335406511296513/n9cTYrnv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1281,
+          "following_count": 408,
+          "like_count": 8965,
+          "listed_count": 2,
+          "media_count": 437,
+          "tweet_count": 2299
+        },
+        "username": "yyyzlz3",
+        "verified": false
+      }
+    ]
+  }
+}

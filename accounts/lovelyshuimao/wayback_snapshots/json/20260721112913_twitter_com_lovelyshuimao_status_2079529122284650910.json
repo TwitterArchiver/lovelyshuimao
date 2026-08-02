@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2079529100474249217"
+      ]
+    },
+    "author_id": "1748763011140169729",
+    "conversation_id": "2079529122284650910",
+    "created_at": "2026-07-21T11:29:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T12:29:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079529122284650910"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/jUASHCFSz3",
+          "end": 62,
+          "expanded_url": "https://x.com/lovelyshuimao/status/2079529122284650910/photo/1",
+          "media_key": "3_2079529100474249217",
+          "start": 39,
+          "url": "https://t.co/jUASHCFSz3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079529122284650910",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "打点马赛克\n喜提阴暗逼发现\n（我近视+挡完了）\n彻底看不见了然后头发也短短的 https://t.co/jUASHCFSz3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3176,
+        "media_key": "3_2079529100474249217",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNv4svXa8AEhKy1.jpg",
+        "width": 2338
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079529100474249217"
+          ]
+        },
+        "author_id": "1748763011140169729",
+        "conversation_id": "2079529122284650910",
+        "created_at": "2026-07-21T11:29:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T12:29:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079529122284650910"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jUASHCFSz3",
+              "end": 62,
+              "expanded_url": "https://x.com/lovelyshuimao/status/2079529122284650910/photo/1",
+              "media_key": "3_2079529100474249217",
+              "start": 39,
+              "url": "https://t.co/jUASHCFSz3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079529122284650910",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "打点马赛克\n喜提阴暗逼发现\n（我近视+挡完了）\n彻底看不见了然后头发也短短的 https://t.co/jUASHCFSz3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "🐱神仙水水猫星铃Lumia\n👩🏻‍💻INTJ ♀14 \n🙋🏻‍♀️提問box——————↓\n✍🏻想成為作家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGspkq"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你 4.3km",
+        "name": "lovely水",
+        "pinned_tweet_id": "2075897725733024056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045354329792749568/b7JXuLvu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5258,
+          "following_count": 999,
+          "like_count": 275,
+          "listed_count": 22,
+          "media_count": 3416,
+          "tweet_count": 15372
+        },
+        "url": "https://t.co/EZhyEGspkq",
+        "username": "lovelyshuimao",
+        "verified": true
+      }
+    ]
+  }
+}

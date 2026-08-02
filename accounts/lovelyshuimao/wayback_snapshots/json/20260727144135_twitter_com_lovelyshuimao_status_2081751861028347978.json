@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1748763011140169729",
+    "conversation_id": "2081540085955362883",
+    "created_at": "2026-07-27T14:41:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T15:41:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081751861028347978"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1917765994950643712",
+          "start": 0,
+          "username": "Az1225H"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081751861028347978",
+    "in_reply_to_user_id": "1917765994950643712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081540085955362883",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Az1225H 我觉得吧这个反而可以放心用"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2081540076732100608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOMdq9tbMAAwL-y.jpg",
+        "width": 722
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "2081540085955362883",
+        "created_at": "2026-07-27T14:41:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T15:41:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081751861028347978"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1917765994950643712",
+              "start": 0,
+              "username": "Az1225H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081751861028347978",
+        "in_reply_to_user_id": "1917765994950643712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081540085955362883",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Az1225H 我觉得吧这个反而可以放心用"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081540076732100608"
+          ]
+        },
+        "author_id": "1917765994950643712",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2081540085955362883",
+        "created_at": "2026-07-27T00:40:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T01:40:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081540085955362883"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Y2EFVcJ2Gg",
+              "end": 49,
+              "expanded_url": "https://x.com/Az1225H/status/2081540085955362883/photo/1",
+              "media_key": "3_2081540076732100608",
+              "start": 26,
+              "url": "https://t.co/Y2EFVcJ2Gg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081540085955362883",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 40395,
+          "like_count": 85,
+          "quote_count": 0,
+          "reply_count": 75,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这梯子我有点不太敢用啊，挂上之后会不会被请去喝茶？ https://t.co/Y2EFVcJ2Gg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "🐱神仙水水猫星铃Lumia\n👩🏻‍💻INTJ ♀14 \n🙋🏻‍♀️提問box——————↓\n✍🏻想成為作家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGspkq"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你 4.3km",
+        "name": "lovely水",
+        "pinned_tweet_id": "2075897725733024056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045354329792749568/b7JXuLvu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5512,
+          "following_count": 998,
+          "like_count": 275,
+          "listed_count": 22,
+          "media_count": 3440,
+          "tweet_count": 15566
+        },
+        "url": "https://t.co/EZhyEGspkq",
+        "username": "lovelyshuimao",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-01T02:20:35.000Z",
+        "description": "X优质内容创作者 🎉\nmeme玩家 爱发梗图\n工具推荐 | 理性吃瓜 | 乐于分享 | 偶尔吐槽 | 善于提供情绪价值\n“所有帖子仅个人观点，非财务建议，DYOR（偶尔X无滤镜观察）”",
+        "id": "1917765994950643712",
+        "location": "距你0.1 km",
+        "name": "不过些许风霜",
+        "pinned_tweet_id": "2080996234454794559",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074819230869147648/jzM-UAKz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16415,
+          "following_count": 9429,
+          "like_count": 3067,
+          "listed_count": 14,
+          "media_count": 214,
+          "tweet_count": 5434
+        },
+        "url": "",
+        "username": "Az1225H",
+        "verified": true
+      }
+    ]
+  }
+}

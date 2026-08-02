@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2064615876620603393"
+      ]
+    },
+    "author_id": "1748763011140169729",
+    "conversation_id": "2064615883692286369",
+    "created_at": "2026-06-10T07:49:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T08:49:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064615883692286369"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/9kodG1OGjE",
+          "end": 44,
+          "expanded_url": "https://x.com/lovelyshuimao/status/2064615883692286369/photo/1",
+          "media_key": "3_2064615876620603393",
+          "start": 21,
+          "url": "https://t.co/9kodG1OGjE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064615883692286369",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "iOS27很完美\n就是这个白边能不能去掉 https://t.co/9kodG1OGjE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 307,
+        "media_key": "3_2064615876620603393",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKb9M3OaUAEG4Mo.jpg",
+        "width": 753
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064615876620603393"
+          ]
+        },
+        "author_id": "1748763011140169729",
+        "conversation_id": "2064615883692286369",
+        "created_at": "2026-06-10T07:49:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T08:49:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064615883692286369"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9kodG1OGjE",
+              "end": 44,
+              "expanded_url": "https://x.com/lovelyshuimao/status/2064615883692286369/photo/1",
+              "media_key": "3_2064615876620603393",
+              "start": 21,
+              "url": "https://t.co/9kodG1OGjE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064615883692286369",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "iOS27很完美\n就是这个白边能不能去掉 https://t.co/9kodG1OGjE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "｜水猫星铃Lumia\n｜INTJ ♀14  \n｜❤️@saonanaa\n｜提問box——————————↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 27,
+                "username": "saonanaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGspkq"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你2.1km",
+        "name": "lovely水",
+        "pinned_tweet_id": "2063974537272910172",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045354329792749568/b7JXuLvu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4892,
+          "following_count": 1008,
+          "like_count": 274,
+          "listed_count": 17,
+          "media_count": 3249,
+          "tweet_count": 14583
+        },
+        "url": "https://t.co/EZhyEGspkq",
+        "username": "lovelyshuimao",
+        "verified": false
+      }
+    ]
+  }
+}

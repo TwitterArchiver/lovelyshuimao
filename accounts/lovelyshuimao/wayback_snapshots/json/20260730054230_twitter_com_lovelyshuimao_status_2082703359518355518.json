@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082703352769757184"
+      ]
+    },
+    "author_id": "1748763011140169729",
+    "conversation_id": "2082702372745417176",
+    "created_at": "2026-07-30T05:42:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T06:42:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082703359518355518"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1704469304077611008",
+          "start": 0,
+          "username": "jiaoyanboluooo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/NbY9r7f7l0",
+          "end": 44,
+          "expanded_url": "https://x.com/lovelyshuimao/status/2082703359518355518/photo/1",
+          "media_key": "3_2082703352769757184",
+          "start": 21,
+          "url": "https://t.co/NbY9r7f7l0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082703359518355518",
+    "in_reply_to_user_id": "1704469304077611008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082702372745417176",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiaoyanboluooo 我没救了 https://t.co/NbY9r7f7l0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1531,
+        "media_key": "3_2082703352769757184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOc_qipbQAAQBPd.jpg",
+        "width": 1320
+      },
+      {
+        "height": 2796,
+        "media_key": "3_2082702360229576704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOc-wxJaAAAv8C6.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082703352769757184"
+          ]
+        },
+        "author_id": "1748763011140169729",
+        "conversation_id": "2082702372745417176",
+        "created_at": "2026-07-30T05:42:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T06:42:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082703359518355518"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1704469304077611008",
+              "start": 0,
+              "username": "jiaoyanboluooo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NbY9r7f7l0",
+              "end": 44,
+              "expanded_url": "https://x.com/lovelyshuimao/status/2082703359518355518/photo/1",
+              "media_key": "3_2082703352769757184",
+              "start": 21,
+              "url": "https://t.co/NbY9r7f7l0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082703359518355518",
+        "in_reply_to_user_id": "1704469304077611008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082702372745417176",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiaoyanboluooo 我没救了 https://t.co/NbY9r7f7l0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082702360229576704"
+          ]
+        },
+        "author_id": "1704469304077611008",
+        "conversation_id": "2082702372745417176",
+        "created_at": "2026-07-30T05:38:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T06:38:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082702372745417176"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yDmpGqeGys",
+              "end": 66,
+              "expanded_url": "https://x.com/jiaoyanboluooo/status/2082702372745417176/photo/1",
+              "media_key": "3_2082702360229576704",
+              "start": 43,
+              "url": "https://t.co/yDmpGqeGys"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082702372745417176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "跟我一起说\n“谢谢佐匹克隆\n谢谢氯硝西泮\n谢谢阿普唑仑\n我发自内心的感谢你们的贡献” https://t.co/yDmpGqeGys"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "🐱神仙水水猫星铃Lumia\n👩🏻‍💻INTJ ♀14 \n🙋🏻‍♀️提問box——————↓\n✍🏻想成為作家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGspkq"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你 4.3km",
+        "name": "lovely水",
+        "pinned_tweet_id": "2075897725733024056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045354329792749568/b7JXuLvu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5531,
+          "following_count": 995,
+          "like_count": 275,
+          "listed_count": 22,
+          "media_count": 3452,
+          "tweet_count": 15623
+        },
+        "url": "https://t.co/EZhyEGspkq",
+        "username": "lovelyshuimao",
+        "verified": true
+      },
+      {
+        "created_at": "2023-09-20T12:15:32.000Z",
+        "description": "ISFP/mtf/生产日期7.24/od/双相喵？/臭蝈蝻/🏳️‍⚧️/steam好友码：1737257608/三角洲UID:54317480744297644809\r／究极无敌大抖m 或sub？/无证含糖/不要靠近我，我只会让你伤心/主人@Amour761\n给我发送匿名消息！ ↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 129,
+                "start": 120,
+                "username": "Amour761"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jiaoyanboluooo1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jiaoyanboluooo1",
+                "start": 0,
+                "url": "https://t.co/DbZcrDCjo5"
+              }
+            ]
+          }
+        },
+        "id": "1704469304077611008",
+        "location": "狗笼里",
+        "name": "椒盐菠萝🍥",
+        "pinned_tweet_id": "2079594082041823465",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040790835063881728/wk-qi4m1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5456,
+          "following_count": 4465,
+          "like_count": 31985,
+          "listed_count": 13,
+          "media_count": 1587,
+          "tweet_count": 6824
+        },
+        "url": "https://t.co/DbZcrDCjo5",
+        "username": "jiaoyanboluooo",
+        "verified": true
+      }
+    ]
+  }
+}

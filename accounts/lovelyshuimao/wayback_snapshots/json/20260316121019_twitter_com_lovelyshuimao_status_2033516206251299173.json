@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1748763011140169729",
+    "conversation_id": "2033497326485213621",
+    "created_at": "2026-03-16T12:10:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-16T13:10:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033516206251299173"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1120455914220412934",
+          "start": 0,
+          "username": "EloriaVanctice"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033516206251299173",
+    "in_reply_to_user_id": "1120455914220412934",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033507172081176945",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@EloriaVanctice 互不知情"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "2033497326485213621",
+        "created_at": "2026-03-16T12:10:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T13:10:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033516206251299173"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1120455914220412934",
+              "start": 0,
+              "username": "EloriaVanctice"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033516206251299173",
+        "in_reply_to_user_id": "1120455914220412934",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033507172081176945",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EloriaVanctice 互不知情"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1120455914220412934",
+        "conversation_id": "2033497326485213621",
+        "created_at": "2026-03-16T11:34:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T12:34:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033507172081176945"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1748763011140169729",
+              "start": 0,
+              "username": "lovelyshuimao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033507172081176945",
+        "in_reply_to_user_id": "1748763011140169729",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033497326485213621",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lovelyshuimao 经典解法——计算两人的存活期望（附加心理压力随时间变化的积分加权）。。\n\n理性极端环境下的标准回答：如果我确认对方比我好——按我的标准，我愿意主动G，否则优先让对方G。\n\n现实回答：合作博一把，把关我们的人干掉——实在不行，同归于尽也行。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "INTJ-t ｜永遠14歲｜提問↓｜❤️@saonanaa",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 20,
+                "username": "saonanaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGspkq"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你2.1km",
+        "name": "lovely水",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023831074921738240/frpPaTVT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4847,
+          "following_count": 1024,
+          "like_count": 267,
+          "listed_count": 13,
+          "media_count": 3033,
+          "tweet_count": 13416
+        },
+        "url": "https://t.co/EZhyEGspkq",
+        "username": "lovelyshuimao",
+        "verified": true
+      },
+      {
+        "created_at": "2019-04-22T22:34:41.000Z",
+        "description": "生如夏花的HSP，soulmate searching~\n所谓「人性」，人心各异，探察考验方可知\n\nいつか私を知ることができたなら\n必ずその场所に私はいるから\nそこに希望の欠片すらなかったとしても\n私が在ってはならないものであっても\n——My Dearest\n\n如果我爱你，一定是因为你的心比容颜更美~真善美，真是基石",
+        "id": "1120455914220412934",
+        "location": "Earth",
+        "name": "自意識",
+        "pinned_tweet_id": "2029507894774014421",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015693541779865600/92K9d93k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 264,
+          "like_count": 63,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 342
+        },
+        "username": "EloriaVanctice",
+        "verified": false
+      }
+    ]
+  }
+}

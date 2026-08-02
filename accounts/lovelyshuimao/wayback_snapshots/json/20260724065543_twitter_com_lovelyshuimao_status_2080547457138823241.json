@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2080547445013090305"
+      ]
+    },
+    "author_id": "1748763011140169729",
+    "conversation_id": "2080547457138823241",
+    "created_at": "2026-07-24T06:55:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T07:55:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080547457138823241"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/29D14MxCcv",
+          "end": 56,
+          "expanded_url": "https://x.com/lovelyshuimao/status/2080547457138823241/photo/1",
+          "media_key": "3_2080547445013090305",
+          "start": 33,
+          "url": "https://t.co/29D14MxCcv"
+        },
+        {
+          "display_url": "x.com/mark67358226/s…",
+          "end": 80,
+          "expanded_url": "https://twitter.com/mark67358226/status/2080156981525110817",
+          "start": 57,
+          "url": "https://t.co/RyZawntJXQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080547457138823241",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080156981525110817",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "行吧\n但是我不是计算机科学专业也不是男娘也不是大学生也不会用电脑 https://t.co/29D14MxCcv https://t.co/RyZawntJXQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1271,
+        "media_key": "3_2080547445013090305",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN-W4MZaEAELBi8.jpg",
+        "width": 1100
+      },
+      {
+        "height": 1148,
+        "media_key": "3_2080156971928592384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN4zvqzbIAAPvqQ.jpg",
+        "width": 994
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080547445013090305"
+          ]
+        },
+        "author_id": "1748763011140169729",
+        "conversation_id": "2080547457138823241",
+        "created_at": "2026-07-24T06:55:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T07:55:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080547457138823241"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/29D14MxCcv",
+              "end": 56,
+              "expanded_url": "https://x.com/lovelyshuimao/status/2080547457138823241/photo/1",
+              "media_key": "3_2080547445013090305",
+              "start": 33,
+              "url": "https://t.co/29D14MxCcv"
+            },
+            {
+              "display_url": "x.com/mark67358226/s…",
+              "end": 80,
+              "expanded_url": "https://twitter.com/mark67358226/status/2080156981525110817",
+              "start": 57,
+              "url": "https://t.co/RyZawntJXQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080547457138823241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080156981525110817",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "行吧\n但是我不是计算机科学专业也不是男娘也不是大学生也不会用电脑 https://t.co/29D14MxCcv https://t.co/RyZawntJXQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080156971928592384"
+          ]
+        },
+        "author_id": "1519649212736049152",
+        "conversation_id": "2080156981525110817",
+        "created_at": "2026-07-23T05:04:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T06:04:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080156981525110817"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7n138lDnbX",
+              "end": 30,
+              "expanded_url": "https://x.com/Mark67358226/status/2080156981525110817/photo/1",
+              "media_key": "3_2080156971928592384",
+              "start": 7,
+              "url": "https://t.co/7n138lDnbX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080156981525110817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 13492,
+          "like_count": 65,
+          "quote_count": 14,
+          "reply_count": 28,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "連不上喵😢… https://t.co/7n138lDnbX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "🐱神仙水水猫星铃Lumia\n👩🏻‍💻INTJ ♀14 \n🙋🏻‍♀️提問box——————↓\n✍🏻想成為作家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGspkq"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你 4.3km",
+        "name": "lovely水",
+        "pinned_tweet_id": "2075897725733024056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045354329792749568/b7JXuLvu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5490,
+          "following_count": 997,
+          "like_count": 275,
+          "listed_count": 22,
+          "media_count": 3429,
+          "tweet_count": 15476
+        },
+        "url": "https://t.co/EZhyEGspkq",
+        "username": "lovelyshuimao",
+        "verified": true
+      },
+      {
+        "created_at": "2022-04-28T12:06:42.000Z",
+        "description": "生產日期：2010.9.6 | 181cm 57kg | 北京昌平🇨🇳 | 主要繁體🇹🇼 簡體🉑 | 是mtx喵 |日語🇯🇵 朝鮮語🇰🇷也會一點 | LGBT友好 | 留長髮中 | 喜歡漢服、東亞文化和可愛的男孩子（小南梁），歡迎諸君找我聊天口牙！永遠最好的哥哥：@Mak1287267 永遠愛你喵🥹",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 143,
+                "start": 132,
+                "username": "Mak1287267"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "dreamail.cn/send?dm=2225cc…",
+                "end": 23,
+                "expanded_url": "https://dreamail.cn/send?dm=2225ccc1-e4e4-4a1f-98a3-24d13a1d0999",
+                "start": 0,
+                "url": "https://t.co/0zMrtG63tc"
+              }
+            ]
+          }
+        },
+        "id": "1519649212736049152",
+        "location": "琉球國首里城",
+        "name": "Lhn002",
+        "pinned_tweet_id": "2070101728381591818",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020892688674103296/MTlilAxM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1383,
+          "following_count": 1699,
+          "like_count": 33725,
+          "listed_count": 3,
+          "media_count": 427,
+          "tweet_count": 7552
+        },
+        "url": "https://t.co/0zMrtG63tc",
+        "username": "Mark67358226",
+        "verified": true
+      }
+    ]
+  }
+}

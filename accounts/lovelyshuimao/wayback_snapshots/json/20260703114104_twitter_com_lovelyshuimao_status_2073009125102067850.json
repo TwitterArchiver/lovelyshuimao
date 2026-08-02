@@ -1,0 +1,311 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2073009052028919808"
+      ]
+    },
+    "author_id": "1748763011140169729",
+    "conversation_id": "2073009125102067850",
+    "created_at": "2026-07-03T11:41:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T12:41:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073009125102067850"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/yqbHkn4Jr3",
+          "end": 35,
+          "expanded_url": "https://x.com/lovelyshuimao/status/2073009125102067850/video/1",
+          "media_key": "13_2073009052028919808",
+          "start": 12,
+          "url": "https://t.co/yqbHkn4Jr3"
+        },
+        {
+          "display_url": "x.com/zhwevea/status…",
+          "end": 59,
+          "expanded_url": "https://twitter.com/zhwevea/status/1763180847086387365",
+          "start": 36,
+          "url": "https://t.co/F7Kcaqhda4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073009125102067850",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1763180847086387365",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这尼玛啥呀\nX新功能？ https://t.co/yqbHkn4Jr3 https://t.co/F7Kcaqhda4"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 2466,
+        "height": 1920,
+        "media_key": "13_2073009052028919808",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2073009052028919808/img/rAbwKYVak0XuwPMu.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2073009052028919808/vid/avc1/720x1280/cazb03Yzkg_fylhj.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2073009052028919808/vid/avc1/1080x1920/dxt3x_eKLPkAHV25.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2073009052028919808/pl/QfDBZgiFesAbJ2zS.m3u8"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2073009052028919808/vid/avc1/320x568/T-t4XdwZ3WJs-Jg5.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2073009052028919808/vid/avc1/480x852/xyBaZ3zauwRCL2h9.mp4"
+          }
+        ],
+        "width": 1080
+      },
+      {
+        "height": 1155,
+        "media_key": "3_1763180835392659456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GHgToMhbIAAk4bR.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2073009052028919808"
+          ]
+        },
+        "author_id": "1748763011140169729",
+        "conversation_id": "2073009125102067850",
+        "created_at": "2026-07-03T11:41:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T12:41:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073009125102067850"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yqbHkn4Jr3",
+              "end": 35,
+              "expanded_url": "https://x.com/lovelyshuimao/status/2073009125102067850/video/1",
+              "media_key": "13_2073009052028919808",
+              "start": 12,
+              "url": "https://t.co/yqbHkn4Jr3"
+            },
+            {
+              "display_url": "x.com/zhwevea/status…",
+              "end": 59,
+              "expanded_url": "https://twitter.com/zhwevea/status/1763180847086387365",
+              "start": 36,
+              "url": "https://t.co/F7Kcaqhda4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073009125102067850",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1763180847086387365",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这尼玛啥呀\nX新功能？ https://t.co/yqbHkn4Jr3 https://t.co/F7Kcaqhda4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1763180835392659456"
+          ]
+        },
+        "author_id": "1690570637499154432",
+        "conversation_id": "1763180847086387365",
+        "created_at": "2024-02-29T12:34:06.000Z",
+        "edit_controls": {
+          "editable_until": "2024-02-29T13:34:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1763180847086387365"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DBFXdJtItj",
+              "end": 23,
+              "expanded_url": "https://x.com/saonanaa/status/1763180847086387365/photo/1",
+              "media_key": "3_1763180835392659456",
+              "start": 0,
+              "url": "https://t.co/DBFXdJtItj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1763180847086387365",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 36804,
+          "like_count": 312,
+          "quote_count": 5,
+          "reply_count": 41,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/DBFXdJtItj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "🐱水猫星铃Lumia\n👩🏻‍💻INTJ ♀14 \n❤️@zhwevea\n🙋🏻‍♀️提問box——————↓\n✍🏻想要成为哲学作家\n🧠神经性两畸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 28,
+                "username": "zhwevea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGspkq"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你 4.3km",
+        "name": "lovely水",
+        "pinned_tweet_id": "2063974537272910172",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045354329792749568/b7JXuLvu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4999,
+          "following_count": 1005,
+          "like_count": 275,
+          "listed_count": 19,
+          "media_count": 3320,
+          "tweet_count": 14882
+        },
+        "url": "https://t.co/EZhyEGspkq",
+        "username": "lovelyshuimao",
+        "verified": true
+      },
+      {
+        "created_at": "2023-08-13T03:47:17.000Z",
+        "description": "Zhi Wei 👋｜ 想要每天耍乐到处玩 ✈️｜❤想要成为技术大拿 📲💡｜👊：@lovelyshuimao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 39,
+                "username": "lovelyshuimao"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/zhweaa",
+                "end": 23,
+                "expanded_url": "https://github.com/zhweaa",
+                "start": 0,
+                "url": "https://t.co/Lsl0VyAvMl"
+              }
+            ]
+          }
+        },
+        "id": "1690570637499154432",
+        "location": "🌏🌐",
+        "name": "Zhi Wei 🥥🧊",
+        "pinned_tweet_id": "2045171291104403596",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061738719095476224/g1B5Ghy6_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7593,
+          "following_count": 434,
+          "like_count": 33506,
+          "listed_count": 23,
+          "media_count": 2614,
+          "tweet_count": 20521
+        },
+        "url": "https://t.co/Lsl0VyAvMl",
+        "username": "zhwevea",
+        "verified": true
+      }
+    ]
+  }
+}

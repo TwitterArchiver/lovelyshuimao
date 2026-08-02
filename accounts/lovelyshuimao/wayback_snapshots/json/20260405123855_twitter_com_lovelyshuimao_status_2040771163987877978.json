@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2040771128646676480"
+      ]
+    },
+    "author_id": "1748763011140169729",
+    "conversation_id": "2040771163987877978",
+    "created_at": "2026-04-05T12:38:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T13:38:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2040771163987877978"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/7jJFjVW25T",
+          "end": 28,
+          "expanded_url": "https://x.com/lovelyshuimao/status/2040771163987877978/photo/1",
+          "media_key": "3_2040771128646676480",
+          "start": 5,
+          "url": "https://t.co/7jJFjVW25T"
+        },
+        {
+          "display_url": "x.com/lovelyshuimao/…",
+          "end": 52,
+          "expanded_url": "https://twitter.com/lovelyshuimao/status/2018285829081440359",
+          "start": 29,
+          "url": "https://t.co/Alg0xyQWwg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040771163987877978",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018285829081440359",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "再次起飞 https://t.co/7jJFjVW25T https://t.co/Alg0xyQWwg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2040771128646676480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFJGh27bsAAd7lj.jpg",
+        "width": 3072
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2018285781841063936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAJkOanbsAAaXBK.jpg",
+        "width": 4096
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2018285782054981632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAJkObab0AAbwOz.jpg",
+        "width": 4096
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2018285781845168128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAJkOaoaUAAlI_3.jpg",
+        "width": 3072
+      },
+      {
+        "height": 4032,
+        "media_key": "3_2018285781849407489",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAJkOapbAAE__7A.jpg",
+        "width": 3024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040771128646676480"
+          ]
+        },
+        "author_id": "1748763011140169729",
+        "conversation_id": "2040771163987877978",
+        "created_at": "2026-04-05T12:38:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T13:38:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040771163987877978"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7jJFjVW25T",
+              "end": 28,
+              "expanded_url": "https://x.com/lovelyshuimao/status/2040771163987877978/photo/1",
+              "media_key": "3_2040771128646676480",
+              "start": 5,
+              "url": "https://t.co/7jJFjVW25T"
+            },
+            {
+              "display_url": "x.com/lovelyshuimao/…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/lovelyshuimao/status/2018285829081440359",
+              "start": 29,
+              "url": "https://t.co/Alg0xyQWwg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040771163987877978",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018285829081440359",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "再次起飞 https://t.co/7jJFjVW25T https://t.co/Alg0xyQWwg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2018285781841063936",
+            "3_2018285782054981632",
+            "3_2018285781845168128",
+            "3_2018285781849407489"
+          ]
+        },
+        "author_id": "1748763011140169729",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2018285829081440359",
+        "created_at": "2026-02-02T11:30:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T12:30:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018285829081440359"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7wqM1SUHsN",
+              "end": 30,
+              "expanded_url": "https://x.com/lovelyshuimao/status/2018285829081440359/photo/1",
+              "media_key": "3_2018285781841063936",
+              "start": 7,
+              "url": "https://t.co/7wqM1SUHsN"
+            },
+            {
+              "display_url": "pic.x.com/7wqM1SUHsN",
+              "end": 30,
+              "expanded_url": "https://x.com/lovelyshuimao/status/2018285829081440359/photo/1",
+              "media_key": "3_2018285782054981632",
+              "start": 7,
+              "url": "https://t.co/7wqM1SUHsN"
+            },
+            {
+              "display_url": "pic.x.com/7wqM1SUHsN",
+              "end": 30,
+              "expanded_url": "https://x.com/lovelyshuimao/status/2018285829081440359/photo/1",
+              "media_key": "3_2018285781845168128",
+              "start": 7,
+              "url": "https://t.co/7wqM1SUHsN"
+            },
+            {
+              "display_url": "pic.x.com/7wqM1SUHsN",
+              "end": 30,
+              "expanded_url": "https://x.com/lovelyshuimao/status/2018285829081440359/photo/1",
+              "media_key": "3_2018285781849407489",
+              "start": 7,
+              "url": "https://t.co/7wqM1SUHsN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018285829081440359",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 735,
+          "like_count": 11,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "去了大山姆！ https://t.co/7wqM1SUHsN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "INTJ｜永遠14｜提問↓｜❤️@saonanaa",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 16,
+                "username": "saonanaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGspkq"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你2.1km",
+        "name": "lovely水",
+        "pinned_tweet_id": "2038820925995647210",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023831074921738240/frpPaTVT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4858,
+          "following_count": 1025,
+          "like_count": 272,
+          "listed_count": 13,
+          "media_count": 3104,
+          "tweet_count": 13802
+        },
+        "url": "https://t.co/EZhyEGspkq",
+        "username": "lovelyshuimao",
+        "verified": true
+      }
+    ]
+  }
+}

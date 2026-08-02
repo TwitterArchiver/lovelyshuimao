@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1748763011140169729",
+    "conversation_id": "2079306883085816152",
+    "created_at": "2026-07-20T21:09:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T22:09:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079312715479458152"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "326202278",
+          "start": 0,
+          "username": "puggy1989"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079312715479458152",
+    "in_reply_to_user_id": "326202278",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079306984008937870",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@puggy1989 你tm到底是机器人还是真人？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "2079306883085816152",
+        "created_at": "2026-07-20T21:09:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T22:09:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079312715479458152"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "326202278",
+              "start": 0,
+              "username": "puggy1989"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079312715479458152",
+        "in_reply_to_user_id": "326202278",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079306984008937870",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@puggy1989 你tm到底是机器人还是真人？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "326202278",
+        "conversation_id": "2079306883085816152",
+        "created_at": "2026-07-20T20:46:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T21:46:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079306984008937870"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1748763011140169729",
+              "start": 0,
+              "username": "lovelyshuimao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079306984008937870",
+        "in_reply_to_user_id": "1748763011140169729",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079306883085816152",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lovelyshuimao 先别管理发了，尽量找医生或身边人陪你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "🐱神仙水水猫星铃Lumia\n👩🏻‍💻INTJ ♀14 \n🙋🏻‍♀️提問box——————↓\n✍🏻想成為作家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGspkq"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你 4.3km",
+        "name": "lovely水",
+        "pinned_tweet_id": "2075897725733024056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045354329792749568/b7JXuLvu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5252,
+          "following_count": 997,
+          "like_count": 275,
+          "listed_count": 22,
+          "media_count": 3414,
+          "tweet_count": 15345
+        },
+        "url": "https://t.co/EZhyEGspkq",
+        "username": "lovelyshuimao",
+        "verified": true
+      },
+      {
+        "created_at": "2011-06-29T15:02:13.000Z",
+        "description": "银狐VPN，下载即送2天免费，邀请好友送1天，网络不稳定？提前准备，有备无患。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "foxlink.top/invite/DLCOLSES",
+                "end": 23,
+                "expanded_url": "https://foxlink.top/invite/DLCOLSES",
+                "start": 0,
+                "url": "https://t.co/KDje2b0Hsj"
+              }
+            ]
+          }
+        },
+        "id": "326202278",
+        "location": "wolves",
+        "name": "银狐VPN极速出海",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078786428033552384/as1RhuZ7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 114,
+          "like_count": 10,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 175
+        },
+        "url": "https://t.co/KDje2b0Hsj",
+        "username": "puggy1989",
+        "verified": false
+      }
+    ]
+  }
+}

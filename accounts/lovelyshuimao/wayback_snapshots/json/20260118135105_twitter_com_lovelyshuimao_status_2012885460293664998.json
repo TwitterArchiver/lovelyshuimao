@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1748763011140169729",
+    "conversation_id": "2012495714463662120",
+    "created_at": "2026-01-18T13:51:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-18T14:51:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012885460293664998"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1517046727303319553",
+          "start": 0,
+          "username": "EvaCmore"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012885460293664998",
+    "in_reply_to_user_id": "1517046727303319553",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012495714463662120",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@EvaCmore 压死骆驼的一根稻草罢了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "2012495714463662120",
+        "created_at": "2026-01-18T13:51:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T14:51:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012885460293664998"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1517046727303319553",
+              "start": 0,
+              "username": "EvaCmore"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012885460293664998",
+        "in_reply_to_user_id": "1517046727303319553",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012495714463662120",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EvaCmore 压死骆驼的一根稻草罢了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1517046727303319553",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+              "id": "1552291412820893697",
+              "name": "Education Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2012495714463662120",
+        "created_at": "2026-01-17T12:02:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T13:02:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012495714463662120"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2012495714463662120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我们小区又一个学生跳楼自杀了\n\n现在的学生，心理承受能力真的很差，遇到一点问题就想不开。\n\n是什么压倒了这些人？\n\n很多学生早点6:30就得起床去学校，晚上11:00有些还在学习，比所谓的996上班的还累。\n\n我觉得健健康康长大，去发现娃娃的兴趣点，远比这种填鸭式的教育重要。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 24,
+          "impression_count": 56864,
+          "like_count": 289,
+          "quote_count": 9,
+          "reply_count": 210,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "我们小区又一个学生跳楼自杀了\n\n现在的学生，心理承受能力真的很差，遇到一点问题就想不开。\n\n是什么压倒了这些人？\n\n很多学生早点6:30就得起床去学校，晚上11:00有些还在学习，比所谓的996上班的还累。\n\n我觉得健健康康长大，去发现娃娃的兴趣点，远比这种填鸭式的教育重要。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "水貓｜INTJ-t ｜永遠14歲｜提問↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGrRuS"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你2.1km",
+        "name": "lovely水",
+        "pinned_tweet_id": "2009971664344494303",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009519740319092737/8QXu2gXD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3336,
+          "following_count": 1013,
+          "like_count": 260,
+          "listed_count": 10,
+          "media_count": 2726,
+          "tweet_count": 12572
+        },
+        "url": "https://t.co/EZhyEGrRuS",
+        "username": "lovelyshuimao",
+        "verified": true
+      },
+      {
+        "created_at": "2022-04-21T07:45:10.000Z",
+        "description": "项目投研 ｜$SUI生态 ｜灯塔Dao Co-founder \n🌕#Binance 近3亿用户的共同选择，出入金安全，启程Web3，就在币安➤https://t.co/a8RQGKTvmg\n🌱新人首选，安全简单，一站式链上链下交易平台OKX➤https://t.co/1gRpzqgLG0",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 41,
+                "start": 33,
+                "tag": "Binance"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bit.ly/Binance-evatree",
+                "end": 94,
+                "expanded_url": "https://bit.ly/Binance-evatree",
+                "start": 71,
+                "url": "https://t.co/a8RQGKTvmg"
+              },
+              {
+                "display_url": "bit.ly/OKX-EVATREE",
+                "end": 144,
+                "expanded_url": "https://bit.ly/OKX-EVATREE",
+                "start": 121,
+                "url": "https://t.co/1gRpzqgLG0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lhdao.top",
+                "end": 23,
+                "expanded_url": "https://lhdao.top",
+                "start": 0,
+                "url": "https://t.co/fdl11r9FAn"
+              }
+            ]
+          }
+        },
+        "id": "1517046727303319553",
+        "location": "合作TG @treeeva｜灯塔Dao Co-founder",
+        "name": "Eva 树姐👧🏻",
+        "pinned_tweet_id": "1969645869399228553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889218792590598144/MiTg8PuU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64982,
+          "following_count": 2811,
+          "like_count": 11433,
+          "listed_count": 1199,
+          "media_count": 3185,
+          "tweet_count": 36861
+        },
+        "url": "https://t.co/fdl11r9FAn",
+        "username": "EvaCmore",
+        "verified": true
+      }
+    ]
+  }
+}

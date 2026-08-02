@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1748763011140169729",
+    "conversation_id": "2080678752997216341",
+    "created_at": "2026-07-25T07:30:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T08:30:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080918710869717076"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2016414636309131264",
+          "start": 0,
+          "username": "soodok_cn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080918710869717076",
+    "in_reply_to_user_id": "2016414636309131264",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080678752997216341",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@soodok_cn 还说啥呀\n直接站起来对医生破口大骂，说自己有精神病信不信杀了你再自杀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "2080678752997216341",
+        "created_at": "2026-07-25T07:30:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T08:30:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080918710869717076"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2016414636309131264",
+              "start": 0,
+              "username": "soodok_cn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080918710869717076",
+        "in_reply_to_user_id": "2016414636309131264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080678752997216341",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@soodok_cn 还说啥呀\n直接站起来对医生破口大骂，说自己有精神病信不信杀了你再自杀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2016414636309131264",
+        "conversation_id": "2080678752997216341",
+        "created_at": "2026-07-24T15:37:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T16:37:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080678752997216341"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2080678752997216341",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 9458,
+          "like_count": 77,
+          "quote_count": 2,
+          "reply_count": 19,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "医生：哎呦，14岁就这想法不行，这很不正常。孩子爸过来🤔\n爸：怎么办？医生😰\n医生：把他自己的电子产品都收了😊，也不要给他钱😃。而且不能让他再这么幻想了，把他女装全扔了，不要让他一个人呆在房间里。你每天看着他。这个暑假必须每天都限制他🤓，要不然没有机会了😨\n坐在一边的我：…..."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "🐱神仙水水猫星铃Lumia\n👩🏻‍💻INTJ ♀14 \n🙋🏻‍♀️提問box——————↓\n✍🏻想成為作家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGspkq"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你 4.3km",
+        "name": "lovely水",
+        "pinned_tweet_id": "2075897725733024056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045354329792749568/b7JXuLvu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5509,
+          "following_count": 998,
+          "like_count": 275,
+          "listed_count": 22,
+          "media_count": 3434,
+          "tweet_count": 15509
+        },
+        "url": "https://t.co/EZhyEGspkq",
+        "username": "lovelyshuimao",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-28T07:35:05.000Z",
+        "description": "MtF🏳️‍⚧️|无证🍥🍥🍥|2025.11.24出生|vela快应用开发|14岁初中生喵\n1米72\n爱党爱国爱人民，坚持一个中国原则喵∽",
+        "id": "2016414636309131264",
+        "location": "Central Region, Singapore",
+        "name": "soodok🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077328905003036672/mYLDkQH1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 13,
+          "like_count": 52,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 38
+        },
+        "url": "",
+        "username": "soodok_cn",
+        "verified": false
+      }
+    ]
+  }
+}

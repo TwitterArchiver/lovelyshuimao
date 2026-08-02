@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1748763011140169729",
+    "conversation_id": "2007373696235909611",
+    "created_at": "2026-01-03T16:49:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-03T17:49:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007494620348068230"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2000501337143033856",
+          "start": 0,
+          "username": "wangwihd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007494620348068230",
+    "in_reply_to_user_id": "2000501337143033856",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007373696235909611",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wangwihd 部分家庭里的妈妈，爸爸，孩子都是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "2007373696235909611",
+        "created_at": "2026-01-03T16:49:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T17:49:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007494620348068230"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2000501337143033856",
+              "start": 0,
+              "username": "wangwihd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007494620348068230",
+        "in_reply_to_user_id": "2000501337143033856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007373696235909611",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wangwihd 部分家庭里的妈妈，爸爸，孩子都是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2000501337143033856",
+        "conversation_id": "2007373696235909611",
+        "created_at": "2026-01-03T08:49:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T09:49:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007373696235909611"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2007373696235909611",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 4812,
+          "like_count": 80,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我非常受不了的一个设定，团体表面看起来是一片祥和，但是其实大家都心知肚明，这种稳定的现状的维持依靠的是一个人的过度奉献和牺牲，但是团体内众人为了保持这种和和美美一家亲的氛围而把那个人的牺牲当成理所当然，甚至还找出很多理由来辩驳找补，每次看到这种设定我都能气吐血。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "水貓｜ENFP-t ｜永遠8歲｜提問↓ ｜對象@saonanaa｜Vegan｜心理兩畸｜蓝v互fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 23,
+                "username": "saonanaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGrRuS"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你2.1km",
+        "name": "lovely水",
+        "pinned_tweet_id": "2007376785382748406",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002694749883682816/cD8uYfnW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3217,
+          "following_count": 986,
+          "like_count": 254,
+          "listed_count": 9,
+          "media_count": 2596,
+          "tweet_count": 12162
+        },
+        "url": "https://t.co/EZhyEGrRuS",
+        "username": "lovelyshuimao",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-15T09:42:33.000Z",
+        "description": "我还是我，我在等你发现我。https://t.co/0O6j9Dt498 如果有之前的互关刷到我，我没有双取，我只是号没了。IG:vivvvvee",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luna58220",
+                "end": 36,
+                "expanded_url": "https://ngl.link/luna58220",
+                "start": 13,
+                "url": "https://t.co/0O6j9Dt498"
+              }
+            ]
+          }
+        },
+        "id": "2000501337143033856",
+        "name": "三千年前（原号After 17已被盗）",
+        "pinned_tweet_id": "2000919471280808410",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004587319089876992/FUnOBmaD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 832,
+          "following_count": 112,
+          "like_count": 1453,
+          "listed_count": 2,
+          "media_count": 48,
+          "tweet_count": 759
+        },
+        "username": "wangwihd",
+        "verified": false
+      }
+    ]
+  }
+}

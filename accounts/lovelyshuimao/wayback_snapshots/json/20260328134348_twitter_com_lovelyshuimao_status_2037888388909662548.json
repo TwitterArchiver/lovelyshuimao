@@ -1,0 +1,338 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1748763011140169729",
+    "conversation_id": "2037777181603197437",
+    "created_at": "2026-03-28T13:43:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T14:43:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037888388909662548"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1968187553695272960",
+          "start": 0,
+          "username": "EzraRan_"
+        },
+        {
+          "end": 23,
+          "id": "1756246342676979713",
+          "start": 10,
+          "username": "shungleemain"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037888388909662548",
+    "in_reply_to_user_id": "1968187553695272960",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037813725219180895",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@EzraRan_ @shungleemain 所以发什么了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2037813718294429697",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEfEx61bgAEG7LM.jpg",
+        "width": 1284
+      },
+      {
+        "height": 2047,
+        "media_key": "3_2037813720173469696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEfEyB1bYAAnYZW.jpg",
+        "width": 931
+      },
+      {
+        "height": 2047,
+        "media_key": "3_2037813722396389377",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEfEyKHacAEX6NS.jpg",
+        "width": 931
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "2037777181603197437",
+        "created_at": "2026-03-28T13:43:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T14:43:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037888388909662548"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1968187553695272960",
+              "start": 0,
+              "username": "EzraRan_"
+            },
+            {
+              "end": 23,
+              "id": "1756246342676979713",
+              "start": 10,
+              "username": "shungleemain"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037888388909662548",
+        "in_reply_to_user_id": "1968187553695272960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037813725219180895",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EzraRan_ @shungleemain 所以发什么了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037813718294429697",
+            "3_2037813720173469696",
+            "3_2037813722396389377"
+          ]
+        },
+        "author_id": "1968187553695272960",
+        "conversation_id": "2037777181603197437",
+        "created_at": "2026-03-28T08:47:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T09:47:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037813725219180895"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jjCn6UYL8i",
+              "end": 105,
+              "expanded_url": "https://x.com/EzraRan_/status/2037813725219180895/photo/1",
+              "media_key": "3_2037813718294429697",
+              "start": 82,
+              "url": "https://t.co/jjCn6UYL8i"
+            },
+            {
+              "display_url": "pic.x.com/jjCn6UYL8i",
+              "end": 105,
+              "expanded_url": "https://x.com/EzraRan_/status/2037813725219180895/photo/1",
+              "media_key": "3_2037813720173469696",
+              "start": 82,
+              "url": "https://t.co/jjCn6UYL8i"
+            },
+            {
+              "display_url": "pic.x.com/jjCn6UYL8i",
+              "end": 105,
+              "expanded_url": "https://x.com/EzraRan_/status/2037813725219180895/photo/1",
+              "media_key": "3_2037813722396389377",
+              "start": 82,
+              "url": "https://t.co/jjCn6UYL8i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037813725219180895",
+        "in_reply_to_user_id": "1968187553695272960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 7512,
+          "like_count": 222,
+          "quote_count": 7,
+          "reply_count": 18,
+          "retweet_count": 32
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037812202401652982",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "补个后续：\n原作者推特账号已注销（非封号），在小红书滑跪了，大概率被警告了，你国真是幽默，自己拿人家的图跑AI侵权发，反手把人家弄成这样，怎么原作者欠你共军的啊？ https://t.co/jjCn6UYL8i"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "INTJ-t ｜永遠14歲｜提問↓｜❤️@saonanaa",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 20,
+                "username": "saonanaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGspkq"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你2.1km",
+        "name": "lovely水",
+        "pinned_tweet_id": "2037392664845537335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023831074921738240/frpPaTVT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4883,
+          "following_count": 1020,
+          "like_count": 270,
+          "listed_count": 13,
+          "media_count": 3086,
+          "tweet_count": 13701
+        },
+        "url": "https://t.co/EZhyEGspkq",
+        "username": "lovelyshuimao",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-17T05:37:44.000Z",
+        "description": "Become who you are.\n社會自由。レン エジュラ\n「我希望我的生活與選擇，能夠由我本身來決定，而不取決於任何外界的力量。我希望成為我自己的意志，而不是別人意志的工具；希望成為主體，而不是他人行為的對象；我希望我的行為出於我自己的理性、有意識之目的，而不是出於外來的原因。」\n–以賽亞•柏林《兩種自由概念》",
+        "id": "1968187553695272960",
+        "location": "先有獨立人格之國民，\n才有強大安寧之國家。",
+        "name": "漣 絵樹羅",
+        "pinned_tweet_id": "1982437804266442854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993195957132181506/QEgIPinV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 952,
+          "following_count": 2255,
+          "like_count": 30285,
+          "listed_count": 5,
+          "media_count": 1284,
+          "tweet_count": 9589
+        },
+        "username": "EzraRan_",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-10T09:19:19.000Z",
+        "description": "斷糖順直男，性別認同真是男 | \n超級好詭秘 @bolckAshley\n可愛的Mercy @MercyWithU\n可愛的蜜獾 @kittymi030\n超級好詭秘 @Akinoyo_desu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 23,
+                "username": "bolckAshley"
+              },
+              {
+                "end": 56,
+                "start": 45,
+                "username": "MercyWithU"
+              },
+              {
+                "end": 74,
+                "start": 63,
+                "username": "kittymi030"
+              },
+              {
+                "end": 94,
+                "start": 81,
+                "username": "Akinoyo_desu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/shungleemain",
+                "end": 23,
+                "expanded_url": "https://t.me/shungleemain",
+                "start": 0,
+                "url": "https://t.co/ZWd7sZXvOA"
+              }
+            ]
+          }
+        },
+        "id": "1756246342676979713",
+        "location": "來看生力麵的TG→",
+        "name": "聖米格爾生力麵",
+        "pinned_tweet_id": "2020337956779962419",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019219421693374464/PaBT0amc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2300,
+          "following_count": 610,
+          "like_count": 2791,
+          "listed_count": 7,
+          "media_count": 594,
+          "tweet_count": 6732
+        },
+        "url": "https://t.co/ZWd7sZXvOA",
+        "username": "shungleemain",
+        "verified": false
+      }
+    ]
+  }
+}

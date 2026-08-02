@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1748763011140169729",
+    "conversation_id": "2013752961911173483",
+    "created_at": "2026-01-21T03:07:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-21T04:07:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013810583582241036"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1649102667627794432",
+          "start": 0,
+          "username": "coldin04"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013810583582241036",
+    "in_reply_to_user_id": "1649102667627794432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013807230244831313",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@coldin04 平板可以打开应用市场搜，浏览器我只当一个谷歌搜素用了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "2013752961911173483",
+        "created_at": "2026-01-21T03:07:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T04:07:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013810583582241036"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1649102667627794432",
+              "start": 0,
+              "username": "coldin04"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013810583582241036",
+        "in_reply_to_user_id": "1649102667627794432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013807230244831313",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@coldin04 平板可以打开应用市场搜，浏览器我只当一个谷歌搜素用了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1649102667627794432",
+        "conversation_id": "2013752961911173483",
+        "created_at": "2026-01-21T02:53:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T03:53:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013807230244831313"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1748763011140169729",
+              "start": 0,
+              "username": "lovelyshuimao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013807230244831313",
+        "in_reply_to_user_id": "1748763011140169729",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013752961911173483",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lovelyshuimao 他还知道独享号关键词，说明还挺有头脑的。\n\n但说实话电脑有实体键盘，跨应用交互做的也比移动设备好，我是00后，还是更喜欢电脑。\n\n另外我确实不太理解，为什么会说电脑下东西麻烦呢？那么多浏览器嗅探插件和下载工具，不应该比平板方便？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "水貓｜INTJ-t ｜永遠14歲｜提問↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGrRuS"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你2.1km",
+        "name": "lovely水",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009519740319092737/8QXu2gXD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3431,
+          "following_count": 1017,
+          "like_count": 260,
+          "listed_count": 10,
+          "media_count": 2745,
+          "tweet_count": 12698
+        },
+        "url": "https://t.co/EZhyEGrRuS",
+        "username": "lovelyshuimao",
+        "verified": true
+      },
+      {
+        "created_at": "2023-04-20T17:28:32.000Z",
+        "description": "一个热爱编程与分享的计算机萌新 \n有很多胡乱想法，爱从产品角度思考\n软件/产品/开发/灵感 碎碎念 | 🔗 https://t.co/8ba3sBiS6o",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "co1d.in",
+                "end": 77,
+                "expanded_url": "http://co1d.in",
+                "start": 54,
+                "url": "https://t.co/8ba3sBiS6o"
+              }
+            ]
+          }
+        },
+        "id": "1649102667627794432",
+        "location": "127.0.0.1",
+        "name": "酷丁同学",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013251797234651136/oZg0wtUI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 271,
+          "like_count": 704,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 303
+        },
+        "username": "coldin04",
+        "verified": true
+      }
+    ]
+  }
+}

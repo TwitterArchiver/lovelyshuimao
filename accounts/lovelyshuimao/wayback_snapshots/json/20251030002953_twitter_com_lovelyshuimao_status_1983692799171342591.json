@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1748763011140169729",
+    "conversation_id": "1983692799171342591",
+    "created_at": "2025-10-30T00:29:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-30T01:29:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983692799171342591"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1748763011140169729",
+          "start": 3,
+          "username": "lovelyshuimao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983692799171342591",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 27
+    },
+    "referenced_tweets": [
+      {
+        "id": "1937015966917161056",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lovelyshuimao: 我发现中国的禁od已经禁魔怔了，已经误入歧途了\n可以说国家想的是：这个药o的人那么多，我把它划入处方/二类，这样子就没人买了\n\n实际上是：这个药变成二类/处方买不着了，那我换一个非二类的继续吃，用更大的剂量实现一样的效果（反而更容易出事）…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "1983692799171342591",
+        "created_at": "2025-10-30T00:29:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-30T01:29:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983692799171342591"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1748763011140169729",
+              "start": 3,
+              "username": "lovelyshuimao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983692799171342591",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 27
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937015966917161056",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lovelyshuimao: 我发现中国的禁od已经禁魔怔了，已经误入歧途了\n可以说国家想的是：这个药o的人那么多，我把它划入处方/二类，这样子就没人买了\n\n实际上是：这个药变成二类/处方买不着了，那我换一个非二类的继续吃，用更大的剂量实现一样的效果（反而更容易出事）…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "1937015966917161056",
+        "created_at": "2025-06-23T05:12:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-23T06:11:26.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1937015621860110723",
+          "1937015966917161056"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1937015966917161056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 24666,
+          "like_count": 409,
+          "quote_count": 7,
+          "reply_count": 30,
+          "retweet_count": 27
+        },
+        "reply_settings": "everyone",
+        "text": "我发现中国的禁od已经禁魔怔了，已经误入歧途了\n可以说国家想的是：这个药o的人那么多，我把它划入处方/二类，这样子就没人买了\n\n实际上是：这个药变成二类/处方买不着了，那我换一个非二类的继续吃，用更大的剂量实现一样的效果（反而更容易出事）\n\n然后就是禁一个换一个，根本禁不完，正常人还买药难"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "ENFP-t ｜永远14｜是豪猫不o不圆不割不死｜对象@saonanaa｜雙相＆抑鬱｜家長不管黨｜提問箱鏈接↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 27,
+                "username": "saonanaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%B0%B4%E6%B…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E6%B0%B4%E6%B0%B493927",
+                "start": 0,
+                "url": "https://t.co/qmQkMr2BJx"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你2.1km",
+        "name": "lovely水水猫🍕",
+        "pinned_tweet_id": "1983629097923440976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967556205590831104/87BEnlAx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2421,
+          "following_count": 1116,
+          "like_count": 242,
+          "listed_count": 7,
+          "media_count": 2170,
+          "tweet_count": 10841
+        },
+        "url": "https://t.co/qmQkMr2BJx",
+        "username": "lovelyshuimao",
+        "verified": true
+      }
+    ]
+  }
+}

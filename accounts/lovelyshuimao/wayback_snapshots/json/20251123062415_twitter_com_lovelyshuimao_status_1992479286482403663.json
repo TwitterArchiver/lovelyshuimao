@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1748763011140169729",
+    "conversation_id": "1992413496705962438",
+    "created_at": "2025-11-23T06:24:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-23T07:24:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992479286482403663"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1859121470733250560",
+          "start": 0,
+          "username": "naitang166"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992479286482403663",
+    "in_reply_to_user_id": "1859121470733250560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1992413496705962438",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@naitang166 断章取义很正常，我已经不在乎了，一些人还不仅是断章取义，而是拼凑我的话相当于捏造新内容\n所以我现在觉得我怎么说是我的事，解读的人想怎么读都行"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1992412942210682880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6Z5A8Jb0AA-1u_.jpg",
+        "width": 947
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "1992413496705962438",
+        "created_at": "2025-11-23T06:24:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T07:24:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992479286482403663"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1859121470733250560",
+              "start": 0,
+              "username": "naitang166"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992479286482403663",
+        "in_reply_to_user_id": "1859121470733250560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1992413496705962438",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@naitang166 断章取义很正常，我已经不在乎了，一些人还不仅是断章取义，而是拼凑我的话相当于捏造新内容\n所以我现在觉得我怎么说是我的事，解读的人想怎么读都行"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1992412942210682880"
+          ]
+        },
+        "author_id": "1859121470733250560",
+        "conversation_id": "1992413496705962438",
+        "created_at": "2025-11-23T02:02:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-23T03:02:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1992413496705962438"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BEpffSzZNW",
+              "end": 84,
+              "expanded_url": "https://x.com/naitang166/status/1992413496705962438/photo/1",
+              "media_key": "3_1992412942210682880",
+              "start": 61,
+              "url": "https://t.co/BEpffSzZNW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992413496705962438",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 169,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "早上好，你对我进行断章取义和网暴，希望你能道歉，我在说不知道这件事不应该被嘲笑，你在说“不喜欢别人教”这是明显的断章取义 https://t.co/BEpffSzZNW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "水貓🍕｜ENFP-t ｜永遠14｜是豪貓不o不圓不殘不死｜對象@saonanaa｜素食主義者｜提問箱鏈接↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 31,
+                "username": "saonanaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%B0%B4%E6%B…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E6%B0%B4%E6%B0%B493927",
+                "start": 0,
+                "url": "https://t.co/qmQkMr39z5"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你2.1km",
+        "name": "lovely水",
+        "pinned_tweet_id": "1990800664876958201",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967556205590831104/87BEnlAx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2685,
+          "following_count": 1116,
+          "like_count": 245,
+          "listed_count": 7,
+          "media_count": 2295,
+          "tweet_count": 11236
+        },
+        "url": "https://t.co/qmQkMr39z5",
+        "username": "lovelyshuimao",
+        "verified": true
+      },
+      {
+        "created_at": "2024-11-20T06:28:25.000Z",
+        "description": "对不起@cyansoul2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 3,
+                "username": "cyansoul2"
+              }
+            ]
+          }
+        },
+        "id": "1859121470733250560",
+        "name": "奶糖",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890068653993046016/jAaB6T2v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 497,
+          "following_count": 393,
+          "like_count": 621,
+          "listed_count": 2,
+          "media_count": 46,
+          "tweet_count": 1413
+        },
+        "username": "naitang166",
+        "verified": false
+      }
+    ]
+  }
+}

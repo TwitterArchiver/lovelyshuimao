@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1748763011140169729",
+    "conversation_id": "2025583800500261216",
+    "created_at": "2026-02-23T07:37:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-23T08:37:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025837359963787729"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1843595245013159936",
+          "start": 0,
+          "username": "Cyrene_Philia"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025837359963787729",
+    "in_reply_to_user_id": "1843595245013159936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025642528838689060",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cyrene_Philia 只是因為影响到父親的威严罢了\n3块钱还是分3次一元充的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "2025583800500261216",
+        "created_at": "2026-02-23T07:37:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T08:37:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025837359963787729"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1843595245013159936",
+              "start": 0,
+              "username": "Cyrene_Philia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025837359963787729",
+        "in_reply_to_user_id": "1843595245013159936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025642528838689060",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cyrene_Philia 只是因為影响到父親的威严罢了\n3块钱还是分3次一元充的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843595245013159936",
+        "conversation_id": "2025583800500261216",
+        "created_at": "2026-02-22T18:43:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T19:43:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025642528838689060"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1748763011140169729",
+              "start": 0,
+              "username": "lovelyshuimao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025642528838689060",
+        "in_reply_to_user_id": "1748763011140169729",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14772,
+          "like_count": 133,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025583800500261216",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lovelyshuimao 真不是我说，这父亲自己给儿子的零花钱那没得喷，别人群抢到的钱还要这么哈气，他的人生恐怕也就价值3元了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "INTJ-t ｜永遠14歲｜提問↓｜❤️@saonanaa",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 20,
+                "username": "saonanaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGspkq"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你2.1km",
+        "name": "lovely水",
+        "pinned_tweet_id": "2024429136534786207",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023831074921738240/frpPaTVT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4820,
+          "following_count": 1044,
+          "like_count": 264,
+          "listed_count": 13,
+          "media_count": 2949,
+          "tweet_count": 13142
+        },
+        "url": "https://t.co/EZhyEGspkq",
+        "username": "lovelyshuimao",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-08T10:12:33.000Z",
+        "description": "你怎么这么可爱呀～让我捏捏你的脸。诶呀好软呀～我对你这样可爱的小朋友，真是一点抵抗力都没有呢～",
+        "id": "1843595245013159936",
+        "location": "哀丽秘榭",
+        "name": "爱莲说",
+        "pinned_tweet_id": "1849883265584574471",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025023828351746048/VDSpw5Uq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 47,
+          "like_count": 29,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 268
+        },
+        "username": "Cyrene_Philia",
+        "verified": false
+      }
+    ]
+  }
+}

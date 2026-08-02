@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1748763011140169729",
+    "conversation_id": "1984968562524799363",
+    "created_at": "2025-11-02T14:58:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-02T15:58:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984998565677289863"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1614687093250461696",
+          "start": 0,
+          "username": "luoyuha9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984998565677289863",
+    "in_reply_to_user_id": "1614687093250461696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984968562524799363",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@luoyuha9 说是两性畸形也行"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "1984968562524799363",
+        "created_at": "2025-11-02T14:58:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T15:58:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984998565677289863"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1614687093250461696",
+              "start": 0,
+              "username": "luoyuha9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984998565677289863",
+        "in_reply_to_user_id": "1614687093250461696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984968562524799363",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luoyuha9 说是两性畸形也行"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1614687093250461696",
+        "conversation_id": "1984968562524799363",
+        "created_at": "2025-11-02T12:59:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-02T13:59:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1984968562524799363"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1984968562524799363",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2892,
+          "like_count": 54,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "疑似改性别后最严重后遗症出现\n——亲友皆知🌚\n因为去保险那里变更性别\n所以那里的柜员知道这件事情\n然后最近很多亲戚朋友都问我妈\n“你大儿子怎么样了”？🤡\n所以我妈怀疑事情已经传开了…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "ENFP-t ｜永远14｜是豪猫不o不圆不割不死｜对象@saonanaa｜雙相＆抑鬱｜家長不管黨｜提問箱鏈接↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 27,
+                "username": "saonanaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%B0%B4%E6%B…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E6%B0%B4%E6%B0%B493927",
+                "start": 0,
+                "url": "https://t.co/qmQkMr2BJx"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你2.1km",
+        "name": "lovely水水猫🍕",
+        "pinned_tweet_id": "1983629097923440976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967556205590831104/87BEnlAx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2438,
+          "following_count": 1119,
+          "like_count": 245,
+          "listed_count": 7,
+          "media_count": 2198,
+          "tweet_count": 10928
+        },
+        "url": "https://t.co/qmQkMr2BJx",
+        "username": "lovelyshuimao",
+        "verified": true
+      },
+      {
+        "created_at": "2023-01-15T18:13:09.000Z",
+        "description": "一名普通（transgender）已术跨女（male to female）会发一些日常及有的没的/梦想成为pilot/感谢各位看官打赏/小红书账号Starla/热爱旅行、探险、骑行/好友门槛 99 /I have a lot on my shoulders too. So I will not fail",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "facebook.com/profile.php?id…",
+                "end": 23,
+                "expanded_url": "https://www.facebook.com/profile.php?id=61555757532580",
+                "start": 0,
+                "url": "https://t.co/rbhTCR60nZ"
+              }
+            ]
+          }
+        },
+        "id": "1614687093250461696",
+        "location": "nowhere",
+        "name": "Selen（空花）🏳️‍⚧️",
+        "pinned_tweet_id": "1952890278395699200",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1676574195361390592/59Zcyz1p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18471,
+          "following_count": 297,
+          "like_count": 522,
+          "listed_count": 67,
+          "media_count": 728,
+          "tweet_count": 1912
+        },
+        "url": "https://t.co/rbhTCR60nZ",
+        "username": "luoyuha9",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1748763011140169729",
+    "conversation_id": "1985316740109320393",
+    "created_at": "2025-11-04T17:58:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-04T18:58:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1985768675715268728"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1552069424043085824",
+          "start": 0,
+          "username": "tirito1154"
+        },
+        {
+          "end": 22,
+          "id": "1639816523190763521",
+          "start": 12,
+          "username": "ggdxfulan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985768675715268728",
+    "in_reply_to_user_id": "1552069424043085824",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1985749600649822701",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tirito1154 @ggdxfulan 纯净水里加点盐也可以..（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "1985316740109320393",
+        "created_at": "2025-11-04T17:58:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-04T18:58:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985768675715268728"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1552069424043085824",
+              "start": 0,
+              "username": "tirito1154"
+            },
+            {
+              "end": 22,
+              "id": "1639816523190763521",
+              "start": 12,
+              "username": "ggdxfulan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985768675715268728",
+        "in_reply_to_user_id": "1552069424043085824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985749600649822701",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tirito1154 @ggdxfulan 纯净水里加点盐也可以..（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552069424043085824",
+        "conversation_id": "1985316740109320393",
+        "created_at": "2025-11-04T16:42:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-04T17:42:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1985749600649822701"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1748763011140169729",
+              "start": 0,
+              "username": "lovelyshuimao"
+            },
+            {
+              "end": 25,
+              "id": "1639816523190763521",
+              "start": 15,
+              "username": "ggdxfulan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985749600649822701",
+        "in_reply_to_user_id": "1748763011140169729",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1985645464973406692",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lovelyshuimao @ggdxfulan 那岂不是要买很多？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "ENFP-t ｜永遠14｜是豪貓不o不圓不殘不死｜對象@saonanaa｜雙相＆抑鬱｜家長不管黨｜提問箱鏈接↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 27,
+                "username": "saonanaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%B0%B4%E6%B…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E6%B0%B4%E6%B0%B493927",
+                "start": 0,
+                "url": "https://t.co/qmQkMr2BJx"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你2.1km",
+        "name": "lovely水水猫🍕",
+        "pinned_tweet_id": "1983629097923440976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967556205590831104/87BEnlAx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2482,
+          "following_count": 1121,
+          "like_count": 245,
+          "listed_count": 7,
+          "media_count": 2220,
+          "tweet_count": 11011
+        },
+        "url": "https://t.co/qmQkMr2BJx",
+        "username": "lovelyshuimao",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-26T23:13:24.000Z",
+        "description": "老公@baigeinblzil",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "baigeinblzil"
+              }
+            ]
+          }
+        },
+        "id": "1552069424043085824",
+        "location": "广东省, 深圳市 龙岗区",
+        "name": "桉瑶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972147554545770496/70xeayuL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 174,
+          "following_count": 274,
+          "like_count": 4353,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 703
+        },
+        "username": "tirito1154",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-26T02:28:25.000Z",
+        "description": "我有乳头悲伤综合症，不要80我😭\n\n自用机场(可免费体验100G)https://t.co/mjn9begzO4",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "nodetele.com/#/register?cod…",
+                "end": 56,
+                "expanded_url": "https://nodetele.com/#/register?code=ffyNPohz",
+                "start": 33,
+                "url": "https://t.co/mjn9begzO4"
+              }
+            ]
+          }
+        },
+        "id": "1639816523190763521",
+        "location": "距离你2km",
+        "name": "芙兰大渣渣",
+        "pinned_tweet_id": "1972915977861177561",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985663894770368512/DuNqkSEl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12622,
+          "following_count": 470,
+          "like_count": 29648,
+          "listed_count": 21,
+          "media_count": 3101,
+          "tweet_count": 10465
+        },
+        "username": "ggdxfulan",
+        "verified": false
+      }
+    ]
+  }
+}

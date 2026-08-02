@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074510345033703424"
+      ]
+    },
+    "author_id": "1748763011140169729",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "10041893638",
+          "name": "Apple - Siri"
+        }
+      }
+    ],
+    "conversation_id": "2074510354856755571",
+    "created_at": "2026-07-07T15:06:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T16:06:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074510354856755571"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Do8gxrUsOx",
+          "end": 45,
+          "expanded_url": "https://x.com/lovelyshuimao/status/2074510354856755571/photo/1",
+          "media_key": "3_2074510345033703424",
+          "start": 22,
+          "url": "https://t.co/Do8gxrUsOx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074510354856755571",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "The new Siri AI voice https://t.co/Do8gxrUsOx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2211,
+        "media_key": "3_2074510345033703424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMokKuabYAAN_JK.jpg",
+        "width": 1319
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074510345033703424"
+          ]
+        },
+        "author_id": "1748763011140169729",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10041893638",
+              "name": "Apple - Siri"
+            }
+          }
+        ],
+        "conversation_id": "2074510354856755571",
+        "created_at": "2026-07-07T15:06:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T16:06:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074510354856755571"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Do8gxrUsOx",
+              "end": 45,
+              "expanded_url": "https://x.com/lovelyshuimao/status/2074510354856755571/photo/1",
+              "media_key": "3_2074510345033703424",
+              "start": 22,
+              "url": "https://t.co/Do8gxrUsOx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074510354856755571",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "The new Siri AI voice https://t.co/Do8gxrUsOx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "🐱水猫星铃Lumia\n👩🏻‍💻INTJ ♀14 \n❤️@zhwevea\n🙋🏻‍♀️提問box——————↓\n✍🏻想要成为哲学作家\n🧠神经性两畸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 28,
+                "username": "zhwevea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGspkq"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你 4.3km",
+        "name": "lovely水",
+        "pinned_tweet_id": "2063974537272910172",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045354329792749568/b7JXuLvu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5031,
+          "following_count": 996,
+          "like_count": 275,
+          "listed_count": 20,
+          "media_count": 3342,
+          "tweet_count": 14981
+        },
+        "url": "https://t.co/EZhyEGspkq",
+        "username": "lovelyshuimao",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2037377417833271296"
+      ]
+    },
+    "author_id": "1748763011140169729",
+    "conversation_id": "2037377427186528572",
+    "created_at": "2026-03-27T03:53:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T04:53:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2037377427186528572"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/98DyjV0hfi",
+          "end": 43,
+          "expanded_url": "https://x.com/lovelyshuimao/status/2037377427186528572/photo/1",
+          "media_key": "3_2037377417833271296",
+          "start": 20,
+          "url": "https://t.co/98DyjV0hfi"
+        },
+        {
+          "display_url": "x.com/lovelyshuimao/…",
+          "end": 67,
+          "expanded_url": "https://twitter.com/lovelyshuimao/status/2009051621188358212",
+          "start": 44,
+          "url": "https://t.co/KuCCEgUTTl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037377427186528572",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009051621188358212",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "从现在开始保持全身裸露！\n（其实不用） https://t.co/98DyjV0hfi https://t.co/KuCCEgUTTl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2247,
+        "media_key": "3_2037377417833271296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEY3949a0AA_DFu.jpg",
+        "width": 1685
+      },
+      {
+        "height": 2247,
+        "media_key": "3_2009051611134603264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-GVy8EasAAsXUl.jpg",
+        "width": 1685
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037377417833271296"
+          ]
+        },
+        "author_id": "1748763011140169729",
+        "conversation_id": "2037377427186528572",
+        "created_at": "2026-03-27T03:53:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T04:53:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037377427186528572"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/98DyjV0hfi",
+              "end": 43,
+              "expanded_url": "https://x.com/lovelyshuimao/status/2037377427186528572/photo/1",
+              "media_key": "3_2037377417833271296",
+              "start": 20,
+              "url": "https://t.co/98DyjV0hfi"
+            },
+            {
+              "display_url": "x.com/lovelyshuimao/…",
+              "end": 67,
+              "expanded_url": "https://twitter.com/lovelyshuimao/status/2009051621188358212",
+              "start": 44,
+              "url": "https://t.co/KuCCEgUTTl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037377427186528572",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009051621188358212",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "从现在开始保持全身裸露！\n（其实不用） https://t.co/98DyjV0hfi https://t.co/KuCCEgUTTl"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2009051611134603264"
+          ]
+        },
+        "author_id": "1748763011140169729",
+        "conversation_id": "2009051621188358212",
+        "created_at": "2026-01-07T23:56:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T00:56:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009051621188358212"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sTC4w5zrNP",
+              "end": 36,
+              "expanded_url": "https://x.com/lovelyshuimao/status/2009051621188358212/photo/1",
+              "media_key": "3_2009051611134603264",
+              "start": 13,
+              "url": "https://t.co/sTC4w5zrNP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009051621188358212",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 9898,
+          "like_count": 46,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "从现在开始保持无线电静默 https://t.co/sTC4w5zrNP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "INTJ-t ｜永遠14歲｜提問↓｜❤️@saonanaa",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 20,
+                "username": "saonanaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGspkq"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你2.1km",
+        "name": "lovely水",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023831074921738240/frpPaTVT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4867,
+          "following_count": 1027,
+          "like_count": 269,
+          "listed_count": 13,
+          "media_count": 3077,
+          "tweet_count": 13648
+        },
+        "url": "https://t.co/EZhyEGspkq",
+        "username": "lovelyshuimao",
+        "verified": true
+      }
+    ]
+  }
+}

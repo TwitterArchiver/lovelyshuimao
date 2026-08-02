@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1748763011140169729",
+    "conversation_id": "2000142695923396632",
+    "created_at": "2025-12-14T09:55:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-14T10:55:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2000142695923396632"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/stawanda22266/…",
+          "end": 83,
+          "expanded_url": "https://twitter.com/stawanda22266/status/2000088241119404335",
+          "start": 60,
+          "url": "https://t.co/UUdeyzqSUK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000142695923396632",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000088241119404335",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我们职校一小姑凉拉我去当台球助教，说不需要玩的多厉害，只需要陪别人打台球就行，说一个月就能换水果手机，这行业这么暴利？ https://t.co/UUdeyzqSUK"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "2000142695923396632",
+        "created_at": "2025-12-14T09:55:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T10:55:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000142695923396632"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/stawanda22266/…",
+              "end": 83,
+              "expanded_url": "https://twitter.com/stawanda22266/status/2000088241119404335",
+              "start": 60,
+              "url": "https://t.co/UUdeyzqSUK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000142695923396632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000088241119404335",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我们职校一小姑凉拉我去当台球助教，说不需要玩的多厉害，只需要陪别人打台球就行，说一个月就能换水果手机，这行业这么暴利？ https://t.co/UUdeyzqSUK"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1872317831217549312",
+        "conversation_id": "2000088241119404335",
+        "created_at": "2025-12-14T06:19:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T07:19:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000088241119404335"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2000088241119404335",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1602,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 26,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我们职校一小姑凉拉我去当台球助教，说不需要玩的多厉害，只需要陪别人打台球就行，说一个月就能换水果手机，这行业这么暴利？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "水貓🍕｜ENFP-t ｜永遠14｜對象@saonanaa｜素食主義者｜提問箱鏈接↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 19,
+                "username": "saonanaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%B0%B4%E6%B…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E6%B0%B4%E6%B0%B493927",
+                "start": 0,
+                "url": "https://t.co/qmQkMr39z5"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你2.1km",
+        "name": "lovely水",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998279626989449216/6L9PHOSs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3025,
+          "following_count": 1246,
+          "like_count": 251,
+          "listed_count": 8,
+          "media_count": 2447,
+          "tweet_count": 11803
+        },
+        "url": "https://t.co/qmQkMr39z5",
+        "username": "lovelyshuimao",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-26T16:25:44.000Z",
+        "description": "一个普通的美少女，分享碎碎念，这星球不可能有比我更好色的美少女了（如果有 那那..那当我没说）",
+        "id": "1872317831217549312",
+        "name": "悦悦爱吃甜（发疯版！）",
+        "pinned_tweet_id": "1998938333767152140",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888386205630545920/0iWR-abB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40457,
+          "following_count": 0,
+          "like_count": 421,
+          "listed_count": 58,
+          "media_count": 289,
+          "tweet_count": 1231
+        },
+        "username": "STawanda22266",
+        "verified": false
+      }
+    ]
+  }
+}

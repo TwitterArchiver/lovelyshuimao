@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1748763011140169729",
+    "conversation_id": "2015051518630576631",
+    "created_at": "2026-02-03T03:57:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-03T04:57:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018534240758186192"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2250210022",
+          "start": 0,
+          "username": "stelios199948"
+        },
+        {
+          "end": 24,
+          "id": "1605245047590780928",
+          "start": 15,
+          "username": "djx00919"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018534240758186192",
+    "in_reply_to_user_id": "2250210022",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015216830994878590",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@stelios199948 @djx00919 劈叉做美甲💅"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "2015051518630576631",
+        "created_at": "2026-02-03T03:57:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T04:57:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018534240758186192"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2250210022",
+              "start": 0,
+              "username": "stelios199948"
+            },
+            {
+              "end": 24,
+              "id": "1605245047590780928",
+              "start": 15,
+              "username": "djx00919"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018534240758186192",
+        "in_reply_to_user_id": "2250210022",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015216830994878590",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@stelios199948 @djx00919 劈叉做美甲💅"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2250210022",
+        "conversation_id": "2015051518630576631",
+        "created_at": "2026-01-25T00:15:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T01:15:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015216830994878590"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1605245047590780928",
+              "start": 0,
+              "username": "djx00919"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015216830994878590",
+        "in_reply_to_user_id": "1605245047590780928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 56,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015216208464011675",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@djx00919 我习惯了，感觉蛮方便的，不过容易劈是真难受"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "水貓｜INTJ-t ｜永遠14歲｜提問↓｜❤️@saonanaa",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 23,
+                "username": "saonanaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGspkq"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你2.1km",
+        "name": "lovely水",
+        "pinned_tweet_id": "2014692818175025393",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009519740319092737/8QXu2gXD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3566,
+          "following_count": 1000,
+          "like_count": 263,
+          "listed_count": 10,
+          "media_count": 2821,
+          "tweet_count": 12900
+        },
+        "url": "https://t.co/EZhyEGspkq",
+        "username": "lovelyshuimao",
+        "verified": true
+      },
+      {
+        "created_at": "2013-12-29T15:21:44.000Z",
+        "description": "2009.2|177cm|60Kg|\n喜欢文学，尤其是现实主义\nl出柜|家长求神拜鬼中|自由|平等|独立|反抗|",
+        "id": "2250210022",
+        "name": "农药味🍥软糖",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989601523433926656/ZlzySb6O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 179,
+          "following_count": 264,
+          "like_count": 167,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 213
+        },
+        "username": "stelios199948",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-20T16:53:45.000Z",
+        "description": "2009/8/19男\n推特经常炸掉喵，梯子也没问题，根本不知道什么原因。想聊天的话可以私信喵 多和我互fo~\n||||||烟鬼 od 约炮 卖淫 有主的请远离我",
+        "id": "1605245047590780928",
+        "location": "北京",
+        "name": "uosɐɾ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1784751371708944384/zJKEhXae_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 801,
+          "following_count": 2114,
+          "like_count": 143071,
+          "listed_count": 1,
+          "media_count": 213,
+          "tweet_count": 7251
+        },
+        "username": "djx00919",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,412 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1748763011140169729",
+    "conversation_id": "2000211082393297021",
+    "created_at": "2025-12-15T03:44:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-15T04:44:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000411497210769704"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1971589088055791616",
+          "start": 0,
+          "username": "Democracy114867"
+        },
+        {
+          "end": 30,
+          "id": "1678117449508753408",
+          "start": 17,
+          "username": "Chunliang2nd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000411497210769704",
+    "in_reply_to_user_id": "1971589088055791616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000211082393297021",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Democracy114867 @Chunliang2nd GPT5.2已经说不出这种话了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2000211055738490880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8ItW40aEAAdRNk.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2000211055746957312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8ItW42bQAA3_WR.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2000211055738568705",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8ItW40bQAEPSz1.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "2000211082393297021",
+        "created_at": "2025-12-15T03:44:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T04:44:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000411497210769704"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1971589088055791616",
+              "start": 0,
+              "username": "Democracy114867"
+            },
+            {
+              "end": 30,
+              "id": "1678117449508753408",
+              "start": 17,
+              "username": "Chunliang2nd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000411497210769704",
+        "in_reply_to_user_id": "1971589088055791616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000211082393297021",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Democracy114867 @Chunliang2nd GPT5.2已经说不出这种话了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2000211055738490880",
+            "3_2000211055746957312",
+            "3_2000211055738568705"
+          ]
+        },
+        "author_id": "1971589088055791616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2000211082393297021",
+        "created_at": "2025-12-14T14:27:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T15:27:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000211082393297021"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xVkdI1Yit0",
+              "end": 66,
+              "expanded_url": "https://x.com/Democracy114867/status/2000211082393297021/photo/1",
+              "media_key": "3_2000211055738490880",
+              "start": 43,
+              "url": "https://t.co/xVkdI1Yit0"
+            },
+            {
+              "display_url": "pic.x.com/xVkdI1Yit0",
+              "end": 66,
+              "expanded_url": "https://x.com/Democracy114867/status/2000211082393297021/photo/1",
+              "media_key": "3_2000211055746957312",
+              "start": 43,
+              "url": "https://t.co/xVkdI1Yit0"
+            },
+            {
+              "display_url": "pic.x.com/xVkdI1Yit0",
+              "end": 66,
+              "expanded_url": "https://x.com/Democracy114867/status/2000211082393297021/photo/1",
+              "media_key": "3_2000211055738568705",
+              "start": 43,
+              "url": "https://t.co/xVkdI1Yit0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000211082393297021",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1078,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "在限制中 在无奈里 但仍对世界保持好奇 那你已经站在未来那一边了—— ChatGPT https://t.co/xVkdI1Yit0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "水貓🍕｜ENFP-t ｜永遠14｜對象@saonanaa｜素食主義者｜提問箱鏈接↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 19,
+                "username": "saonanaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%B0%B4%E6%B…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E6%B0%B4%E6%B0%B493927",
+                "start": 0,
+                "url": "https://t.co/qmQkMr39z5"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你2.1km",
+        "name": "lovely水",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998279626989449216/6L9PHOSs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3017,
+          "following_count": 1243,
+          "like_count": 252,
+          "listed_count": 8,
+          "media_count": 2460,
+          "tweet_count": 11833
+        },
+        "url": "https://t.co/qmQkMr39z5",
+        "username": "lovelyshuimao",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-26T14:54:15.000Z",
+        "description": "不太喜欢走回头路😎互fo中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "gov.cn",
+                "end": 23,
+                "expanded_url": "https://www.gov.cn",
+                "start": 0,
+                "url": "https://t.co/tqSgMVgYbF"
+              }
+            ]
+          }
+        },
+        "id": "1971589088055791616",
+        "location": "M78星云 光之国",
+        "name": "anon改革开放总工程师",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000212815085527041/vPFCqyP__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 85,
+          "like_count": 563,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 588
+        },
+        "url": "https://t.co/tqSgMVgYbF",
+        "username": "Democracy114867",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-09T19:02:54.000Z",
+        "description": "我说老大哥，我刚刚在电幕旁边写日记的时候，你偷看了对吧？(错乱 ADHD/AS Bipolar Chaos-Evil 恐直🏳️‍⚧️Enby🍥HRT2023.6.9 半吊子geek ❄️NixOS Android SukiSU 在押中HKer🇭🇰 贝贝珈毒唯 厌食/ED 维生素不足 @liminfin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 151,
+                "start": 142,
+                "username": "liminfin"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ouka.ro",
+                "end": 23,
+                "expanded_url": "http://ouka.ro",
+                "start": 0,
+                "url": "https://t.co/wpEdl7tMRJ"
+              }
+            ]
+          }
+        },
+        "id": "1678117449508753408",
+        "location": "乡北茶舍",
+        "name": "虚拟粘同学会梦到一般通过赛博李颖吗☆",
+        "pinned_tweet_id": "1845803069252260212",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907089784285392896/lOGGYplb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1392,
+          "following_count": 1456,
+          "like_count": 14141,
+          "listed_count": 12,
+          "media_count": 983,
+          "tweet_count": 21395
+        },
+        "url": "https://t.co/wpEdl7tMRJ",
+        "username": "Chunliang2nd",
+        "verified": false
+      }
+    ]
+  }
+}

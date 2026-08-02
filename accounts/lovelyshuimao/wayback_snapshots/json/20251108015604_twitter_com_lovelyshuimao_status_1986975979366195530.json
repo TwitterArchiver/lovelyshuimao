@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1748763011140169729",
+    "conversation_id": "1986718248818364569",
+    "created_at": "2025-11-08T01:56:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-08T02:56:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986975979366195530"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1663165254610874369",
+          "start": 0,
+          "username": "IC_7809_3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986975979366195530",
+    "in_reply_to_user_id": "1663165254610874369",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986974249815568720",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@IC_7809_3 那样子男生去无障碍可能会被误解"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "1986718248818364569",
+        "created_at": "2025-11-08T01:56:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T02:56:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986975979366195530"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1663165254610874369",
+              "start": 0,
+              "username": "IC_7809_3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986975979366195530",
+        "in_reply_to_user_id": "1663165254610874369",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986974249815568720",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IC_7809_3 那样子男生去无障碍可能会被误解"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663165254610874369",
+        "conversation_id": "1986718248818364569",
+        "created_at": "2025-11-08T01:49:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T02:49:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986974249815568720"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1748763011140169729",
+              "start": 0,
+              "username": "lovelyshuimao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986974249815568720",
+        "in_reply_to_user_id": "1748763011140169729",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986718248818364569",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lovelyshuimao ？有怎麼了嗎"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "ENFP-t ｜永遠14｜是豪貓不o不圓不殘不死｜對象@saonanaa｜素食主义者｜提問箱鏈接↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 27,
+                "username": "saonanaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%B0%B4%E6%B…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E6%B0%B4%E6%B0%B493927",
+                "start": 0,
+                "url": "https://t.co/qmQkMr2BJx"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你2.1km",
+        "name": "lovely水(水猫)🍕",
+        "pinned_tweet_id": "1986963132401787188",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967556205590831104/87BEnlAx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2562,
+          "following_count": 1124,
+          "like_count": 245,
+          "listed_count": 7,
+          "media_count": 2246,
+          "tweet_count": 11101
+        },
+        "url": "https://t.co/qmQkMr2BJx",
+        "username": "lovelyshuimao",
+        "verified": true
+      },
+      {
+        "created_at": "2023-05-29T12:48:09.000Z",
+        "description": "❤️🇹🇼🇷🇺🇩🇪🇮🇱🇬🇧🇸🇪🇯🇵🇸🇦🇰🇷丨𝐏𝐫𝐨-𝐑𝐎𝐂/𝐂𝐡𝐢𝐧𝐞𝐬𝐞 𝐍𝐚𝐭𝐢𝐨𝐧𝐚𝐥𝐢𝐬𝐦丨👑丨8964丨⛿ @IC_7809_4 丨🤍 #GooglePixel 丨PRSK/ES/BGD/AK丨✚✚🇹🇼",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 84,
+                "start": 72,
+                "tag": "GooglePixel"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 68,
+                "start": 58,
+                "username": "IC_7809_4"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "music.youtube.com/playlist?list=…",
+                "end": 23,
+                "expanded_url": "https://music.youtube.com/playlist?list=PLexOXP2khjflI6ERUrocHjTEVQSO0XVg2&si=_hnilRlESC7ujPgh",
+                "start": 0,
+                "url": "https://t.co/VKXmttWsTs"
+              }
+            ]
+          }
+        },
+        "id": "1663165254610874369",
+        "location": "Taipei, Republic of China 🇹🇼",
+        "name": "𝐈𝐂🇹🇼沉迷プロセカ、Bandori&あんさんぶるスターズ中",
+        "pinned_tweet_id": "1986670390039748706",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974477791623290880/z17t5FEf_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1465,
+          "following_count": 7500,
+          "like_count": 92664,
+          "listed_count": 11,
+          "media_count": 6101,
+          "tweet_count": 72241
+        },
+        "url": "https://t.co/VKXmttWsTs",
+        "username": "IC_7809_3",
+        "verified": false
+      }
+    ]
+  }
+}

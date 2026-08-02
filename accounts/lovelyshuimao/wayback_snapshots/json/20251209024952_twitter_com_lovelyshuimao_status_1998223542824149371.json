@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1748763011140169729",
+    "conversation_id": "1997944606475035135",
+    "created_at": "2025-12-09T02:49:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-09T03:49:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998223542824149371"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "224613511",
+          "start": 0,
+          "username": "wangzhendan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998223542824149371",
+    "in_reply_to_user_id": "224613511",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998223291824189724",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wangzhendan 没懂，发卡银行的问题？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "1997944606475035135",
+        "created_at": "2025-12-09T02:49:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-09T03:49:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998223542824149371"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "224613511",
+              "start": 0,
+              "username": "wangzhendan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998223542824149371",
+        "in_reply_to_user_id": "224613511",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998223291824189724",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wangzhendan 没懂，发卡银行的问题？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "224613511",
+        "conversation_id": "1997944606475035135",
+        "created_at": "2025-12-09T02:48:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-09T03:48:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998223291824189724"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1748763011140169729",
+              "start": 0,
+              "username": "lovelyshuimao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998223291824189724",
+        "in_reply_to_user_id": "1748763011140169729",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997981142977495366",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lovelyshuimao 銀行卡和那張卡的地址綁定的。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "水貓🍕｜ENFP-t ｜永遠14｜對象@saonanaa｜素食主義者｜提問箱鏈接↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 19,
+                "username": "saonanaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%B0%B4%E6%B…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E6%B0%B4%E6%B0%B493927",
+                "start": 0,
+                "url": "https://t.co/qmQkMr39z5"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你2.1km",
+        "name": "lovely水",
+        "pinned_tweet_id": "1998185595714363621",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996464884062818304/V790rprR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3009,
+          "following_count": 1258,
+          "like_count": 251,
+          "listed_count": 7,
+          "media_count": 2393,
+          "tweet_count": 11672
+        },
+        "url": "https://t.co/qmQkMr39z5",
+        "username": "lovelyshuimao",
+        "verified": false
+      },
+      {
+        "created_at": "2010-12-09T12:36:17.000Z",
+        "description": "🤖 AI obsessions \n🎹 Piano improvisations \n😂 Jokes of questionable taste  \n💵 Money it is somtimes\n😏 Beautiful things & Ugly truths",
+        "id": "224613511",
+        "location": "Europa",
+        "name": "Max Wang @AI",
+        "pinned_tweet_id": "1995449958867054758",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995449346611896320/HvA0z5re_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 478,
+          "following_count": 568,
+          "like_count": 1671,
+          "listed_count": 29,
+          "media_count": 363,
+          "tweet_count": 4819
+        },
+        "username": "wangzhendan",
+        "verified": true
+      }
+    ]
+  }
+}

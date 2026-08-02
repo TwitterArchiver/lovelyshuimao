@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1748763011140169729",
+    "conversation_id": "2056352263254290858",
+    "created_at": "2026-05-19T12:29:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T13:29:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056713850729460211"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1940161714194194432",
+          "start": 0,
+          "username": "bluedevil112358"
+        },
+        {
+          "end": 28,
+          "id": "1535701819812462600",
+          "start": 17,
+          "username": "Kenntnis22"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056713850729460211",
+    "in_reply_to_user_id": "1940161714194194432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056369773756473569",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bluedevil112358 @Kenntnis22 你不知道40度有多热，泡澡都没有40度，还游泳，夏天游泳池一般就20度，40度动两下就热得冒汗，过段时间脱水死了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "2056352263254290858",
+        "created_at": "2026-05-19T12:29:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T13:29:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056713850729460211"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1940161714194194432",
+              "start": 0,
+              "username": "bluedevil112358"
+            },
+            {
+              "end": 28,
+              "id": "1535701819812462600",
+              "start": 17,
+              "username": "Kenntnis22"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056713850729460211",
+        "in_reply_to_user_id": "1940161714194194432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056369773756473569",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bluedevil112358 @Kenntnis22 你不知道40度有多热，泡澡都没有40度，还游泳，夏天游泳池一般就20度，40度动两下就热得冒汗，过段时间脱水死了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1940161714194194432",
+        "conversation_id": "2056352263254290858",
+        "created_at": "2026-05-18T13:42:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T14:42:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056369773756473569"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1535701819812462600",
+              "start": 0,
+              "username": "Kenntnis22"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056369773756473569",
+        "in_reply_to_user_id": "1535701819812462600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 194864,
+          "like_count": 94,
+          "quote_count": 0,
+          "reply_count": 124,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056352263254290858",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kenntnis22 去澡堂泡个澡，或者大夏天去海边游个泳，看看会死吗？当然，绝大多数人，没能力完成1公里游泳。四十度水，肯定死不了的。澡堂都40度以上。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "｜水猫星铃Lumia\n｜INTJ 永遠14\n｜❤️@saonanaa\n｜提問——————————↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 25,
+                "username": "saonanaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGspkq"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你2.1km",
+        "name": "lovely水",
+        "pinned_tweet_id": "2049024358027547007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045354329792749568/b7JXuLvu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4899,
+          "following_count": 1020,
+          "like_count": 274,
+          "listed_count": 15,
+          "media_count": 3213,
+          "tweet_count": 14299
+        },
+        "url": "https://t.co/EZhyEGspkq",
+        "username": "lovelyshuimao",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-01T21:33:14.000Z",
+        "description": "",
+        "id": "1940161714194194432",
+        "name": "blue devil",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940162312880398336/8uav3mWM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 278,
+          "like_count": 13,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 302
+        },
+        "username": "bluedevil112358",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-11T19:13:51.000Z",
+        "description": "本号在练号中，拟为社会运动储备宣传阵地。\n\n练号阶段所发布内容主要为转发，信息准确性请自行核实。\n\n谢谢！",
+        "id": "1535701819812462600",
+        "location": "London",
+        "name": "Iggie🚁",
+        "pinned_tweet_id": "2055422375483801829",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989830498378485760/_J7xn0Hs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55050,
+          "following_count": 438,
+          "like_count": 57996,
+          "listed_count": 265,
+          "media_count": 12459,
+          "tweet_count": 19092
+        },
+        "username": "Kenntnis22",
+        "verified": true
+      }
+    ]
+  }
+}

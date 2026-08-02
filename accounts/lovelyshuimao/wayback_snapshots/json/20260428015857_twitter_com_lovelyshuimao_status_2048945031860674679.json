@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2048845580928212992"
+      ],
+      "media_source_tweet_id": [
+        "2048845591724347804"
+      ]
+    },
+    "author_id": "1748763011140169729",
+    "conversation_id": "2048945031860674679",
+    "created_at": "2026-04-28T01:58:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T02:58:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048945031860674679"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2840236608",
+          "start": 3,
+          "username": "MilkSU_Official"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/z27JbhMlvo",
+          "end": 58,
+          "expanded_url": "https://x.com/MilkSU_Official/status/2048845591724347804/photo/1",
+          "media_key": "3_2048845580928212992",
+          "start": 35,
+          "url": "https://t.co/z27JbhMlvo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048945031860674679",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048845591724347804",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MilkSU_Official: 豆包好像那个黄毛雌堕成男娘 https://t.co/z27JbhMlvo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2048845580928212992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG72M1ra4AAuVNJ.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048845580928212992"
+          ],
+          "media_source_tweet_id": [
+            "2048845591724347804"
+          ]
+        },
+        "author_id": "1748763011140169729",
+        "conversation_id": "2048945031860674679",
+        "created_at": "2026-04-28T01:58:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T02:58:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048945031860674679"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2840236608",
+              "start": 3,
+              "username": "MilkSU_Official"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/z27JbhMlvo",
+              "end": 58,
+              "expanded_url": "https://x.com/MilkSU_Official/status/2048845591724347804/photo/1",
+              "media_key": "3_2048845580928212992",
+              "start": 35,
+              "url": "https://t.co/z27JbhMlvo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048945031860674679",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048845591724347804",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MilkSU_Official: 豆包好像那个黄毛雌堕成男娘 https://t.co/z27JbhMlvo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048845580928212992"
+          ]
+        },
+        "author_id": "2840236608",
+        "conversation_id": "2048845591724347804",
+        "created_at": "2026-04-27T19:23:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T20:23:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048845591724347804"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/z27JbhMlvo",
+              "end": 37,
+              "expanded_url": "https://x.com/MilkSU_Official/status/2048845591724347804/photo/1",
+              "media_key": "3_2048845580928212992",
+              "start": 14,
+              "url": "https://t.co/z27JbhMlvo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048845591724347804",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 5487,
+          "like_count": 105,
+          "quote_count": 3,
+          "reply_count": 4,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "豆包好像那个黄毛雌堕成男娘 https://t.co/z27JbhMlvo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "｜水猫星铃Lumia\n｜INTJ  永遠14\n｜❤️ZhiWei @saonanaa\n｜提問——————————↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 33,
+                "username": "saonanaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGspkq"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你2.1km",
+        "name": "lovely水",
+        "pinned_tweet_id": "2046127996961161240",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045354329792749568/b7JXuLvu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4879,
+          "following_count": 1024,
+          "like_count": 273,
+          "listed_count": 13,
+          "media_count": 3183,
+          "tweet_count": 14111
+        },
+        "url": "https://t.co/EZhyEGspkq",
+        "username": "lovelyshuimao",
+        "verified": false
+      },
+      {
+        "created_at": "2014-10-04T14:35:52.000Z",
+        "description": "🥛🐈‍⬛🪼🍥 System Security Hunter. Python/Go/Rust. MSCS at CU Boulder 🔜 UGA France. Freelancer. ヨルシカ ◂Ⓘ▸ maimaiDX. Enjoy #SliverWolf",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 128,
+                "start": 117,
+                "tag": "SliverWolf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "milksu.org",
+                "end": 23,
+                "expanded_url": "https://milksu.org",
+                "start": 0,
+                "url": "https://t.co/zEul7V62fI"
+              }
+            ]
+          }
+        },
+        "id": "2840236608",
+        "location": "Lyon, France",
+        "name": "MilkSU",
+        "pinned_tweet_id": "2006414820044857694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025718358868631552/yzEh8Qr0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4764,
+          "following_count": 2561,
+          "like_count": 39113,
+          "listed_count": 19,
+          "media_count": 1492,
+          "tweet_count": 12941
+        },
+        "url": "https://t.co/zEul7V62fI",
+        "username": "MilkSU_Official",
+        "verified": true
+      }
+    ]
+  }
+}

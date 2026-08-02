@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1748763011140169729",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026378521",
+          "name": "Google "
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1395474411180892160",
+          "name": "Google brand conversation"
+        }
+      }
+    ],
+    "conversation_id": "2079010947600191701",
+    "created_at": "2026-07-20T15:07:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T16:07:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079221577678516443"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "347656321",
+          "start": 0,
+          "username": "xianyuxiaoxiami"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079221577678516443",
+    "in_reply_to_user_id": "347656321",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079010947600191701",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xianyuxiaoxiami 事实上我觉得要找真人的最新的经验的话，那还真的得是小红书\nAI给的信息源可能比较老，维基的话是百科很多没有，Google也不行，而且有很多虚假的内内容\n而小红书至少能保证是真人+新内容"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          }
+        ],
+        "conversation_id": "2079010947600191701",
+        "created_at": "2026-07-20T15:07:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T16:07:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079221577678516443"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "347656321",
+              "start": 0,
+              "username": "xianyuxiaoxiami"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079221577678516443",
+        "in_reply_to_user_id": "347656321",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079010947600191701",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xianyuxiaoxiami 事实上我觉得要找真人的最新的经验的话，那还真的得是小红书\nAI给的信息源可能比较老，维基的话是百科很多没有，Google也不行，而且有很多虚假的内内容\n而小红书至少能保证是真人+新内容"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "347656321",
+        "conversation_id": "2079010947600191701",
+        "created_at": "2026-07-20T01:10:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T02:10:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079010947600191701"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079010947600191701",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 30095,
+          "like_count": 248,
+          "quote_count": 3,
+          "reply_count": 73,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我发现一个现象，\n\n很多中国年轻人来到日本后，\n\n还是把小红书当维基百科用。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "🐱神仙水水猫星铃Lumia\n👩🏻‍💻INTJ ♀14 \n🙋🏻‍♀️提問box——————↓\n✍🏻想成為作家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGspkq"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你 4.3km",
+        "name": "lovely水",
+        "pinned_tweet_id": "2075897725733024056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045354329792749568/b7JXuLvu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5250,
+          "following_count": 997,
+          "like_count": 275,
+          "listed_count": 22,
+          "media_count": 3412,
+          "tweet_count": 15323
+        },
+        "url": "https://t.co/EZhyEGspkq",
+        "username": "lovelyshuimao",
+        "verified": true
+      },
+      {
+        "created_at": "2011-08-03T04:15:18.000Z",
+        "description": "一个爱分享的人。长期居住日本🗾偶尔回国。\n兴趣广泛，话题随机，想到什么聊什么。",
+        "id": "347656321",
+        "location": "Japan",
+        "name": "闲鱼小虾米",
+        "pinned_tweet_id": "2078683574187040828",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054202488212037633/9OfqKrxO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4266,
+          "following_count": 894,
+          "like_count": 1826,
+          "listed_count": 13,
+          "media_count": 248,
+          "tweet_count": 1161
+        },
+        "url": "",
+        "username": "xianyuxiaoxiami",
+        "verified": true
+      }
+    ]
+  }
+}

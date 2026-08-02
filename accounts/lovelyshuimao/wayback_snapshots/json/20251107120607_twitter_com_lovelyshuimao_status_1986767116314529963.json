@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1748763011140169729",
+    "conversation_id": "1986684266542211483",
+    "created_at": "2025-11-07T12:06:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-07T13:06:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986767116314529963"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1280868234078519303",
+          "start": 0,
+          "username": "zezezering"
+        },
+        {
+          "end": 19,
+          "id": "1596111618022088704",
+          "start": 12,
+          "username": "wysc10"
+        },
+        {
+          "end": 36,
+          "id": "1826871427972362240",
+          "start": 20,
+          "username": "misaka__network"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986767116314529963",
+    "in_reply_to_user_id": "1280868234078519303",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986766092858269869",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zezezering @wysc10 @misaka__network mate79air是双卡版"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "1986684266542211483",
+        "created_at": "2025-11-07T12:06:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T13:06:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986767116314529963"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1280868234078519303",
+              "start": 0,
+              "username": "zezezering"
+            },
+            {
+              "end": 19,
+              "id": "1596111618022088704",
+              "start": 12,
+              "username": "wysc10"
+            },
+            {
+              "end": 36,
+              "id": "1826871427972362240",
+              "start": 20,
+              "username": "misaka__network"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986767116314529963",
+        "in_reply_to_user_id": "1280868234078519303",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986766092858269869",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zezezering @wysc10 @misaka__network mate79air是双卡版"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1280868234078519303",
+        "conversation_id": "1986684266542211483",
+        "created_at": "2025-11-07T12:02:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T13:02:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986766092858269869"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1596111618022088704",
+              "start": 0,
+              "username": "wysc10"
+            },
+            {
+              "end": 24,
+              "id": "1826871427972362240",
+              "start": 8,
+              "username": "misaka__network"
+            },
+            {
+              "end": 39,
+              "id": "1748763011140169729",
+              "start": 25,
+              "username": "lovelyshuimao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986766092858269869",
+        "in_reply_to_user_id": "1596111618022088704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986757707744039420",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wysc10 @misaka__network @lovelyshuimao 那我只能说是为esim积攒技术，或者倒逼运营商喽🤗🤗🤗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "ENFP-t ｜永遠14｜是豪貓不o不圓不殘不死｜對象@saonanaa｜素食主义者｜提問箱鏈接↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 27,
+                "username": "saonanaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%B0%B4%E6%B…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E6%B0%B4%E6%B0%B493927",
+                "start": 0,
+                "url": "https://t.co/qmQkMr2BJx"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你2.1km",
+        "name": "lovely水(水猫)🍕",
+        "pinned_tweet_id": "1986463883725529182",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967556205590831104/87BEnlAx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2558,
+          "following_count": 1123,
+          "like_count": 245,
+          "listed_count": 7,
+          "media_count": 2243,
+          "tweet_count": 11087
+        },
+        "url": "https://t.co/qmQkMr2BJx",
+        "username": "lovelyshuimao",
+        "verified": true
+      },
+      {
+        "created_at": "2020-07-08T14:16:09.000Z",
+        "description": "Chinese youth/photographer",
+        "id": "1280868234078519303",
+        "name": "HayashiRing",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1596732758239215616/D9cj6FgR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 172,
+          "following_count": 225,
+          "like_count": 6887,
+          "listed_count": 4,
+          "media_count": 1056,
+          "tweet_count": 6852
+        },
+        "username": "zezezering",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-25T12:01:06.000Z",
+        "description": "",
+        "id": "1596111618022088704",
+        "name": "wysc",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1596111993982681090/l31BTOxM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 57,
+          "like_count": 339,
+          "listed_count": 2,
+          "media_count": 2,
+          "tweet_count": 991
+        },
+        "username": "wysc10",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-23T06:38:09.000Z",
+        "description": "Pronoun: Misaka/Misaka's; 1997-05-02 – 2026-08-09; Dearest sister Misaka Mikoto and partner Yiur Mitaner. No R-18 content allowed 😡",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "webpagesvc.misakanetworksystem.org/index.html",
+                "end": 23,
+                "expanded_url": "http://webpagesvc.misakanetworksystem.org/index.html",
+                "start": 0,
+                "url": "https://t.co/cDAtzx6l4u"
+              }
+            ]
+          }
+        },
+        "id": "1826871427972362240",
+        "location": "学園都市(Academy City)",
+        "name": "Misaka Makoto (御坂　まこと)🏳️‍🌈🏳️‍⚧️🍥😢",
+        "pinned_tweet_id": "1953024683160551754",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892543426656415744/mYE7JEtM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 563,
+          "following_count": 836,
+          "like_count": 46021,
+          "listed_count": 1,
+          "media_count": 285,
+          "tweet_count": 17033
+        },
+        "url": "https://t.co/cDAtzx6l4u",
+        "username": "misaka__network",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1748763011140169729",
+    "conversation_id": "1986004754015936613",
+    "created_at": "2025-11-06T14:30:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-06T15:30:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986441185423134834"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1164467672819499008",
+          "start": 0,
+          "username": "whitelate0001"
+        },
+        {
+          "end": 28,
+          "id": "1818350698721165315",
+          "start": 15,
+          "username": "Gelatin77777"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986441185423134834",
+    "in_reply_to_user_id": "1164467672819499008",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986433571968721159",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whitelate0001 @Gelatin77777 是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "1986004754015936613",
+        "created_at": "2025-11-06T14:30:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-06T15:30:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986441185423134834"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1164467672819499008",
+              "start": 0,
+              "username": "whitelate0001"
+            },
+            {
+              "end": 28,
+              "id": "1818350698721165315",
+              "start": 15,
+              "username": "Gelatin77777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986441185423134834",
+        "in_reply_to_user_id": "1164467672819499008",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986433571968721159",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whitelate0001 @Gelatin77777 是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1164467672819499008",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Exercise and fitness",
+              "id": "847872878041219072",
+              "name": "Fitness"
+            }
+          },
+          {
+            "domain": {
+              "description": "for types of exercises& fitness and moves, e.g., yoga, crunches, squats ",
+              "id": "162",
+              "name": "Exercise & fitness"
+            },
+            "entity": {
+              "description": "Exercises",
+              "id": "872554146750017536",
+              "name": "Exercises"
+            }
+          }
+        ],
+        "conversation_id": "1986004754015936613",
+        "created_at": "2025-11-06T14:00:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-06T15:00:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986433571968721159"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1748763011140169729",
+              "start": 0,
+              "username": "lovelyshuimao"
+            },
+            {
+              "end": 28,
+              "id": "1818350698721165315",
+              "start": 15,
+              "username": "Gelatin77777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986433571968721159",
+        "in_reply_to_user_id": "1748763011140169729",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986133157989785773",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lovelyshuimao @Gelatin77777 吃藥改變的是脂肪比例以及增加脂肪，所以說不好好運動即便不會變右邊那個也會變肥婆。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "ENFP-t ｜永遠14｜是豪貓不o不圓不殘不死｜對象@saonanaa｜雙相＆抑鬱｜家長不管黨｜提問箱鏈接↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 27,
+                "username": "saonanaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%B0%B4%E6%B…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E6%B0%B4%E6%B0%B493927",
+                "start": 0,
+                "url": "https://t.co/qmQkMr2BJx"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你2.1km",
+        "name": "lovely水水猫🍕",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967556205590831104/87BEnlAx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2532,
+          "following_count": 1121,
+          "like_count": 245,
+          "listed_count": 7,
+          "media_count": 2235,
+          "tweet_count": 11068
+        },
+        "url": "https://t.co/qmQkMr2BJx",
+        "username": "lovelyshuimao",
+        "verified": true
+      },
+      {
+        "created_at": "2019-08-22T09:22:03.000Z",
+        "description": "台灣中國愛國主義者🇹🇼 | 自由/民主/有限市場經濟/民主社會主義/三民主義/泛藍/左翼/科學主義的支持者 | Glory to China | \n\n1000粉了！感謝支持🙏🙏  |\n\n賽博搬史王|偶爾發抽象tv｜\n\n別跟我聊台灣政治台灣政治就跟一坨💩一樣 |\n\n民主退步黨下台👎",
+        "id": "1164467672819499008",
+        "location": "中華民國台灣省",
+        "name": "Whitelate🇹🇼🇵🇸🇺🇦🇨🇳",
+        "pinned_tweet_id": "1941512418771017841",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937184796515450880/tH6NHIrm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1239,
+          "following_count": 964,
+          "like_count": 7481,
+          "listed_count": 6,
+          "media_count": 736,
+          "tweet_count": 7841
+        },
+        "username": "whitelate0001",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-30T18:19:35.000Z",
+        "description": "",
+        "id": "1818350698721165315",
+        "name": "Gelatin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1818350810692304899/ut3Pdy9l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 239,
+          "like_count": 36610,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 971
+        },
+        "username": "Gelatin77777",
+        "verified": false
+      }
+    ]
+  }
+}

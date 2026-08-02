@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2022264511714279424",
+        "3_2022264511718371328"
+      ]
+    },
+    "author_id": "1748763011140169729",
+    "conversation_id": "2022264519687606584",
+    "created_at": "2026-02-13T11:00:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T12:00:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2022264519687606584"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/jJqO5L8Y6R",
+          "end": 41,
+          "expanded_url": "https://x.com/lovelyshuimao/status/2022264519687606584/photo/1",
+          "media_key": "3_2022264511714279424",
+          "start": 18,
+          "url": "https://t.co/jJqO5L8Y6R"
+        },
+        {
+          "display_url": "pic.x.com/jJqO5L8Y6R",
+          "end": 41,
+          "expanded_url": "https://x.com/lovelyshuimao/status/2022264519687606584/photo/1",
+          "media_key": "3_2022264511718371328",
+          "start": 18,
+          "url": "https://t.co/jJqO5L8Y6R"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022264519687606584",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "两者有什么区别？\n验证为什么不同步 https://t.co/jJqO5L8Y6R"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1320,
+        "media_key": "3_2022264511714279424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBCG2-abwAA-zN4.jpg",
+        "width": 1320
+      },
+      {
+        "height": 794,
+        "media_key": "3_2022264511718371328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBCG2-baMAAgZQw.jpg",
+        "width": 1092
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022264511714279424",
+            "3_2022264511718371328"
+          ]
+        },
+        "author_id": "1748763011140169729",
+        "conversation_id": "2022264519687606584",
+        "created_at": "2026-02-13T11:00:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T12:00:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022264519687606584"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jJqO5L8Y6R",
+              "end": 41,
+              "expanded_url": "https://x.com/lovelyshuimao/status/2022264519687606584/photo/1",
+              "media_key": "3_2022264511714279424",
+              "start": 18,
+              "url": "https://t.co/jJqO5L8Y6R"
+            },
+            {
+              "display_url": "pic.x.com/jJqO5L8Y6R",
+              "end": 41,
+              "expanded_url": "https://x.com/lovelyshuimao/status/2022264519687606584/photo/1",
+              "media_key": "3_2022264511718371328",
+              "start": 18,
+              "url": "https://t.co/jJqO5L8Y6R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022264519687606584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "两者有什么区别？\n验证为什么不同步 https://t.co/jJqO5L8Y6R"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "INTJ-t ｜永遠14歲｜提問↓｜❤️@saonanaa",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 20,
+                "username": "saonanaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGspkq"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你2.1km",
+        "name": "神仙水水猫🍕🧊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022012338992558081/ZKVb9XnG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3617,
+          "following_count": 992,
+          "like_count": 263,
+          "listed_count": 11,
+          "media_count": 2868,
+          "tweet_count": 13012
+        },
+        "url": "https://t.co/EZhyEGspkq",
+        "username": "lovelyshuimao",
+        "verified": true
+      }
+    ]
+  }
+}

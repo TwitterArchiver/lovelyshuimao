@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1748763011140169729",
+    "conversation_id": "2027579356282057193",
+    "created_at": "2026-02-28T08:27:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-28T09:27:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027661892001661162"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1857403433105625088",
+          "start": 0,
+          "username": "HutaoLover715"
+        },
+        {
+          "end": 23,
+          "id": "1552213521253150720",
+          "start": 15,
+          "username": "acnekot"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027661892001661162",
+    "in_reply_to_user_id": "1857403433105625088",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027655765608333313",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HutaoLover715 @acnekot 580是5系80显卡，得加钱💰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "2027579356282057193",
+        "created_at": "2026-02-28T08:27:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T09:27:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027661892001661162"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1857403433105625088",
+              "start": 0,
+              "username": "HutaoLover715"
+            },
+            {
+              "end": 23,
+              "id": "1552213521253150720",
+              "start": 15,
+              "username": "acnekot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027661892001661162",
+        "in_reply_to_user_id": "1857403433105625088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027655765608333313",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HutaoLover715 @acnekot 580是5系80显卡，得加钱💰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1857403433105625088",
+        "conversation_id": "2027579356282057193",
+        "created_at": "2026-02-28T08:03:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T09:03:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027655765608333313"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1748763011140169729",
+              "start": 0,
+              "username": "lovelyshuimao"
+            },
+            {
+              "end": 23,
+              "id": "1552213521253150720",
+              "start": 15,
+              "username": "acnekot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027655765608333313",
+        "in_reply_to_user_id": "1748763011140169729",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027655159720120379",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lovelyshuimao @acnekot i5 级不就行了😁\n580 8g 不是 5 系嘛😁\n储存可以 1tb sas+阵列卡，400 降到 120\n老志强支持 4bit 内存，所以可以上 AMD 专用条😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "INTJ-t ｜永遠14歲｜提問↓｜❤️@saonanaa",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 20,
+                "username": "saonanaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGspkq"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你2.1km",
+        "name": "lovely水",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023831074921738240/frpPaTVT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4918,
+          "following_count": 1046,
+          "like_count": 265,
+          "listed_count": 13,
+          "media_count": 2976,
+          "tweet_count": 13250
+        },
+        "url": "https://t.co/EZhyEGspkq",
+        "username": "lovelyshuimao",
+        "verified": true
+      },
+      {
+        "created_at": "2024-11-15T12:41:17.000Z",
+        "description": "🇨🇳China/🇯🇵Japan Friendship ！政治话题❌",
+        "id": "1857403433105625088",
+        "location": "Teyvat Liyue",
+        "name": "フータオチャン～",
+        "pinned_tweet_id": "1994254058098741451",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013861341648265216/jNyFNNmx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 100,
+          "like_count": 1084,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 636
+        },
+        "username": "HutaoLover715",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-27T08:46:05.000Z",
+        "description": "游荡在时间线到处闲逛的猫ᗜ_ᗜ\n高性能回复速度｜好丽友派:@wxb_NB\n音游爱好者｜不鉴证｜欢迎和我互动｜VRChat｜无敌对友好｜同类互关请私信）\n猫喜欢搬点梗图给大伙看看（炫耀\n发言纯依靠我那微薄的知识 看到有错误请帮我指正\n非中文使用翻译器 如有错意欢迎指正\nいつ終わるかな 意味もないのに",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 29,
+                "username": "wxb_NB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "catsuki.cc",
+                "end": 23,
+                "expanded_url": "http://catsuki.cc",
+                "start": 0,
+                "url": "https://t.co/HEkBb94Sod"
+              }
+            ]
+          }
+        },
+        "id": "1552213521253150720",
+        "location": "点击查看更多有更多信息",
+        "name": "好奇猫a",
+        "pinned_tweet_id": "2001124764614803926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025146853579522051/hpqeTYlg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1272,
+          "following_count": 770,
+          "like_count": 82158,
+          "listed_count": 7,
+          "media_count": 2829,
+          "tweet_count": 13096
+        },
+        "url": "https://t.co/HEkBb94Sod",
+        "username": "acnekot",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1748763011140169729",
+    "conversation_id": "2072374301387632851",
+    "created_at": "2026-07-02T14:26:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T15:26:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072688417079767205"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1401538162036412422",
+          "start": 0,
+          "username": "ImKrisYan"
+        },
+        {
+          "end": 19,
+          "id": "1690570637499154432",
+          "start": 11,
+          "username": "zhwevea"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072688417079767205",
+    "in_reply_to_user_id": "1401538162036412422",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072374301387632851",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ImKrisYan @zhwevea 我很好奇东华大学和纽大是怎么在一起出现的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 761,
+        "media_key": "3_2072373743058608128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMKM8Hza4AAPeHO.jpg",
+        "width": 1030
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "2072374301387632851",
+        "created_at": "2026-07-02T14:26:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T15:26:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072688417079767205"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1401538162036412422",
+              "start": 0,
+              "username": "ImKrisYan"
+            },
+            {
+              "end": 19,
+              "id": "1690570637499154432",
+              "start": 11,
+              "username": "zhwevea"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072688417079767205",
+        "in_reply_to_user_id": "1401538162036412422",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072374301387632851",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ImKrisYan @zhwevea 我很好奇东华大学和纽大是怎么在一起出现的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072373743058608128"
+          ]
+        },
+        "author_id": "1401538162036412422",
+        "conversation_id": "2072374301387632851",
+        "created_at": "2026-07-01T17:38:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T18:38:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072374301387632851"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ysRh5pBC5M",
+              "end": 67,
+              "expanded_url": "https://x.com/ImKrisYan/status/2072374301387632851/photo/1",
+              "media_key": "3_2072373743058608128",
+              "start": 44,
+              "url": "https://t.co/ysRh5pBC5M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072374301387632851",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 44,
+          "impression_count": 41356,
+          "like_count": 248,
+          "quote_count": 9,
+          "reply_count": 135,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "打了骂了，最后他以离婚来要挟我和我母亲...\n别无选择，只能放弃自己三年以来的梦想了。 https://t.co/ysRh5pBC5M"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "🐱水猫星铃Lumia\n👩🏻‍💻INTJ ♀14 \n❤️@zhwevea\n🙋🏻‍♀️提問box——————↓\n✍🏻想要成为哲学作家\n🧠神经性两畸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 28,
+                "username": "zhwevea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGspkq"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你 4.3km",
+        "name": "lovely水",
+        "pinned_tweet_id": "2072584547917836627",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045354329792749568/b7JXuLvu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4994,
+          "following_count": 1002,
+          "like_count": 275,
+          "listed_count": 19,
+          "media_count": 3317,
+          "tweet_count": 14870
+        },
+        "url": "https://t.co/EZhyEGspkq",
+        "username": "lovelyshuimao",
+        "verified": true
+      },
+      {
+        "created_at": "2021-06-06T13:55:23.000Z",
+        "description": "Eng Alt: @KrisYan8964 | 418 I'm a teapot | student | OIer (formerly) | English/Mandarin | Engagement is not equal to endorsement.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 9,
+                "username": "KrisYan8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "krisyan.dev",
+                "end": 23,
+                "expanded_url": "https://krisyan.dev/",
+                "start": 0,
+                "url": "https://t.co/bRSnK96C8F"
+              }
+            ]
+          }
+        },
+        "id": "1401538162036412422",
+        "location": "IP属地：192.168.0.1",
+        "name": "Kris Yan",
+        "pinned_tweet_id": "1913614721183633786",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070215917313949696/-hIEWzE9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 408,
+          "following_count": 985,
+          "like_count": 218622,
+          "listed_count": 2,
+          "media_count": 695,
+          "tweet_count": 4101
+        },
+        "url": "https://t.co/bRSnK96C8F",
+        "username": "ImKrisYan",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-13T03:47:17.000Z",
+        "description": "Zhi Wei 👋｜ 想要每天耍乐到处玩 ✈️｜❤想要成为技术大拿 📲💡｜👊：@lovelyshuimao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 39,
+                "username": "lovelyshuimao"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/zhweaa",
+                "end": 23,
+                "expanded_url": "https://github.com/zhweaa",
+                "start": 0,
+                "url": "https://t.co/Lsl0VyAvMl"
+              }
+            ]
+          }
+        },
+        "id": "1690570637499154432",
+        "location": "🌏🌐",
+        "name": "Zhi Wei 🥥🧊",
+        "pinned_tweet_id": "2045171291104403596",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061738719095476224/g1B5Ghy6_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7588,
+          "following_count": 434,
+          "like_count": 33500,
+          "listed_count": 23,
+          "media_count": 2614,
+          "tweet_count": 20510
+        },
+        "url": "https://t.co/Lsl0VyAvMl",
+        "username": "zhwevea",
+        "verified": true
+      }
+    ]
+  }
+}

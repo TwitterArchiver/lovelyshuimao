@@ -1,0 +1,469 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1748763011140169729",
+    "conversation_id": "2027155744991449562",
+    "created_at": "2026-02-27T05:53:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T06:53:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027260728995131663"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "431617343",
+          "start": 0,
+          "username": "berryxia"
+        },
+        {
+          "end": 26,
+          "id": "943439286287851520",
+          "start": 10,
+          "username": "KagurazakaSenba"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027260728995131663",
+    "in_reply_to_user_id": "431617343",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027155744991449562",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@berryxia @KagurazakaSenba 现在技术这么发达，手机扛得住人扛不住啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1486,
+        "media_key": "3_2027155736116232192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCHnZtOagAAXOBS.jpg",
+        "width": 1336
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "2027155744991449562",
+        "created_at": "2026-02-27T05:53:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T06:53:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027260728995131663"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "431617343",
+              "start": 0,
+              "username": "berryxia"
+            },
+            {
+              "end": 26,
+              "id": "943439286287851520",
+              "start": 10,
+              "username": "KagurazakaSenba"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027260728995131663",
+        "in_reply_to_user_id": "431617343",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027155744991449562",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@berryxia @KagurazakaSenba 现在技术这么发达，手机扛得住人扛不住啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027155736116232192"
+          ]
+        },
+        "author_id": "431617343",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "description": "Apple iPad",
+              "id": "972153731067273222",
+              "name": "Apple iPad"
+            }
+          },
+          {
+            "domain": {
+              "description": "A section of a government, like The Supreme Court",
+              "id": "88",
+              "name": "Political Body"
+            },
+            "entity": {
+              "description": "North Atlantic Treaty Organization",
+              "id": "1016738021939351558",
+              "name": "North Atlantic Treaty Organization"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "North Atlantic Treaty Organization",
+              "id": "1016738021939351558",
+              "name": "North Atlantic Treaty Organization"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political Body",
+              "id": "1068583660914266113",
+              "name": "Government institutions"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10024011738",
+              "name": "Apple - iPhone"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "Cheddar",
+              "id": "788929372342263808",
+              "name": "Cheddar"
+            }
+          }
+        ],
+        "conversation_id": "2027155744991449562",
+        "created_at": "2026-02-26T22:56:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T23:56:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027155744991449562"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vzYTpprMLo",
+              "end": 171,
+              "expanded_url": "https://x.com/berryxia/status/2027155744991449562/photo/1",
+              "media_key": "3_2027155736116232192",
+              "start": 148,
+              "url": "https://t.co/vzYTpprMLo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027155744991449562",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "🐮苹果赢麻了！\n\n苹果公司（$AAPL）发布了完整新闻稿，核心内容是：  \n\niPhone 和 iPad 成为全球首个（也是唯一）获得北约认证的消费级设备！\n\n可在“无需任何额外软件或设置”的情况下，处理最高 “NATO Restricted”（北约限制级）的机密信息。  \n\n关键要点：\n\n- 此前已通过德国联邦信息安全局（BSI）严格审核，可处理德国机密数据；\n\n- 现在扩展到“所有北约国家”，运行 “iOS 26 / iPadOS 26”的 iPhone 和 iPad 正式列入“北约信息保障产品目录”\n\n- 完全依赖苹果原生内置安全架构（硬件+软件+Apple Silicon），包括端到端加密、Face ID、内存完整性保护等，无需额外加固。\n\n官方评价：\n\n- BSI 总裁 Claudia Plattner：这是把“信息安全从设计之初就考虑进去”的典范。\n\n- 苹果安全工程副总裁 Ivan Krstić：苹果把原本只有政府/企业才能用的高端安全，变成了普通用户也能享受到的标配。\n\n简单说，苹果这次把消费级手机/平板的安全性直接拉到“政府机密级别”，在北约全境获得官方认可，属于行业里程碑级认证。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 75,
+          "impression_count": 30379,
+          "like_count": 202,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 29
+        },
+        "reply_settings": "everyone",
+        "text": "🐮苹果赢麻了！\n\n苹果公司（$AAPL）发布了完整新闻稿，核心内容是：  \n\niPhone 和 iPad 成为全球首个（也是唯一）获得北约认证的消费级设备！\n\n可在“无需任何额外软件或设置”的情况下，处理最高 “NATO Restricted”（北约限制级）的机密信息。  \n\n关键要点：\n\n- https://t.co/vzYTpprMLo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "INTJ-t ｜永遠14歲｜提問↓｜❤️@saonanaa",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 20,
+                "username": "saonanaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGspkq"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你2.1km",
+        "name": "lovely水",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023831074921738240/frpPaTVT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4912,
+          "following_count": 1046,
+          "like_count": 263,
+          "listed_count": 13,
+          "media_count": 2967,
+          "tweet_count": 13208
+        },
+        "url": "https://t.co/EZhyEGspkq",
+        "username": "lovelyshuimao",
+        "verified": true
+      },
+      {
+        "created_at": "2011-12-08T13:56:00.000Z",
+        "description": "🧠✨Building AI tools AI System Prompt ❤️🐳      💻 Love Design & Coding & Share Prompt！ 💼📮:Andyhuo@me.com",
+        "id": "431617343",
+        "name": "Berryxia.AI",
+        "pinned_tweet_id": "2026678228363129330",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016043556964605952/Tqi9KA2r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21229,
+          "following_count": 382,
+          "like_count": 1801,
+          "listed_count": 319,
+          "media_count": 365,
+          "tweet_count": 2609
+        },
+        "username": "berryxia",
+        "verified": true
+      },
+      {
+        "created_at": "2017-12-20T11:13:48.000Z",
+        "description": "最爱的天气是雨天•最喜欢的人是你·baka·@hoshi_Asuka0089•与你的日常•便是奇迹",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 22,
+                "username": "hoshi_Asuka0089"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "apple.com/hk",
+                "end": 23,
+                "expanded_url": "https://www.apple.com/hk",
+                "start": 0,
+                "url": "https://t.co/cE6sZ8lwGf"
+              }
+            ]
+          }
+        },
+        "id": "943439286287851520",
+        "location": "S.C.H.A.L.E",
+        "name": "💮神楽坂　千羽🌸",
+        "pinned_tweet_id": "2026319272126054902",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864885438613458948/CrYxyfg-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3227,
+          "following_count": 5916,
+          "like_count": 108270,
+          "listed_count": 8,
+          "media_count": 2314,
+          "tweet_count": 32527
+        },
+        "url": "https://t.co/cE6sZ8lwGf",
+        "username": "KagurazakaSenba",
+        "verified": false
+      }
+    ]
+  }
+}

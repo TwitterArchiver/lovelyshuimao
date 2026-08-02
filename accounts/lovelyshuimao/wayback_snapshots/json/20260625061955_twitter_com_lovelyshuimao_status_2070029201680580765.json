@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1748763011140169729",
+    "conversation_id": "2069922715637784673",
+    "created_at": "2026-06-25T06:19:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T07:19:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070029201680580765"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1682445540695609345",
+          "start": 0,
+          "username": "cmyf_qwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070029201680580765",
+    "in_reply_to_user_id": "1682445540695609345",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070028217315139596",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cmyf_qwq 为什么要找她买？\n后来我也不知道找上谁了，总之换一家买到的，我刚开始真的不懂啊买的都是什么垃圾药"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "2069922715637784673",
+        "created_at": "2026-06-25T06:19:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T07:19:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070029201680580765"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1682445540695609345",
+              "start": 0,
+              "username": "cmyf_qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070029201680580765",
+        "in_reply_to_user_id": "1682445540695609345",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070028217315139596",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cmyf_qwq 为什么要找她买？\n后来我也不知道找上谁了，总之换一家买到的，我刚开始真的不懂啊买的都是什么垃圾药"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1682445540695609345",
+        "conversation_id": "2069922715637784673",
+        "created_at": "2026-06-25T06:16:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T07:16:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070028217315139596"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1748763011140169729",
+              "start": 0,
+              "username": "lovelyshuimao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070028217315139596",
+        "in_reply_to_user_id": "1748763011140169729",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070027045778968858",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lovelyshuimao 突然想买652来着，现在她还得收年费恶心死我了🙁"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "🐱水猫星铃Lumia\n👩🏻‍💻INTJ ♀14 \n❤️@zhwevea\n🙋🏻‍♀️提問box————————↓\n✍🏻想要成为哲学作家",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 28,
+                "username": "zhwevea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGrRuS"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你2.1km",
+        "name": "lovely水",
+        "pinned_tweet_id": "2063974537272910172",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045354329792749568/b7JXuLvu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4921,
+          "following_count": 1007,
+          "like_count": 274,
+          "listed_count": 18,
+          "media_count": 3286,
+          "tweet_count": 14752
+        },
+        "url": "https://t.co/EZhyEGrRuS",
+        "username": "lovelyshuimao",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-21T17:41:09.000Z",
+        "description": "09年无证含糖/165cm45kg/天赋党？/HRT2024.10.2已炸柜/性取向泛性恋/梦想是成为可爱的小女孩/不要上来就私信要我联系方式请说明原因/不线下,不约！！！/我们活着就是对恶意的最大反抗！/老公~@Daiduodexiaos",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 120,
+                "start": 106,
+                "username": "Daiduodexiaos"
+              }
+            ]
+          }
+        },
+        "id": "1682445540695609345",
+        "location": "老公怀里",
+        "name": "朝梦引帆🍥",
+        "pinned_tweet_id": "1903313856602181945",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864086343007268864/zYe352zI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4158,
+          "following_count": 327,
+          "like_count": 203,
+          "listed_count": 3,
+          "media_count": 204,
+          "tweet_count": 1105
+        },
+        "url": "",
+        "username": "cmyf_qwq",
+        "verified": false
+      }
+    ]
+  }
+}

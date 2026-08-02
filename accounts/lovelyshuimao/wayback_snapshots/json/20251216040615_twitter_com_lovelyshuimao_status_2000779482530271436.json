@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1748763011140169729",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1420050770829799426",
+          "name": "Alibaba Group"
+        }
+      }
+    ],
+    "conversation_id": "2000595087139782908",
+    "created_at": "2025-12-16T04:06:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-16T05:06:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000779482530271436"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1869325756255657984",
+          "start": 0,
+          "username": "Eremus426531"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000779482530271436",
+    "in_reply_to_user_id": "1869325756255657984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000595087139782908",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Eremus426531 为什么你是Alipay，我是支付寶"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2000595077236940802",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8OKn4YaYAITqFE.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1420050770829799426",
+              "name": "Alibaba Group"
+            }
+          }
+        ],
+        "conversation_id": "2000595087139782908",
+        "created_at": "2025-12-16T04:06:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-16T05:06:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000779482530271436"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1869325756255657984",
+              "start": 0,
+              "username": "Eremus426531"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000779482530271436",
+        "in_reply_to_user_id": "1869325756255657984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000595087139782908",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Eremus426531 为什么你是Alipay，我是支付寶"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2000595077236940802"
+          ]
+        },
+        "author_id": "1869325756255657984",
+        "conversation_id": "2000595087139782908",
+        "created_at": "2025-12-15T15:53:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T16:53:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000595087139782908"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/F4wwKEyHFT",
+              "end": 74,
+              "expanded_url": "https://x.com/Eremus426531/status/2000595087139782908/photo/1",
+              "media_key": "3_2000595077236940802",
+              "start": 51,
+              "url": "https://t.co/F4wwKEyHFT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000595087139782908",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 7874,
+          "like_count": 68,
+          "quote_count": 0,
+          "reply_count": 18,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么国内的软件一个二个都他妈要1个g，好臃肿……有没有啥办法可以让它们占的空间小一点，我真的无语了 https://t.co/F4wwKEyHFT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "水貓🍕｜ENFP-t ｜永遠14｜對象@saonanaa｜素食主義者｜提問箱鏈接↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 19,
+                "username": "saonanaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%B0%B4%E6%B…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E6%B0%B4%E6%B0%B493927",
+                "start": 0,
+                "url": "https://t.co/qmQkMr39z5"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你2.1km",
+        "name": "lovely水",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998279626989449216/6L9PHOSs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3018,
+          "following_count": 1242,
+          "like_count": 252,
+          "listed_count": 8,
+          "media_count": 2466,
+          "tweet_count": 11854
+        },
+        "url": "https://t.co/qmQkMr39z5",
+        "username": "lovelyshuimao",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-18T10:16:19.000Z",
+        "description": "L(G)BT│有对象│二次元│术力口，粥，1999│cs专业│爱好数学，哲学│推水月，镜音连│请和我交朋友🥺🥺",
+        "id": "1869325756255657984",
+        "name": "Eremus",
+        "pinned_tweet_id": "1898748238171357564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995775476871430148/eplOFhO9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 781,
+          "following_count": 1304,
+          "like_count": 22466,
+          "listed_count": 3,
+          "media_count": 241,
+          "tweet_count": 6514
+        },
+        "username": "Eremus426531",
+        "verified": false
+      }
+    ]
+  }
+}

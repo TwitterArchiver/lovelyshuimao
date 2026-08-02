@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2001201629245349888"
+      ],
+      "media_source_tweet_id": [
+        "2001201634467045674"
+      ]
+    },
+    "author_id": "1748763011140169729",
+    "conversation_id": "2001283454219215028",
+    "created_at": "2025-12-17T13:28:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-17T14:28:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001283454219215028"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1916153132033425408",
+          "start": 3,
+          "username": "amatsusae54"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/KC3dQI40JX",
+          "end": 59,
+          "expanded_url": "https://x.com/amatsusae54/status/2001201634467045674/photo/1",
+          "media_key": "3_2001201629245349888",
+          "start": 36,
+          "url": "https://t.co/KC3dQI40JX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001283454219215028",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 489
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001201634467045674",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @amatsusae54: 何かがおかしいカップルの写真ほんま草 https://t.co/KC3dQI40JX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1239,
+        "media_key": "3_2001201629245349888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8WyR2saIAA2ktv.jpg",
+        "width": 977
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2001201629245349888"
+          ],
+          "media_source_tweet_id": [
+            "2001201634467045674"
+          ]
+        },
+        "author_id": "1748763011140169729",
+        "conversation_id": "2001283454219215028",
+        "created_at": "2025-12-17T13:28:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-17T14:28:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001283454219215028"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1916153132033425408",
+              "start": 3,
+              "username": "amatsusae54"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KC3dQI40JX",
+              "end": 59,
+              "expanded_url": "https://x.com/amatsusae54/status/2001201634467045674/photo/1",
+              "media_key": "3_2001201629245349888",
+              "start": 36,
+              "url": "https://t.co/KC3dQI40JX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001283454219215028",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 489
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001201634467045674",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @amatsusae54: 何かがおかしいカップルの写真ほんま草 https://t.co/KC3dQI40JX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2001201629245349888"
+          ]
+        },
+        "author_id": "1916153132033425408",
+        "conversation_id": "2001201634467045674",
+        "created_at": "2025-12-17T08:03:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-17T09:03:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2001201634467045674"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KC3dQI40JX",
+              "end": 42,
+              "expanded_url": "https://x.com/amatsusae54/status/2001201634467045674/photo/1",
+              "media_key": "3_2001201629245349888",
+              "start": 19,
+              "url": "https://t.co/KC3dQI40JX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001201634467045674",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1467,
+          "impression_count": 639661,
+          "like_count": 15172,
+          "quote_count": 61,
+          "reply_count": 157,
+          "retweet_count": 489
+        },
+        "reply_settings": "everyone",
+        "text": "何かがおかしいカップルの写真ほんま草 https://t.co/KC3dQI40JX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "水貓🍕｜ENFP-t ｜永遠14｜對象@saonanaa｜素食主義者｜提問箱鏈接↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 19,
+                "username": "saonanaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%B0%B4%E6%B…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E6%B0%B4%E6%B0%B493927",
+                "start": 0,
+                "url": "https://t.co/qmQkMr39z5"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你2.1km",
+        "name": "lovely水",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998279626989449216/6L9PHOSs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3018,
+          "following_count": 1240,
+          "like_count": 252,
+          "listed_count": 8,
+          "media_count": 2479,
+          "tweet_count": 11897
+        },
+        "url": "https://t.co/qmQkMr39z5",
+        "username": "lovelyshuimao",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-26T15:31:30.000Z",
+        "description": "話題のツイートを載せていきます！先着10名限定の㊙️アカウントはこちら→@0n44w 姉妹bot→@Yl5Acr",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 36,
+                "username": "0n44w"
+              },
+              {
+                "end": 56,
+                "start": 49,
+                "username": "Yl5Acr"
+              }
+            ]
+          }
+        },
+        "id": "1916153132033425408",
+        "location": "月間3億imp↑ 拡散依頼・案件等はDMまで",
+        "name": "話題のツイートbot",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977963851753926656/km0KMZct_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7958,
+          "following_count": 2,
+          "like_count": 772,
+          "listed_count": 24,
+          "media_count": 186,
+          "tweet_count": 357
+        },
+        "username": "amatsusae54",
+        "verified": false
+      }
+    ]
+  }
+}

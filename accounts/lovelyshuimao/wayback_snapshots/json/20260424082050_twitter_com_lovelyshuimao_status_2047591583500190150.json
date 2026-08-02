@@ -1,0 +1,315 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1748763011140169729",
+    "conversation_id": "2047435345134772649",
+    "created_at": "2026-04-24T08:20:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T09:20:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047591583500190150"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1260553941714186241",
+          "start": 0,
+          "username": "whyyoutouzhele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047591583500190150",
+    "in_reply_to_user_id": "1260553941714186241",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047435345134772649",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whyyoutouzhele 新新国标终于强制强制让这些车限速25km了，对骑自行车的人一大好处，骑自行车速度也就是16-20，并且没有后视镜，这些人骑到40-50对行人和骑车的极其危险"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 215433,
+        "height": 1920,
+        "media_key": "13_2047267543723679744",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2047267543723679744/img/yLkfIHI56LhdbfbN.jpg",
+        "public_metrics": {
+          "view_count": 62797
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2047267543723679744/pl/_WqX8YSqTMXtSTJy.m3u8"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2047267543723679744/vid/avc1/720x1280/lkmybvSNVmB0Hsmy.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2047267543723679744/vid/avc1/320x568/M-94ziYa8-p2PpXX.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2047267543723679744/vid/avc1/480x852/c3KVNhfJDrgPb_t8.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2047267543723679744/vid/avc1/1080x1920/io5lKwfkccf-Bnk5.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "2047435345134772649",
+        "created_at": "2026-04-24T08:20:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T09:20:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047591583500190150"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1260553941714186241",
+              "start": 0,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047591583500190150",
+        "in_reply_to_user_id": "1260553941714186241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047435345134772649",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whyyoutouzhele 新新国标终于强制强制让这些车限速25km了，对骑自行车的人一大好处，骑自行车速度也就是16-20，并且没有后视镜，这些人骑到40-50对行人和骑车的极其危险"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2047267543723679744"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2047435345134772649",
+        "created_at": "2026-04-23T22:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T23:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047435345134772649"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/81LslEyPzY",
+              "end": 93,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2047435345134772649/video/1",
+              "media_key": "13_2047267543723679744",
+              "start": 70,
+              "url": "https://t.co/81LslEyPzY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047435345134772649",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "4月22日，新疆。一名电动车商家吐槽新国标电动车：这些专家平时肯定不骑电动车，新国标电动车没有优点全是缺点，他们专门设计为难老百姓的东西。\n\n商家说，新国标电动车安装了北斗定位系统，但是装这个有什么意义呢？是监控老百姓去哪了？还是害怕老百姓？并且GPS无法拆除，拆除电动车将无法行驶。此外，新国标电车只能使用原厂电池和配件，不能换装更大的电池。这意味着老百姓车坏了，只能花更多的钱去买原厂的电池等配件。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 145,
+          "impression_count": 102360,
+          "like_count": 540,
+          "quote_count": 0,
+          "reply_count": 127,
+          "retweet_count": 55
+        },
+        "reply_settings": "everyone",
+        "text": "4月22日，新疆。一名电动车商家吐槽新国标电动车：这些专家平时肯定不骑电动车，新国标电动车没有优点全是缺点，他们专门设计为难老百姓的东西。 https://t.co/81LslEyPzY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "｜水猫星铃Lumia\n｜INTJ  永遠14\n｜❤️ZhiWei @saonanaa\n｜提問——————————↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 33,
+                "username": "saonanaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGspkq"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你2.1km",
+        "name": "lovely水",
+        "pinned_tweet_id": "2046127996961161240",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045354329792749568/b7JXuLvu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4779,
+          "following_count": 1010,
+          "like_count": 273,
+          "listed_count": 13,
+          "media_count": 3176,
+          "tweet_count": 14075
+        },
+        "url": "https://t.co/EZhyEGspkq",
+        "username": "lovelyshuimao",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 129,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 106,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2019752134674141562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2200329,
+          "following_count": 1037,
+          "like_count": 9421,
+          "listed_count": 8636,
+          "media_count": 45691,
+          "tweet_count": 52775
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2012061072350728192"
+      ]
+    },
+    "author_id": "1748763011140169729",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2012061083922825490",
+    "created_at": "2026-01-16T07:15:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-16T08:15:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2012061083922825490"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1150335433",
+          "start": 4,
+          "username": "Riny001"
+        },
+        {
+          "end": 22,
+          "id": "1690570637499154432",
+          "start": 13,
+          "username": "saonanaa"
+        },
+        {
+          "end": 38,
+          "id": "1748763011140169729",
+          "start": 24,
+          "username": "lovelyshuimao"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/i5ci1yt9Z9",
+          "end": 62,
+          "expanded_url": "https://x.com/lovelyshuimao/status/2012061083922825490/photo/1",
+          "media_key": "3_2012061072350728192",
+          "start": 39,
+          "url": "https://t.co/i5ci1yt9Z9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012061083922825490",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "贴贴！\n@riny001\n@saonanaa \n@lovelyshuimao https://t.co/i5ci1yt9Z9"
+  },
+  "errors": [
+    {
+      "detail": "Could not find user with entities.mentions.username: [Riny001].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "Riny001",
+      "resource_type": "user",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "Riny001"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2332,
+        "media_key": "3_2012061072350728192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-xG4ovbUAAShMA.jpg",
+        "width": 2868
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2012061072350728192"
+          ]
+        },
+        "author_id": "1748763011140169729",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2012061083922825490",
+        "created_at": "2026-01-16T07:15:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-16T08:15:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012061083922825490"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1150335433",
+              "start": 4,
+              "username": "Riny001"
+            },
+            {
+              "end": 22,
+              "id": "1690570637499154432",
+              "start": 13,
+              "username": "saonanaa"
+            },
+            {
+              "end": 38,
+              "id": "1748763011140169729",
+              "start": 24,
+              "username": "lovelyshuimao"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/i5ci1yt9Z9",
+              "end": 62,
+              "expanded_url": "https://x.com/lovelyshuimao/status/2012061083922825490/photo/1",
+              "media_key": "3_2012061072350728192",
+              "start": 39,
+              "url": "https://t.co/i5ci1yt9Z9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012061083922825490",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "贴贴！\n@riny001\n@saonanaa \n@lovelyshuimao https://t.co/i5ci1yt9Z9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "水貓｜INTJ-t ｜永遠14歲｜提問↓ ｜對象@saonanaa｜心理兩畸｜侵删",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 24,
+                "username": "saonanaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGrRuS"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你2.1km",
+        "name": "lovely水",
+        "pinned_tweet_id": "2009971664344494303",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009519740319092737/8QXu2gXD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3313,
+          "following_count": 1015,
+          "like_count": 261,
+          "listed_count": 10,
+          "media_count": 2702,
+          "tweet_count": 12515
+        },
+        "url": "https://t.co/EZhyEGrRuS",
+        "username": "lovelyshuimao",
+        "verified": true
+      },
+      {
+        "created_at": "2023-08-13T03:47:17.000Z",
+        "description": "Zhi Wei 👋｜在日常中发现 旅行爱好者 📸｜构建 OneLauncher 👩‍💻",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/zhweaa",
+                "end": 23,
+                "expanded_url": "https://github.com/zhweaa",
+                "start": 0,
+                "url": "https://t.co/Lsl0VyzXWN"
+              }
+            ]
+          }
+        },
+        "id": "1690570637499154432",
+        "location": "🌏🌐",
+        "name": "Zhi Wei",
+        "pinned_tweet_id": "2002749269015777340",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002735211898089472/5MAuttCj_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6745,
+          "following_count": 428,
+          "like_count": 33224,
+          "listed_count": 15,
+          "media_count": 2210,
+          "tweet_count": 18937
+        },
+        "url": "https://t.co/Lsl0VyzXWN",
+        "username": "saonanaa",
+        "verified": true
+      }
+    ]
+  }
+}

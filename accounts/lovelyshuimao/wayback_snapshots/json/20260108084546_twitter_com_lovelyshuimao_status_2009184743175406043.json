@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1748763011140169729",
+    "conversation_id": "2009051621188358212",
+    "created_at": "2026-01-08T08:45:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-08T09:45:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009184743175406043"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1829411930458718208",
+          "start": 0,
+          "username": "_250924"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009184743175406043",
+    "in_reply_to_user_id": "1829411930458718208",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009182668077113481",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_250924 这是首考，我们没有会考，学考是高一考的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "2009051621188358212",
+        "created_at": "2026-01-08T08:45:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T09:45:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009184743175406043"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1829411930458718208",
+              "start": 0,
+              "username": "_250924"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009184743175406043",
+        "in_reply_to_user_id": "1829411930458718208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009182668077113481",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_250924 这是首考，我们没有会考，学考是高一考的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1829411930458718208",
+        "conversation_id": "2009051621188358212",
+        "created_at": "2026-01-08T08:37:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T09:37:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009182668077113481"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1748763011140169729",
+              "start": 0,
+              "username": "lovelyshuimao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009182668077113481",
+        "in_reply_to_user_id": "1748763011140169729",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009051621188358212",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lovelyshuimao 会考（学业水平测试）\n和高考（选考科目）\n竟然在同日同场进行\n真是活久见，\n教育和高考的改革\n改得我都不认识了\n对于现在的孩子们\n是幸运还是不幸呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "水貓｜ENFP-t ｜永遠8歲｜提問↓ ｜對象@saonanaa｜素食哦｜心理兩畸｜蓝v互fo｜侵删",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 23,
+                "username": "saonanaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGrRuS"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你2.1km",
+        "name": "lovely水",
+        "pinned_tweet_id": "2009051621188358212",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002694749883682816/cD8uYfnW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3290,
+          "following_count": 1011,
+          "like_count": 255,
+          "listed_count": 10,
+          "media_count": 2660,
+          "tweet_count": 12385
+        },
+        "url": "https://t.co/EZhyEGrRuS",
+        "username": "lovelyshuimao",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-30T06:55:21.000Z",
+        "description": "不像串的串得不像再串打死🇰🇵🇹🇼别串了别串了麻了麻了闹麻了🥴 小儿辈，大破防，已报生擒吐谷yù浑",
+        "id": "1829411930458718208",
+        "location": "Paju-si, Republic of Korea",
+        "name": "大不列滇🇹🇼整活人",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008135058536665088/lXIem1bb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 899,
+          "following_count": 1367,
+          "like_count": 25929,
+          "listed_count": 3,
+          "media_count": 56,
+          "tweet_count": 525
+        },
+        "username": "_250924",
+        "verified": false
+      }
+    ]
+  }
+}

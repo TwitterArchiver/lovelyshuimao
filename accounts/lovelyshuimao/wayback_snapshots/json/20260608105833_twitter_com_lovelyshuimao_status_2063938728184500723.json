@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1748763011140169729",
+    "conversation_id": "2063668060788056331",
+    "created_at": "2026-06-08T10:58:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T11:58:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063938728184500723"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1580767946179194882",
+          "start": 0,
+          "username": "kfk_ai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063938728184500723",
+    "in_reply_to_user_id": "1580767946179194882",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063668060788056331",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kfk_ai 每个月才1500？？读个j8\n一次性8万花完再说"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 747,
+        "media_key": "3_2063668058565042176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKOfKl0W4AA8HwV.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "2063668060788056331",
+        "created_at": "2026-06-08T10:58:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T11:58:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063938728184500723"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1580767946179194882",
+              "start": 0,
+              "username": "kfk_ai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063938728184500723",
+        "in_reply_to_user_id": "1580767946179194882",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063668060788056331",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kfk_ai 每个月才1500？？读个j8\n一次性8万花完再说"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063668058565042176"
+          ]
+        },
+        "author_id": "1580767946179194882",
+        "conversation_id": "2063668060788056331",
+        "created_at": "2026-06-07T17:03:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T18:03:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063668060788056331"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/B86HsMwcMa",
+              "end": 41,
+              "expanded_url": "https://x.com/kfk_ai/status/2063668060788056331/photo/1",
+              "media_key": "3_2063668058565042176",
+              "start": 18,
+              "url": "https://t.co/B86HsMwcMa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063668060788056331",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 16852,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 39,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "刚准备上大学的你\n\n应该如何选择？ https://t.co/B86HsMwcMa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "｜水猫星铃Lumia\n｜INTJ ♀14  \n｜❤️@saonanaa\n｜提問box——————————↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 27,
+                "username": "saonanaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGspkq"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你2.1km",
+        "name": "lovely水",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045354329792749568/b7JXuLvu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4878,
+          "following_count": 1006,
+          "like_count": 274,
+          "listed_count": 17,
+          "media_count": 3234,
+          "tweet_count": 14518
+        },
+        "url": "https://t.co/EZhyEGspkq",
+        "username": "lovelyshuimao",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-14T03:50:34.000Z",
+        "description": "🇺🇸 美国八年｜💻 CS 科班 \n🤖 AI Builder｜Build in Public\n🌱 记录从 0 开始做自媒体\n🌊 深度大于速度 \n🍺 精酿爱好者\n👇 咨询合作注明来意",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/yGdKyTsZp",
+                "end": 23,
+                "expanded_url": "https://discord.gg/yGdKyTsZp",
+                "start": 0,
+                "url": "https://t.co/OEFumiBsHU"
+              }
+            ]
+          }
+        },
+        "id": "1580767946179194882",
+        "location": "wechat: int_65535",
+        "name": "Kafka",
+        "pinned_tweet_id": "2054840791584133551",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047190090401939456/aEcmSiyB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7146,
+          "following_count": 300,
+          "like_count": 9444,
+          "listed_count": 38,
+          "media_count": 271,
+          "tweet_count": 4167
+        },
+        "url": "https://t.co/OEFumiBsHU",
+        "username": "kfk_ai",
+        "verified": true
+      }
+    ]
+  }
+}

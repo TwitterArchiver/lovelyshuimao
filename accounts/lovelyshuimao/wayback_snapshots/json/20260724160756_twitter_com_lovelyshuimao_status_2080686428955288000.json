@@ -1,0 +1,321 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1748763011140169729",
+    "conversation_id": "2080538229263204540",
+    "created_at": "2026-07-24T16:07:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T17:07:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080686428955288000"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2053430898864099328",
+          "start": 0,
+          "username": "Shiroko_07"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "undp.org/china/publicat…",
+          "end": 35,
+          "expanded_url": "https://www.undp.org/china/publications/2017-being-lgbt-asia-china-country-report",
+          "start": 12,
+          "status": 404,
+          "unwound_url": "https://www.undp.org/china/publications/2017-being-lgbt-asia-china-country-report",
+          "url": "https://t.co/Lfg9uJYZwH"
+        },
+        {
+          "display_url": "ustranssurvey.org/reports",
+          "end": 59,
+          "expanded_url": "https://www.ustranssurvey.org/reports",
+          "images": [
+            {
+              "height": 630,
+              "url": "https://pbs.twimg.com/news_img/2079625814816260096/rl9OHf-i?format=jpg&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2079625814816260096/rl9OHf-i?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 36,
+          "status": 200,
+          "title": "Download Reports - US Trans Survey",
+          "unwound_url": "https://ustranssurvey.org/download-reports/",
+          "url": "https://t.co/UBeZGSClJq"
+        },
+        {
+          "display_url": "ustranssurvey.org/2022-report",
+          "end": 83,
+          "expanded_url": "https://www.ustranssurvey.org/2022-report",
+          "start": 60,
+          "status": 404,
+          "unwound_url": "https://ustranssurvey.org/2022-report",
+          "url": "https://t.co/sw3RSS3RPs"
+        },
+        {
+          "display_url": "iza.org/publications/d…",
+          "end": 107,
+          "expanded_url": "https://www.iza.org/publications/dp/10738/is-there-a-transgender-wage-penalty",
+          "start": 84,
+          "status": 200,
+          "unwound_url": "https://www.iza.org/publications/dp/10738/is-there-a-transgender-wage-penalty",
+          "url": "https://t.co/h9TLqeWV0K"
+        },
+        {
+          "display_url": "doi.org/10.2202/1935-1…",
+          "end": 131,
+          "expanded_url": "https://doi.org/10.2202/1935-1682.1862",
+          "start": 108,
+          "status": 202,
+          "unwound_url": "https://www.degruyterbrill.com/document/doi/10.2202/1935-1682.1862/html",
+          "url": "https://t.co/Zgb8f8q3L2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080686428955288000",
+    "in_reply_to_user_id": "2053430898864099328",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080572372348973271",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Shiroko_07 https://t.co/Lfg9uJYZwH https://t.co/UBeZGSClJq\nhttps://t.co/sw3RSS3RPs\nhttps://t.co/h9TLqeWV0K\nhttps://t.co/Zgb8f8q3L2"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "2080538229263204540",
+        "created_at": "2026-07-24T16:07:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T17:07:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080686428955288000"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2053430898864099328",
+              "start": 0,
+              "username": "Shiroko_07"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "undp.org/china/publicat…",
+              "end": 35,
+              "expanded_url": "https://www.undp.org/china/publications/2017-being-lgbt-asia-china-country-report",
+              "start": 12,
+              "status": 404,
+              "unwound_url": "https://www.undp.org/china/publications/2017-being-lgbt-asia-china-country-report",
+              "url": "https://t.co/Lfg9uJYZwH"
+            },
+            {
+              "display_url": "ustranssurvey.org/reports",
+              "end": 59,
+              "expanded_url": "https://www.ustranssurvey.org/reports",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2079625814816260096/rl9OHf-i?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2079625814816260096/rl9OHf-i?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 36,
+              "status": 200,
+              "title": "Download Reports - US Trans Survey",
+              "unwound_url": "https://ustranssurvey.org/download-reports/",
+              "url": "https://t.co/UBeZGSClJq"
+            },
+            {
+              "display_url": "ustranssurvey.org/2022-report",
+              "end": 83,
+              "expanded_url": "https://www.ustranssurvey.org/2022-report",
+              "start": 60,
+              "status": 404,
+              "unwound_url": "https://ustranssurvey.org/2022-report",
+              "url": "https://t.co/sw3RSS3RPs"
+            },
+            {
+              "display_url": "iza.org/publications/d…",
+              "end": 107,
+              "expanded_url": "https://www.iza.org/publications/dp/10738/is-there-a-transgender-wage-penalty",
+              "start": 84,
+              "status": 200,
+              "unwound_url": "https://www.iza.org/publications/dp/10738/is-there-a-transgender-wage-penalty",
+              "url": "https://t.co/h9TLqeWV0K"
+            },
+            {
+              "display_url": "doi.org/10.2202/1935-1…",
+              "end": 131,
+              "expanded_url": "https://doi.org/10.2202/1935-1682.1862",
+              "start": 108,
+              "status": 202,
+              "unwound_url": "https://www.degruyterbrill.com/document/doi/10.2202/1935-1682.1862/html",
+              "url": "https://t.co/Zgb8f8q3L2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080686428955288000",
+        "in_reply_to_user_id": "2053430898864099328",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080572372348973271",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Shiroko_07 https://t.co/Lfg9uJYZwH https://t.co/UBeZGSClJq\nhttps://t.co/sw3RSS3RPs\nhttps://t.co/h9TLqeWV0K\nhttps://t.co/Zgb8f8q3L2"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053430898864099328",
+        "conversation_id": "2080538229263204540",
+        "created_at": "2026-07-24T08:34:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T09:34:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080572372348973271"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1748763011140169729",
+              "start": 0,
+              "username": "lovelyshuimao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080572372348973271",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 330,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@lovelyshuimao 看看文献"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "🐱神仙水水猫星铃Lumia\n👩🏻‍💻INTJ ♀14 \n🙋🏻‍♀️提問box——————↓\n✍🏻想成為作家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGspkq"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你 4.3km",
+        "name": "lovely水",
+        "pinned_tweet_id": "2075897725733024056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045354329792749568/b7JXuLvu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5501,
+          "following_count": 997,
+          "like_count": 275,
+          "listed_count": 22,
+          "media_count": 3434,
+          "tweet_count": 15497
+        },
+        "url": "https://t.co/EZhyEGspkq",
+        "username": "lovelyshuimao",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-10T11:05:32.000Z",
+        "description": "",
+        "id": "2053430898864099328",
+        "name": "星宮　ましろ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068155672785743873/wAHPsLKh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 6,
+          "like_count": 34,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 124
+        },
+        "url": "",
+        "username": "Shiroko_07",
+        "verified": false
+      }
+    ]
+  }
+}

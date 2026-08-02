@@ -1,0 +1,857 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1748763011140169729",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597310615553",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597218340864",
+          "name": "Video Games - Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10027232467",
+          "name": "Microsoft"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "10027604610",
+          "name": "Microsoft Windows"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "10027933222",
+          "name": "Call of Duty"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "10043689888",
+          "name": "Minecraft"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10027604610",
+          "name": "Microsoft Windows"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "10027933222",
+          "name": "Call of Duty"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10043689888",
+          "name": "Minecraft"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1197906382529294337",
+          "name": "Competitive games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1403427158953922560",
+          "name": "Shooting games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491899619193749511",
+          "name": "Sandbox games"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10041873021",
+          "name": "NVIDIA"
+        }
+      },
+      {
+        "domain": {
+          "description": "Video Game Hardware",
+          "id": "79",
+          "name": "Video Game Hardware"
+        },
+        "entity": {
+          "id": "10041873021",
+          "name": "NVIDIA"
+        }
+      }
+    ],
+    "conversation_id": "1996243834523804152",
+    "created_at": "2025-12-03T15:43:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-03T16:43:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1996243834523804152"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 13,
+          "normalized_text": "Minecraft",
+          "probability": 0.8213,
+          "start": 5,
+          "type": "Other"
+        },
+        {
+          "end": 32,
+          "normalized_text": "Minecraft 26H2",
+          "probability": 0.6517,
+          "start": 19,
+          "type": "Other"
+        },
+        {
+          "end": 51,
+          "normalized_text": "Minecraft",
+          "probability": 0.7944,
+          "start": 43,
+          "type": "Other"
+        },
+        {
+          "end": 66,
+          "normalized_text": "chrome",
+          "probability": 0.4383,
+          "start": 61,
+          "type": "Other"
+        },
+        {
+          "end": 82,
+          "normalized_text": "Minecraft",
+          "probability": 0.8242,
+          "start": 74,
+          "type": "Other"
+        },
+        {
+          "end": 95,
+          "normalized_text": "COD",
+          "probability": 0.5308,
+          "start": 93,
+          "type": "Other"
+        },
+        {
+          "end": 116,
+          "normalized_text": "Minecraft blackwell",
+          "probability": 0.7095,
+          "start": 98,
+          "type": "Other"
+        },
+        {
+          "end": 124,
+          "normalized_text": "nvidia",
+          "probability": 0.381,
+          "start": 119,
+          "type": "Other"
+        },
+        {
+          "end": 135,
+          "normalized_text": "Minecraft",
+          "probability": 0.7859,
+          "start": 127,
+          "type": "Other"
+        },
+        {
+          "end": 155,
+          "normalized_text": "ice",
+          "probability": 0.5021,
+          "start": 153,
+          "type": "Other"
+        },
+        {
+          "end": 177,
+          "normalized_text": "Minercaft mojang",
+          "probability": 0.6219,
+          "start": 162,
+          "type": "Other"
+        },
+        {
+          "end": 206,
+          "normalized_text": "Minecraft",
+          "probability": 0.8389,
+          "start": 198,
+          "type": "Other"
+        },
+        {
+          "end": 217,
+          "normalized_text": "apple",
+          "probability": 0.5104,
+          "start": 213,
+          "type": "Product"
+        },
+        {
+          "end": 236,
+          "normalized_text": "Minecraft MoForce",
+          "probability": 0.7631,
+          "start": 220,
+          "type": "Other"
+        },
+        {
+          "end": 257,
+          "normalized_text": "nvidia driver",
+          "probability": 0.5727,
+          "start": 245,
+          "type": "Other"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996243834523804152",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {},
+      "text": "请选择你的Minecraft命名方式\nMinecraft 26H2(windows)\nMinecraft 114.514(chrome/edge)\nMinecraft 2/3/4/5 (COD)\nMinecraft blackwell (nvidia)\nMinecraft operation balck ice (r6)\nMinercaft mojang is retarded (real)\nMinecraft 26.2(apple)\nMinecraft MoForce 576.08(nvidia driver)\nMinecraft4™(battle field)\nMinecraft CopperLake(intel)\nMinecraft i25-18900kx(intel)\nMinecraft 42.7.04(forge)\nMinecraft 0.114.5(fabric api)\nMinecraft CreateOS 1.0.114.6(hyperos)\nMinecraft 845(snapdragon)\nMinecraft UI 12.5 Enhanced Edition(MIUI)\nMinecraft：第12话 我最好的史蒂夫(魔圆)\nMinecraft: 终(EVA)\nMinecraft: It‘s MyGO!!!!!(mygo)\nMinecraft KB5063878(windows)\nMinecraft Y16S1(r6)\nMinecraft 2025 Ver.CN1.14.5G(maimai)\nMinecraft 9.9.25-114514(QQNT)"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "请选择你的Minecraft命名方式\nMinecraft 26H2(windows)\nMinecraft 114.514(chrome/edge)\nMinecraft 2/3/4/5 (COD)\nMinecraft blackwell (nvidia)\nMinecraft operation balck ice (r6)\nMinercaft mojang is retarded (real)\nMinecraft 26.2(apple)\nMinecraft MoForce 576.08(nvidia driver)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10027604610",
+              "name": "Microsoft Windows"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10027933222",
+              "name": "Call of Duty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "10043689888",
+              "name": "Minecraft"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10027604610",
+              "name": "Microsoft Windows"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10027933222",
+              "name": "Call of Duty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10043689888",
+              "name": "Minecraft"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197906382529294337",
+              "name": "Competitive games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1403427158953922560",
+              "name": "Shooting games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491899619193749511",
+              "name": "Sandbox games"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10041873021",
+              "name": "NVIDIA"
+            }
+          },
+          {
+            "domain": {
+              "description": "Video Game Hardware",
+              "id": "79",
+              "name": "Video Game Hardware"
+            },
+            "entity": {
+              "id": "10041873021",
+              "name": "NVIDIA"
+            }
+          }
+        ],
+        "conversation_id": "1996243834523804152",
+        "created_at": "2025-12-03T15:43:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T16:43:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996243834523804152"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 13,
+              "normalized_text": "Minecraft",
+              "probability": 0.8213,
+              "start": 5,
+              "type": "Other"
+            },
+            {
+              "end": 32,
+              "normalized_text": "Minecraft 26H2",
+              "probability": 0.6517,
+              "start": 19,
+              "type": "Other"
+            },
+            {
+              "end": 51,
+              "normalized_text": "Minecraft",
+              "probability": 0.7944,
+              "start": 43,
+              "type": "Other"
+            },
+            {
+              "end": 66,
+              "normalized_text": "chrome",
+              "probability": 0.4383,
+              "start": 61,
+              "type": "Other"
+            },
+            {
+              "end": 82,
+              "normalized_text": "Minecraft",
+              "probability": 0.8242,
+              "start": 74,
+              "type": "Other"
+            },
+            {
+              "end": 95,
+              "normalized_text": "COD",
+              "probability": 0.5308,
+              "start": 93,
+              "type": "Other"
+            },
+            {
+              "end": 116,
+              "normalized_text": "Minecraft blackwell",
+              "probability": 0.7095,
+              "start": 98,
+              "type": "Other"
+            },
+            {
+              "end": 124,
+              "normalized_text": "nvidia",
+              "probability": 0.381,
+              "start": 119,
+              "type": "Other"
+            },
+            {
+              "end": 135,
+              "normalized_text": "Minecraft",
+              "probability": 0.7859,
+              "start": 127,
+              "type": "Other"
+            },
+            {
+              "end": 155,
+              "normalized_text": "ice",
+              "probability": 0.5021,
+              "start": 153,
+              "type": "Other"
+            },
+            {
+              "end": 177,
+              "normalized_text": "Minercaft mojang",
+              "probability": 0.6219,
+              "start": 162,
+              "type": "Other"
+            },
+            {
+              "end": 206,
+              "normalized_text": "Minecraft",
+              "probability": 0.8389,
+              "start": 198,
+              "type": "Other"
+            },
+            {
+              "end": 217,
+              "normalized_text": "apple",
+              "probability": 0.5104,
+              "start": 213,
+              "type": "Product"
+            },
+            {
+              "end": 236,
+              "normalized_text": "Minecraft MoForce",
+              "probability": 0.7631,
+              "start": 220,
+              "type": "Other"
+            },
+            {
+              "end": 257,
+              "normalized_text": "nvidia driver",
+              "probability": 0.5727,
+              "start": 245,
+              "type": "Other"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996243834523804152",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {},
+          "text": "请选择你的Minecraft命名方式\nMinecraft 26H2(windows)\nMinecraft 114.514(chrome/edge)\nMinecraft 2/3/4/5 (COD)\nMinecraft blackwell (nvidia)\nMinecraft operation balck ice (r6)\nMinercaft mojang is retarded (real)\nMinecraft 26.2(apple)\nMinecraft MoForce 576.08(nvidia driver)\nMinecraft4™(battle field)\nMinecraft CopperLake(intel)\nMinecraft i25-18900kx(intel)\nMinecraft 42.7.04(forge)\nMinecraft 0.114.5(fabric api)\nMinecraft CreateOS 1.0.114.6(hyperos)\nMinecraft 845(snapdragon)\nMinecraft UI 12.5 Enhanced Edition(MIUI)\nMinecraft：第12话 我最好的史蒂夫(魔圆)\nMinecraft: 终(EVA)\nMinecraft: It‘s MyGO!!!!!(mygo)\nMinecraft KB5063878(windows)\nMinecraft Y16S1(r6)\nMinecraft 2025 Ver.CN1.14.5G(maimai)\nMinecraft 9.9.25-114514(QQNT)"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "请选择你的Minecraft命名方式\nMinecraft 26H2(windows)\nMinecraft 114.514(chrome/edge)\nMinecraft 2/3/4/5 (COD)\nMinecraft blackwell (nvidia)\nMinecraft operation balck ice (r6)\nMinercaft mojang is retarded (real)\nMinecraft 26.2(apple)\nMinecraft MoForce 576.08(nvidia driver)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "水貓🍕｜ENFP-t ｜永遠14哦｜是豪貓不o不圓不殘不死｜對象@saonanaa｜素食主義者｜提問箱鏈接↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 32,
+                "username": "saonanaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%B0%B4%E6%B…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E6%B0%B4%E6%B0%B493927",
+                "start": 0,
+                "url": "https://t.co/qmQkMr39z5"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你2.1km",
+        "name": "lovely水",
+        "pinned_tweet_id": "1995425834463887724",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996053240602132480/WwdcTycf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2896,
+          "following_count": 1257,
+          "like_count": 251,
+          "listed_count": 7,
+          "media_count": 2355,
+          "tweet_count": 11497
+        },
+        "url": "https://t.co/qmQkMr39z5",
+        "username": "lovelyshuimao",
+        "verified": true
+      }
+    ]
+  }
+}

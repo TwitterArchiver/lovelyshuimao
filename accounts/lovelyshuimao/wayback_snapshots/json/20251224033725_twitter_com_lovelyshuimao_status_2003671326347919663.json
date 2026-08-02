@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1748763011140169729",
+    "conversation_id": "2003429058856779936",
+    "created_at": "2025-12-24T03:37:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-24T04:37:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003671326347919663"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1249276197202100224",
+          "start": 0,
+          "username": "Fujiwarahermia3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003671326347919663",
+    "in_reply_to_user_id": "1249276197202100224",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003429058856779936",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Fujiwarahermia3 多好玩"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1834,
+        "media_key": "3_2003429049780297728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G82cGyzaYAAxl_i.jpg",
+        "width": 846
+      },
+      {
+        "height": 1803,
+        "media_key": "3_2003429049767768064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G82cGywbMAA2Yan.jpg",
+        "width": 948
+      },
+      {
+        "height": 2094,
+        "media_key": "3_2003429049994215426",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G82cGzmagAIVupu.jpg",
+        "width": 960
+      },
+      {
+        "height": 2291,
+        "media_key": "3_2003429050023591936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G82cGztawAAMxW_.jpg",
+        "width": 1129
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "2003429058856779936",
+        "created_at": "2025-12-24T03:37:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-24T04:37:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003671326347919663"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1249276197202100224",
+              "start": 0,
+              "username": "Fujiwarahermia3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003671326347919663",
+        "in_reply_to_user_id": "1249276197202100224",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003429058856779936",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Fujiwarahermia3 多好玩"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2003429049780297728",
+            "3_2003429049767768064",
+            "3_2003429049994215426",
+            "3_2003429050023591936"
+          ]
+        },
+        "author_id": "1249276197202100224",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2003429058856779936",
+        "created_at": "2025-12-23T11:34:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-23T12:34:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2003429058856779936"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AqCk71HV9N",
+              "end": 72,
+              "expanded_url": "https://x.com/Fujiwarahermia3/status/2003429058856779936/photo/1",
+              "media_key": "3_2003429049780297728",
+              "start": 49,
+              "url": "https://t.co/AqCk71HV9N"
+            },
+            {
+              "display_url": "pic.x.com/AqCk71HV9N",
+              "end": 72,
+              "expanded_url": "https://x.com/Fujiwarahermia3/status/2003429058856779936/photo/1",
+              "media_key": "3_2003429049767768064",
+              "start": 49,
+              "url": "https://t.co/AqCk71HV9N"
+            },
+            {
+              "display_url": "pic.x.com/AqCk71HV9N",
+              "end": 72,
+              "expanded_url": "https://x.com/Fujiwarahermia3/status/2003429058856779936/photo/1",
+              "media_key": "3_2003429049994215426",
+              "start": 49,
+              "url": "https://t.co/AqCk71HV9N"
+            },
+            {
+              "display_url": "pic.x.com/AqCk71HV9N",
+              "end": 72,
+              "expanded_url": "https://x.com/Fujiwarahermia3/status/2003429058856779936/photo/1",
+              "media_key": "3_2003429050023591936",
+              "start": 49,
+              "url": "https://t.co/AqCk71HV9N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003429058856779936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 74170,
+          "like_count": 202,
+          "quote_count": 4,
+          "reply_count": 94,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "碰上这种男的好后悔在墙内社交了……\n\n放置了两周，说已经有男友了都还在持续输出，毅力倒挺动人的（ https://t.co/AqCk71HV9N"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "水貓🍕｜ENFP-t ｜永遠14｜對象@saonanaa｜不嚴素食主義者｜向我提问！↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 19,
+                "username": "saonanaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%B0%B4%E6%B…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E6%B0%B4%E6%B0%B493927",
+                "start": 0,
+                "url": "https://t.co/qmQkMr2BJx"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你2.1km",
+        "name": "lovely水",
+        "pinned_tweet_id": "2002609771787268520",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002694749883682816/cD8uYfnW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3066,
+          "following_count": 1232,
+          "like_count": 252,
+          "listed_count": 7,
+          "media_count": 2527,
+          "tweet_count": 12021
+        },
+        "url": "https://t.co/qmQkMr2BJx",
+        "username": "lovelyshuimao",
+        "verified": true
+      },
+      {
+        "created_at": "2020-04-12T10:00:36.000Z",
+        "description": "蘑菇克里他",
+        "id": "1249276197202100224",
+        "location": "迷途竹林",
+        "name": "🍄Crete",
+        "pinned_tweet_id": "1985383089745633324",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984466835136446464/0yJZoaLC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 963,
+          "following_count": 419,
+          "like_count": 11293,
+          "listed_count": 2,
+          "media_count": 512,
+          "tweet_count": 2903
+        },
+        "username": "Fujiwarahermia3",
+        "verified": true
+      }
+    ]
+  }
+}

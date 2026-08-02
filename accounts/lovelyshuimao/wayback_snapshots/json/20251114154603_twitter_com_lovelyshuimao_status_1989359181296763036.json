@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1748763011140169729",
+    "conversation_id": "1986745890137321500",
+    "created_at": "2025-11-14T15:46:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-14T16:46:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1989359181296763036"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1921426104763682816",
+          "start": 0,
+          "username": "hiner233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1989359181296763036",
+    "in_reply_to_user_id": "1921426104763682816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986745890137321500",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hiner233 我2007顺直男，和身高和你差不多（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "1986745890137321500",
+        "created_at": "2025-11-14T15:46:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T16:46:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989359181296763036"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1921426104763682816",
+              "start": 0,
+              "username": "hiner233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989359181296763036",
+        "in_reply_to_user_id": "1921426104763682816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986745890137321500",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hiner233 我2007顺直男，和身高和你差不多（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1921426104763682816",
+        "conversation_id": "1986745890137321500",
+        "created_at": "2025-11-07T10:41:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T11:41:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986745890137321500"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/is_llll/status…",
+              "end": 110,
+              "expanded_url": "https://twitter.com/is_llll/status/1938254459882320032",
+              "start": 87,
+              "url": "https://t.co/E6AxZoXbPs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986745890137321500",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 26410,
+          "like_count": 81,
+          "quote_count": 2,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938254459882320032",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "可不可以给我一个2007年出生，又可爱又帅声音又好听又学习好的，身高跟我差不多的，有点幽默感和生活情趣的，温柔但是有主见的，会编程的，川渝内的小男孩。。。（并非幻想时间😋） https://t.co/E6AxZoXbPs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "水貓🍕｜ENFP-t ｜永遠14｜是豪貓不o不圓不殘不死｜對象@saonanaa｜素食主義者｜提問箱鏈接↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 31,
+                "username": "saonanaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%B0%B4%E6%B…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E6%B0%B4%E6%B0%B493927",
+                "start": 0,
+                "url": "https://t.co/qmQkMr39z5"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你2.1km",
+        "name": "lovely水",
+        "pinned_tweet_id": "1989256039670370746",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967556205590831104/87BEnlAx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2606,
+          "following_count": 1123,
+          "like_count": 245,
+          "listed_count": 7,
+          "media_count": 2262,
+          "tweet_count": 11138
+        },
+        "url": "https://t.co/qmQkMr39z5",
+        "username": "lovelyshuimao",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-11T04:44:35.000Z",
+        "description": "是Hiner / the one I trust, who I am ➡️ @nekoPura_0011 ❤️伪骨 ( ? ) 哥哥",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 38,
+                "username": "nekoPura_0011"
+              }
+            ]
+          }
+        },
+        "id": "1921426104763682816",
+        "name": "hiner",
+        "pinned_tweet_id": "1960736148806098958",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921426745561096192/Nixn0WTF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2219,
+          "following_count": 706,
+          "like_count": 42122,
+          "listed_count": 2,
+          "media_count": 214,
+          "tweet_count": 6246
+        },
+        "username": "hiner233",
+        "verified": false
+      }
+    ]
+  }
+}

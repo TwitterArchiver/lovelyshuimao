@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1748763011140169729",
+    "conversation_id": "2076968733571228130",
+    "created_at": "2026-07-14T23:32:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T00:32:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077174537943482608"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1633163319833169920",
+          "start": 0,
+          "username": "Lune101398"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077174537943482608",
+    "in_reply_to_user_id": "1633163319833169920",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076968733571228130",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lune101398 别断糖"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "2076968733571228130",
+        "created_at": "2026-07-14T23:32:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T00:32:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077174537943482608"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1633163319833169920",
+              "start": 0,
+              "username": "Lune101398"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077174537943482608",
+        "in_reply_to_user_id": "1633163319833169920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076968733571228130",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lune101398 别断糖"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1633163319833169920",
+        "conversation_id": "2076968733571228130",
+        "created_at": "2026-07-14T09:55:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T10:55:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076968733571228130"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2076968733571228130",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 10496,
+          "like_count": 73,
+          "quote_count": 1,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "hrt都四年了，胸部才开始出现明显肿块而且快速发育。\n之前用药确实一直在乱改，看来hrt不是只要用药就行，用对才是最重要的（也不知道现在对不对"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "🐱神仙水水猫星铃Lumia\n👩🏻‍💻INTJ ♀14 \n🙋🏻‍♀️提問box——————↓\n✍🏻想成為作家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGspkq"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你 4.3km",
+        "name": "lovely水",
+        "pinned_tweet_id": "2075897725733024056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045354329792749568/b7JXuLvu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5232,
+          "following_count": 998,
+          "like_count": 275,
+          "listed_count": 20,
+          "media_count": 3393,
+          "tweet_count": 15190
+        },
+        "url": "https://t.co/EZhyEGspkq",
+        "username": "lovelyshuimao",
+        "verified": true
+      },
+      {
+        "created_at": "2023-03-07T17:51:07.000Z",
+        "description": "请找我约饭！/ hrt 2022.11.5",
+        "id": "1633163319833169920",
+        "location": "北京",
+        "name": "meemee 🏳️‍⚧️",
+        "pinned_tweet_id": "1801595451155825138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1733845957564116992/UvEm9iSn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4862,
+          "following_count": 580,
+          "like_count": 11362,
+          "listed_count": 16,
+          "media_count": 646,
+          "tweet_count": 3968
+        },
+        "url": "",
+        "username": "Lune101398",
+        "verified": false
+      }
+    ]
+  }
+}

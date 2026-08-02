@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1748763011140169729",
+    "conversation_id": "2012420294854447212",
+    "created_at": "2026-01-17T18:41:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-17T19:41:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012596195789623809"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1734483664548118528",
+          "start": 0,
+          "username": "usd666666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012596195789623809",
+    "in_reply_to_user_id": "1734483664548118528",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012420294854447212",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@usd666666 这是中年男性吧\n女性可能不一样？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1151,
+        "media_key": "3_2012419980776849409",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-2NT20aQAEuWxp.jpg",
+        "width": 828
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "2012420294854447212",
+        "created_at": "2026-01-17T18:41:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T19:41:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012596195789623809"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1734483664548118528",
+              "start": 0,
+              "username": "usd666666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012596195789623809",
+        "in_reply_to_user_id": "1734483664548118528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012420294854447212",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@usd666666 这是中年男性吧\n女性可能不一样？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2012419980776849409"
+          ]
+        },
+        "author_id": "1734483664548118528",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2012420294854447212",
+        "created_at": "2026-01-17T07:02:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T08:02:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012420294854447212"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oYw3Vas3Jr",
+              "end": 58,
+              "expanded_url": "https://x.com/usd666666/status/2012420294854447212/photo/1",
+              "media_key": "3_2012419980776849409",
+              "start": 35,
+              "url": "https://t.co/oYw3Vas3Jr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012420294854447212",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 226,
+          "impression_count": 61699,
+          "like_count": 756,
+          "quote_count": 3,
+          "reply_count": 25,
+          "retweet_count": 141
+        },
+        "reply_settings": "everyone",
+        "text": "30-45岁黄金十五年生存底线：管好裤裆，防好枕边人，远离烂人烂事。 https://t.co/oYw3Vas3Jr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "水貓｜INTJ-t ｜永遠14歲｜提問↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGrRuS"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你2.1km",
+        "name": "lovely水",
+        "pinned_tweet_id": "2009971664344494303",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009519740319092737/8QXu2gXD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3317,
+          "following_count": 1014,
+          "like_count": 260,
+          "listed_count": 10,
+          "media_count": 2723,
+          "tweet_count": 12556
+        },
+        "url": "https://t.co/EZhyEGrRuS",
+        "username": "lovelyshuimao",
+        "verified": true
+      },
+      {
+        "created_at": "2023-12-12T08:02:41.000Z",
+        "description": "“旅居日本.印度的药师一枚，分享全球健康知识、药品科普、生活技能与人生感悟。每天一点提升，生活更美好～宝藏知识博主欢迎关注！” 🌍💊”TG:https://t.co/tNXmrr3pp1",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/yyybyg",
+                "end": 93,
+                "expanded_url": "http://t.me/yyybyg",
+                "start": 70,
+                "url": "https://t.co/tNXmrr3pp1"
+              }
+            ]
+          }
+        },
+        "id": "1734483664548118528",
+        "location": "Sydney, New South Wales",
+        "name": "🌍西时珍健康笔记",
+        "pinned_tweet_id": "1895457574000165189",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005846677346037760/yvCtDLum_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83210,
+          "following_count": 272,
+          "like_count": 1546,
+          "listed_count": 292,
+          "media_count": 2728,
+          "tweet_count": 7185
+        },
+        "username": "usd666666",
+        "verified": true
+      }
+    ]
+  }
+}

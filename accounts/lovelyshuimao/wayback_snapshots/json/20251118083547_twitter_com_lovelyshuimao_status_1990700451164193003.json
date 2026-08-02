@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1748763011140169729",
+    "conversation_id": "1990439187393503290",
+    "created_at": "2025-11-18T08:35:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-18T09:35:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990700451164193003"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2886649711",
+          "start": 0,
+          "username": "Goku1683"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990700451164193003",
+    "in_reply_to_user_id": "2886649711",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990439187393503290",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Goku1683 跨男性格大多和男的一样，很少在互联网上分享自己和抱团，所以都很零星当然看起来少了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1771,
+        "media_key": "3_1990439174978314240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5914kOaoAAo-6Q.jpg",
+        "width": 1284
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "1990439187393503290",
+        "created_at": "2025-11-18T08:35:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-18T09:35:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990700451164193003"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2886649711",
+              "start": 0,
+              "username": "Goku1683"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990700451164193003",
+        "in_reply_to_user_id": "2886649711",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990439187393503290",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Goku1683 跨男性格大多和男的一样，很少在互联网上分享自己和抱团，所以都很零星当然看起来少了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1990439174978314240"
+          ]
+        },
+        "author_id": "2886649711",
+        "conversation_id": "1990439187393503290",
+        "created_at": "2025-11-17T15:17:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-17T16:17:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990439187393503290"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ymrgg3rTtR",
+              "end": 37,
+              "expanded_url": "https://x.com/Goku1683/status/1990439187393503290/photo/1",
+              "media_key": "3_1990439174978314240",
+              "start": 14,
+              "url": "https://t.co/Ymrgg3rTtR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990439187393503290",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 30,
+          "impression_count": 132916,
+          "like_count": 274,
+          "quote_count": 11,
+          "reply_count": 165,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "脑子蹦出一个问题..... https://t.co/Ymrgg3rTtR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "水貓🍕｜ENFP-t ｜永遠14｜是豪貓不o不圓不殘不死｜對象@saonanaa｜素食主義者｜提問箱鏈接↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 31,
+                "username": "saonanaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%B0%B4%E6%B…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E6%B0%B4%E6%B0%B493927",
+                "start": 0,
+                "url": "https://t.co/qmQkMr39z5"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你2.1km",
+        "name": "lovely水",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967556205590831104/87BEnlAx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2649,
+          "following_count": 1117,
+          "like_count": 245,
+          "listed_count": 7,
+          "media_count": 2276,
+          "tweet_count": 11177
+        },
+        "url": "https://t.co/qmQkMr39z5",
+        "username": "lovelyshuimao",
+        "verified": true
+      },
+      {
+        "created_at": "2014-11-01T18:35:18.000Z",
+        "description": "🏳️‍⚧️/BPD/敢爱敢恨/情绪化/情绪时常处于两个极端/猎奇/表面是个m实则是个暴力s/略带偏执属性/待开发中..它说蓝色是忧郁*",
+        "id": "2886649711",
+        "name": "到里斯本看海*^🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951570985435717632/hrFmnHgz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1017,
+          "following_count": 657,
+          "like_count": 1086,
+          "listed_count": 1,
+          "media_count": 31,
+          "tweet_count": 144
+        },
+        "username": "Goku1683",
+        "verified": false
+      }
+    ]
+  }
+}

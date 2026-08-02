@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1748763011140169729",
+    "conversation_id": "2037159704023937049",
+    "created_at": "2026-03-26T17:00:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T18:00:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037213063536156839"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "965583779380129792",
+          "start": 0,
+          "username": "mario_2333"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037213063536156839",
+    "in_reply_to_user_id": "965583779380129792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037159704023937049",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mario_2333 我一开始不会打开的\n除非帖子评论超过预期，我可能中期会打开"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "虽然但是，如果限制评论，对刚来的正常人很不友好诶…\n\n大家都是从0走到现在的，不和别人多回复互动，很难有别人看你和关注你的；而且刚来鼓起勇气回复别人的推文的时候，肯定都是希望得到对方的回复呀\n\n至少在我这里它还是一个社交媒体平台，这个功能叫回复而不是评论，如果不是来社交的那为什么不去玩小红书微博之类的东西呢？\n\n我一直在这里就是因为推特比中国平台有好得多的氛围和很多友善的大家，我关注的人里也有两位数关注者的，跟我经常友善互动的人也有没有我关注的人关注的\n\n骚扰广告和不友善的人只需要多花1秒点个屏蔽，但是新人说不了话我会少认识好多现在的推友，而且也不会有我存在了\n\n以上，我承诺永远不使用常态化控评，仅在极端特殊情况使用，以及会继续尽量回复所有人\n",
+        "height": 1806,
+        "media_key": "3_2037159700673032192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEVx9FVbcAAfRcn.jpg",
+        "width": 1344
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "2037159704023937049",
+        "created_at": "2026-03-26T17:00:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T18:00:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037213063536156839"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "965583779380129792",
+              "start": 0,
+              "username": "mario_2333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037213063536156839",
+        "in_reply_to_user_id": "965583779380129792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037159704023937049",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mario_2333 我一开始不会打开的\n除非帖子评论超过预期，我可能中期会打开"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037159700673032192"
+          ]
+        },
+        "author_id": "965583779380129792",
+        "conversation_id": "2037159704023937049",
+        "created_at": "2026-03-26T13:28:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T14:28:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037159704023937049"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0oemvOxUa6",
+              "end": 67,
+              "expanded_url": "https://x.com/mario_2333/status/2037159704023937049/photo/1",
+              "media_key": "3_2037159700673032192",
+              "start": 44,
+              "url": "https://t.co/0oemvOxUa6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037159704023937049",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 4035,
+          "like_count": 115,
+          "quote_count": 3,
+          "reply_count": 25,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "推特加入了一个看似合理但是我认为非常糟糕的功能，对此的我的评论如图，不想删减到一条推了 https://t.co/0oemvOxUa6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "INTJ-t ｜永遠14歲｜提問↓｜❤️@saonanaa",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 20,
+                "username": "saonanaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGspkq"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你2.1km",
+        "name": "lovely水",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023831074921738240/frpPaTVT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4870,
+          "following_count": 1027,
+          "like_count": 269,
+          "listed_count": 13,
+          "media_count": 3074,
+          "tweet_count": 13641
+        },
+        "url": "https://t.co/EZhyEGspkq",
+        "username": "lovelyshuimao",
+        "verified": true
+      },
+      {
+        "created_at": "2018-02-19T13:48:07.000Z",
+        "description": "你好呀～谢谢你来看我🥰 | 想和大家成为好朋友，会温暖对待每个友善的人🥳 | 愿我们能从彼此的话语中获得力量(。•ω•。)ノ♡ | CC BY-NC 4.0",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Mario_2333",
+                "end": 23,
+                "expanded_url": "http://t.me/Mario_2333",
+                "start": 0,
+                "url": "https://t.co/pjgtS8ArcV"
+              }
+            ]
+          }
+        },
+        "id": "965583779380129792",
+        "location": "UTC+1",
+        "name": "🍭Mario🐈",
+        "pinned_tweet_id": "1904681321374376434",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004698600551395328/qRqzCin3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3319,
+          "following_count": 260,
+          "like_count": 42451,
+          "listed_count": 15,
+          "media_count": 904,
+          "tweet_count": 13640
+        },
+        "url": "https://t.co/pjgtS8ArcV",
+        "username": "mario_2333",
+        "verified": false
+      }
+    ]
+  }
+}

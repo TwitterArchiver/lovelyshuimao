@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1748763011140169729",
+    "conversation_id": "1995306746701918447",
+    "created_at": "2025-12-01T07:49:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-01T08:49:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995399824104206664"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1774110396854771712",
+          "start": 0,
+          "username": "JLGeasy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995399824104206664",
+    "in_reply_to_user_id": "1774110396854771712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995306746701918447",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JLGeasy 磨皮开高点解决99皮肤问题（"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1995306743338078208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7DA6VabkAAQP1I.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "1995306746701918447",
+        "created_at": "2025-12-01T07:49:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T08:49:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995399824104206664"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1774110396854771712",
+              "start": 0,
+              "username": "JLGeasy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995399824104206664",
+        "in_reply_to_user_id": "1774110396854771712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995306746701918447",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JLGeasy 磨皮开高点解决99皮肤问题（"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995306743338078208"
+          ]
+        },
+        "author_id": "1774110396854771712",
+        "conversation_id": "1995306746701918447",
+        "created_at": "2025-12-01T01:39:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T02:39:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995306746701918447"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tyrs0cTrue",
+              "end": 68,
+              "expanded_url": "https://x.com/JLGeasy/status/1995306746701918447/photo/1",
+              "media_key": "3_1995306743338078208",
+              "start": 45,
+              "url": "https://t.co/tyrs0cTrue"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995306746701918447",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1395,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "emmmm明明保养的很好每天都在涂身体乳，为什么腿还会这样？（求推友可以讲解一下嘛🥺🥺） https://t.co/tyrs0cTrue"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "水貓🍕｜ENFP-t ｜永遠14｜是豪貓不o不圓不殘不死｜對象@saonanaa｜素食主義者｜提問箱鏈接↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 31,
+                "username": "saonanaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%B0%B4%E6%B…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E6%B0%B4%E6%B0%B493927",
+                "start": 0,
+                "url": "https://t.co/qmQkMr39z5"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你2.1km",
+        "name": "lovely水",
+        "pinned_tweet_id": "1994304923094098025",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994377431365697536/FlF4hwSr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2708,
+          "following_count": 1128,
+          "like_count": 248,
+          "listed_count": 7,
+          "media_count": 2336,
+          "tweet_count": 11396
+        },
+        "url": "https://t.co/qmQkMr39z5",
+        "username": "lovelyshuimao",
+        "verified": true
+      },
+      {
+        "created_at": "2024-03-30T16:24:27.000Z",
+        "description": "叫我easy就好，有证男娘，发发槽点还有女装之类的，逐渐正常化 /过门50（树洞easy随时为您服务）\n/可爱老婆是：@mengmeng000715 （逐渐反跨）\ntg群：https://t.co/BuPTK6zgts",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 59,
+                "username": "mengmeng000715"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+Fgtgs1AMUMU3Y…",
+                "end": 109,
+                "expanded_url": "https://t.me/+Fgtgs1AMUMU3YjFl",
+                "start": 86,
+                "url": "https://t.co/BuPTK6zgts"
+              }
+            ]
+          }
+        },
+        "id": "1774110396854771712",
+        "location": "中国",
+        "name": "easy🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1994410276616339698",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995236197791318017/jIZCVyWl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6793,
+          "following_count": 617,
+          "like_count": 5601,
+          "listed_count": 12,
+          "media_count": 527,
+          "tweet_count": 4393
+        },
+        "username": "JLGeasy",
+        "verified": false
+      }
+    ]
+  }
+}

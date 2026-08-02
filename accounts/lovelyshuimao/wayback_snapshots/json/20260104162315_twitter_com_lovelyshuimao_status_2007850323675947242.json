@@ -1,0 +1,308 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2007850316872691712"
+      ]
+    },
+    "author_id": "1748763011140169729",
+    "conversation_id": "2007794397610668187",
+    "created_at": "2026-01-04T16:23:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-04T17:23:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007850323675947242"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1989517742127652866",
+          "start": 0,
+          "username": "AGNK_553"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xb1SDnxUZl",
+          "end": 42,
+          "expanded_url": "https://x.com/lovelyshuimao/status/2007850323675947242/photo/1",
+          "media_key": "3_2007850316872691712",
+          "start": 19,
+          "url": "https://t.co/xb1SDnxUZl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007850323675947242",
+    "in_reply_to_user_id": "1989517742127652866",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007847407925789043",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AGNK_553 打开就是这个样子 https://t.co/xb1SDnxUZl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1320,
+        "media_key": "3_2007850316872691712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G91ROaNaMAA9Ngh.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2007850316872691712"
+          ]
+        },
+        "author_id": "1748763011140169729",
+        "conversation_id": "2007794397610668187",
+        "created_at": "2026-01-04T16:23:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T17:23:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007850323675947242"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1989517742127652866",
+              "start": 0,
+              "username": "AGNK_553"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xb1SDnxUZl",
+              "end": 42,
+              "expanded_url": "https://x.com/lovelyshuimao/status/2007850323675947242/photo/1",
+              "media_key": "3_2007850316872691712",
+              "start": 19,
+              "url": "https://t.co/xb1SDnxUZl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007850323675947242",
+        "in_reply_to_user_id": "1989517742127652866",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007847407925789043",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AGNK_553 打开就是这个样子 https://t.co/xb1SDnxUZl"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989517742127652866",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Ethereum Cryptocurrency",
+              "id": "1007361429752594432",
+              "name": "Ethereum cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Ethereum Cryptocurrency",
+              "id": "1007361429752594432",
+              "name": "Ethereum cryptocurrency"
+            }
+          }
+        ],
+        "conversation_id": "2007794397610668187",
+        "created_at": "2026-01-04T16:11:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T17:11:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007847407925789043"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1748763011140169729",
+              "start": 0,
+              "username": "lovelyshuimao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007847407925789043",
+        "in_reply_to_user_id": "1748763011140169729",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007847132938772613",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lovelyshuimao bzd为什么 ，我填的是eth地址"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "水貓｜ENFP-t ｜永遠8歲｜提問↓ ｜對象@saonanaa｜Vegan｜心理兩畸｜蓝v互fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 23,
+                "username": "saonanaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGrRuS"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你2.1km",
+        "name": "lovely水",
+        "pinned_tweet_id": "2007376785382748406",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002694749883682816/cD8uYfnW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3252,
+          "following_count": 1008,
+          "like_count": 254,
+          "listed_count": 8,
+          "media_count": 2618,
+          "tweet_count": 12213
+        },
+        "url": "https://t.co/EZhyEGrRuS",
+        "username": "lovelyshuimao",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-15T02:17:39.000Z",
+        "description": "重生\n一般路过 可以叫我553\n09 MTX 事学生\n简繁中/EN ok\nTag: MC(建筑/科技) 音游(4k,Phi,范式) FPV 星际公民 带点鉴证\n无门槛欢迎聊天 不回消息一般是不知道怎么回或者没看到\n会骂人但不说⏰脏话 看我不爽别看\n没回fo可能没看到 可以评论喵\n耐活王喵 梦想是润了过五天八小时的生活",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "open.spotify.com/user/317vzs3dk…",
+                "end": 23,
+                "expanded_url": "https://open.spotify.com/user/317vzs3dkqdzhvxdjzsfi66wwp2i",
+                "start": 0,
+                "url": "https://t.co/QS5wTtdcbs"
+              }
+            ]
+          }
+        },
+        "id": "1989517742127652866",
+        "location": "歌单➡️",
+        "name": "AG553｜🏳️‍⚧️ ｜请看主页 求互fo,聊天喵",
+        "pinned_tweet_id": "2000804133641838985",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007760982119264257/d5idk5sh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 277,
+          "following_count": 798,
+          "like_count": 7738,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 887
+        },
+        "url": "https://t.co/QS5wTtdcbs",
+        "username": "AGNK_553",
+        "verified": false
+      }
+    ]
+  }
+}

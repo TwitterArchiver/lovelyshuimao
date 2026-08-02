@@ -1,0 +1,185 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1994226295564324866"
+      ]
+    },
+    "author_id": "1748763011140169729",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1994226310328078668",
+    "created_at": "2025-11-28T02:06:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-28T03:06:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1994226310328078668"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/U3gakXFqYi",
+          "end": 33,
+          "expanded_url": "https://x.com/lovelyshuimao/status/1994226310328078668/photo/1",
+          "media_key": "3_1994226295564324866",
+          "start": 10,
+          "url": "https://t.co/U3gakXFqYi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994226310328078668",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "谁喝过这个蓝色红酒 https://t.co/U3gakXFqYi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_1994226295564324866",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6zqP_za0AII6qb.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994226295564324866"
+          ]
+        },
+        "author_id": "1748763011140169729",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1994226310328078668",
+        "created_at": "2025-11-28T02:06:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T03:06:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994226310328078668"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/U3gakXFqYi",
+              "end": 33,
+              "expanded_url": "https://x.com/lovelyshuimao/status/1994226310328078668/photo/1",
+              "media_key": "3_1994226295564324866",
+              "start": 10,
+              "url": "https://t.co/U3gakXFqYi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994226310328078668",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谁喝过这个蓝色红酒 https://t.co/U3gakXFqYi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "水貓🍕｜ENFP-t ｜永遠14｜是豪貓不o不圓不殘不死｜對象@saonanaa｜素食主義者｜提問箱鏈接↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 31,
+                "username": "saonanaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%B0%B4%E6%B…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E6%B0%B4%E6%B0%B493927",
+                "start": 0,
+                "url": "https://t.co/qmQkMr39z5"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你2.1km",
+        "name": "水猫",
+        "pinned_tweet_id": "1993631324587139301",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993028932300578816/oCL3VkIO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2706,
+          "following_count": 1125,
+          "like_count": 248,
+          "listed_count": 7,
+          "media_count": 2318,
+          "tweet_count": 11322
+        },
+        "url": "https://t.co/qmQkMr39z5",
+        "username": "lovelyshuimao",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1748763011140169729",
+    "conversation_id": "2046216471823732753",
+    "created_at": "2026-04-21T12:32:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T13:32:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046567868033310828"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "854659920574140417",
+          "start": 0,
+          "username": "qq4454466962"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046567868033310828",
+    "in_reply_to_user_id": "854659920574140417",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046559762477920342",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qq4454466962 我现在用的就是ipadpro\n可是加上键盘也要一斤了，所以一直裸机"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "2046216471823732753",
+        "created_at": "2026-04-21T12:32:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T13:32:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046567868033310828"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "854659920574140417",
+              "start": 0,
+              "username": "qq4454466962"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046567868033310828",
+        "in_reply_to_user_id": "854659920574140417",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046559762477920342",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qq4454466962 我现在用的就是ipadpro\n可是加上键盘也要一斤了，所以一直裸机"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "854659920574140417",
+        "conversation_id": "2046216471823732753",
+        "created_at": "2026-04-21T12:00:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T13:00:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046559762477920342"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1748763011140169729",
+              "start": 0,
+              "username": "lovelyshuimao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046559762477920342",
+        "in_reply_to_user_id": "1748763011140169729",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046216471823732753",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lovelyshuimao ipadpro:你在说我？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "｜INTJ\n｜永遠14\n｜❤️ZhiWei @saonanaa\n｜提問——————————↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 22,
+                "username": "saonanaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGspkq"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你2.1km",
+        "name": "lovely水",
+        "pinned_tweet_id": "2046127996961161240",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045354329792749568/b7JXuLvu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4789,
+          "following_count": 1008,
+          "like_count": 273,
+          "listed_count": 13,
+          "media_count": 3171,
+          "tweet_count": 14041
+        },
+        "url": "https://t.co/EZhyEGspkq",
+        "username": "lovelyshuimao",
+        "verified": false
+      },
+      {
+        "created_at": "2017-04-19T11:36:18.000Z",
+        "description": "日本語N1レベルの中国カメラマンです！\n日本文化が好き、友達を作りたい\nアルミニウム業関係者、撮影に関する仕事も受けています\n中国の写真色々撮る",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "unsplash.com/@takeshi2",
+                "end": 23,
+                "expanded_url": "https://unsplash.com/@takeshi2",
+                "start": 0,
+                "url": "https://t.co/T78V9JXEBR"
+              }
+            ]
+          }
+        },
+        "id": "854659920574140417",
+        "location": "中国　天津",
+        "name": "カメラマンたけし",
+        "pinned_tweet_id": "1826191450272563276",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1078057261006610432/zUUR44rh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 863,
+          "following_count": 2270,
+          "like_count": 53028,
+          "listed_count": 6,
+          "media_count": 2342,
+          "tweet_count": 30337
+        },
+        "url": "https://t.co/T78V9JXEBR",
+        "username": "qq4454466962",
+        "verified": false
+      }
+    ]
+  }
+}

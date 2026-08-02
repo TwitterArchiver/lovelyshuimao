@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1748763011140169729",
+    "conversation_id": "2077002351110738342",
+    "created_at": "2026-07-15T06:49:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T07:49:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077284522526413171"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2063168843070205952",
+          "start": 0,
+          "username": "OginoHirosakuo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077284522526413171",
+    "in_reply_to_user_id": "2063168843070205952",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077282916586156206",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OginoHirosakuo 全班起哄“台独”了（\n不过实际上我也是写着玩（我不是台独）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "2077002351110738342",
+        "created_at": "2026-07-15T06:49:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T07:49:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077284522526413171"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2063168843070205952",
+              "start": 0,
+              "username": "OginoHirosakuo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077284522526413171",
+        "in_reply_to_user_id": "2063168843070205952",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077282916586156206",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OginoHirosakuo 全班起哄“台独”了（\n不过实际上我也是写着玩（我不是台独）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063168843070205952",
+        "conversation_id": "2077002351110738342",
+        "created_at": "2026-07-15T06:43:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T07:43:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077282916586156206"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1748763011140169729",
+              "start": 0,
+              "username": "lovelyshuimao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077282916586156206",
+        "in_reply_to_user_id": "1748763011140169729",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077250853233418567",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lovelyshuimao 在中国大陆这种政治色彩特浓厚的地方还真得另当别论，不过老师足够包容的话也挺有意思的哈哈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "🐱神仙水水猫星铃Lumia\n👩🏻‍💻INTJ ♀14 \n🙋🏻‍♀️提問box——————↓\n✍🏻想成為作家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGspkq"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你 4.3km",
+        "name": "lovely水",
+        "pinned_tweet_id": "2075897725733024056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045354329792749568/b7JXuLvu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5233,
+          "following_count": 998,
+          "like_count": 275,
+          "listed_count": 20,
+          "media_count": 3395,
+          "tweet_count": 15213
+        },
+        "url": "https://t.co/EZhyEGspkq",
+        "username": "lovelyshuimao",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-06T08:01:21.000Z",
+        "description": "向生而活，向死而生",
+        "id": "2063168843070205952",
+        "name": "冬汶岸",
+        "pinned_tweet_id": "2077229462819869122",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063322498217959424/WH7zU0fs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 34,
+          "like_count": 134,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 63
+        },
+        "url": "",
+        "username": "OginoHirosakuo",
+        "verified": false
+      }
+    ]
+  }
+}

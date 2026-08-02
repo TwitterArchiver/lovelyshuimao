@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1748763011140169729",
+    "conversation_id": "2046391228506439917",
+    "created_at": "2026-04-21T07:55:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T08:55:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046498103294132388"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1621709543750385664",
+          "start": 0,
+          "username": "quarktalksss"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046498103294132388",
+    "in_reply_to_user_id": "1621709543750385664",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046391228506439917",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@quarktalksss 这人用过克劳德没\n我给它的信息里就写着我的城市，从来没被封号\n封号和系统语言有什么关系\n和ip和付款方式有关系"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 40053,
+        "height": 1030,
+        "media_key": "7_2046391197661642752",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2046391197661642752/pu/img/auXKRWLXFdOK6wD6.jpg",
+        "public_metrics": {
+          "view_count": 25750
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2046391197661642752/pu/vid/avc1/320x686/0KCduL2JO3CASIMP.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2046391197661642752/pu/vid/avc1/480x1030/fLdUpSaeWR5hlm4h.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2046391197661642752/pu/pl/F5VVln2-ZuFEHzzn.m3u8?v=fc3"
+          }
+        ],
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "2046391228506439917",
+        "created_at": "2026-04-21T07:55:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T08:55:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046498103294132388"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1621709543750385664",
+              "start": 0,
+              "username": "quarktalksss"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046498103294132388",
+        "in_reply_to_user_id": "1621709543750385664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046391228506439917",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@quarktalksss 这人用过克劳德没\n我给它的信息里就写着我的城市，从来没被封号\n封号和系统语言有什么关系\n和ip和付款方式有关系"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2046391197661642752"
+          ]
+        },
+        "author_id": "1621709543750385664",
+        "conversation_id": "2046391228506439917",
+        "created_at": "2026-04-21T00:51:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T01:51:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046391228506439917"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rHIN111Zig",
+              "end": 157,
+              "expanded_url": "https://x.com/quarktalksss/status/2046391228506439917/video/1",
+              "media_key": "7_2046391197661642752",
+              "start": 134,
+              "url": "https://t.co/rHIN111Zig"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046391228506439917",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 42,
+          "impression_count": 51090,
+          "like_count": 286,
+          "quote_count": 0,
+          "reply_count": 59,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "某ai行业从业者哭诉：我再也不想装外国人了。起因是他用Claude被封号，但国内AI都不给力，找不到平替，并且，自己被封号后，依然得屈辱地继续装外国人注册新号。\n这个事你也怪不得人家，谁让deepseek们臭不要脸地一边蒸馏，一边吹嘘遥遥领先呢？给你断了就说卡脖子。 https://t.co/rHIN111Zig"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "｜INTJ\n｜永遠14\n｜❤️ZhiWei @saonanaa\n｜提問——————————↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 22,
+                "username": "saonanaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGspkq"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你2.1km",
+        "name": "lovely水",
+        "pinned_tweet_id": "2046127996961161240",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045354329792749568/b7JXuLvu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4791,
+          "following_count": 1009,
+          "like_count": 273,
+          "listed_count": 13,
+          "media_count": 3169,
+          "tweet_count": 14036
+        },
+        "url": "https://t.co/EZhyEGspkq",
+        "username": "lovelyshuimao",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-04T03:18:05.000Z",
+        "description": "youtube账号：夸克说",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@%E5%A4%B8%E5%…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@%E5%A4%B8%E5%85%8B%E8%AF%B4",
+                "start": 0,
+                "url": "https://t.co/eZ6ILrdttM"
+              }
+            ]
+          }
+        },
+        "id": "1621709543750385664",
+        "location": "Canada",
+        "name": "夸克说",
+        "pinned_tweet_id": "2045320537958928570",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969808918886105090/skT7BSEZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30136,
+          "following_count": 34,
+          "like_count": 2034,
+          "listed_count": 166,
+          "media_count": 1124,
+          "tweet_count": 4946
+        },
+        "url": "https://t.co/eZ6ILrdttM",
+        "username": "quarktalksss",
+        "verified": true
+      }
+    ]
+  }
+}

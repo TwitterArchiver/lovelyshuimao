@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1984513906052907010"
+      ]
+    },
+    "author_id": "1748763011140169729",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      }
+    ],
+    "conversation_id": "1984514031215132787",
+    "created_at": "2025-11-01T06:53:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-01T07:53:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1984514031215132787"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 36,
+          "id": "380749300",
+          "start": 30,
+          "username": "Apple"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1VEoIlD2Ox",
+          "end": 63,
+          "expanded_url": "https://x.com/lovelyshuimao/status/1984514031215132787/video/1",
+          "media_key": "13_1984513906052907010",
+          "start": 40,
+          "url": "https://t.co/1VEoIlD2Ox"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984514031215132787",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "设置崩溃了..\nThe setting crashed..\n@Apple ？？ https://t.co/1VEoIlD2Ox"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9385,
+        "height": 2868,
+        "media_key": "13_1984513906052907010",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1984513906052907010/img/TYU8cPcvAagmQ4ea.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1984513906052907010/vid/avc1/720x1564/bcBR3QwhPEoPjQCA.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1984513906052907010/vid/avc1/320x694/Max2k1bPso4cl8G_.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1984513906052907010/vid/avc1/1320x2868/m1ZIxNuRquEwjm3k.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1984513906052907010/vid/avc1/480x1042/hxKm39BvIMJ8cO6a.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1984513906052907010/pl/McidoaSxxaHydNJ5.m3u8"
+          }
+        ],
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1984513906052907010"
+          ]
+        },
+        "author_id": "1748763011140169729",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          }
+        ],
+        "conversation_id": "1984514031215132787",
+        "created_at": "2025-11-01T06:53:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-01T07:53:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1984514031215132787"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 36,
+              "id": "380749300",
+              "start": 30,
+              "username": "Apple"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1VEoIlD2Ox",
+              "end": 63,
+              "expanded_url": "https://x.com/lovelyshuimao/status/1984514031215132787/video/1",
+              "media_key": "13_1984513906052907010",
+              "start": 40,
+              "url": "https://t.co/1VEoIlD2Ox"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984514031215132787",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "设置崩溃了..\nThe setting crashed..\n@Apple ？？ https://t.co/1VEoIlD2Ox"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "ENFP-t ｜永远14｜是豪猫不o不圆不割不死｜对象@saonanaa｜雙相＆抑鬱｜家長不管黨｜提問箱鏈接↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 27,
+                "username": "saonanaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%B0%B4%E6%B…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E6%B0%B4%E6%B0%B493927",
+                "start": 0,
+                "url": "https://t.co/qmQkMr2BJx"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你2.1km",
+        "name": "lovely水水猫🍕",
+        "pinned_tweet_id": "1983629097923440976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967556205590831104/87BEnlAx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2437,
+          "following_count": 1117,
+          "like_count": 244,
+          "listed_count": 7,
+          "media_count": 2181,
+          "tweet_count": 10884
+        },
+        "url": "https://t.co/qmQkMr2BJx",
+        "username": "lovelyshuimao",
+        "verified": true
+      },
+      {
+        "created_at": "2011-09-27T05:02:03.000Z",
+        "description": "https://t.co/4dZx1rwvgY",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "Apple.com",
+                "end": 23,
+                "expanded_url": "http://Apple.com",
+                "start": 0,
+                "url": "https://t.co/4dZx1rwvgY"
+              }
+            ]
+          }
+        },
+        "id": "380749300",
+        "location": "Cupertino, CA",
+        "name": "Apple",
+        "pinned_tweet_id": "1965478073152995503",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892248257516224513/SzZdRSkx_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9983725,
+          "following_count": 0,
+          "like_count": 0,
+          "listed_count": 15088,
+          "media_count": 0,
+          "tweet_count": 0
+        },
+        "username": "Apple",
+        "verified": true
+      }
+    ]
+  }
+}

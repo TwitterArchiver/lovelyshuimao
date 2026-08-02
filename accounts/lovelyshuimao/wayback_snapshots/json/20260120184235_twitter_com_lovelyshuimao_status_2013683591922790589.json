@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1748763011140169729",
+    "conversation_id": "2013590458107339156",
+    "created_at": "2026-01-20T18:42:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-20T19:42:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013683591922790589"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1263368268103860227",
+          "start": 0,
+          "username": "kano_258025"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013683591922790589",
+    "in_reply_to_user_id": "1263368268103860227",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013683202158727198",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kano_258025 一盒30顺丰+10"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "2013590458107339156",
+        "created_at": "2026-01-20T18:42:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T19:42:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013683591922790589"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1263368268103860227",
+              "start": 0,
+              "username": "kano_258025"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013683591922790589",
+        "in_reply_to_user_id": "1263368268103860227",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013683202158727198",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kano_258025 一盒30顺丰+10"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1263368268103860227",
+        "conversation_id": "2013590458107339156",
+        "created_at": "2026-01-20T18:41:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T19:41:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013683202158727198"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1748763011140169729",
+              "start": 0,
+              "username": "lovelyshuimao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013683202158727198",
+        "in_reply_to_user_id": "1748763011140169729",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013590458107339156",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lovelyshuimao 一盒32.5，唔，有点贵了）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "水貓｜INTJ-t ｜永遠14歲｜提問↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGrRuS"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你2.1km",
+        "name": "lovely水",
+        "pinned_tweet_id": "2013295023412941092",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009519740319092737/8QXu2gXD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3435,
+          "following_count": 1015,
+          "like_count": 260,
+          "listed_count": 10,
+          "media_count": 2741,
+          "tweet_count": 12667
+        },
+        "url": "https://t.co/EZhyEGrRuS",
+        "username": "lovelyshuimao",
+        "verified": true
+      },
+      {
+        "created_at": "2020-05-21T07:20:32.000Z",
+        "description": "性别不详，性别是武装直升机\n\n                                                     大少女乐队全肯定！！！！！\n        厨要乐奈？鹿乃淡粉小鹿包   \n            拉拉人和邦邦人               百合豚（民国派）   日菜947鬼图喜欢",
+        "id": "1263368268103860227",
+        "location": "民国115年明太庙",
+        "name": "BanG Dream!世祖光武皇帝高松灯MyGO子",
+        "pinned_tweet_id": "2011808053918875795",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013264754064732160/aFIctnNp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1173,
+          "following_count": 2315,
+          "like_count": 81993,
+          "listed_count": 6,
+          "media_count": 494,
+          "tweet_count": 7563
+        },
+        "username": "kano_258025",
+        "verified": false
+      }
+    ]
+  }
+}

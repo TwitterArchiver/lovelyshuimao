@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1748763011140169729",
+    "conversation_id": "2008385290248069598",
+    "created_at": "2026-01-06T03:49:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-06T04:49:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2008385290248069598"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xiaojuan24/sta…",
+          "end": 49,
+          "expanded_url": "https://twitter.com/xiaojuan24/status/2008213000537477278",
+          "start": 26,
+          "url": "https://t.co/72lLgAlGzw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008385290248069598",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008213000537477278",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "2026年能七天无理由退款吗？试了6天感觉不想活了 https://t.co/72lLgAlGzw"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "2008385290248069598",
+        "created_at": "2026-01-06T03:49:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T04:49:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008385290248069598"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xiaojuan24/sta…",
+              "end": 49,
+              "expanded_url": "https://twitter.com/xiaojuan24/status/2008213000537477278",
+              "start": 26,
+              "url": "https://t.co/72lLgAlGzw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008385290248069598",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008213000537477278",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "2026年能七天无理由退款吗？试了6天感觉不想活了 https://t.co/72lLgAlGzw"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1357661747243483138",
+        "conversation_id": "2008213000537477278",
+        "created_at": "2026-01-05T16:24:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-05T17:24:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008213000537477278"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2008213000537477278",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 9505,
+          "like_count": 186,
+          "quote_count": 5,
+          "reply_count": 15,
+          "retweet_count": 22
+        },
+        "reply_settings": "everyone",
+        "text": "2026年能七天无理由退款吗？试了6天感觉不想活了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "水貓｜ENFP-t ｜永遠8歲｜提問↓ ｜對象@saonanaa｜Vegan｜心理兩畸｜蓝v互fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 23,
+                "username": "saonanaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGrRuS"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你2.1km",
+        "name": "lovely水",
+        "pinned_tweet_id": "2007376785382748406",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002694749883682816/cD8uYfnW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3250,
+          "following_count": 1013,
+          "like_count": 254,
+          "listed_count": 8,
+          "media_count": 2635,
+          "tweet_count": 12268
+        },
+        "url": "https://t.co/EZhyEGrRuS",
+        "username": "lovelyshuimao",
+        "verified": true
+      },
+      {
+        "created_at": "2021-02-05T12:06:12.000Z",
+        "description": "/纯绿 纯绿/爱发点没营养的废话/互关可以加v/私信礼貌的看见都会回/宝宝@jxcc515 ‼️置顶关评推广自辨‼️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 37,
+                "username": "jxcc515"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ssrcat.bar/index.php#/reg…",
+                "end": 23,
+                "expanded_url": "https://ssrcat.bar/index.php#/register?code=2W9iFUUM&from=XiaoJuan",
+                "start": 0,
+                "url": "https://t.co/bYVjtJpkmC"
+              }
+            ]
+          }
+        },
+        "id": "1357661747243483138",
+        "location": "自用VPN 有需要的可以试试⬇️",
+        "name": "小卷",
+        "pinned_tweet_id": "1990401726130581750",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983936643041259520/cVCfEdzM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3235,
+          "following_count": 320,
+          "like_count": 7665,
+          "listed_count": 4,
+          "media_count": 213,
+          "tweet_count": 3034
+        },
+        "url": "https://t.co/bYVjtJpkmC",
+        "username": "Xiaojuan24",
+        "verified": false
+      }
+    ]
+  }
+}

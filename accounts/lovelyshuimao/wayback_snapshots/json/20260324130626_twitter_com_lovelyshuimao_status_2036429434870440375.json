@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1748763011140169729",
+    "conversation_id": "2036355902224343090",
+    "created_at": "2026-03-24T13:06:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-24T14:06:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036429434870440375"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1983869548811145216",
+          "start": 0,
+          "username": "shinin1838"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036429434870440375",
+    "in_reply_to_user_id": "1983869548811145216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036429190040625661",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shinin1838 有秩序就有规则"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "2036355902224343090",
+        "created_at": "2026-03-24T13:06:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T14:06:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036429434870440375"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1983869548811145216",
+              "start": 0,
+              "username": "shinin1838"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036429434870440375",
+        "in_reply_to_user_id": "1983869548811145216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036429190040625661",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shinin1838 有秩序就有规则"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983869548811145216",
+        "conversation_id": "2036355902224343090",
+        "created_at": "2026-03-24T13:05:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T14:05:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036429190040625661"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1748763011140169729",
+              "start": 0,
+              "username": "lovelyshuimao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036429190040625661",
+        "in_reply_to_user_id": "1748763011140169729",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036355902224343090",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lovelyshuimao 混亂是不自由，自由是適當的秩序"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "INTJ-t ｜永遠14歲｜提問↓｜❤️@saonanaa",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 20,
+                "username": "saonanaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGspkq"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你2.1km",
+        "name": "lovely水",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023831074921738240/frpPaTVT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4853,
+          "following_count": 1025,
+          "like_count": 269,
+          "listed_count": 13,
+          "media_count": 3064,
+          "tweet_count": 13588
+        },
+        "url": "https://t.co/EZhyEGspkq",
+        "username": "lovelyshuimao",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-30T12:12:26.000Z",
+        "description": "反極權。反對身分政治（將個別身分群體凌駕於個體的人和普遍人權之上，包括但不限於法西斯、種族、性別、階級、國家）",
+        "id": "1983869548811145216",
+        "name": "しにんえいえん",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035673391433486336/Hdja43sy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 86,
+          "like_count": 1077,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 159
+        },
+        "username": "shinin1838",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1748763011140169729",
+    "conversation_id": "2074093529505366355",
+    "created_at": "2026-07-07T02:38:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T03:38:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074322084969456081"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1701484460250890240",
+          "start": 0,
+          "username": "SonogamiRinneTS"
+        },
+        {
+          "end": 26,
+          "id": "1694949132098584576",
+          "start": 17,
+          "username": "CAawaish"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074322084969456081",
+    "in_reply_to_user_id": "1701484460250890240",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074155403378921664",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SonogamiRinneTS @CAawaish 不儿哈哈哈哈\n死活不让住让他们死一个活一个先\n不然就住就住只要经济独立管他们呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "2074093529505366355",
+        "created_at": "2026-07-07T02:38:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T03:38:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074322084969456081"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1701484460250890240",
+              "start": 0,
+              "username": "SonogamiRinneTS"
+            },
+            {
+              "end": 26,
+              "id": "1694949132098584576",
+              "start": 17,
+              "username": "CAawaish"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074322084969456081",
+        "in_reply_to_user_id": "1701484460250890240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074155403378921664",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SonogamiRinneTS @CAawaish 不儿哈哈哈哈\n死活不让住让他们死一个活一个先\n不然就住就住只要经济独立管他们呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1701484460250890240",
+        "conversation_id": "2074093529505366355",
+        "created_at": "2026-07-06T15:35:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T16:35:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074155403378921664"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1694949132098584576",
+              "start": 0,
+              "username": "CAawaish"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074155403378921664",
+        "in_reply_to_user_id": "1694949132098584576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 187,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074134390666662401",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CAawaish 26了，但他们死活不让我出去自己住😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "🐱水猫星铃Lumia\n👩🏻‍💻INTJ ♀14 \n❤️@zhwevea\n🙋🏻‍♀️提問box——————↓\n✍🏻想要成为哲学作家\n🧠神经性两畸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 28,
+                "username": "zhwevea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGspkq"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你 4.3km",
+        "name": "lovely水",
+        "pinned_tweet_id": "2063974537272910172",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045354329792749568/b7JXuLvu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5026,
+          "following_count": 997,
+          "like_count": 275,
+          "listed_count": 20,
+          "media_count": 3335,
+          "tweet_count": 14961
+        },
+        "url": "https://t.co/EZhyEGspkq",
+        "username": "lovelyshuimao",
+        "verified": true
+      },
+      {
+        "created_at": "2023-09-12T06:34:58.000Z",
+        "description": "药娘mtf/无证含糖/hrt: 2025.1.15/仓库搬砖中/自闭症精残/究极天残党/同类互关/王者，崩铁，原神",
+        "id": "1701484460250890240",
+        "name": "是Rinne酱呀",
+        "pinned_tweet_id": "1889100356099203268",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888922914763988992/-ixcDogC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5001,
+          "following_count": 3732,
+          "like_count": 1496,
+          "listed_count": 17,
+          "media_count": 285,
+          "tweet_count": 1966
+        },
+        "url": "",
+        "username": "SonogamiRinneTS",
+        "verified": true
+      },
+      {
+        "created_at": "2023-08-25T05:45:54.000Z",
+        "description": "是原catfish_speaking_awaish || 代詞使用也/他/其\n阿瓦！AwA！ || 以心爲鑒 夢歸瓦蘭\n很好，玄微又一次忘记了自己原来的密码，第三个帐号了（捂脸）\n@xuan2wei1 也是本人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 90,
+                "username": "xuan2wei1"
+              }
+            ]
+          }
+        },
+        "id": "1694949132098584576",
+        "location": "Awaland",
+        "name": "語阿瓦語的貓余",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027017744273784832/SIUehPyU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 237,
+          "like_count": 17858,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 1450
+        },
+        "url": "",
+        "username": "CAawaish",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1748763011140169729",
+    "conversation_id": "2075524485097345102",
+    "created_at": "2026-07-10T12:58:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T13:58:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075565417192640745"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1740708998524141568",
+          "start": 0,
+          "username": "gaga860166912"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075565417192640745",
+    "in_reply_to_user_id": "1740708998524141568",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075556579135689106",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gaga860166912 我不知道"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "2075524485097345102",
+        "created_at": "2026-07-10T12:58:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T13:58:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075565417192640745"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1740708998524141568",
+              "start": 0,
+              "username": "gaga860166912"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075565417192640745",
+        "in_reply_to_user_id": "1740708998524141568",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075556579135689106",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gaga860166912 我不知道"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1740708998524141568",
+        "conversation_id": "2075524485097345102",
+        "created_at": "2026-07-10T12:23:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T13:23:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075556579135689106"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1748763011140169729",
+              "start": 0,
+              "username": "lovelyshuimao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075556579135689106",
+        "in_reply_to_user_id": "1748763011140169729",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075524485097345102",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lovelyshuimao 從甚麼時候開始很重要嗎?\n先問問甚麼是女人~\n為什麼能接受閹割 假體 藥物等等畸形模樣當女人˙?"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "🐱神仙水水猫星铃Lumia\n👩🏻‍💻INTJ ♀14 \n🙋🏻‍♀️提問box——————↓\n✍🏻想要成为哲学作家\n🧠神经性两畸",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGspkq"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你 4.3km",
+        "name": "lovely水",
+        "pinned_tweet_id": "2075250029720482257",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045354329792749568/b7JXuLvu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5039,
+          "following_count": 997,
+          "like_count": 275,
+          "listed_count": 20,
+          "media_count": 3353,
+          "tweet_count": 15023
+        },
+        "url": "https://t.co/EZhyEGspkq",
+        "username": "lovelyshuimao",
+        "verified": true
+      },
+      {
+        "created_at": "2023-12-29T12:19:14.000Z",
+        "description": "",
+        "id": "1740708998524141568",
+        "name": "gaga",
+        "pinned_tweet_id": "2069759036455882944",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1740709058074779648/ROSy_bLV_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 17,
+          "like_count": 33,
+          "listed_count": 2,
+          "media_count": 530,
+          "tweet_count": 6488
+        },
+        "url": "",
+        "username": "gaga860166912",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,356 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1748763011140169729",
+    "conversation_id": "2055888650370535667",
+    "created_at": "2026-05-17T06:39:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T07:39:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055900969930752189"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2041159531657416704",
+          "start": 0,
+          "username": "amber_digit2"
+        },
+        {
+          "end": 30,
+          "id": "1313383273079345152",
+          "start": 14,
+          "username": "ValeriaEulabeia"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055900969930752189",
+    "in_reply_to_user_id": "2041159531657416704",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055888650370535667",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@amber_digit2 @ValeriaEulabeia 牢英别装理中客了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1931,
+        "media_key": "3_2055886915270856707",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIf6QcMX0AMEy80.jpg",
+        "width": 1086
+      },
+      {
+        "height": 1931,
+        "media_key": "3_2055886914930999296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIf6Qa7WAAApXzU.jpg",
+        "width": 1086
+      },
+      {
+        "height": 1931,
+        "media_key": "3_2055886915270844416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIf6QcMXoAArJAA.jpg",
+        "width": 1086
+      },
+      {
+        "height": 1931,
+        "media_key": "3_2055886915262390272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIf6QcKWoAA8ILk.jpg",
+        "width": 1086
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "2055888650370535667",
+        "created_at": "2026-05-17T06:39:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T07:39:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055900969930752189"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2041159531657416704",
+              "start": 0,
+              "username": "amber_digit2"
+            },
+            {
+              "end": 30,
+              "id": "1313383273079345152",
+              "start": 14,
+              "username": "ValeriaEulabeia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055900969930752189",
+        "in_reply_to_user_id": "2041159531657416704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055888650370535667",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_digit2 @ValeriaEulabeia 牢英别装理中客了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055886915270856707",
+            "3_2055886914930999296",
+            "3_2055886915270844416",
+            "3_2055886915262390272"
+          ]
+        },
+        "author_id": "2041159531657416704",
+        "conversation_id": "2055888650370535667",
+        "created_at": "2026-05-17T05:50:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T06:43:32.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055886918722679072",
+          "2055888650370535667"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZIVcrOukSo",
+              "end": 144,
+              "expanded_url": "https://x.com/amber_digit2/status/2055888650370535667/photo/1",
+              "media_key": "3_2055886915270856707",
+              "start": 121,
+              "url": "https://t.co/ZIVcrOukSo"
+            },
+            {
+              "display_url": "pic.x.com/ZIVcrOukSo",
+              "end": 144,
+              "expanded_url": "https://x.com/amber_digit2/status/2055888650370535667/photo/1",
+              "media_key": "3_2055886914930999296",
+              "start": 121,
+              "url": "https://t.co/ZIVcrOukSo"
+            },
+            {
+              "display_url": "pic.x.com/ZIVcrOukSo",
+              "end": 144,
+              "expanded_url": "https://x.com/amber_digit2/status/2055888650370535667/photo/1",
+              "media_key": "3_2055886915270844416",
+              "start": 121,
+              "url": "https://t.co/ZIVcrOukSo"
+            },
+            {
+              "display_url": "pic.x.com/ZIVcrOukSo",
+              "end": 144,
+              "expanded_url": "https://x.com/amber_digit2/status/2055888650370535667/photo/1",
+              "media_key": "3_2055886915262390272",
+              "start": 121,
+              "url": "https://t.co/ZIVcrOukSo"
+            },
+            {
+              "display_url": "x.com/ukinchina/stat…",
+              "end": 168,
+              "expanded_url": "https://twitter.com/ukinchina/status/2055871326523375982",
+              "start": 145,
+              "url": "https://t.co/HEMRBzT3es"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055888650370535667",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 750,
+          "like_count": 48,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055871326523375982",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "英国驻华大使馆制作的中国同性恋权益变迁史；有趣的是，虽然5.17是属于所有性少数的节日，这份长图中却只字未提跨性别权益。考虑到英国刚于今年三月禁止对跨性别儿童和青少年提供性别肯定医疗，不知道这是偶然的疏忽，还是两个反跨大国之间的惺惺相惜呢？ https://t.co/ZIVcrOukSo https://t.co/HEMRBzT3es"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "｜水猫星铃Lumia\n｜INTJ 永遠14\n｜❤️@saonanaa\n｜提問——————————↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 25,
+                "username": "saonanaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGspkq"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你2.1km",
+        "name": "lovely水",
+        "pinned_tweet_id": "2049024358027547007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045354329792749568/b7JXuLvu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4893,
+          "following_count": 1019,
+          "like_count": 274,
+          "listed_count": 15,
+          "media_count": 3210,
+          "tweet_count": 14271
+        },
+        "url": "https://t.co/EZhyEGspkq",
+        "username": "lovelyshuimao",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "🇨🇦 Toronto\n🏳️‍⚧️ she/her\n❤️ @noaayoyaoaya\n☕️ https://t.co/IMqazehuZE",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 28,
+                "username": "noaayoyaoaya"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 68,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 45,
+                "url": "https://t.co/IMqazehuZE"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "http://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/MKSz5n71Tr"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🚪 ¥150/240 ($30/50)",
+        "name": "𝑎𝑚𝑏𝑒𝑟🪼",
+        "pinned_tweet_id": "2052785207082696916",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052868858894053377/Mavmt3xe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1392,
+          "following_count": 243,
+          "like_count": 139,
+          "listed_count": 1,
+          "media_count": 20,
+          "tweet_count": 389
+        },
+        "url": "https://t.co/MKSz5n71Tr",
+        "username": "amber_digit2",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-06T07:39:19.000Z",
+        "description": "È la vita una battaglia,\ne il cammino irto d'inganni,\nma siam forti: abbiam vent'anni,\nl'avvenire non temiam...\n🗡️💣🖤",
+        "id": "1313383273079345152",
+        "location": "Queensland, Australia",
+        "name": "🍥Valeria Eulabeia🏳️‍⚧️",
+        "pinned_tweet_id": "2028669028810838138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049492315513950209/Cp9UnZ_Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6965,
+          "following_count": 3837,
+          "like_count": 156616,
+          "listed_count": 20,
+          "media_count": 2693,
+          "tweet_count": 25099
+        },
+        "username": "ValeriaEulabeia",
+        "verified": true
+      }
+    ]
+  }
+}

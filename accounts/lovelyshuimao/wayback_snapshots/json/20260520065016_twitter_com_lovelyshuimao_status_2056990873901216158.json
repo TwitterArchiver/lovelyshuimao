@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1748763011140169729",
+    "conversation_id": "2056826220038537317",
+    "created_at": "2026-05-20T06:50:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T07:50:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056990873901216158"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1362636470079528967",
+          "start": 0,
+          "username": "Sizhe_bitcat"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056990873901216158",
+    "in_reply_to_user_id": "1362636470079528967",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056826220038537317",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sizhe_bitcat 1千万？\n1千万rmb给我刻sb都行"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 60966,
+        "height": 1556,
+        "media_key": "13_2056826147258912768",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2056826147258912768/img/XmHujGVKjbQCL03R.jpg",
+        "public_metrics": {
+          "view_count": 218500
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2056826147258912768/vid/avc1/320x690/HCU0J0WTqw0Yl9vQ.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2056826147258912768/vid/avc1/480x1036/8vOXtKeRKkkJPfv4.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2056826147258912768/vid/avc1/720x1556/oP4F9GhxXTFuDKXX.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2056826147258912768/pl/lZkowyc5UzDeY7CX.m3u8?v=dea"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "2056826220038537317",
+        "created_at": "2026-05-20T06:50:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T07:50:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056990873901216158"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1362636470079528967",
+              "start": 0,
+              "username": "Sizhe_bitcat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056990873901216158",
+        "in_reply_to_user_id": "1362636470079528967",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056826220038537317",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sizhe_bitcat 1千万？\n1千万rmb给我刻sb都行"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2056826147258912768"
+          ]
+        },
+        "author_id": "1362636470079528967",
+        "conversation_id": "2056826220038537317",
+        "created_at": "2026-05-19T19:55:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T20:55:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056826220038537317"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jy2IGT9yVR",
+              "end": 86,
+              "expanded_url": "https://x.com/Sizhe_bitcat/status/2056826220038537317/video/1",
+              "media_key": "13_2056826147258912768",
+              "start": 63,
+              "url": "https://t.co/jy2IGT9yVR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056826220038537317",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 38,
+          "impression_count": 198458,
+          "like_count": 164,
+          "quote_count": 1,
+          "reply_count": 51,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "铁子们给你1000万脑门上纹个辛选你们干不干\n\n这事儿吧还挺刺挠人的🙃\n\n我只能说辛巴这事儿干的吧，伤害性不大、侮辱性极强。 https://t.co/jy2IGT9yVR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "｜水猫星铃Lumia\n｜INTJ 「14」\n｜❤️@saonanaa\n｜提問——————————↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 25,
+                "username": "saonanaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGspkq"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你2.1km",
+        "name": "lovely水",
+        "pinned_tweet_id": "2056780372361597290",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045354329792749568/b7JXuLvu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4896,
+          "following_count": 1022,
+          "like_count": 274,
+          "listed_count": 15,
+          "media_count": 3214,
+          "tweet_count": 14330
+        },
+        "url": "https://t.co/EZhyEGspkq",
+        "username": "lovelyshuimao",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-19T05:33:57.000Z",
+        "description": "Web3 冒险家、社会观察家、gamefi 资深玩家，曾经几万爆赚A8,后退圈投资实体基本归零，回归web3再次起航。慢即是快、永不放弃。",
+        "id": "1362636470079528967",
+        "name": "Sizhe思哲",
+        "pinned_tweet_id": "2009377102483853471",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971676890487496704/LrPYG7lH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58132,
+          "following_count": 18564,
+          "like_count": 26910,
+          "listed_count": 94,
+          "media_count": 2332,
+          "tweet_count": 20981
+        },
+        "username": "Sizhe_bitcat",
+        "verified": true
+      }
+    ]
+  }
+}

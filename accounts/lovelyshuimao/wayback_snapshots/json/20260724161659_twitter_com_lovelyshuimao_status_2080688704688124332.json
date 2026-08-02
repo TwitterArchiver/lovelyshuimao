@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1748763011140169729",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1364667946291798017",
+          "name": "Study abroad"
+        }
+      }
+    ],
+    "conversation_id": "2080622074331300299",
+    "created_at": "2026-07-24T16:16:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T17:16:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080688704688124332"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2080688704688124332",
+    "in_reply_to_user_id": "1748763011140169729",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080622074331300299",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "对了，是他哥请的，并不是那个朋友，因为原本就是说要商量一大堆留学申请事宜，然后想找个地方，没想到他们会找这么贵的餐厅"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4032,
+        "media_key": "3_2080622053850509313",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN_au_-acAEo_Zm.jpg",
+        "width": 3024
+      },
+      {
+        "height": 4032,
+        "media_key": "3_2080622053795991552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN_au_xakAAsUVY.jpg",
+        "width": 3024
+      },
+      {
+        "height": 4032,
+        "media_key": "3_2080622054047711232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN_avAtbgAAQXpm.jpg",
+        "width": 3024
+      },
+      {
+        "height": 4032,
+        "media_key": "3_2080622053821124609",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN_au_3aEAEsk3Q.jpg",
+        "width": 3024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1364667946291798017",
+              "name": "Study abroad"
+            }
+          }
+        ],
+        "conversation_id": "2080622074331300299",
+        "created_at": "2026-07-24T16:16:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T17:16:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080688704688124332"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2080688704688124332",
+        "in_reply_to_user_id": "1748763011140169729",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080622074331300299",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "对了，是他哥请的，并不是那个朋友，因为原本就是说要商量一大堆留学申请事宜，然后想找个地方，没想到他们会找这么贵的餐厅"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080622053850509313",
+            "3_2080622053795991552",
+            "3_2080622054047711232",
+            "3_2080622053821124609"
+          ]
+        },
+        "author_id": "1748763011140169729",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2080622074331300299",
+        "created_at": "2026-07-24T11:52:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T12:52:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080622074331300299"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Nz8UQ6gOtW",
+              "end": 34,
+              "expanded_url": "https://x.com/lovelyshuimao/status/2080622074331300299/photo/1",
+              "media_key": "3_2080622053850509313",
+              "start": 11,
+              "url": "https://t.co/Nz8UQ6gOtW"
+            },
+            {
+              "display_url": "pic.x.com/Nz8UQ6gOtW",
+              "end": 34,
+              "expanded_url": "https://x.com/lovelyshuimao/status/2080622074331300299/photo/1",
+              "media_key": "3_2080622053795991552",
+              "start": 11,
+              "url": "https://t.co/Nz8UQ6gOtW"
+            },
+            {
+              "display_url": "pic.x.com/Nz8UQ6gOtW",
+              "end": 34,
+              "expanded_url": "https://x.com/lovelyshuimao/status/2080622074331300299/photo/1",
+              "media_key": "3_2080622054047711232",
+              "start": 11,
+              "url": "https://t.co/Nz8UQ6gOtW"
+            },
+            {
+              "display_url": "pic.x.com/Nz8UQ6gOtW",
+              "end": 34,
+              "expanded_url": "https://x.com/lovelyshuimao/status/2080622074331300299/photo/1",
+              "media_key": "3_2080622053821124609",
+              "start": 11,
+              "url": "https://t.co/Nz8UQ6gOtW"
+            },
+            {
+              "display_url": "x.com/lovelyshuimao/…",
+              "end": 58,
+              "expanded_url": "https://twitter.com/lovelyshuimao/status/2080617141146120199",
+              "start": 35,
+              "url": "https://t.co/sA2JpEn6Ez"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080622074331300299",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1156,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080617141146120199",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这一顿4位数.... https://t.co/Nz8UQ6gOtW https://t.co/sA2JpEn6Ez"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "🐱神仙水水猫星铃Lumia\n👩🏻‍💻INTJ ♀14 \n🙋🏻‍♀️提問box——————↓\n✍🏻想成為作家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGspkq"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你 4.3km",
+        "name": "lovely水",
+        "pinned_tweet_id": "2075897725733024056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045354329792749568/b7JXuLvu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5501,
+          "following_count": 997,
+          "like_count": 275,
+          "listed_count": 22,
+          "media_count": 3434,
+          "tweet_count": 15498
+        },
+        "url": "https://t.co/EZhyEGspkq",
+        "username": "lovelyshuimao",
+        "verified": true
+      }
+    ]
+  }
+}

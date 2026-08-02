@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1748763011140169729",
+    "conversation_id": "2007635235308274067",
+    "created_at": "2026-01-06T01:49:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-06T02:49:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008355184909693269"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1870422504030048256",
+          "start": 0,
+          "username": "iijNWqUQ7i41630"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008355184909693269",
+    "in_reply_to_user_id": "1870422504030048256",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007635235308274067",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@iijNWqUQ7i41630 お疲れ様です"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 108561,
+        "height": 1280,
+        "media_key": "7_2007635129167228928",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2007635129167228928/pu/img/OFS55-35m1ycW4ZY.jpg",
+        "public_metrics": {
+          "view_count": 6645411
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2007635129167228928/pu/vid/avc1/320x568/cob6FmJuT1SJ3Vwe.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2007635129167228928/pu/vid/avc1/480x852/tG8uKg9ZWljyf1n6.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2007635129167228928/pu/vid/avc1/720x1280/NS6KGthFBvr7xzmM.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2007635129167228928/pu/pl/iCrl8be9bjd_DXlA.m3u8?v=66d"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "2007635235308274067",
+        "created_at": "2026-01-06T01:49:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T02:49:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008355184909693269"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1870422504030048256",
+              "start": 0,
+              "username": "iijNWqUQ7i41630"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008355184909693269",
+        "in_reply_to_user_id": "1870422504030048256",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007635235308274067",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iijNWqUQ7i41630 お疲れ様です"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2007635129167228928"
+          ]
+        },
+        "author_id": "1870422504030048256",
+        "conversation_id": "2007635235308274067",
+        "created_at": "2026-01-04T02:08:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T03:08:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007635235308274067"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 7,
+              "normalized_text": "渋谷",
+              "probability": 0.8671,
+              "start": 6,
+              "type": "Place"
+            },
+            {
+              "end": 25,
+              "normalized_text": "渋谷",
+              "probability": 0.603,
+              "start": 24,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/e8LzWxX4kN",
+              "end": 147,
+              "expanded_url": "https://x.com/iijNWqUQ7i41630/status/2007635235308274067/video/1",
+              "media_key": "7_2007635129167228928",
+              "start": 124,
+              "url": "https://t.co/e8LzWxX4kN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007635235308274067",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4451,
+          "impression_count": 18872494,
+          "like_count": 235565,
+          "quote_count": 3074,
+          "reply_count": 4137,
+          "retweet_count": 39465
+        },
+        "reply_settings": "everyone",
+        "text": "これは今朝の渋谷\n三が日明けの地獄です。\n\n8年渋谷でゴミ拾いしてきて部分的に路面を埋め尽くす程のゴミは見てきたが、今日みたいに視界の向こうまで果てしなく続く惨状は初めてみた。\n\n今にも爆発しそうな感情を抑え、時間も忘れて、黙々と拾い続けました。 https://t.co/e8LzWxX4kN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "水貓｜ENFP-t ｜永遠8歲｜提問↓ ｜對象@saonanaa｜Vegan｜心理兩畸｜蓝v互fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 23,
+                "username": "saonanaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGrRuS"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你2.1km",
+        "name": "lovely水",
+        "pinned_tweet_id": "2007376785382748406",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002694749883682816/cD8uYfnW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3255,
+          "following_count": 1013,
+          "like_count": 254,
+          "listed_count": 8,
+          "media_count": 2632,
+          "tweet_count": 12259
+        },
+        "url": "https://t.co/EZhyEGrRuS",
+        "username": "lovelyshuimao",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-21T10:54:28.000Z",
+        "description": "『ありがとう』を原動力にしてゴミ拾いを中心に地域貢献する #リアルライフヒーロー 🌏️\n渋谷や都内各地でゴミと戦いつつ、愛する我が家である杉並区方南町を盛り上げるためにも活動します！\n鬱病と発達障害による精神障害者3級で「上級メンタル心理カウンセラー」を目指し勉強中。障害者支援にも力を入れていきます🔥",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 40,
+                "start": 29,
+                "tag": "リアルライフヒーロー"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "amazon.jp/hz/wishlist/ls…",
+                "end": 23,
+                "expanded_url": "https://www.amazon.jp/hz/wishlist/ls/2K431CQFGWZ8L?ref_=wl_share",
+                "start": 0,
+                "url": "https://t.co/qSjvpcvoQk"
+              }
+            ]
+          }
+        },
+        "id": "1870422504030048256",
+        "location": "⬇️ご支援はAmazon欲しいものリストより",
+        "name": "スミレンジャーZ（愛称スミレちゃん、元スラウザーです）",
+        "pinned_tweet_id": "2006205661202506236",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929343115279900672/ouXLSEdw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22287,
+          "following_count": 6867,
+          "like_count": 4958,
+          "listed_count": 48,
+          "media_count": 1206,
+          "tweet_count": 3561
+        },
+        "url": "https://t.co/qSjvpcvoQk",
+        "username": "iijNWqUQ7i41630",
+        "verified": true
+      }
+    ]
+  }
+}

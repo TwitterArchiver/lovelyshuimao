@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1748763011140169729",
+    "conversation_id": "2042884165524508759",
+    "created_at": "2026-04-11T09:26:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T10:26:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042896971141406724"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1763599809112670208",
+          "start": 0,
+          "username": "jack1113262"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042896971141406724",
+    "in_reply_to_user_id": "1763599809112670208",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042884165524508759",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jack1113262 当然给的\n我60多万也给收益了\n现在对新人更友好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "2042884165524508759",
+        "created_at": "2026-04-11T09:26:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T10:26:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042896971141406724"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1763599809112670208",
+              "start": 0,
+              "username": "jack1113262"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042896971141406724",
+        "in_reply_to_user_id": "1763599809112670208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042884165524508759",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jack1113262 当然给的\n我60多万也给收益了\n现在对新人更友好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1763599809112670208",
+        "conversation_id": "2042884165524508759",
+        "created_at": "2026-04-11T08:35:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T09:35:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042884165524508759"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/realydt/status…",
+              "end": 88,
+              "expanded_url": "https://twitter.com/realydt/status/2042793171176788303",
+              "start": 65,
+              "url": "https://t.co/27pMC03l19"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042884165524508759",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 317,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042793171176788303",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "真是奇了怪了，4200万流量也低于收益？看到2000万、1000万的流量全都收益为0，这算法到底咋回事？中文区难道不给收益了吗？ https://t.co/27pMC03l19"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "INTJ｜永遠14｜提問↓｜❤️对象ZhiWei @saonanaa",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 25,
+                "username": "saonanaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGspkq"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你2.1km",
+        "name": "lovely水",
+        "pinned_tweet_id": "2042828746793869607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023831074921738240/frpPaTVT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4787,
+          "following_count": 1006,
+          "like_count": 272,
+          "listed_count": 13,
+          "media_count": 3141,
+          "tweet_count": 13927
+        },
+        "url": "https://t.co/EZhyEGspkq",
+        "username": "lovelyshuimao",
+        "verified": true
+      },
+      {
+        "created_at": "2024-03-01T16:19:17.000Z",
+        "description": "互关100%必回！ 心理学分享、两性成长故事、日常生活反思",
+        "id": "1763599809112670208",
+        "name": "坏情绪回收站",
+        "pinned_tweet_id": "2036422717340332488",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033813408433508352/V74XigHK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13981,
+          "following_count": 7592,
+          "like_count": 10314,
+          "listed_count": 19,
+          "media_count": 1025,
+          "tweet_count": 8703
+        },
+        "username": "jack1113262",
+        "verified": true
+      }
+    ]
+  }
+}

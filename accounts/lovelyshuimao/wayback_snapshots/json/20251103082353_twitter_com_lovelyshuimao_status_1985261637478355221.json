@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1985261618314555392"
+      ]
+    },
+    "author_id": "1748763011140169729",
+    "conversation_id": "1985261637478355221",
+    "created_at": "2025-11-03T08:23:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-03T09:23:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1985261637478355221"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/sot9j64wzc",
+          "end": 55,
+          "expanded_url": "https://x.com/lovelyshuimao/status/1985261637478355221/photo/1",
+          "media_key": "3_1985261618314555392",
+          "start": 32,
+          "url": "https://t.co/sot9j64wzc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1985261637478355221",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "健身佬不愧是飞升胆固醇星球的（\n健身房里这么多颜色各异的魔爪（ https://t.co/sot9j64wzc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4032,
+        "media_key": "3_1985261618314555392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G40Q7GnbMAAEv9-.jpg",
+        "width": 3024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1985261618314555392"
+          ]
+        },
+        "author_id": "1748763011140169729",
+        "conversation_id": "1985261637478355221",
+        "created_at": "2025-11-03T08:23:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-03T09:23:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1985261637478355221"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sot9j64wzc",
+              "end": 55,
+              "expanded_url": "https://x.com/lovelyshuimao/status/1985261637478355221/photo/1",
+              "media_key": "3_1985261618314555392",
+              "start": 32,
+              "url": "https://t.co/sot9j64wzc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1985261637478355221",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "健身佬不愧是飞升胆固醇星球的（\n健身房里这么多颜色各异的魔爪（ https://t.co/sot9j64wzc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "ENFP-t ｜永遠14｜是豪貓不o不圓不殘不死｜對象@saonanaa｜雙相＆抑鬱｜家長不管黨｜提問箱鏈接↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 27,
+                "username": "saonanaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%B0%B4%E6%B…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E6%B0%B4%E6%B0%B493927",
+                "start": 0,
+                "url": "https://t.co/qmQkMr2BJx"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你2.1km",
+        "name": "lovely水水猫🍕",
+        "pinned_tweet_id": "1983629097923440976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967556205590831104/87BEnlAx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2450,
+          "following_count": 1119,
+          "like_count": 245,
+          "listed_count": 7,
+          "media_count": 2208,
+          "tweet_count": 10956
+        },
+        "url": "https://t.co/qmQkMr2BJx",
+        "username": "lovelyshuimao",
+        "verified": true
+      }
+    ]
+  }
+}

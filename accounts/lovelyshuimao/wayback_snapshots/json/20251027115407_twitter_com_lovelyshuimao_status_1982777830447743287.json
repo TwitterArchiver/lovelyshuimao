@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1748763011140169729",
+    "conversation_id": "1982777830447743287",
+    "created_at": "2025-10-27T11:54:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-27T12:54:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1982777830447743287"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Misako_25ji/st…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/Misako_25ji/status/1982755126772392173",
+          "start": 16,
+          "url": "https://t.co/ncCd7Lrkwb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982777830447743287",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982755126772392173",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "紫鲨后这么丑我还是好好活着吧🥺 https://t.co/ncCd7Lrkwb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1982755106467598336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4QpQ6WX0AAwuq1.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "1982777830447743287",
+        "created_at": "2025-10-27T11:54:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T12:54:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982777830447743287"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Misako_25ji/st…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/Misako_25ji/status/1982755126772392173",
+              "start": 16,
+              "url": "https://t.co/ncCd7Lrkwb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982777830447743287",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982755126772392173",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "紫鲨后这么丑我还是好好活着吧🥺 https://t.co/ncCd7Lrkwb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1982755106467598336"
+          ]
+        },
+        "author_id": "1818678630824001538",
+        "conversation_id": "1982755126772392173",
+        "created_at": "2025-10-27T10:23:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T11:23:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1982755126772392173"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/t7ByoZW3kl",
+              "end": 60,
+              "expanded_url": "https://x.com/Misako_25ji/status/1982755126772392173/photo/1",
+              "media_key": "3_1982755106467598336",
+              "start": 37,
+              "url": "https://t.co/t7ByoZW3kl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982755126772392173",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 598,
+          "like_count": 13,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "话说 这种可以通过植发之类的手段让头发快速恢复吗….\n还是有别的方法（？ https://t.co/t7ByoZW3kl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "ENFP-t ｜素食主义者｜永远14｜是豪猫不o不圆不割不死｜对象@saonanaa｜男的不HRT｜雙相｜家暴當｜提問箱鏈接↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 33,
+                "username": "saonanaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%B0%B4%E6%B…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E6%B0%B4%E6%B0%B493927",
+                "start": 0,
+                "url": "https://t.co/qmQkMr2BJx"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你2.1km",
+        "name": "lovely水水猫🍕",
+        "pinned_tweet_id": "1982377138096672817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967556205590831104/87BEnlAx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2380,
+          "following_count": 1091,
+          "like_count": 243,
+          "listed_count": 7,
+          "media_count": 2138,
+          "tweet_count": 10701
+        },
+        "url": "https://t.co/qmQkMr2BJx",
+        "username": "lovelyshuimao",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-31T16:02:39.000Z",
+        "description": "薫る夏風に誘われて 霞む死神も泣いていた。🏳️‍⚧️:2024.5.9",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "buy.stripe.com/6oE3fLdpFdqm2q…",
+                "end": 23,
+                "expanded_url": "https://buy.stripe.com/6oE3fLdpFdqm2qs9AD",
+                "start": 0,
+                "url": "https://t.co/YlSr2fYWzY"
+              }
+            ]
+          }
+        },
+        "id": "1818678630824001538",
+        "location": "浙江最烂985的边上",
+        "name": "Misako 美沙子喵～🏳️‍⚧️",
+        "pinned_tweet_id": "1957571311720620435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900767621165051904/vDuXtCBK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2412,
+          "following_count": 1161,
+          "like_count": 1408,
+          "listed_count": 7,
+          "media_count": 169,
+          "tweet_count": 1025
+        },
+        "url": "https://t.co/YlSr2fYWzY",
+        "username": "Misako_25ji",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1748763011140169729",
+    "conversation_id": "1986718248818364569",
+    "created_at": "2025-11-08T05:46:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-08T06:46:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987033975668477993"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1843444540495278083",
+          "start": 0,
+          "username": "fattykakapo8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987033975668477993",
+    "in_reply_to_user_id": "1843444540495278083",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987032346697064849",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fattykakapo8964 我是觉得给想要用无障碍厕所的人造成了很大的困扰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "1986718248818364569",
+        "created_at": "2025-11-08T05:46:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T06:46:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987033975668477993"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843444540495278083",
+              "start": 0,
+              "username": "fattykakapo8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987033975668477993",
+        "in_reply_to_user_id": "1843444540495278083",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987032346697064849",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fattykakapo8964 我是觉得给想要用无障碍厕所的人造成了很大的困扰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843444540495278083",
+        "conversation_id": "1986718248818364569",
+        "created_at": "2025-11-08T05:40:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T06:40:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987032346697064849"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1748763011140169729",
+              "start": 0,
+              "username": "lovelyshuimao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987032346697064849",
+        "in_reply_to_user_id": "1748763011140169729",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986718248818364569",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lovelyshuimao 给试图去女厕所偷窥的男性 一个转身去无障碍厕所的自新机会"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "ENFP-t ｜永遠14｜是豪貓不o不圓不殘不死｜對象@saonanaa｜素食主义者｜提問箱鏈接↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 27,
+                "username": "saonanaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E6%B0%B4%E6%B…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E6%B0%B4%E6%B0%B493927",
+                "start": 0,
+                "url": "https://t.co/qmQkMr2BJx"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你2.1km",
+        "name": "lovely水(水猫)🍕",
+        "pinned_tweet_id": "1986963132401787188",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967556205590831104/87BEnlAx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2568,
+          "following_count": 1124,
+          "like_count": 245,
+          "listed_count": 7,
+          "media_count": 2248,
+          "tweet_count": 11109
+        },
+        "url": "https://t.co/qmQkMr2BJx",
+        "username": "lovelyshuimao",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-08T00:13:37.000Z",
+        "description": "新时代四无鸟员：无厘头搞笑、无下限嘲讽、无节制刷推，无差别喷人。 Make Kakapo Great Again   这里提问 https://t.co/g0qevzu0Xr",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kakapo8964",
+                "end": 87,
+                "expanded_url": "https://ngl.link/kakapo8964",
+                "start": 64,
+                "url": "https://t.co/g0qevzu0Xr"
+              }
+            ]
+          }
+        },
+        "id": "1843444540495278083",
+        "location": "異世界",
+        "name": "Kakapo在地球同步轨道（胆大高速版",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874389221873778688/gPM2GwiK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 173,
+          "following_count": 653,
+          "like_count": 1392,
+          "listed_count": 2,
+          "media_count": 225,
+          "tweet_count": 3519
+        },
+        "username": "fattykakapo8964",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1748763011140169729",
+    "conversation_id": "2082070280583934326",
+    "created_at": "2026-07-28T13:25:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T14:25:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082095197329265027"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2060587975982141440",
+          "start": 0,
+          "username": "Rinyuyuyuyuyu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082095197329265027",
+    "in_reply_to_user_id": "2060587975982141440",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082070280583934326",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rinyuyuyuyuyu 喝大咖啡、喝大酒、睡大觉，是好文明"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1508,
+        "media_key": "3_2082070270786048000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOT_4UeakAALXXH.jpg",
+        "width": 1206
+      },
+      {
+        "height": 1508,
+        "media_key": "3_2082070270207242240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOT_4SUasAAKxff.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "2082070280583934326",
+        "created_at": "2026-07-28T13:25:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T14:25:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082095197329265027"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2060587975982141440",
+              "start": 0,
+              "username": "Rinyuyuyuyuyu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082095197329265027",
+        "in_reply_to_user_id": "2060587975982141440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082070280583934326",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rinyuyuyuyuyu 喝大咖啡、喝大酒、睡大觉，是好文明"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082070270786048000",
+            "3_2082070270207242240"
+          ]
+        },
+        "author_id": "2060587975982141440",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2082070280583934326",
+        "created_at": "2026-07-28T11:46:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T12:46:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082070280583934326"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/r1MjrSijQZ",
+              "end": 44,
+              "expanded_url": "https://x.com/Rinyuyuyuyuyu/status/2082070280583934326/photo/1",
+              "media_key": "3_2082070270786048000",
+              "start": 21,
+              "url": "https://t.co/r1MjrSijQZ"
+            },
+            {
+              "display_url": "pic.x.com/r1MjrSijQZ",
+              "end": 44,
+              "expanded_url": "https://x.com/Rinyuyuyuyuyu/status/2082070280583934326/photo/1",
+              "media_key": "3_2082070270207242240",
+              "start": 21,
+              "url": "https://t.co/r1MjrSijQZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082070280583934326",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 63,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "关于猫的一些bio？\n2026.7.28 https://t.co/r1MjrSijQZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "🐱神仙水水猫星铃Lumia\n👩🏻‍💻INTJ ♀14 \n🙋🏻‍♀️提問box——————↓\n✍🏻想成為作家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGspkq"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你 4.3km",
+        "name": "lovely水",
+        "pinned_tweet_id": "2075897725733024056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045354329792749568/b7JXuLvu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5517,
+          "following_count": 995,
+          "like_count": 275,
+          "listed_count": 22,
+          "media_count": 3442,
+          "tweet_count": 15590
+        },
+        "url": "https://t.co/EZhyEGspkq",
+        "username": "lovelyshuimao",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-30T05:04:36.000Z",
+        "description": "🏳️‍⚧️🍥MtF/HRT：2025.1.28/无证含糖中/❤️@shuangxing0325/里推@Rinyu002 熟悉的会过",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 32,
+                "username": "shuangxing0325"
+              },
+              {
+                "end": 59,
+                "start": 50,
+                "username": "Rinyu002"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Rinyu003",
+                "end": 23,
+                "expanded_url": "https://t.me/Rinyu003",
+                "start": 0,
+                "url": "https://t.co/OnkEmm6EuT"
+              }
+            ]
+          }
+        },
+        "id": "2060587975982141440",
+        "name": "綾羽Rinyu",
+        "pinned_tweet_id": "2060610237128999129",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060588589285847041/Dydhkr5__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 167,
+          "following_count": 131,
+          "like_count": 1390,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 279
+        },
+        "url": "https://t.co/OnkEmm6EuT",
+        "username": "Rinyuyuyuyuyu",
+        "verified": false
+      }
+    ]
+  }
+}

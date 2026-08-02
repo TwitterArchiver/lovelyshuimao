@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1748763011140169729",
+    "conversation_id": "2075815490266845268",
+    "created_at": "2026-07-11T10:49:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T11:49:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075895226657575344"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1452800767572594688",
+          "start": 0,
+          "username": "zgjncw2024"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075895226657575344",
+    "in_reply_to_user_id": "1452800767572594688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075815490266845268",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zgjncw2024 我就几千"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2075815482171781121",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM7HLtIa8AETQJR.jpg",
+        "width": 916
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "2075815490266845268",
+        "created_at": "2026-07-11T10:49:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T11:49:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075895226657575344"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1452800767572594688",
+              "start": 0,
+              "username": "zgjncw2024"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075895226657575344",
+        "in_reply_to_user_id": "1452800767572594688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075815490266845268",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zgjncw2024 我就几千"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075815482171781121"
+          ]
+        },
+        "author_id": "1452800767572594688",
+        "conversation_id": "2075815490266845268",
+        "created_at": "2026-07-11T05:32:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T06:32:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075815490266845268"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mprkexFQ1E",
+              "end": 60,
+              "expanded_url": "https://x.com/zgjncw2024/status/2075815490266845268/photo/1",
+              "media_key": "3_2075815482171781121",
+              "start": 37,
+              "url": "https://t.co/mprkexFQ1E"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075815490266845268",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1520,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 51,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天上午的流量怎么这么低啊？我还发了这么多帖子，万能的 X请给我流量吧。 https://t.co/mprkexFQ1E"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "🐱神仙水水猫星铃Lumia\n👩🏻‍💻INTJ ♀14 \n🙋🏻‍♀️提問box——————↓\n✍🏻想成为作家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGspkq"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你 4.3km",
+        "name": "lovely水",
+        "pinned_tweet_id": "2063974537272910172",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045354329792749568/b7JXuLvu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5108,
+          "following_count": 997,
+          "like_count": 275,
+          "listed_count": 20,
+          "media_count": 3361,
+          "tweet_count": 15062
+        },
+        "url": "https://t.co/EZhyEGspkq",
+        "username": "lovelyshuimao",
+        "verified": true
+      },
+      {
+        "created_at": "2021-10-26T00:54:42.000Z",
+        "description": "2017年进入币圈的老韭菜，喜欢分析BTC，实际买山寨币的暴富幻想者，在暴富与爆亏中来回切换。在痛苦的回本过程中逐渐提高认知，分享自己的web3心得。",
+        "id": "1452800767572594688",
+        "name": "泉水",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1629315317817294848/w3EfN3Yu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15299,
+          "following_count": 12220,
+          "like_count": 4741,
+          "listed_count": 11,
+          "media_count": 2671,
+          "tweet_count": 23365
+        },
+        "url": "",
+        "username": "zgjncw2024",
+        "verified": true
+      }
+    ]
+  }
+}

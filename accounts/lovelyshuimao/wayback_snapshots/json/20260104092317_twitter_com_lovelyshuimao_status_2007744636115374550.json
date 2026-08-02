@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1748763011140169729",
+    "conversation_id": "2007625592133533885",
+    "created_at": "2026-01-04T09:23:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-04T10:23:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007744636115374550"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1964908711215853568",
+          "start": 0,
+          "username": "Janice10475"
+        },
+        {
+          "end": 27,
+          "id": "1593547850637791233",
+          "start": 13,
+          "username": "didengshengwu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007744636115374550",
+    "in_reply_to_user_id": "1964908711215853568",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007627433693077822",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Janice10475 @didengshengwu 高级"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "2007625592133533885",
+        "created_at": "2026-01-04T09:23:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T10:23:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007744636115374550"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1964908711215853568",
+              "start": 0,
+              "username": "Janice10475"
+            },
+            {
+              "end": 27,
+              "id": "1593547850637791233",
+              "start": 13,
+              "username": "didengshengwu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007744636115374550",
+        "in_reply_to_user_id": "1964908711215853568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007627433693077822",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Janice10475 @didengshengwu 高级"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964908711215853568",
+        "conversation_id": "2007625592133533885",
+        "created_at": "2026-01-04T01:37:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T02:37:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007627433693077822"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1593547850637791233",
+              "start": 0,
+              "username": "didengshengwu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007627433693077822",
+        "in_reply_to_user_id": "1593547850637791233",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8044,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007625592133533885",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@didengshengwu 女生优先完了，您的硬菜、好酒全安排好了，就等您发话，咱们这桌立马开整！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "水貓｜ENFP-t ｜永遠8歲｜提問↓ ｜對象@saonanaa｜Vegan｜心理兩畸｜蓝v互fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 23,
+                "username": "saonanaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGrRuS"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你2.1km",
+        "name": "lovely水",
+        "pinned_tweet_id": "2007376785382748406",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002694749883682816/cD8uYfnW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3248,
+          "following_count": 1009,
+          "like_count": 254,
+          "listed_count": 8,
+          "media_count": 2609,
+          "tweet_count": 12194
+        },
+        "url": "https://t.co/EZhyEGrRuS",
+        "username": "lovelyshuimao",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-08T04:28:57.000Z",
+        "description": "高级人力资源管理师｜“小沙飞”读书会创始人｜生活美学俱乐部主理人 。核心分享：生活美学#正能量# 热点。愿与同频的你一起成长！",
+        "id": "1964908711215853568",
+        "name": "凌光予你",
+        "pinned_tweet_id": "2003622824162795724",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977338414920806400/OpZuuEKB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3010,
+          "following_count": 2224,
+          "like_count": 29181,
+          "listed_count": 3,
+          "media_count": 256,
+          "tweet_count": 5491
+        },
+        "username": "Janice10475",
+        "verified": true
+      },
+      {
+        "created_at": "2022-11-18T10:13:17.000Z",
+        "description": "来都来了，顺手点个关注吧，我不喜欢戴面具，所以高等不起来。我会分享一些心理学和投资内容，欢迎交流！",
+        "id": "1593547850637791233",
+        "name": "低等生物",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1735957716340965376/P8LprWrm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 186369,
+          "following_count": 1273,
+          "like_count": 3241,
+          "listed_count": 717,
+          "media_count": 3309,
+          "tweet_count": 6237
+        },
+        "username": "didengshengwu",
+        "verified": true
+      }
+    ]
+  }
+}

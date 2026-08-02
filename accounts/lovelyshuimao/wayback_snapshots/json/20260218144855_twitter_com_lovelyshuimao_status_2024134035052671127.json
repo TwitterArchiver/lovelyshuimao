@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1748763011140169729",
+    "conversation_id": "2024094355598999964",
+    "created_at": "2026-02-18T14:48:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T15:48:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024134035052671127"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1749095230026993664",
+          "start": 0,
+          "username": "Erisisis2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024134035052671127",
+    "in_reply_to_user_id": "1749095230026993664",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024130903937831070",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Erisisis2 原来如此"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "2024094355598999964",
+        "created_at": "2026-02-18T14:48:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T15:48:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024134035052671127"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1749095230026993664",
+              "start": 0,
+              "username": "Erisisis2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024134035052671127",
+        "in_reply_to_user_id": "1749095230026993664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024130903937831070",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Erisisis2 原来如此"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749095230026993664",
+        "conversation_id": "2024094355598999964",
+        "created_at": "2026-02-18T14:36:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T15:36:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024130903937831070"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1748763011140169729",
+              "start": 0,
+              "username": "lovelyshuimao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024130903937831070",
+        "in_reply_to_user_id": "1748763011140169729",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024094355598999964",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lovelyshuimao 是为了固定曲线的数值🤣因为设计图有数据功能！不是欣赏功能"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "INTJ-t ｜永遠14歲｜提問↓｜❤️@saonanaa",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 20,
+                "username": "saonanaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGspkq"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你2.1km",
+        "name": "lovely水",
+        "pinned_tweet_id": "2023012200349356427",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023831074921738240/frpPaTVT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3749,
+          "following_count": 992,
+          "like_count": 263,
+          "listed_count": 13,
+          "media_count": 2916,
+          "tweet_count": 13095
+        },
+        "url": "https://t.co/EZhyEGspkq",
+        "username": "lovelyshuimao",
+        "verified": true
+      },
+      {
+        "created_at": "2024-01-21T15:43:17.000Z",
+        "description": "当那道死亡的光束在提亚玛特身上翻滚了几十个小时….巨人们看着自己的母亲碎裂…喷溅到了太阳系的每一个缝隙….他们只好流着泪，逃到了飞逸的旧日卫星…..",
+        "id": "1749095230026993664",
+        "name": "eris-isis",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1805079665515937792/mhQQMQDd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 524,
+          "like_count": 1607,
+          "listed_count": 0,
+          "media_count": 135,
+          "tweet_count": 4560
+        },
+        "username": "Erisisis2",
+        "verified": false
+      }
+    ]
+  }
+}

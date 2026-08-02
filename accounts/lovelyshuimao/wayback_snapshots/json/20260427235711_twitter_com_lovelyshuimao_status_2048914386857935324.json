@@ -1,0 +1,321 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1748763011140169729",
+    "conversation_id": "2048850793756012918",
+    "created_at": "2026-04-27T23:57:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T00:57:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048914386857935324"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "822329886257790976",
+          "start": 0,
+          "username": "LumidexNZ"
+        },
+        {
+          "end": 27,
+          "id": "1565981667746914304",
+          "start": 11,
+          "username": "Kagura_Yukikaze"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048914386857935324",
+    "in_reply_to_user_id": "822329886257790976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048850793756012918",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LumidexNZ @Kagura_Yukikaze 这个人怎么都进扭转了\n在说出性别男的时候还透露出挺骄傲的感觉\n也不害怕"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 64600,
+        "height": 1280,
+        "media_key": "13_2048850385121816576",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2048850385121816576/img/K8_JivwoP_9uiDDv.jpg",
+        "public_metrics": {
+          "view_count": 28150
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2048850385121816576/vid/avc1/320x568/u66iCuewlEgZCEJR.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2048850385121816576/vid/avc1/480x852/07VAWwViYkmGkuFC.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2048850385121816576/vid/avc1/720x1280/5Na8A_cpVS0m-OlS.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2048850385121816576/pl/vVjKSaQqA3QJF7fS.m3u8?tag=14&v=83d"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "2048850793756012918",
+        "created_at": "2026-04-27T23:57:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T00:57:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048914386857935324"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "822329886257790976",
+              "start": 0,
+              "username": "LumidexNZ"
+            },
+            {
+              "end": 27,
+              "id": "1565981667746914304",
+              "start": 11,
+              "username": "Kagura_Yukikaze"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048914386857935324",
+        "in_reply_to_user_id": "822329886257790976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048850793756012918",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LumidexNZ @Kagura_Yukikaze 这个人怎么都进扭转了\n在说出性别男的时候还透露出挺骄傲的感觉\n也不害怕"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2048850385121816576"
+          ]
+        },
+        "author_id": "822329886257790976",
+        "conversation_id": "2048850793756012918",
+        "created_at": "2026-04-27T19:44:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T20:44:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048850793756012918"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/obnsZ2vm3T",
+              "end": 63,
+              "expanded_url": "https://x.com/LumidexNZ/status/2048850793756012918/video/1",
+              "media_key": "13_2048850385121816576",
+              "start": 40,
+              "url": "https://t.co/obnsZ2vm3T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048850793756012918",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 66,
+          "impression_count": 39010,
+          "like_count": 209,
+          "quote_count": 9,
+          "reply_count": 21,
+          "retweet_count": 24
+        },
+        "reply_settings": "everyone",
+        "text": "我的天哪！！！我不行了 本来都要睡了 刷到这个视频给我精神了\nTS被抓扭转机构 https://t.co/obnsZ2vm3T"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "｜水猫星铃Lumia\n｜INTJ  永遠14\n｜❤️ZhiWei @saonanaa\n｜提問——————————↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 33,
+                "username": "saonanaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGspkq"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你2.1km",
+        "name": "lovely水",
+        "pinned_tweet_id": "2046127996961161240",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045354329792749568/b7JXuLvu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4880,
+          "following_count": 1024,
+          "like_count": 273,
+          "listed_count": 13,
+          "media_count": 3183,
+          "tweet_count": 14109
+        },
+        "url": "https://t.co/EZhyEGspkq",
+        "username": "lovelyshuimao",
+        "verified": false
+      },
+      {
+        "created_at": "2017-01-20T06:28:17.000Z",
+        "description": "精神病｜匿名信箱https://t.co/MkVyELXohF",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/11176781",
+                "end": 31,
+                "expanded_url": "http://ngl.link/11176781",
+                "start": 8,
+                "url": "https://t.co/MkVyELXohF"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/RKudep",
+                "end": 23,
+                "expanded_url": "https://t.me/RKudep",
+                "start": 0,
+                "url": "https://t.co/y8BdM7JDKk"
+              }
+            ]
+          }
+        },
+        "id": "822329886257790976",
+        "location": "喵星",
+        "name": "Lumidex🏳️‍⚧️",
+        "pinned_tweet_id": "1996780227146781129",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974094378621947904/Xsfc6pAa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1759,
+          "following_count": 640,
+          "like_count": 5130,
+          "listed_count": 2,
+          "media_count": 151,
+          "tweet_count": 2124
+        },
+        "url": "https://t.co/y8BdM7JDKk",
+        "username": "LumidexNZ",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Kagura_Yukikaze",
+                "end": 23,
+                "expanded_url": "https://t.me/Kagura_Yukikaze",
+                "start": 0,
+                "url": "https://t.co/mULPRvdJlA"
+              }
+            ]
+          }
+        },
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "雪風さん",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018975614791999488/Qvf9Q07i_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 2977,
+          "following_count": 2867,
+          "like_count": 103218,
+          "listed_count": 6,
+          "media_count": 770,
+          "tweet_count": 12549
+        },
+        "url": "https://t.co/mULPRvdJlA",
+        "username": "Kagura_Yukikaze",
+        "verified": false
+      }
+    ]
+  }
+}

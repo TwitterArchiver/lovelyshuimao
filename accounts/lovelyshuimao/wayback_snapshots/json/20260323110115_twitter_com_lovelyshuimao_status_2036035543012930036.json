@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1748763011140169729",
+    "conversation_id": "2035929393982570566",
+    "created_at": "2026-03-23T11:01:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-23T12:01:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036035543012930036"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1279242635341729792",
+          "start": 0,
+          "username": "maigomaigoHH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036035543012930036",
+    "in_reply_to_user_id": "1279242635341729792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035929393982570566",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@maigomaigoHH 扎克伯格表情管理不错"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 387,
+        "media_key": "3_2035929390023057408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEES_lAaIAA1I2Y.jpg",
+        "width": 335
+      },
+      {
+        "height": 452,
+        "media_key": "3_2035929390014763008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEES_k-bkAA8rVG.jpg",
+        "width": 529
+      },
+      {
+        "height": 538,
+        "media_key": "3_2035929390023110656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEES_lAa8AA_Sn6.jpg",
+        "width": 505
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "2035929393982570566",
+        "created_at": "2026-03-23T11:01:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T12:01:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036035543012930036"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1279242635341729792",
+              "start": 0,
+              "username": "maigomaigoHH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036035543012930036",
+        "in_reply_to_user_id": "1279242635341729792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035929393982570566",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maigomaigoHH 扎克伯格表情管理不错"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2035929390023057408",
+            "3_2035929390014763008",
+            "3_2035929390023110656"
+          ]
+        },
+        "author_id": "1279242635341729792",
+        "conversation_id": "2035929393982570566",
+        "created_at": "2026-03-23T03:59:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T04:59:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035929393982570566"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8vYBI4Yu6l",
+              "end": 38,
+              "expanded_url": "https://x.com/maigomaigoHH/status/2035929393982570566/photo/1",
+              "media_key": "3_2035929390023057408",
+              "start": 15,
+              "url": "https://t.co/8vYBI4Yu6l"
+            },
+            {
+              "display_url": "pic.x.com/8vYBI4Yu6l",
+              "end": 38,
+              "expanded_url": "https://x.com/maigomaigoHH/status/2035929393982570566/photo/1",
+              "media_key": "3_2035929390014763008",
+              "start": 15,
+              "url": "https://t.co/8vYBI4Yu6l"
+            },
+            {
+              "display_url": "pic.x.com/8vYBI4Yu6l",
+              "end": 38,
+              "expanded_url": "https://x.com/maigomaigoHH/status/2035929393982570566/photo/1",
+              "media_key": "3_2035929390023110656",
+              "start": 15,
+              "url": "https://t.co/8vYBI4Yu6l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035929393982570566",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 50,
+          "impression_count": 76595,
+          "like_count": 453,
+          "quote_count": 5,
+          "reply_count": 38,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "当你很有名却没学会做表情管理 https://t.co/8vYBI4Yu6l"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "INTJ-t ｜永遠14歲｜提問↓｜❤️@saonanaa",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 20,
+                "username": "saonanaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGspkq"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你2.1km",
+        "name": "lovely水",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023831074921738240/frpPaTVT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4843,
+          "following_count": 1024,
+          "like_count": 269,
+          "listed_count": 13,
+          "media_count": 3062,
+          "tweet_count": 13550
+        },
+        "url": "https://t.co/EZhyEGspkq",
+        "username": "lovelyshuimao",
+        "verified": true
+      },
+      {
+        "created_at": "2020-07-04T02:36:35.000Z",
+        "description": "倒霉蛋",
+        "id": "1279242635341729792",
+        "location": "你身后",
+        "name": "コガ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1730168178297417728/0GKje4hv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5909,
+          "following_count": 870,
+          "like_count": 24568,
+          "listed_count": 31,
+          "media_count": 1481,
+          "tweet_count": 19931
+        },
+        "username": "maigomaigoHH",
+        "verified": true
+      }
+    ]
+  }
+}

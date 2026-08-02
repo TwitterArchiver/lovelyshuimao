@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070519570780291072"
+      ]
+    },
+    "author_id": "1748763011140169729",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2070486939351072821",
+    "created_at": "2026-06-26T14:48:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T15:48:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070519577654812738"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1584397214461239296",
+          "start": 0,
+          "username": "aurumoxx"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/v3wEl7r0BX",
+          "end": 71,
+          "expanded_url": "https://x.com/lovelyshuimao/status/2070519577654812738/photo/1",
+          "media_key": "3_2070519570780291072",
+          "start": 48,
+          "url": "https://t.co/v3wEl7r0BX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070519577654812738",
+    "in_reply_to_user_id": "1584397214461239296",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070505185752076496",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aurumoxx 并非我是刷到的我哪买得起啊 z8\n如果是透露机主应该是不好登入佳能 r5（ https://t.co/v3wEl7r0BX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1634,
+        "media_key": "3_2070519570780291072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLv2lFzagAAx1x4.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070519570780291072"
+          ]
+        },
+        "author_id": "1748763011140169729",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2070486939351072821",
+        "created_at": "2026-06-26T14:48:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T15:48:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070519577654812738"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1584397214461239296",
+              "start": 0,
+              "username": "aurumoxx"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/v3wEl7r0BX",
+              "end": 71,
+              "expanded_url": "https://x.com/lovelyshuimao/status/2070519577654812738/photo/1",
+              "media_key": "3_2070519570780291072",
+              "start": 48,
+              "url": "https://t.co/v3wEl7r0BX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070519577654812738",
+        "in_reply_to_user_id": "1584397214461239296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070505185752076496",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aurumoxx 并非我是刷到的我哪买得起啊 z8\n如果是透露机主应该是不好登入佳能 r5（ https://t.co/v3wEl7r0BX"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1584397214461239296",
+        "conversation_id": "2070486939351072821",
+        "created_at": "2026-06-26T13:51:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T14:51:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070505185752076496"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1748763011140169729",
+              "start": 0,
+              "username": "lovelyshuimao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070505185752076496",
+        "in_reply_to_user_id": "1748763011140169729",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070486939351072821",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lovelyshuimao 超绝不经意透露z8机主身份"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "🐱水猫星铃Lumia\n👩🏻‍💻INTJ ♀14 \n❤️@zhwevea\n🙋🏻‍♀️提問box————————↓\n✍🏻想要成为哲学作家\n🧠神经性两畸",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 28,
+                "username": "zhwevea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGspkq"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你 4.3km",
+        "name": "lovely水",
+        "pinned_tweet_id": "2063974537272910172",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045354329792749568/b7JXuLvu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4936,
+          "following_count": 1008,
+          "like_count": 274,
+          "listed_count": 19,
+          "media_count": 3296,
+          "tweet_count": 14786
+        },
+        "url": "https://t.co/EZhyEGspkq",
+        "username": "lovelyshuimao",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-24T04:11:59.000Z",
+        "description": "简中/繁中/ENG 刚高中毕业 https://t.co/W0JEc7ZdFM\n封图摄于新西兰 因佛卡吉尔|相机A7M4和奥巴em10|电子游戏|半个数字游民|半个烧佬|公路车|羽毛球|跑步|喜欢读社科、各种小说还有哲学和心理|杀软二次元(不纯)|钢琴和电吉他|重度数码爱好者",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aurumo1",
+                "end": 39,
+                "expanded_url": "https://ngl.link/aurumo1",
+                "start": 16,
+                "url": "https://t.co/W0JEc7ZdFM"
+              }
+            ]
+          }
+        },
+        "id": "1584397214461239296",
+        "location": "泰拉 罗德岛",
+        "name": "Aurumo",
+        "pinned_tweet_id": "2065364900394975352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025543690190733312/oW0ovHyE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 232,
+          "like_count": 2334,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 460
+        },
+        "url": "",
+        "username": "aurumoxx",
+        "verified": true
+      }
+    ]
+  }
+}
