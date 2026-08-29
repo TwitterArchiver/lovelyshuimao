@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1748763011140169729",
+    "conversation_id": "2084271270871597211",
+    "created_at": "2026-08-03T13:32:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T14:32:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084271270871597211"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1720665183188922368",
+          "start": 3,
+          "username": "grok"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/liminfin/statu…",
+          "end": 109,
+          "expanded_url": "https://twitter.com/liminfin/status/2084234006380552219",
+          "start": 86,
+          "url": "https://t.co/2NLj9yJnHd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084271270871597211",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084234006380552219",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你好 @grok 根据我的推文，我是：\n- 哪位独裁者？\n- 哪位哲学家？\n- 哪位虚构人物？\n- 哪位政治家？\n- 哪位宗教人士？\n- 哪位历史人物？\n- 哪位艺术家？ https://t.co/2NLj9yJnHd"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "2084271270871597211",
+        "created_at": "2026-08-03T13:32:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T14:32:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084271270871597211"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1720665183188922368",
+              "start": 3,
+              "username": "grok"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/liminfin/statu…",
+              "end": 109,
+              "expanded_url": "https://twitter.com/liminfin/status/2084234006380552219",
+              "start": 86,
+              "url": "https://t.co/2NLj9yJnHd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084271270871597211",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084234006380552219",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你好 @grok 根据我的推文，我是：\n- 哪位独裁者？\n- 哪位哲学家？\n- 哪位虚构人物？\n- 哪位政治家？\n- 哪位宗教人士？\n- 哪位历史人物？\n- 哪位艺术家？ https://t.co/2NLj9yJnHd"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1711718284717137920",
+        "conversation_id": "2084234006380552219",
+        "created_at": "2026-08-03T11:04:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T12:04:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084234006380552219"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1720665183188922368",
+              "start": 3,
+              "username": "grok"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/liangjie_2021/…",
+              "end": 109,
+              "expanded_url": "https://twitter.com/liangjie_2021/status/2084163303031677084",
+              "start": 86,
+              "url": "https://t.co/1II1oV5KNH"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "c999e6a453e9ef72"
+        },
+        "id": "2084234006380552219",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 219,
+          "like_count": 2,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084163303031677084",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你好 @grok 根据我的推文，我是：\n- 哪位独裁者？\n- 哪位哲学家？\n- 哪位虚构人物？\n- 哪位政治家？\n- 哪位宗教人士？\n- 哪位历史人物？\n- 哪位艺术家？ https://t.co/1II1oV5KNH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "🐱神仙水水猫星铃Lumia\n👩🏻‍💻INTJ ♀14 \n🙋🏻‍♀️提問box——————↓\n✍🏻想成為作家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGspkq"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你 4.3km",
+        "name": "lovely水",
+        "pinned_tweet_id": "2075897725733024056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045354329792749568/b7JXuLvu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5643,
+          "following_count": 991,
+          "like_count": 275,
+          "listed_count": 22,
+          "media_count": 3479,
+          "tweet_count": 15810
+        },
+        "url": "https://t.co/EZhyEGspkq",
+        "username": "lovelyshuimao",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 5,
+                "start": 0,
+                "username": "grok"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSjjG9"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "name": "Grok",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057885623374290944/lmj0pawP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8904732,
+          "following_count": 5,
+          "like_count": 122,
+          "listed_count": 7257,
+          "media_count": 9214325,
+          "tweet_count": 133688856
+        },
+        "url": "https://t.co/fqNKQSjjG9",
+        "username": "grok",
+        "verified": true
+      },
+      {
+        "created_at": "2023-10-10T12:20:41.000Z",
+        "description": "天無二日",
+        "id": "1711718284717137920",
+        "location": "勤政殿",
+        "name": "Utopia🕯️🚩",
+        "pinned_tweet_id": "1888930773396574627",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076723370058817536/aqJJ388o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2152,
+          "following_count": 2286,
+          "like_count": 128144,
+          "listed_count": 26,
+          "media_count": 4764,
+          "tweet_count": 43678
+        },
+        "url": "",
+        "username": "liminfin",
+        "verified": false
+      }
+    ]
+  }
+}

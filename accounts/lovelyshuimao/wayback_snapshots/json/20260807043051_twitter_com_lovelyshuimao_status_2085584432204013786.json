@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2085584425346293760",
+        "3_2085584425295945728"
+      ]
+    },
+    "author_id": "1748763011140169729",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2085393044682244180",
+    "created_at": "2026-08-07T04:30:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T05:30:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085584432204013786"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2030636116601438208",
+          "start": 0,
+          "username": "Lonny351534"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/8vaYyMp9b0",
+          "end": 74,
+          "expanded_url": "https://x.com/lovelyshuimao/status/2085584432204013786/photo/1",
+          "media_key": "3_2085584425346293760",
+          "start": 51,
+          "url": "https://t.co/8vaYyMp9b0"
+        },
+        {
+          "display_url": "pic.x.com/8vaYyMp9b0",
+          "end": 74,
+          "expanded_url": "https://x.com/lovelyshuimao/status/2085584432204013786/photo/1",
+          "media_key": "3_2085584425295945728",
+          "start": 51,
+          "url": "https://t.co/8vaYyMp9b0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085584432204013786",
+    "in_reply_to_user_id": "2030636116601438208",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085564546769629640",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lonny351534 打什么字都没用\n你Ge太厉害了\n你看去水印前后，我人眼都快认不清了居然也行 https://t.co/8vaYyMp9b0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1576,
+        "media_key": "3_2085584425346293760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPF7_CXaYAASJBo.jpg",
+        "width": 1182
+      },
+      {
+        "height": 1195,
+        "media_key": "3_2085584425295945728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPF7_CLaIAAomvU.jpg",
+        "width": 896
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085584425346293760",
+            "3_2085584425295945728"
+          ]
+        },
+        "author_id": "1748763011140169729",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2085393044682244180",
+        "created_at": "2026-08-07T04:30:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T05:30:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085584432204013786"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2030636116601438208",
+              "start": 0,
+              "username": "Lonny351534"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8vaYyMp9b0",
+              "end": 74,
+              "expanded_url": "https://x.com/lovelyshuimao/status/2085584432204013786/photo/1",
+              "media_key": "3_2085584425346293760",
+              "start": 51,
+              "url": "https://t.co/8vaYyMp9b0"
+            },
+            {
+              "display_url": "pic.x.com/8vaYyMp9b0",
+              "end": 74,
+              "expanded_url": "https://x.com/lovelyshuimao/status/2085584432204013786/photo/1",
+              "media_key": "3_2085584425295945728",
+              "start": 51,
+              "url": "https://t.co/8vaYyMp9b0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085584432204013786",
+        "in_reply_to_user_id": "2030636116601438208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085564546769629640",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lonny351534 打什么字都没用\n你Ge太厉害了\n你看去水印前后，我人眼都快认不清了居然也行 https://t.co/8vaYyMp9b0"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2030636116601438208",
+        "conversation_id": "2085393044682244180",
+        "created_at": "2026-08-07T03:11:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T04:11:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085564546769629640"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1748763011140169729",
+              "start": 0,
+              "username": "lovelyshuimao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085564546769629640",
+        "in_reply_to_user_id": "1748763011140169729",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085393044682244180",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lovelyshuimao 下次打 “北京 8964”吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "🐱神仙水水猫｜星铃｜Lumia\n👩🏻‍💻INTJ ♀14 \n🙋🏻‍♀️提問box——————↓\n✍🏻想成為作家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGrRuS"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你 4.3km",
+        "name": "lovely水",
+        "pinned_tweet_id": "2075897725733024056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045354329792749568/b7JXuLvu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5713,
+          "following_count": 995,
+          "like_count": 276,
+          "listed_count": 23,
+          "media_count": 3506,
+          "tweet_count": 15949
+        },
+        "url": "https://t.co/EZhyEGrRuS",
+        "username": "lovelyshuimao",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-08T13:26:14.000Z",
+        "description": "14 歲¦2012.7.15¦七年級¦生產地：中國大陸¦年齡覺¦HRT 中……¦暗区账号：药娘",
+        "id": "2030636116601438208",
+        "location": "绘空町市",
+        "name": "洛汀蒲🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075887279642648576/yTOOcrNu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 30,
+          "like_count": 83,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 113
+        },
+        "url": "",
+        "username": "Lonny351534",
+        "verified": false
+      }
+    ]
+  }
+}

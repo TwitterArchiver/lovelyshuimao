@@ -1,0 +1,320 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2090801500687921153"
+      ]
+    },
+    "author_id": "1748763011140169729",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2090801510091518013",
+    "created_at": "2026-08-21T14:01:39.000Z",
+    "display_text_range": [
+      0,
+      31
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T15:01:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2090801510091518013"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZzsAeJJKgU",
+          "end": 55,
+          "expanded_url": "https://x.com/lovelyshuimao/status/2090801510091518013/photo/1",
+          "media_key": "3_2090801500687921153",
+          "start": 32,
+          "url": "https://t.co/ZzsAeJJKgU"
+        },
+        {
+          "display_url": "x.com/lovelyshuimao/…",
+          "end": 79,
+          "expanded_url": "https://twitter.com/lovelyshuimao/status/2090795754512322859",
+          "start": 56,
+          "url": "https://t.co/fs8YCzGSSA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090801510091518013",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2090801500687921153"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090795754512322859",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "新增了一些位置\n流苏说他也想当大明星\n并且对一些人进行了打分（ https://t.co/ZzsAeJJKgU https://t.co/fs8YCzGSSA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1467,
+        "media_key": "3_2090801500687921153",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQQE4yhbcAEDR52.jpg",
+        "width": 1101
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090801500687921153"
+          ]
+        },
+        "author_id": "1748763011140169729",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2090801510091518013",
+        "created_at": "2026-08-21T14:01:39.000Z",
+        "display_text_range": [
+          0,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T15:01:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090801510091518013"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZzsAeJJKgU",
+              "end": 55,
+              "expanded_url": "https://x.com/lovelyshuimao/status/2090801510091518013/photo/1",
+              "media_key": "3_2090801500687921153",
+              "start": 32,
+              "url": "https://t.co/ZzsAeJJKgU"
+            },
+            {
+              "display_url": "x.com/lovelyshuimao/…",
+              "end": 79,
+              "expanded_url": "https://twitter.com/lovelyshuimao/status/2090795754512322859",
+              "start": 56,
+              "url": "https://t.co/fs8YCzGSSA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090801510091518013",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090801500687921153"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090795754512322859",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "新增了一些位置\n流苏说他也想当大明星\n并且对一些人进行了打分（ https://t.co/ZzsAeJJKgU https://t.co/fs8YCzGSSA"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "2090779156082774333",
+        "created_at": "2026-08-21T13:38:47.000Z",
+        "display_text_range": [
+          12,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T14:38:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090795754512322859"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1504799211799265282",
+              "start": 0,
+              "username": "LiuSuK7777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090795754512322859",
+        "in_reply_to_user_id": "1504799211799265282",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090786655892598961",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiuSuK7777 可以现在就可以"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "🐱神仙水水猫｜星铃｜Lumia\n👩🏻‍💻INTJ ♀14 \n🙋🏻‍♀️提問box——————↓\n✍🏻想寫作",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGrRuS"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "is_identity_verified": true,
+        "location": "距离你 4.3km",
+        "most_recent_tweet_id": "2090801510091518013",
+        "name": "lovely水",
+        "pinned_tweet_id": "2090619236196716875",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1748763011140169729/1775028370",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045354329792749568/b7JXuLvu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5836,
+          "following_count": 996,
+          "like_count": 275,
+          "listed_count": 25,
+          "media_count": 3591,
+          "tweet_count": 16380
+        },
+        "url": "https://t.co/EZhyEGrRuS",
+        "username": "lovelyshuimao",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "这里是流苏 现居杭州 生产日期🍰2008.02.29 舞萌/东方/Arcaea/明日方舟/三角洲/火影 q3860174763",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "error.com",
+                "end": 23,
+                "expanded_url": "http://error.com",
+                "start": 0,
+                "url": "https://t.co/bOY8ch0Z65"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "is_identity_verified": false,
+        "location": "error",
+        "most_recent_tweet_id": "2090800883093422423",
+        "name": "流苏",
+        "pinned_tweet_id": "2068533981818290551",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1504799211799265282/1760452671",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090620844435443712/QLml6REu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3743,
+          "following_count": 2792,
+          "like_count": 34234,
+          "listed_count": 14,
+          "media_count": 1721,
+          "tweet_count": 35581
+        },
+        "url": "https://t.co/bOY8ch0Z65",
+        "username": "LiuSuK7777",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1748763011140169729",
+    "conversation_id": "2083546989372055714",
+    "created_at": "2026-08-02T13:55:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T14:55:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083914488533938237"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2034595544736346112",
+          "start": 0,
+          "username": "521Ellen1314"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083914488533938237",
+    "in_reply_to_user_id": "2034595544736346112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083808289373176130",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@521Ellen1314 没错👍🏻"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "2083546989372055714",
+        "created_at": "2026-08-02T13:55:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T14:55:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083914488533938237"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2034595544736346112",
+              "start": 0,
+              "username": "521Ellen1314"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083914488533938237",
+        "in_reply_to_user_id": "2034595544736346112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083808289373176130",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@521Ellen1314 没错👍🏻"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2034595544736346112",
+        "conversation_id": "2083546989372055714",
+        "created_at": "2026-08-02T06:53:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T07:53:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083808289373176130"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1748763011140169729",
+              "start": 0,
+              "username": "lovelyshuimao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083808289373176130",
+        "in_reply_to_user_id": "1748763011140169729",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 101,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083546989372055714",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lovelyshuimao 未成年自杀是叛逆不懂事，成年了自杀是失败的成年人，ohmygod。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "🐱神仙水水猫星铃Lumia\n👩🏻‍💻INTJ ♀14 \n🙋🏻‍♀️提問box——————↓\n✍🏻想成為作家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGspkq"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你 4.3km",
+        "name": "lovely水",
+        "pinned_tweet_id": "2075897725733024056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045354329792749568/b7JXuLvu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5631,
+          "following_count": 993,
+          "like_count": 275,
+          "listed_count": 22,
+          "media_count": 3474,
+          "tweet_count": 15780
+        },
+        "url": "https://t.co/EZhyEGspkq",
+        "username": "lovelyshuimao",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-19T11:39:23.000Z",
+        "description": "我只是一个喜欢od的小糖人❤️@chenfeng0803",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 15,
+                "username": "chenfeng0803"
+              }
+            ]
+          }
+        },
+        "id": "2034595544736346112",
+        "location": "喵。",
+        "name": "Ellen",
+        "pinned_tweet_id": "2083793438949159212",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083641982753370112/XfW43mDC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 8,
+          "like_count": 206,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 35
+        },
+        "url": "",
+        "username": "521Ellen1314",
+        "verified": false
+      }
+    ]
+  }
+}

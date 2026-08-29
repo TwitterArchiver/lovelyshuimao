@@ -1,0 +1,307 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1748763011140169729",
+    "conversation_id": "2084549763962400881",
+    "created_at": "2026-08-06T04:47:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T05:47:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085226214160302212"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2041449281677045760",
+          "start": 0,
+          "username": "Sorcerer1311"
+        },
+        {
+          "end": 30,
+          "id": "1825021494805581824",
+          "start": 14,
+          "username": "lumuyuanMadoka2"
+        },
+        {
+          "end": 42,
+          "id": "2040798583440527360",
+          "start": 31,
+          "username": "longyvling"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085226214160302212",
+    "in_reply_to_user_id": "2041449281677045760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084635271329632366",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sorcerer1311 @lumuyuanMadoka2 @longyvling 性别和医疗是分开的\n性别从出生就是（这里说的不是指派性别，指派性别是别人指派的，不是真正的性别）\n治疗不一定从出生就是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "2084549763962400881",
+        "created_at": "2026-08-06T04:47:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T05:47:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085226214160302212"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2041449281677045760",
+              "start": 0,
+              "username": "Sorcerer1311"
+            },
+            {
+              "end": 30,
+              "id": "1825021494805581824",
+              "start": 14,
+              "username": "lumuyuanMadoka2"
+            },
+            {
+              "end": 42,
+              "id": "2040798583440527360",
+              "start": 31,
+              "username": "longyvling"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085226214160302212",
+        "in_reply_to_user_id": "2041449281677045760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084635271329632366",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sorcerer1311 @lumuyuanMadoka2 @longyvling 性别和医疗是分开的\n性别从出生就是（这里说的不是指派性别，指派性别是别人指派的，不是真正的性别）\n治疗不一定从出生就是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041449281677045760",
+        "conversation_id": "2084549763962400881",
+        "created_at": "2026-08-04T13:39:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T14:39:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084635271329632366"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1825021494805581824",
+              "start": 0,
+              "username": "lumuyuanMadoka2"
+            },
+            {
+              "end": 28,
+              "id": "2040798583440527360",
+              "start": 17,
+              "username": "longyvling"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084635271329632366",
+        "in_reply_to_user_id": "1825021494805581824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2954,
+          "like_count": 10,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084628555242348964",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lumuyuanMadoka2 @longyvling 反正我作为非二元并不会歧视任何一个顺直或者跨性别，反而是有的完全不进行任何激素治疗的二元性别论者宣称自己是跨性别来搅乱社区秩序"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "🐱神仙水水猫｜星铃｜Lumia\n👩🏻‍💻INTJ ♀14 \n🙋🏻‍♀️提問box——————↓\n✍🏻想成為作家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGrRuS"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你 4.3km",
+        "name": "lovely水",
+        "pinned_tweet_id": "2075897725733024056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045354329792749568/b7JXuLvu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5681,
+          "following_count": 993,
+          "like_count": 276,
+          "listed_count": 23,
+          "media_count": 3496,
+          "tweet_count": 15900
+        },
+        "url": "https://t.co/EZhyEGrRuS",
+        "username": "lovelyshuimao",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-07T09:33:46.000Z",
+        "description": "前世假死过， 互fo寻回中｜ 06 ｜ enby/MTF｜TQ｜ENTP｜公路车｜精英社会自由主义｜AI/美股/理工/生物/哲学/政经｜Cantonese｜略通药理｜NPD｜ 抹茶脑袋｜ 同类互fo可面哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sorcerer15803",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sorcerer15803",
+                "start": 0,
+                "url": "https://t.co/vX258E0roU"
+              }
+            ]
+          }
+        },
+        "id": "2041449281677045760",
+        "location": "北京市西城区西华门大街28号",
+        "name": "索瑟尔 𝓢𝓸𝓻𝓬𝓮𝓻𝓮𝓻🍥",
+        "pinned_tweet_id": "2045889078865072444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072703506100977664/gMi_fG2-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1047,
+          "following_count": 971,
+          "like_count": 2101,
+          "listed_count": 3,
+          "media_count": 464,
+          "tweet_count": 3398
+        },
+        "url": "https://t.co/vX258E0roU",
+        "username": "Sorcerer1311",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-18T04:06:54.000Z",
+        "description": "准高二丨百合豚丨🏳️‍🌈Les(泛)，MtF~X，HRT26.4.24丨日本語勉強中丨in PRC，☭，爱华反修反cpc，通常不键政和对线。改名前为【鹿目圆○】             详细介绍请访问:\nhttps://t.co/eOvYAa6rHN",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "m.otter.homes/@akizakura",
+                "end": 125,
+                "expanded_url": "https://m.otter.homes/@akizakura",
+                "start": 102,
+                "url": "https://t.co/eOvYAa6rHN"
+              }
+            ]
+          }
+        },
+        "id": "1825021494805581824",
+        "location": "圆环之理 ",
+        "name": "秋桜_akizakura",
+        "pinned_tweet_id": "2084406484402864423",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883225741275303936/hrHUZHOz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1053,
+          "following_count": 647,
+          "like_count": 22522,
+          "listed_count": 11,
+          "media_count": 490,
+          "tweet_count": 7290
+        },
+        "url": "",
+        "username": "lumuyuanMadoka2",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-05T14:28:34.000Z",
+        "description": "MtF | ASD | 🎂2010.1.3 | Minecraft PVP | CPhO现役 | 重庆 | 红星熄了，你还在燃。燃什么呢？只剩灰吗？ | 死亡是青年的良药，药效是永葆青春的容颜",
+        "id": "2040798583440527360",
+        "location": "长夜孤灯",
+        "name": "龙雨绫🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040798876291215360/4qSE1Jh7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 220,
+          "following_count": 270,
+          "like_count": 2910,
+          "listed_count": 1,
+          "media_count": 13,
+          "tweet_count": 719
+        },
+        "url": "",
+        "username": "longyvling",
+        "verified": false
+      }
+    ]
+  }
+}

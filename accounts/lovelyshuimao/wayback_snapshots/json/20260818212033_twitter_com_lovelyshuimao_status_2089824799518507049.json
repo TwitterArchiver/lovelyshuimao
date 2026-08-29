@@ -1,0 +1,311 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1748763011140169729",
+    "conversation_id": "2089788791599046852",
+    "created_at": "2026-08-18T21:20:33.000Z",
+    "display_text_range": [
+      12,
+      85
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T22:20:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089824799518507049"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1688015387663949824",
+          "start": 0,
+          "username": "TOWinZH_CN"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/lovelyshuimao/…",
+          "end": 85,
+          "expanded_url": "https://x.com/lovelyshuimao/status/2088976952892047686?s=46",
+          "start": 62,
+          "url": "https://t.co/EZFapdeOJE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089824799518507049",
+    "in_reply_to_user_id": "1688015387663949824",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088976952892047686",
+        "type": "quoted"
+      },
+      {
+        "id": "2089822223582540133",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TOWinZH_CN 没权利啊懂嘛\n那这么多医院都说我要住院\n我不仅有紫砂风险他们还说我双相呢\n也都被我以自愿给挡回去了\nhttps://t.co/EZFapdeOJE"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "2089788791599046852",
+        "created_at": "2026-08-18T21:20:33.000Z",
+        "display_text_range": [
+          12,
+          85
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T22:20:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089824799518507049"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1688015387663949824",
+              "start": 0,
+              "username": "TOWinZH_CN"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/lovelyshuimao/…",
+              "end": 85,
+              "expanded_url": "https://x.com/lovelyshuimao/status/2088976952892047686?s=46",
+              "start": 62,
+              "url": "https://t.co/EZFapdeOJE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089824799518507049",
+        "in_reply_to_user_id": "1688015387663949824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088976952892047686",
+            "type": "quoted"
+          },
+          {
+            "id": "2089822223582540133",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TOWinZH_CN 没权利啊懂嘛\n那这么多医院都说我要住院\n我不仅有紫砂风险他们还说我双相呢\n也都被我以自愿给挡回去了\nhttps://t.co/EZFapdeOJE"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1688015387663949824",
+        "conversation_id": "2089788791599046852",
+        "created_at": "2026-08-18T21:10:19.000Z",
+        "display_text_range": [
+          15,
+          152
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T22:10:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089822223582540133"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1748763011140169729",
+              "start": 0,
+              "username": "lovelyshuimao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089822223582540133",
+        "in_reply_to_user_id": "1748763011140169729",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089788791599046852",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lovelyshuimao 买亚硝酸钠并不是唯一的诱因啊,你要有自杀风险,然后买亚硝酸钠那当然会被晶,之前正常购买是没问题的,而且,亚硝酸钠使用量超级小,如果正常使用是内中一次要腌制几百KG的场景,那种一般是大公司,有专业渠道,还有就是,他是因为有自杀风险被关的,不是因为买亚硝酸钠,你们是没有上下文吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "2088976952892047686",
+        "created_at": "2026-08-16T13:11:31.000Z",
+        "display_text_range": [
+          0,
+          134
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T14:11:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088976952892047686"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2088976952892047686",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我先后在上海市精神卫生院、杭州第二医院、杭州中医院、温州康宁医院、温州第七人民医院、温州附一医、温州附二医的诊断下\n医生都坚持要住院限制我的自由并且洗脑我的父母，好在截至目前都是自愿住院，我都拒绝了\n我必须“窗口指导”他们去介入干预治疗了，放任医院、医生、父母为所欲为\n即便是法院好歹是因为如果我犯法才有权让我有限期关押，他们就敢无限期让我住院（虽然是开放病房，但是不排除后续升级可能）"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2144,
+          "like_count": 35,
+          "quote_count": 1,
+          "reply_count": 24,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我先后在上海市精神卫生院、杭州第二医院、杭州中医院、温州康宁医院、温州第七人民医院、温州附一医、温州附二医的诊断下\n医生都坚持要住院限制我的自由并且洗脑我的父母，好在截至目前都是自愿住院，我都拒绝了\n我必须“窗口指导”他们去介入干预治疗了，放任医院、医生、父母为所欲为"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "🐱神仙水水猫｜星铃｜Lumia\n👩🏻‍💻INTJ ♀14 \n🙋🏻‍♀️提問box——————↓\n✍🏻想寫作",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGrRuS"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "is_identity_verified": true,
+        "location": "距离你 4.3km",
+        "most_recent_tweet_id": "2089824799518507049",
+        "name": "lovely水",
+        "pinned_tweet_id": "2075897725733024056",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1748763011140169729/1775028370",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045354329792749568/b7JXuLvu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5824,
+          "following_count": 997,
+          "like_count": 275,
+          "listed_count": 25,
+          "media_count": 3567,
+          "tweet_count": 16283
+        },
+        "url": "https://t.co/EZhyEGrRuS",
+        "username": "lovelyshuimao",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-08-06T02:33:34.000Z",
+        "description": "某19INFP/双相情感障碍/休学中/自学各种东西中/日常推~/计算机领域笨蛋大猫咪/不可以鉴证/缺觉但睡不着ing",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.towdesite.top",
+                "end": 23,
+                "expanded_url": "https://blog.towdesite.top/",
+                "start": 0,
+                "url": "https://t.co/8qsI49I7s3"
+              }
+            ]
+          }
+        },
+        "id": "1688015387663949824",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089822223582540133",
+        "name": "TOW",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1688015387663949824/1739722285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906937186551058432/aIBGuDqU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 272,
+          "like_count": 3043,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 916
+        },
+        "url": "https://t.co/8qsI49I7s3",
+        "username": "TOWinZH_CN",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

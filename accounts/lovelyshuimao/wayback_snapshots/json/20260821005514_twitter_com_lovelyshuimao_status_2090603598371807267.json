@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2090603578725748737"
+      ]
+    },
+    "author_id": "1748763011140169729",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2090603598371807267",
+    "created_at": "2026-08-21T00:55:14.000Z",
+    "display_text_range": [
+      0,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T01:55:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2090603598371807267"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/FTpc7ooM9d",
+          "end": 44,
+          "expanded_url": "https://x.com/lovelyshuimao/status/2090603598371807267/photo/1",
+          "media_key": "3_2090603578725748737",
+          "start": 21,
+          "url": "https://t.co/FTpc7ooM9d"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090603598371807267",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2090603578725748737"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "怀念有一天….\n在杭州和好多朋友吃了小笼 https://t.co/FTpc7ooM9d"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2090603578725748737",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQNQ4Nwb0AEeXHA.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090603578725748737"
+          ]
+        },
+        "author_id": "1748763011140169729",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2090603598371807267",
+        "created_at": "2026-08-21T00:55:14.000Z",
+        "display_text_range": [
+          0,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T01:55:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090603598371807267"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FTpc7ooM9d",
+              "end": 44,
+              "expanded_url": "https://x.com/lovelyshuimao/status/2090603598371807267/photo/1",
+              "media_key": "3_2090603578725748737",
+              "start": 21,
+              "url": "https://t.co/FTpc7ooM9d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090603598371807267",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090603578725748737"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "怀念有一天….\n在杭州和好多朋友吃了小笼 https://t.co/FTpc7ooM9d"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "🐱神仙水水猫｜星铃｜Lumia\n👩🏻‍💻INTJ ♀14 \n🙋🏻‍♀️提問box——————↓\n✍🏻想寫作",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGrRuS"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "is_identity_verified": true,
+        "location": "距离你 4.3km",
+        "most_recent_tweet_id": "2090603598371807267",
+        "name": "lovely水",
+        "pinned_tweet_id": "2090441718936326310",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1748763011140169729/1775028370",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045354329792749568/b7JXuLvu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5822,
+          "following_count": 997,
+          "like_count": 275,
+          "listed_count": 25,
+          "media_count": 3577,
+          "tweet_count": 16346
+        },
+        "url": "https://t.co/EZhyEGrRuS",
+        "username": "lovelyshuimao",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1748763011140169729",
+    "conversation_id": "2090441718936326310",
+    "created_at": "2026-08-21T11:51:24.000Z",
+    "display_text_range": [
+      0,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T12:51:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090768731781931168"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/lovelyshuimao/…",
+          "end": 23,
+          "expanded_url": "https://x.com/lovelyshuimao/status/2090619236196716875?s=46",
+          "start": 0,
+          "url": "https://t.co/Gizl1c1raS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090768731781931168",
+    "in_reply_to_user_id": "1748763011140169729",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090619236196716875",
+        "type": "quoted"
+      },
+      {
+        "id": "2090441718936326310",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "https://t.co/Gizl1c1raS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1941,
+        "media_key": "3_2090619227132850176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQNfHEna8AA_q3X.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "2090441718936326310",
+        "created_at": "2026-08-21T11:51:24.000Z",
+        "display_text_range": [
+          0,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T12:51:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090768731781931168"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lovelyshuimao/…",
+              "end": 23,
+              "expanded_url": "https://x.com/lovelyshuimao/status/2090619236196716875?s=46",
+              "start": 0,
+              "url": "https://t.co/Gizl1c1raS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090768731781931168",
+        "in_reply_to_user_id": "1748763011140169729",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090619236196716875",
+            "type": "quoted"
+          },
+          {
+            "id": "2090441718936326310",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/Gizl1c1raS"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "2090441718936326310",
+        "created_at": "2026-08-20T14:11:58.000Z",
+        "display_text_range": [
+          0,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T15:11:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090441718936326310"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2090441718936326310",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 721,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "有没有人明天在杭州或者后天在上海\n窝要面姬🤓👊🏻"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090619227132850176"
+          ]
+        },
+        "author_id": "1748763011140169729",
+        "conversation_id": "2090619236196716875",
+        "created_at": "2026-08-21T01:57:22.000Z",
+        "display_text_range": [
+          0,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T02:57:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090619236196716875"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oscZhFxXxl",
+              "end": 46,
+              "expanded_url": "https://x.com/lovelyshuimao/status/2090619236196716875/photo/1",
+              "media_key": "3_2090619227132850176",
+              "start": 23,
+              "url": "https://t.co/oscZhFxXxl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090619236196716875",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090619227132850176"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 2380,
+          "like_count": 36,
+          "quote_count": 0,
+          "reply_count": 24,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "到底谁在杭州上海啊\n呜呜呜没人的话我就回家了 https://t.co/oscZhFxXxl"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "🐱神仙水水猫｜星铃｜Lumia\n👩🏻‍💻INTJ ♀14 \n🙋🏻‍♀️提問box——————↓\n✍🏻想寫作",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGrRuS"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "is_identity_verified": true,
+        "location": "距离你 4.3km",
+        "most_recent_tweet_id": "2090768731781931168",
+        "name": "lovely水",
+        "pinned_tweet_id": "2090441718936326310",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1748763011140169729/1775028370",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045354329792749568/b7JXuLvu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5833,
+          "following_count": 996,
+          "like_count": 275,
+          "listed_count": 25,
+          "media_count": 3585,
+          "tweet_count": 16364
+        },
+        "url": "https://t.co/EZhyEGrRuS",
+        "username": "lovelyshuimao",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

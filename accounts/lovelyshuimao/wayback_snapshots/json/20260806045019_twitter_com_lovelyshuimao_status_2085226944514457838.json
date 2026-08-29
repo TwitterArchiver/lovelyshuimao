@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1748763011140169729",
+    "conversation_id": "2085226944514457838",
+    "created_at": "2026-08-06T04:50:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T05:50:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085226944514457838"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/sionn100percen…",
+          "end": 45,
+          "expanded_url": "https://twitter.com/sionn100percent/status/2084958957597299089",
+          "start": 22,
+          "url": "https://t.co/kyNecwLwsb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085226944514457838",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084958957597299089",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "还好我已经被境外势力资助了\n这是我的工作（ https://t.co/kyNecwLwsb"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "2085226944514457838",
+        "created_at": "2026-08-06T04:50:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T05:50:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085226944514457838"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sionn100percen…",
+              "end": 45,
+              "expanded_url": "https://twitter.com/sionn100percent/status/2084958957597299089",
+              "start": 22,
+              "url": "https://t.co/kyNecwLwsb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085226944514457838",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084958957597299089",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "还好我已经被境外势力资助了\n这是我的工作（ https://t.co/kyNecwLwsb"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1468153903384756230",
+        "conversation_id": "2084958957597299089",
+        "created_at": "2026-08-05T11:05:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T12:05:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084958957597299089"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084958957597299089",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1646,
+          "like_count": 14,
+          "quote_count": 2,
+          "reply_count": 13,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们这是个什么软件啊？啊？把我儿子搞成什么样子了？天天在家里不是穿女装就是看色情图片，不是讨论什么政治就是说什么日本美国多好多好！我一翻全是黄色，暴力，骂人，辱华  你们这群人不务正业整天就在这个软件上搞些违法乱纪的事情，我要报警把你们全部抓起来，全部关起来"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "🐱神仙水水猫｜星铃｜Lumia\n👩🏻‍💻INTJ ♀14 \n🙋🏻‍♀️提問box——————↓\n✍🏻想成為作家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGrRuS"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你 4.3km",
+        "name": "lovely水",
+        "pinned_tweet_id": "2075897725733024056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045354329792749568/b7JXuLvu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5681,
+          "following_count": 993,
+          "like_count": 276,
+          "listed_count": 23,
+          "media_count": 3496,
+          "tweet_count": 15901
+        },
+        "url": "https://t.co/EZhyEGrRuS",
+        "username": "lovelyshuimao",
+        "verified": true
+      },
+      {
+        "created_at": "2021-12-07T09:42:39.000Z",
+        "description": "小恶魔｜Little devil｜蓝V必回｜femboy｜ENname：LunaRuri｜EN CN JP｜Hot takes｜Commentary｜Humor｜Entertainment｜Verified users follow back｜Submissions welcome",
+        "id": "1468153903384756230",
+        "location": "小恶魔版，小天使不敢说的话我来说",
+        "name": "月璃_LunaRuri_V2🏳️‍⚧️😈",
+        "pinned_tweet_id": "2063477186338992267",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084451204726484992/gz5_UFla_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1637,
+          "following_count": 492,
+          "like_count": 801,
+          "listed_count": 10,
+          "media_count": 139,
+          "tweet_count": 4238
+        },
+        "url": "",
+        "username": "sionn100percent",
+        "verified": false
+      }
+    ]
+  }
+}

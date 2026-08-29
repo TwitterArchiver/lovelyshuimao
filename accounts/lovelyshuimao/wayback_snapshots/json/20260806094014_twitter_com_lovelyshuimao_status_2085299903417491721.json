@@ -1,0 +1,362 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1748763011140169729",
+    "conversation_id": "2084876571274613002",
+    "created_at": "2026-08-06T09:40:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T10:40:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085299903417491721"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1843201902550634496",
+          "start": 0,
+          "username": "LwrDHYyuxR22499"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085299903417491721",
+    "in_reply_to_user_id": "1843201902550634496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084876571274613002",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LwrDHYyuxR22499 这个直接打电话说有人在开法轮功机构，国家秒抓"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 117815,
+        "height": 2400,
+        "media_key": "13_2084870322344558592",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2084870322344558592/img/vtfi5JB9OJyzOS-L.jpg",
+        "public_metrics": {
+          "view_count": 8268
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2084870322344558592/vid/avc1/720x960/S7XiOdLP7l8F7GmJ.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2084870322344558592/vid/avc1/480x640/jzjiz01uVY9IbsyR.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2084870322344558592/pl/Q1qahxc8JVzWIfwj.m3u8?v=821"
+          },
+          {
+            "bit_rate": 25128000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2084870322344558592/vid/avc1/1800x2400/Jgnb6slx1NnuMczl.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2084870322344558592/vid/avc1/1080x1440/6vT8OzRUsk94PpRS.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2084870322344558592/vid/avc1/320x426/2d1HK2Z6zWZDaEl6.mp4"
+          }
+        ],
+        "width": 1800
+      },
+      {
+        "duration_ms": 13266,
+        "height": 544,
+        "media_key": "13_2084870322181087232",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2084870322181087232/img/DSXvkfPlr3au2vtm.jpg",
+        "public_metrics": {
+          "view_count": 340
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2084870322181087232/vid/avc1/634x270/8BWKrIxs_NyWfXxC.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2084870322181087232/vid/avc1/846x360/Bp7D1JuFCxPegxjT.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2084870322181087232/vid/avc1/1280x544/iUm6Cp3x4peXv5Y4.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2084870322181087232/pl/J6awmT7v0eF2SobZ.m3u8"
+          }
+        ],
+        "width": 1280
+      },
+      {
+        "duration_ms": 8574,
+        "height": 544,
+        "media_key": "13_2084870322176798720",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2084870322176798720/img/F-l09aSe1IOFlZVc.jpg",
+        "public_metrics": {
+          "view_count": 430
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2084870322176798720/vid/avc1/634x270/iVvBv-ZRylfI3AWl.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2084870322176798720/vid/avc1/846x360/F8ZI8DJgA3pWxhFn.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2084870322176798720/vid/avc1/1280x544/66CqbLyn_GmOJMYr.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2084870322176798720/pl/UPRbUYr4GJRWCAGU.m3u8"
+          }
+        ],
+        "width": 1280
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2084875063447408640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO720vXaUAA8zfN.jpg",
+        "width": 917
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "2084876571274613002",
+        "created_at": "2026-08-06T09:40:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T10:40:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085299903417491721"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085299903417491721",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084876571274613002",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 这个直接打电话说有人在开法轮功机构，国家秒抓"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2084870322344558592",
+            "13_2084870322181087232",
+            "13_2084870322176798720",
+            "3_2084875063447408640"
+          ]
+        },
+        "author_id": "1843201902550634496",
+        "conversation_id": "2084876571274613002",
+        "created_at": "2026-08-05T05:38:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T06:38:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084876571274613002"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yeKYC4kVIT",
+              "end": 164,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2084876571274613002/video/1",
+              "media_key": "13_2084870322344558592",
+              "start": 141,
+              "url": "https://t.co/yeKYC4kVIT"
+            },
+            {
+              "display_url": "pic.x.com/yeKYC4kVIT",
+              "end": 164,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2084876571274613002/video/1",
+              "media_key": "13_2084870322181087232",
+              "start": 141,
+              "url": "https://t.co/yeKYC4kVIT"
+            },
+            {
+              "display_url": "pic.x.com/yeKYC4kVIT",
+              "end": 164,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2084876571274613002/video/1",
+              "media_key": "13_2084870322176798720",
+              "start": 141,
+              "url": "https://t.co/yeKYC4kVIT"
+            },
+            {
+              "display_url": "pic.x.com/yeKYC4kVIT",
+              "end": 164,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2084876571274613002/video/1",
+              "media_key": "3_2084875063447408640",
+              "start": 141,
+              "url": "https://t.co/yeKYC4kVIT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084876571274613002",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "m.mp.oeeee.com/a/BAAFRD000020…",
+                "end": 528,
+                "expanded_url": "https://m.mp.oeeee.com/a/BAAFRD0000202608041638091.html",
+                "start": 505,
+                "url": "https://t.co/LMkPf8wCzS"
+              }
+            ]
+          },
+          "text": "2026年7月11日，我们收到一位女孩的求救消息，对方自述被强制拘禁在一处打着“国学教育”旗号的封闭式机构内。\n \n经摸排核查确认，\n该机构实际控制人，为早年北海特大传销案件主犯赖泽平。\n此人刑满释放后，\n更名来泽明重操旧业，\n在原有传销模式之上，\n糅合大量邪教内容拓展犯罪手段。\n \n多名受害人员口述证实：\n机构开设荒诞课程，\n大肆宣扬修仙、\nLGBT是中国祸害、\n伪科学排毒理论\n依托密闭昏暗空间、\n特制音频对学员进行精神控制。\n\n赖泽平还刻意搭建尊卑分明的内部层级，\n借机诱骗女性学员，编造邪说，以“心魔需通过发生性关系才能祛除”为由实施性侵犯罪。\n \n7月24日，我只身赶赴长春，\n以学员张立身份卧底，\n摸清该组织牟利逻辑\n面向家长开设宣讲课进行洗脑，不断诱导家长将孩子送入基地，依靠收取学费实现非法盈利后\n在基地内部利用其封闭环境\n打造身份等级，\n建立一言堂制度，\n对顺从者深度洗脑，进而迫使其发生性关系\n对反抗者往往拳脚相加，\n又或是通过孤立霸凌清除异己，\n最终打造出一处可供自己为所欲为的邪教窝点。\n \n卧底期间拍摄留存了现场影像证据，供新闻媒体核查报道，\n下附机构内部授课录像，\n与新闻链接:\nhttps://t.co/LMkPf8wCzS"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 41,
+          "impression_count": 37096,
+          "like_count": 307,
+          "quote_count": 5,
+          "reply_count": 53,
+          "retweet_count": 52
+        },
+        "reply_settings": "everyone",
+        "text": "2026年7月11日，我们收到一位女孩的求救消息，对方自述被强制拘禁在一处打着“国学教育”旗号的封闭式机构内。\n \n经摸排核查确认，\n该机构实际控制人，为早年北海特大传销案件主犯赖泽平。\n此人刑满释放后，\n更名来泽明重操旧业，\n在原有传销模式之上，\n糅合大量邪教内容拓展犯罪手段。 https://t.co/yeKYC4kVIT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "🐱神仙水水猫｜星铃｜Lumia\n👩🏻‍💻INTJ ♀14 \n🙋🏻‍♀️提問box——————↓\n✍🏻想成為作家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGrRuS"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你 4.3km",
+        "name": "lovely水",
+        "pinned_tweet_id": "2075897725733024056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045354329792749568/b7JXuLvu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5680,
+          "following_count": 994,
+          "like_count": 276,
+          "listed_count": 23,
+          "media_count": 3499,
+          "tweet_count": 15914
+        },
+        "url": "https://t.co/EZhyEGrRuS",
+        "username": "lovelyshuimao",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人，反扭转救援信息战主力、体系化反扭设计者，反邪教，反家暴\n曾受邀BBC Eye联合调查曝光违规机构，个案不定期登刊央视、东方卫视、中华网、半月谈以及各大新闻媒体。\n斩获2026年度新闻界🥇卓越奖\n最大的愿望是中国老百姓都能过上好日子",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079781229529022464/zTPOeSt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6894,
+          "following_count": 3393,
+          "like_count": 4272,
+          "listed_count": 21,
+          "media_count": 541,
+          "tweet_count": 3732
+        },
+        "url": "",
+        "username": "LwrDHYyuxR22499",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1748763011140169729",
+    "conversation_id": "2075897725733024056",
+    "created_at": "2026-08-17T13:32:06.000Z",
+    "display_text_range": [
+      10,
+      39
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-17T14:32:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089344521742258307"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1769556759541387264",
+          "start": 0,
+          "username": "Tsinliri"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089344521742258307",
+    "in_reply_to_user_id": "1769556759541387264",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089338247680008517",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Tsinliri 风格啦（，网站是远期规划，只是我完成不了所以先做个了效果图"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "2075897725733024056",
+        "created_at": "2026-08-17T13:32:06.000Z",
+        "display_text_range": [
+          10,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T14:32:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089344521742258307"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1769556759541387264",
+              "start": 0,
+              "username": "Tsinliri"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089344521742258307",
+        "in_reply_to_user_id": "1769556759541387264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089338247680008517",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tsinliri 风格啦（，网站是远期规划，只是我完成不了所以先做个了效果图"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1769556759541387264",
+        "conversation_id": "2075897725733024056",
+        "created_at": "2026-08-17T13:07:10.000Z",
+        "display_text_range": [
+          15,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T14:07:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089338247680008517"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1748763011140169729",
+              "start": 0,
+              "username": "lovelyshuimao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089338247680008517",
+        "in_reply_to_user_id": "1769556759541387264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089338141551538325",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lovelyshuimao 我的意思这是你的个人网站吗"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "🐱神仙水水猫｜星铃｜Lumia\n👩🏻‍💻INTJ ♀14 \n🙋🏻‍♀️提問box——————↓\n✍🏻想成為哲學🏠",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGrRuS"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "is_identity_verified": true,
+        "location": "距离你 4.3km",
+        "most_recent_tweet_id": "2089344521742258307",
+        "name": "lovely水",
+        "pinned_tweet_id": "2075897725733024056",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1748763011140169729/1775028370",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045354329792749568/b7JXuLvu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5798,
+          "following_count": 1000,
+          "like_count": 275,
+          "listed_count": 25,
+          "media_count": 3553,
+          "tweet_count": 16216
+        },
+        "url": "https://t.co/EZhyEGrRuS",
+        "username": "lovelyshuimao",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-03-18T02:49:55.000Z",
+        "description": "I’m living",
+        "id": "1769556759541387264",
+        "is_identity_verified": false,
+        "location": "Past",
+        "most_recent_tweet_id": "2089338247680008517",
+        "name": "理理来啦",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1769556759541387264/1734492408",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913890023751237632/B5ttfd3z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 431,
+          "like_count": 718,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 69
+        },
+        "url": "",
+        "username": "Tsinliri",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

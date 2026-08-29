@@ -1,0 +1,366 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2090822409167474688"
+      ]
+    },
+    "author_id": "1748763011140169729",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2090776362055532840",
+    "created_at": "2026-08-21T15:24:44.000Z",
+    "display_text_range": [
+      12,
+      12
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T16:24:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090822416113250577"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1649365408779214848",
+          "start": 0,
+          "username": "bolckAshley"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/QkwEL4rJCj",
+          "end": 36,
+          "expanded_url": "https://x.com/lovelyshuimao/status/2090822416113250577/photo/1",
+          "media_key": "3_2090822409167474688",
+          "start": 13,
+          "url": "https://t.co/QkwEL4rJCj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090822416113250577",
+    "in_reply_to_user_id": "1649365408779214848",
+    "lang": "qme",
+    "media_metadata": [
+      {
+        "media_key": "3_2090822409167474688"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090776362055532840",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bolckAshley https://t.co/QkwEL4rJCj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1576,
+        "media_key": "3_2090822409167474688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQQX50rakAABUv6.jpg",
+        "width": 1005
+      },
+      {
+        "height": 655,
+        "media_key": "3_2090776355478876160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQPuBJUasAAcdvM.jpg",
+        "width": 701
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090822409167474688"
+          ]
+        },
+        "author_id": "1748763011140169729",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2090776362055532840",
+        "created_at": "2026-08-21T15:24:44.000Z",
+        "display_text_range": [
+          12,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T16:24:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090822416113250577"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1649365408779214848",
+              "start": 0,
+              "username": "bolckAshley"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QkwEL4rJCj",
+              "end": 36,
+              "expanded_url": "https://x.com/lovelyshuimao/status/2090822416113250577/photo/1",
+              "media_key": "3_2090822409167474688",
+              "start": 13,
+              "url": "https://t.co/QkwEL4rJCj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090822416113250577",
+        "in_reply_to_user_id": "1649365408779214848",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2090822409167474688"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090776362055532840",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bolckAshley https://t.co/QkwEL4rJCj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090776355478876160"
+          ]
+        },
+        "author_id": "1649365408779214848",
+        "conversation_id": "2090776362055532840",
+        "created_at": "2026-08-21T12:21:44.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T13:21:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090776362055532840"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/K2Bx7QLiSB",
+              "end": 23,
+              "expanded_url": "https://x.com/bolckAshley/status/2090776362055532840/photo/1",
+              "media_key": "3_2090776355478876160",
+              "start": 0,
+              "url": "https://t.co/K2Bx7QLiSB"
+            },
+            {
+              "display_url": "x.com/bghtnya/status…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/bghtnya/status/2090699044620558532",
+              "start": 24,
+              "url": "https://t.co/eKbHjVSIsb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090776362055532840",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2090776355478876160"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1578,
+          "like_count": 38,
+          "quote_count": 1,
+          "reply_count": 13,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090699044620558532",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/K2Bx7QLiSB https://t.co/eKbHjVSIsb"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "🐱神仙水水猫｜星铃｜Lumia\n👩🏻‍💻INTJ ♀14 \n🙋🏻‍♀️提問box——————↓\n✍🏻想寫作",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGrRuS"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "is_identity_verified": true,
+        "location": "距离你 4.3km",
+        "most_recent_tweet_id": "2090822416113250577",
+        "name": "lovely水",
+        "pinned_tweet_id": "2090619236196716875",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1748763011140169729/1775028370",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045354329792749568/b7JXuLvu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5837,
+          "following_count": 996,
+          "like_count": 275,
+          "listed_count": 25,
+          "media_count": 3592,
+          "tweet_count": 16390
+        },
+        "url": "https://t.co/EZhyEGrRuS",
+        "username": "lovelyshuimao",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2023-04-21T10:52:19.000Z",
+        "description": "When words become empty, silence is power.                𝐒𝐨𝐜𝐢𝐚𝐥 𝐃𝐞𝐦𝐨𝐫𝐚𝐜𝐭🌹𝐚𝐧𝐝 𝐋𝐞𝐟𝐭-𝐓𝐫𝐢𝐝𝐞𝐦𝐢𝐬𝐭❂  \n❤️:@Usam8964 好閨蜜:@yuki40582",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 99,
+                "username": "Usam8964"
+              },
+              {
+                "end": 123,
+                "start": 113,
+                "username": "yuki40582"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fes.de",
+                "end": 23,
+                "expanded_url": "https://www.fes.de",
+                "start": 0,
+                "url": "https://t.co/7x8MsmOgUP"
+              }
+            ]
+          }
+        },
+        "id": "1649365408779214848",
+        "is_identity_verified": false,
+        "location": "Fukien, Republic of China",
+        "most_recent_tweet_id": "2090815240854475030",
+        "name": "𝐀𝐬𝐡𝐥𝐞𝐲 𝐁𝐥𝐨𝐜𝐤🍥🌹🇹🇼🏳️‍⚧️🇪🇺",
+        "pinned_tweet_id": "2031620816308416559",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1649365408779214848/1785467688",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083028573124988928/T-Nwypcq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4417,
+          "following_count": 2251,
+          "like_count": 43912,
+          "listed_count": 31,
+          "media_count": 2029,
+          "tweet_count": 24295
+        },
+        "url": "https://t.co/7x8MsmOgUP",
+        "username": "bolckAshley",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

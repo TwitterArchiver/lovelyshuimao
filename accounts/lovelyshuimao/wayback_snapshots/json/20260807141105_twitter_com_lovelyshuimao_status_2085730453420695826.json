@@ -1,0 +1,340 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2085730429886414849",
+        "3_2085730429873836032"
+      ]
+    },
+    "author_id": "1748763011140169729",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2085730453420695826",
+    "created_at": "2026-08-07T14:11:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T15:11:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085730453420695826"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/zzioiL1S7R",
+          "end": 64,
+          "expanded_url": "https://x.com/lovelyshuimao/status/2085730453420695826/photo/1",
+          "media_key": "3_2085730429886414849",
+          "start": 41,
+          "url": "https://t.co/zzioiL1S7R"
+        },
+        {
+          "display_url": "pic.x.com/zzioiL1S7R",
+          "end": 64,
+          "expanded_url": "https://x.com/lovelyshuimao/status/2085730453420695826/photo/1",
+          "media_key": "3_2085730429873836032",
+          "start": 41,
+          "url": "https://t.co/zzioiL1S7R"
+        },
+        {
+          "display_url": "x.com/lovelyshuimao/…",
+          "end": 88,
+          "expanded_url": "https://twitter.com/lovelyshuimao/status/2085723306641273312",
+          "start": 65,
+          "url": "https://t.co/sYk0M55vn6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085730453420695826",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085723306641273312",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "怎么都这么有钱🥺😭\n还请我吃野入冰淇淋和送我了几颗安非他命（没听过不知道什么药） https://t.co/zzioiL1S7R https://t.co/sYk0M55vn6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4032,
+        "media_key": "3_2085730429886414849",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPIAxnqaQAE6U3X.jpg",
+        "width": 3024
+      },
+      {
+        "height": 4032,
+        "media_key": "3_2085730429873836032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPIAxnnaUAAD_Xn.jpg",
+        "width": 3024
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2085723286194053120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPH6RzVbYAAjH8F.jpg",
+        "width": 3072
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2085723286219149312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPH6RzbaUAAPbXy.jpg",
+        "width": 3072
+      },
+      {
+        "height": 4032,
+        "media_key": "3_2085723286206644225",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPH6RzYbgAE3Con.jpg",
+        "width": 3024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085730429886414849",
+            "3_2085730429873836032"
+          ]
+        },
+        "author_id": "1748763011140169729",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2085730453420695826",
+        "created_at": "2026-08-07T14:11:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T15:11:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085730453420695826"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zzioiL1S7R",
+              "end": 64,
+              "expanded_url": "https://x.com/lovelyshuimao/status/2085730453420695826/photo/1",
+              "media_key": "3_2085730429886414849",
+              "start": 41,
+              "url": "https://t.co/zzioiL1S7R"
+            },
+            {
+              "display_url": "pic.x.com/zzioiL1S7R",
+              "end": 64,
+              "expanded_url": "https://x.com/lovelyshuimao/status/2085730453420695826/photo/1",
+              "media_key": "3_2085730429873836032",
+              "start": 41,
+              "url": "https://t.co/zzioiL1S7R"
+            },
+            {
+              "display_url": "x.com/lovelyshuimao/…",
+              "end": 88,
+              "expanded_url": "https://twitter.com/lovelyshuimao/status/2085723306641273312",
+              "start": 65,
+              "url": "https://t.co/sYk0M55vn6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085730453420695826",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085723306641273312",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "怎么都这么有钱🥺😭\n还请我吃野入冰淇淋和送我了几颗安非他命（没听过不知道什么药） https://t.co/zzioiL1S7R https://t.co/sYk0M55vn6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085723286194053120",
+            "3_2085723286219149312",
+            "3_2085723286206644225"
+          ]
+        },
+        "author_id": "1748763011140169729",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2085723306641273312",
+        "created_at": "2026-08-07T13:42:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T14:42:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085723306641273312"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 22,
+              "id": "1986452594206838785",
+              "start": 8,
+              "username": "Idontselldrug"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xESnAZXbRQ",
+              "end": 88,
+              "expanded_url": "https://x.com/lovelyshuimao/status/2085723306641273312/photo/1",
+              "media_key": "3_2085723286194053120",
+              "start": 65,
+              "url": "https://t.co/xESnAZXbRQ"
+            },
+            {
+              "display_url": "pic.x.com/xESnAZXbRQ",
+              "end": 88,
+              "expanded_url": "https://x.com/lovelyshuimao/status/2085723306641273312/photo/1",
+              "media_key": "3_2085723286219149312",
+              "start": 65,
+              "url": "https://t.co/xESnAZXbRQ"
+            },
+            {
+              "display_url": "pic.x.com/xESnAZXbRQ",
+              "end": 88,
+              "expanded_url": "https://x.com/lovelyshuimao/status/2085723306641273312/photo/1",
+              "media_key": "3_2085723286206644225",
+              "start": 65,
+              "url": "https://t.co/xESnAZXbRQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085723306641273312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 72,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "有人请我吃饭🥺\n@Idontselldrug \n谢谢喵\n一起探讨了drug（bushi\n山来食堂（不知道吃什么菜的餐厅）\n温州！ https://t.co/xESnAZXbRQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "🐱神仙水水猫｜星铃｜Lumia\n👩🏻‍💻INTJ ♀14 \n🙋🏻‍♀️提問box——————↓\n✍🏻想成為哲學🏠",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGrRuS"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你 4.3km",
+        "name": "lovely水",
+        "pinned_tweet_id": "2075897725733024056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045354329792749568/b7JXuLvu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5734,
+          "following_count": 997,
+          "like_count": 276,
+          "listed_count": 23,
+          "media_count": 3513,
+          "tweet_count": 15970
+        },
+        "url": "https://t.co/EZhyEGrRuS",
+        "username": "lovelyshuimao",
+        "verified": true
+      }
+    ]
+  }
+}

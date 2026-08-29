@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2090319024056143872"
+      ]
+    },
+    "author_id": "1748763011140169729",
+    "conversation_id": "2090044583900332450",
+    "created_at": "2026-08-20T06:04:27.000Z",
+    "display_text_range": [
+      12,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T07:04:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090319029466743295"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1497241020303495168",
+          "start": 0,
+          "username": "mosscghere"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/YYEikA3D7N",
+          "end": 43,
+          "expanded_url": "https://x.com/lovelyshuimao/status/2090319029466743295/photo/1",
+          "media_key": "3_2090319024056143872",
+          "start": 20,
+          "url": "https://t.co/YYEikA3D7N"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090319029466743295",
+    "in_reply_to_user_id": "1497241020303495168",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2090319024056143872"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090044583900332450",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mosscghere 先和抢铁说去吧 https://t.co/YYEikA3D7N"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1589,
+        "media_key": "3_2090319024056143872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQJOE9AbkAA6A7O.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090319024056143872"
+          ]
+        },
+        "author_id": "1748763011140169729",
+        "conversation_id": "2090044583900332450",
+        "created_at": "2026-08-20T06:04:27.000Z",
+        "display_text_range": [
+          12,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T07:04:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090319029466743295"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1497241020303495168",
+              "start": 0,
+              "username": "mosscghere"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YYEikA3D7N",
+              "end": 43,
+              "expanded_url": "https://x.com/lovelyshuimao/status/2090319029466743295/photo/1",
+              "media_key": "3_2090319024056143872",
+              "start": 20,
+              "url": "https://t.co/YYEikA3D7N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090319029466743295",
+        "in_reply_to_user_id": "1497241020303495168",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090319024056143872"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090044583900332450",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mosscghere 先和抢铁说去吧 https://t.co/YYEikA3D7N"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1497241020303495168",
+        "conversation_id": "2090044583900332450",
+        "created_at": "2026-08-19T11:53:54.000Z",
+        "display_text_range": [
+          0,
+          67
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T12:53:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090044583900332450"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2090044583900332450",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2008,
+          "like_count": 38,
+          "quote_count": 1,
+          "reply_count": 29,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "某位群友受老登要求\n要去一天香港，一天澳门\n目的是“开阔眼界”\n预算是100块钱（CNY）\n甚至是自由行\n我：？你搁这玩绝地求生呢……"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "🐱神仙水水猫｜星铃｜Lumia\n👩🏻‍💻INTJ ♀14 \n🙋🏻‍♀️提問box——————↓\n✍🏻想寫作",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGrRuS"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "is_identity_verified": true,
+        "location": "距离你 4.3km",
+        "most_recent_tweet_id": "2090319029466743295",
+        "name": "lovely水",
+        "pinned_tweet_id": "2075897725733024056",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1748763011140169729/1775028370",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045354329792749568/b7JXuLvu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5827,
+          "following_count": 997,
+          "like_count": 275,
+          "listed_count": 24,
+          "media_count": 3570,
+          "tweet_count": 16309
+        },
+        "url": "https://t.co/EZhyEGrRuS",
+        "username": "lovelyshuimao",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-02-25T16:04:20.000Z",
+        "description": "咦...我是谁来着？记不起来了…大概是某位梦境列车魔法售票师……？也可能是某个无声飘过的旅行者？\n那么……\n暂时…逃离这个讨厌的现实吧？",
+        "id": "1497241020303495168",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090085656680858011",
+        "name": "啥也不会墨姐姐",
+        "pinned_tweet_id": "2080339781893210312",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1497241020303495168/1784825106",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080333344483762176/sFwfr-jM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5963,
+          "following_count": 900,
+          "like_count": 19318,
+          "listed_count": 5,
+          "media_count": 1530,
+          "tweet_count": 5956
+        },
+        "url": "",
+        "username": "mosscghere",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

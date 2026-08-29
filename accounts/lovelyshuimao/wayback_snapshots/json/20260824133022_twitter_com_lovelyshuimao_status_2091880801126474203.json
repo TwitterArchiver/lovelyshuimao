@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1748763011140169729",
+    "conversation_id": "2091880801126474203",
+    "created_at": "2026-08-24T13:30:22.000Z",
+    "display_text_range": [
+      0,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-24T14:30:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2091880801126474203"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/inline_int/sta…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/inline_int/status/2091804517671338012",
+          "start": 15,
+          "url": "https://t.co/ZqhcWfhu57"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091880801126474203",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091804517671338012",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "跨圈不搞终身制\n定期轮换🫡🫡 https://t.co/ZqhcWfhu57"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "2091880801126474203",
+        "created_at": "2026-08-24T13:30:22.000Z",
+        "display_text_range": [
+          0,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T14:30:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091880801126474203"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/inline_int/sta…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/inline_int/status/2091804517671338012",
+              "start": 15,
+              "url": "https://t.co/ZqhcWfhu57"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091880801126474203",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091804517671338012",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "跨圈不搞终身制\n定期轮换🫡🫡 https://t.co/ZqhcWfhu57"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045513838850641921",
+        "conversation_id": "2091804517671338012",
+        "created_at": "2026-08-24T08:27:15.000Z",
+        "display_text_range": [
+          0,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T09:27:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091804517671338012"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2091804517671338012",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 914,
+          "like_count": 34,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "一下子跨圈又要走掉了好多人\n开始轮换了\n自杀潮来了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "🐱神仙水水猫\n👩🏻‍💻INTJ ♀14 \n🙋🏻‍♀️提問box——————↓\n✍🏻想寫作",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGrRuS"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "is_identity_verified": true,
+        "location": "距离你 4.3km",
+        "most_recent_tweet_id": "2091880801126474203",
+        "name": "lovely水",
+        "pinned_tweet_id": "2090619236196716875",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1748763011140169729/1775028370",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045354329792749568/b7JXuLvu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5843,
+          "following_count": 995,
+          "like_count": 275,
+          "listed_count": 25,
+          "media_count": 3612,
+          "tweet_count": 16475
+        },
+        "url": "https://t.co/EZhyEGrRuS",
+        "username": "lovelyshuimao",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-18T14:47:16.000Z",
+        "description": "恭喜你发现了宝藏（并非）｜发发日常和梗图｜推文仅供娱乐，真假自辩｜互fo请DM｜Sic itur ad astra",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "intqwq.com",
+                "end": 23,
+                "expanded_url": "https://intqwq.com",
+                "start": 0,
+                "url": "https://t.co/xVU9kQGQiQ"
+              }
+            ]
+          }
+        },
+        "id": "2045513838850641921",
+        "is_identity_verified": false,
+        "location": "天国",
+        "most_recent_tweet_id": "2091879023312069045",
+        "name": "int喵喵喵",
+        "pinned_tweet_id": "2090679435578225112",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2045513838850641921/1786868048",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089990090089226240/_G_d3YbT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1782,
+          "following_count": 674,
+          "like_count": 3055,
+          "listed_count": 4,
+          "media_count": 375,
+          "tweet_count": 1135
+        },
+        "url": "https://t.co/xVU9kQGQiQ",
+        "username": "inline_int",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

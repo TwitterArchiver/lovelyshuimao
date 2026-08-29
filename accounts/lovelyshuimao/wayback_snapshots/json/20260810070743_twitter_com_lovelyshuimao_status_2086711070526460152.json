@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1748763011140169729",
+    "conversation_id": "2086398589748781404",
+    "created_at": "2026-08-10T07:07:43.000Z",
+    "display_text_range": [
+      15,
+      54
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T08:07:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086711070526460152"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1986452594206838785",
+          "start": 0,
+          "username": "Idontselldrug"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086711070526460152",
+    "in_reply_to_user_id": "1986452594206838785",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086398589748781404",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Idontselldrug 看胖的程度吧\n太胖抽脂好了还可以填到其他地方\n其实锻炼和控制饮食一起上是最好的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3120,
+        "media_key": "3_2086398567024132096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPRgcUdbgAArenJ.jpg",
+        "width": 1440
+      },
+      {
+        "height": 3120,
+        "media_key": "3_2086398578390597633",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPRgc-zaAAEsy0s.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "2086398589748781404",
+        "created_at": "2026-08-10T07:07:43.000Z",
+        "display_text_range": [
+          15,
+          54
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T08:07:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086711070526460152"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1986452594206838785",
+              "start": 0,
+              "username": "Idontselldrug"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086711070526460152",
+        "in_reply_to_user_id": "1986452594206838785",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086398589748781404",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Idontselldrug 看胖的程度吧\n太胖抽脂好了还可以填到其他地方\n其实锻炼和控制饮食一起上是最好的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086398567024132096",
+            "3_2086398578390597633"
+          ]
+        },
+        "author_id": "1986452594206838785",
+        "conversation_id": "2086398589748781404",
+        "created_at": "2026-08-09T10:26:01.000Z",
+        "display_text_range": [
+          0,
+          143
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T11:26:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086398589748781404"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Mj18DMTv0K",
+              "end": 167,
+              "expanded_url": "https://x.com/Idontselldrug/status/2086398589748781404/photo/1",
+              "media_key": "3_2086398567024132096",
+              "start": 144,
+              "url": "https://t.co/Mj18DMTv0K"
+            },
+            {
+              "display_url": "pic.x.com/Mj18DMTv0K",
+              "end": 167,
+              "expanded_url": "https://x.com/Idontselldrug/status/2086398589748781404/photo/1",
+              "media_key": "3_2086398578390597633",
+              "start": 144,
+              "url": "https://t.co/Mj18DMTv0K"
+            },
+            {
+              "display_url": "x.com/Idontselldrug/…",
+              "end": 191,
+              "expanded_url": "https://twitter.com/Idontselldrug/status/2086390476882817253",
+              "start": 168,
+              "url": "https://t.co/mupj2XtEXb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086398589748781404",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2086398567024132096"
+          },
+          {
+            "media_key": "3_2086398578390597633"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1017,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 17,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086390476882817253",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "减肥建议先确保饮食和运动，再考虑加药物\n\n99%的人只需要glp1抑制食欲就可以了，替尔泊肽比司美格鲁肽好，多的gip靶点不仅能加强效果还能抗恶心\n\n如果你是那1%，就想用点猛药，可以看p2我写的\n\n泻药不好，不要吃\n\n篇幅不足写不下，如果你想可以私信\n\n我不是医生，以上不构成用药建议 https://t.co/Mj18DMTv0K https://t.co/mupj2XtEXb"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "🐱神仙水水猫｜星铃｜Lumia\n👩🏻‍💻INTJ ♀14 \n🙋🏻‍♀️提問box——————↓\n✍🏻想成為哲學🏠",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGrRuS"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "is_identity_verified": true,
+        "location": "距离你 4.3km",
+        "most_recent_tweet_id": "2086711070526460152",
+        "name": "lovely水",
+        "pinned_tweet_id": "2075897725733024056",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1748763011140169729/1775028370",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045354329792749568/b7JXuLvu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5759,
+          "following_count": 1002,
+          "like_count": 275,
+          "listed_count": 23,
+          "media_count": 3536,
+          "tweet_count": 16071
+        },
+        "url": "https://t.co/EZhyEGrRuS",
+        "username": "lovelyshuimao",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-11-06T15:16:27.000Z",
+        "description": "人在加拿大 埃德蒙顿的推友快来找我玩\n逃生舱@elonlovedea",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 22,
+                "username": "elonlovedea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/vvv8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/vvv8964",
+                "start": 0,
+                "url": "https://t.co/ZuiIe1Py6G"
+              }
+            ]
+          }
+        },
+        "id": "1986452594206838785",
+        "is_identity_verified": false,
+        "location": "Edmonton, Alberta",
+        "most_recent_tweet_id": "2086703401971454106",
+        "name": "VVV从头再来",
+        "pinned_tweet_id": "1997035332123132028",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1986452594206838785/1776620101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986552442054680576/cG9RcShi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1410,
+          "following_count": 315,
+          "like_count": 3056,
+          "listed_count": 1,
+          "media_count": 557,
+          "tweet_count": 3498
+        },
+        "url": "https://t.co/ZuiIe1Py6G",
+        "username": "Idontselldrug",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2086434311344115712"
+      ]
+    },
+    "author_id": "1748763011140169729",
+    "conversation_id": "2086434322719051964",
+    "created_at": "2026-08-09T12:48:01.000Z",
+    "display_text_range": [
+      0,
+      99
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T13:48:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2086434322719051964"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/yEJW2fF87Y",
+          "end": 123,
+          "expanded_url": "https://x.com/lovelyshuimao/status/2086434322719051964/photo/1",
+          "media_key": "3_2086434311344115712",
+          "start": 100,
+          "url": "https://t.co/yEJW2fF87Y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086434322719051964",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2086434311344115712"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我死亡概率从90%提升到99.99%\n因为我晾晒的衣服全部被台风吹到了地上，然后阳台的地面上是半米深的水，全部给他淹了，里面还有一双过膝袜\n可能全部都要扔掉发霉了\n算了死后没有肉身也用不到这些衣服了 https://t.co/yEJW2fF87Y"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2086434311344115712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPSA86baUAAFSlJ.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086434311344115712"
+          ]
+        },
+        "author_id": "1748763011140169729",
+        "conversation_id": "2086434322719051964",
+        "created_at": "2026-08-09T12:48:01.000Z",
+        "display_text_range": [
+          0,
+          99
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T13:48:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086434322719051964"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yEJW2fF87Y",
+              "end": 123,
+              "expanded_url": "https://x.com/lovelyshuimao/status/2086434322719051964/photo/1",
+              "media_key": "3_2086434311344115712",
+              "start": 100,
+              "url": "https://t.co/yEJW2fF87Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086434322719051964",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2086434311344115712"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我死亡概率从90%提升到99.99%\n因为我晾晒的衣服全部被台风吹到了地上，然后阳台的地面上是半米深的水，全部给他淹了，里面还有一双过膝袜\n可能全部都要扔掉发霉了\n算了死后没有肉身也用不到这些衣服了 https://t.co/yEJW2fF87Y"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "🐱神仙水水猫｜星铃｜Lumia\n👩🏻‍💻INTJ ♀14 \n🙋🏻‍♀️提問box——————↓\n✍🏻想成為哲學🏠",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGrRuS"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "is_identity_verified": true,
+        "location": "距离你 4.3km",
+        "most_recent_tweet_id": "2086434322719051964",
+        "name": "lovely水",
+        "pinned_tweet_id": "2075897725733024056",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1748763011140169729/1775028370",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045354329792749568/b7JXuLvu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5751,
+          "following_count": 1001,
+          "like_count": 275,
+          "listed_count": 23,
+          "media_count": 3525,
+          "tweet_count": 16034
+        },
+        "url": "https://t.co/EZhyEGrRuS",
+        "username": "lovelyshuimao",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

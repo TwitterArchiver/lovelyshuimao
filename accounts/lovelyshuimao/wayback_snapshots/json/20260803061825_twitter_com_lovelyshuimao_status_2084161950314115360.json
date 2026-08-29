@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1748763011140169729",
+    "conversation_id": "2083834063836835890",
+    "created_at": "2026-08-03T06:18:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T07:18:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084161950314115360"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1827958813603102720",
+          "start": 0,
+          "username": "lckmtfdesu"
+        },
+        {
+          "end": 23,
+          "id": "1684788633797287936",
+          "start": 12,
+          "username": "Moningmeng"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084161950314115360",
+    "in_reply_to_user_id": "1827958813603102720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083834063836835890",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@lckmtfdesu @Moningmeng 你他妈真出问题了\n让你爹用七匹狼治疗一下"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "2083834063836835890",
+        "created_at": "2026-08-03T06:18:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T07:18:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084161950314115360"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1827958813603102720",
+              "start": 0,
+              "username": "lckmtfdesu"
+            },
+            {
+              "end": 23,
+              "id": "1684788633797287936",
+              "start": 12,
+              "username": "Moningmeng"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084161950314115360",
+        "in_reply_to_user_id": "1827958813603102720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083834063836835890",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@lckmtfdesu @Moningmeng 你他妈真出问题了\n让你爹用七匹狼治疗一下"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1827958813603102720",
+        "conversation_id": "2083834063836835890",
+        "created_at": "2026-08-02T08:35:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T09:35:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083834063836835890"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083834063836835890",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 21933,
+          "like_count": 148,
+          "quote_count": 4,
+          "reply_count": 65,
+          "retweet_count": 4
+        },
+        "reply_settings": "following",
+        "text": "坏菜了\n这两天我爹在家\n看到他就会七星宇想艾草怎么办"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "🐱神仙水水猫星铃Lumia\n👩🏻‍💻INTJ ♀14 \n🙋🏻‍♀️提問box——————↓\n✍🏻想成為作家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGspkq"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你 4.3km",
+        "name": "lovely水",
+        "pinned_tweet_id": "2075897725733024056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045354329792749568/b7JXuLvu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5636,
+          "following_count": 992,
+          "like_count": 275,
+          "listed_count": 22,
+          "media_count": 3477,
+          "tweet_count": 15800
+        },
+        "url": "https://t.co/EZhyEGspkq",
+        "username": "lovelyshuimao",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-26T06:39:04.000Z",
+        "description": "爱我的好姐（杂）姐（鱼）@ogsa1687497\nmtf/hrt2026.3.26/半家长党/福瑞控/arc phi 冰与火 战雷/ 见证退避/查成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 12,
+                "username": "ogsa1687497"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "facebook.com/profile.php?id…",
+                "end": 23,
+                "expanded_url": "https://www.facebook.com/profile.php?id=61590025657067&mibextid=ZbWKwL",
+                "start": 0,
+                "url": "https://t.co/y1Iah85nsp"
+              }
+            ]
+          }
+        },
+        "id": "1827958813603102720",
+        "location": "-14cm",
+        "name": "Caelia🍥",
+        "pinned_tweet_id": "2078437621102252181",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056692984549433344/ErO8uC8v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1584,
+          "following_count": 1488,
+          "like_count": 7427,
+          "listed_count": 3,
+          "media_count": 95,
+          "tweet_count": 2830
+        },
+        "url": "https://t.co/y1Iah85nsp",
+        "username": "lckmtfdesu",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "description": "互fo请私信\n🏳️‍⚧️ 小证含糖\n谷歌粉丝\n闺蜜 @maoxianACT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 26,
+                "username": "maoxianACT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/moningmeng",
+                "end": 23,
+                "expanded_url": "https://ngl.link/moningmeng",
+                "start": 0,
+                "url": "https://t.co/tfhHbaQ0gW"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "Taiwan",
+        "name": "沫柠🍥",
+        "pinned_tweet_id": "2080118476497387634",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075833712986714112/3j84SM6e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29314,
+          "following_count": 12156,
+          "like_count": 96751,
+          "listed_count": 104,
+          "media_count": 5591,
+          "tweet_count": 19845
+        },
+        "url": "https://t.co/tfhHbaQ0gW",
+        "username": "Moningmeng",
+        "verified": true
+      }
+    ]
+  }
+}

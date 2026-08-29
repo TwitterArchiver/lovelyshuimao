@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1748763011140169729",
+    "conversation_id": "2087277077494108213",
+    "created_at": "2026-08-12T12:21:02.000Z",
+    "display_text_range": [
+      13,
+      28
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T13:21:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087514698787016869"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1504955609619177475",
+          "start": 0,
+          "username": "chaojidigua"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087514698787016869",
+    "in_reply_to_user_id": "1504955609619177475",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087382791080259913",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chaojidigua 成就我没批评呀，我是说他个人的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "2087277077494108213",
+        "created_at": "2026-08-12T12:21:02.000Z",
+        "display_text_range": [
+          13,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T13:21:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087514698787016869"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1504955609619177475",
+              "start": 0,
+              "username": "chaojidigua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087514698787016869",
+        "in_reply_to_user_id": "1504955609619177475",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087382791080259913",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chaojidigua 成就我没批评呀，我是说他个人的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504955609619177475",
+        "conversation_id": "2087277077494108213",
+        "created_at": "2026-08-12T03:36:53.000Z",
+        "display_text_range": [
+          15,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T04:36:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087382791080259913"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1748763011140169729",
+              "start": 0,
+              "username": "lovelyshuimao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087382791080259913",
+        "in_reply_to_user_id": "1748763011140169729",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 61,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087277077494108213",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lovelyshuimao 可复用火箭和星链, 不是假信息假真理."
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "🐱神仙水水猫｜星铃｜Lumia\n👩🏻‍💻INTJ ♀14 \n🙋🏻‍♀️提問box——————↓\n✍🏻想成為哲學🏠",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGrRuS"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "is_identity_verified": true,
+        "location": "距离你 4.3km",
+        "most_recent_tweet_id": "2087514698787016869",
+        "name": "lovely水",
+        "pinned_tweet_id": "2075897725733024056",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1748763011140169729/1775028370",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045354329792749568/b7JXuLvu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5776,
+          "following_count": 1002,
+          "like_count": 275,
+          "listed_count": 25,
+          "media_count": 3546,
+          "tweet_count": 16139
+        },
+        "url": "https://t.co/EZhyEGrRuS",
+        "username": "lovelyshuimao",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-03-18T22:59:40.000Z",
+        "description": "不相关的事情, 往往也是相关的.\n读书清单：https://t.co/tUwL009C6U",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "chaojidigua.blogspot.com/2019/03/blog-p…",
+                "end": 45,
+                "expanded_url": "https://chaojidigua.blogspot.com/2019/03/blog-post_76.html",
+                "start": 22,
+                "url": "https://t.co/tUwL009C6U"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "chaojidigua.blogspot.com",
+                "end": 23,
+                "expanded_url": "https://chaojidigua.blogspot.com/",
+                "start": 0,
+                "url": "https://t.co/4YN4dl5myX"
+              }
+            ]
+          }
+        },
+        "id": "1504955609619177475",
+        "is_identity_verified": false,
+        "location": "Australia",
+        "most_recent_tweet_id": "2087475008952225943",
+        "name": "蓝色胖头鱼 | BlueChubbyFish",
+        "pinned_tweet_id": "2072536836770250900",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1681107139266502657/pLyGzMC1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4816,
+          "following_count": 162,
+          "like_count": 68584,
+          "listed_count": 74,
+          "media_count": 1517,
+          "tweet_count": 19971
+        },
+        "url": "https://t.co/4YN4dl5myX",
+        "username": "chaojidigua",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

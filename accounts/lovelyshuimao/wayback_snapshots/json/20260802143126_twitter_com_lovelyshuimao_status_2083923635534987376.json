@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1748763011140169729",
+    "conversation_id": "2083923635534987376",
+    "created_at": "2026-08-02T14:31:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T15:31:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083923635534987376"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 73,
+          "id": "1720665183188922368",
+          "start": 68,
+          "username": "grok"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/zx65535plus1/s…",
+          "end": 97,
+          "expanded_url": "https://twitter.com/zx65535plus1/status/2083922207722684470",
+          "start": 74,
+          "url": "https://t.co/XmtszZRdkN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083923635534987376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083922207722684470",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我的政治思想是以下哪一个？  \n・极右  \n・右派  \n・中道右派  \n・中道  \n・中道左派  \n・左派  \n・极左  \n只能选一个\n@grok https://t.co/XmtszZRdkN"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "2083923635534987376",
+        "created_at": "2026-08-02T14:31:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T15:31:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083923635534987376"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 73,
+              "id": "1720665183188922368",
+              "start": 68,
+              "username": "grok"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/zx65535plus1/s…",
+              "end": 97,
+              "expanded_url": "https://twitter.com/zx65535plus1/status/2083922207722684470",
+              "start": 74,
+              "url": "https://t.co/XmtszZRdkN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083923635534987376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083922207722684470",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我的政治思想是以下哪一个？  \n・极右  \n・右派  \n・中道右派  \n・中道  \n・中道左派  \n・左派  \n・极左  \n只能选一个\n@grok https://t.co/XmtszZRdkN"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1844926832967286785",
+        "conversation_id": "2083922207722684470",
+        "created_at": "2026-08-02T14:25:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T15:25:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083922207722684470"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 67,
+              "id": "1720665183188922368",
+              "start": 62,
+              "username": "grok"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/misumikaede3/s…",
+              "end": 91,
+              "expanded_url": "https://twitter.com/misumikaede3/status/2083908690487427473",
+              "start": 68,
+              "url": "https://t.co/HRXm4oOX2j"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "01bb53b81ba40196"
+        },
+        "id": "2083922207722684470",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 41,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083908690487427473",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我的政治思想是以下哪一个？  \n・极右  \n・右派  \n・中道右派  \n・中道  \n・中道左派  \n・左派  \n・极左  \n@grok https://t.co/HRXm4oOX2j"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "🐱神仙水水猫星铃Lumia\n👩🏻‍💻INTJ ♀14 \n🙋🏻‍♀️提問box——————↓\n✍🏻想成為作家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGspkq"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你 4.3km",
+        "name": "lovely水",
+        "pinned_tweet_id": "2075897725733024056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045354329792749568/b7JXuLvu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5631,
+          "following_count": 993,
+          "like_count": 275,
+          "listed_count": 22,
+          "media_count": 3475,
+          "tweet_count": 15783
+        },
+        "url": "https://t.co/EZhyEGspkq",
+        "username": "lovelyshuimao",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 5,
+                "start": 0,
+                "username": "grok"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSjjG9"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "name": "Grok",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057885623374290944/lmj0pawP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8900274,
+          "following_count": 5,
+          "like_count": 122,
+          "listed_count": 7246,
+          "media_count": 9210743,
+          "tweet_count": 133504947
+        },
+        "url": "https://t.co/fqNKQSjjG9",
+        "username": "grok",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-12T02:23:45.000Z",
+        "description": "挨揍不如嘴贱 brat统治世界  |  \n只要不去就诊我就是健全B  |  \n一直试图在没有血缘关系的人身上找到家 | \n非计算机专业 | \n发现男的太傻逼但不太想否认自己历史，遂加入双性恋阵营",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/i/chat/group_j…",
+                "end": 23,
+                "expanded_url": "https://x.com/i/chat/group_join/g2043367970999832925/7jUBUlO2qh",
+                "start": 0,
+                "url": "https://t.co/pdJCzdgssh"
+              }
+            ]
+          }
+        },
+        "id": "1844926832967286785",
+        "location": "万达广场楼下",
+        "name": "笨蛋折筱喵喵🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036702817168265216/LUEbpUzW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4783,
+          "following_count": 1439,
+          "like_count": 82780,
+          "listed_count": 12,
+          "media_count": 1213,
+          "tweet_count": 24374
+        },
+        "url": "https://t.co/pdJCzdgssh",
+        "username": "ZX65535plus1",
+        "verified": false
+      }
+    ]
+  }
+}

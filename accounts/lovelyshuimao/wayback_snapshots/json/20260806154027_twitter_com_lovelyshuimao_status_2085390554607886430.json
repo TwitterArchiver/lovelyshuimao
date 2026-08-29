@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1748763011140169729",
+    "conversation_id": "2085244913411891287",
+    "created_at": "2026-08-06T15:40:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T16:40:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085390554607886430"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1769078117052854272",
+          "start": 0,
+          "username": "huahuojiang_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085390554607886430",
+    "in_reply_to_user_id": "1769078117052854272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085244913411891287",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huahuojiang_ 不得不打上马赛克了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2085244896995340288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPBHL4sacAAcJxN.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "2085244913411891287",
+        "created_at": "2026-08-06T15:40:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T16:40:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085390554607886430"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1769078117052854272",
+              "start": 0,
+              "username": "huahuojiang_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085390554607886430",
+        "in_reply_to_user_id": "1769078117052854272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085244913411891287",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huahuojiang_ 不得不打上马赛克了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085244896995340288"
+          ]
+        },
+        "author_id": "1769078117052854272",
+        "conversation_id": "2085244913411891287",
+        "created_at": "2026-08-06T06:01:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T07:01:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085244913411891287"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tslGJ9jXhN",
+              "end": 39,
+              "expanded_url": "https://x.com/huahuojiang_/status/2085244913411891287/photo/1",
+              "media_key": "3_2085244896995340288",
+              "start": 16,
+              "url": "https://t.co/tslGJ9jXhN"
+            },
+            {
+              "display_url": "x.com/suekageseikiyo…",
+              "end": 63,
+              "expanded_url": "https://twitter.com/suekageseikiyo/status/2084610213936865553",
+              "start": 40,
+              "url": "https://t.co/SkWVFzmHEh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085244913411891287",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 38914,
+          "like_count": 187,
+          "quote_count": 3,
+          "reply_count": 32,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084610213936865553",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "這都防不住大陸網友分享的慾望😁 https://t.co/tslGJ9jXhN https://t.co/SkWVFzmHEh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "🐱神仙水水猫｜星铃｜Lumia\n👩🏻‍💻INTJ ♀14 \n🙋🏻‍♀️提問box——————↓\n✍🏻想成為作家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGrRuS"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你 4.3km",
+        "name": "lovely水",
+        "pinned_tweet_id": "2075897725733024056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045354329792749568/b7JXuLvu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5702,
+          "following_count": 995,
+          "like_count": 276,
+          "listed_count": 23,
+          "media_count": 3502,
+          "tweet_count": 15927
+        },
+        "url": "https://t.co/EZhyEGrRuS",
+        "username": "lovelyshuimao",
+        "verified": true
+      },
+      {
+        "created_at": "2024-03-16T19:07:54.000Z",
+        "description": "诶嘿～好无聊呀~｜加点东西@这里没有人｜换一个提问箱：https://t.co/0C8gTeJyHd",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/huahuojiang2",
+                "end": 50,
+                "expanded_url": "https://ngl.link/huahuojiang2",
+                "start": 27,
+                "url": "https://t.co/0C8gTeJyHd"
+              }
+            ]
+          }
+        },
+        "id": "1769078117052854272",
+        "location": "匹诺康尼",
+        "name": "花火酱～",
+        "pinned_tweet_id": "2085308791428686223",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039013777560227840/6M7222YJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7565,
+          "following_count": 3890,
+          "like_count": 104757,
+          "listed_count": 20,
+          "media_count": 9381,
+          "tweet_count": 103663
+        },
+        "url": "",
+        "username": "huahuojiang_",
+        "verified": true
+      }
+    ]
+  }
+}

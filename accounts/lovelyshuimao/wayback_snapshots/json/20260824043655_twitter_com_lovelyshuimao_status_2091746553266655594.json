@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1748763011140169729",
+    "conversation_id": "2091204331928461746",
+    "created_at": "2026-08-24T04:36:55.000Z",
+    "display_text_range": [
+      8,
+      24
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-24T05:36:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091746553266655594"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2083431637027823616",
+          "start": 0,
+          "username": "oczicl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091746553266655594",
+    "in_reply_to_user_id": "2083431637027823616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091204331928461746",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@oczicl 那个\n轻狂躁不是这种感觉不舒服的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "2091204331928461746",
+        "created_at": "2026-08-24T04:36:55.000Z",
+        "display_text_range": [
+          8,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T05:36:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091746553266655594"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2083431637027823616",
+              "start": 0,
+              "username": "oczicl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091746553266655594",
+        "in_reply_to_user_id": "2083431637027823616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091204331928461746",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@oczicl 那个\n轻狂躁不是这种感觉不舒服的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2083431637027823616",
+        "conversation_id": "2091204331928461746",
+        "created_at": "2026-08-22T16:42:20.000Z",
+        "display_text_range": [
+          0,
+          53
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T17:42:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091204331928461746"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2091204331928461746",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 14446,
+          "like_count": 402,
+          "quote_count": 2,
+          "reply_count": 54,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "当你突然发现原本抑郁症的你，灵光一现心情变好了，有精力了。\n恭喜你中奖了\nA.疯了\nB.好转了\nC.双向了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "🐱神仙水水猫\n👩🏻‍💻INTJ ♀14 \n🙋🏻‍♀️提問box——————↓\n✍🏻想寫作",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGrRuS"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "is_identity_verified": true,
+        "location": "距离你 4.3km",
+        "most_recent_tweet_id": "2091746553266655594",
+        "name": "lovely水",
+        "pinned_tweet_id": "2090619236196716875",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1748763011140169729/1775028370",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045354329792749568/b7JXuLvu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5840,
+          "following_count": 997,
+          "like_count": 275,
+          "listed_count": 25,
+          "media_count": 3604,
+          "tweet_count": 16448
+        },
+        "url": "https://t.co/EZhyEGrRuS",
+        "username": "lovelyshuimao",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-01T05:57:25.000Z",
+        "description": "药娘世家|出厂日期2008.7.9|🍥2026.6.3|MTF|巨蟹座|无证含糖|身高168体重108肩宽38穿37|家长党|不抽烟不喝酒的好孩子🤓讽刺家与小说家|希望能救大家|知心伙伴|95天\n孩子@theqingqiuback\n🐧3866066283",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 100,
+                "username": "theqingqiuback"
+              }
+            ]
+          }
+        },
+        "id": "2083431637027823616",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091702507798167989",
+        "name": "𝓠𝓲𝓷𝓰𝓺𝓾月下知清秋🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2090295260572209570",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2083431637027823616/1785587926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086095343209652224/BE5bgTny_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 686,
+          "following_count": 175,
+          "like_count": 824,
+          "listed_count": 1,
+          "media_count": 104,
+          "tweet_count": 492
+        },
+        "url": "",
+        "username": "oczicl",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

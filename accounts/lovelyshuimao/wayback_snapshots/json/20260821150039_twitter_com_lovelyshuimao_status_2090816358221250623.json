@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1748763011140169729",
+    "conversation_id": "2090804356815945804",
+    "created_at": "2026-08-21T15:00:39.000Z",
+    "display_text_range": [
+      13,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T16:00:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090816358221250623"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2059995381115842560",
+          "start": 0,
+          "username": "me1tingsnow"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090816358221250623",
+    "in_reply_to_user_id": "2059995381115842560",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090812813237424456",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@me1tingsnow 🙀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "2090804356815945804",
+        "created_at": "2026-08-21T15:00:39.000Z",
+        "display_text_range": [
+          13,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T16:00:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090816358221250623"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2059995381115842560",
+              "start": 0,
+              "username": "me1tingsnow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090816358221250623",
+        "in_reply_to_user_id": "2059995381115842560",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090812813237424456",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@me1tingsnow 🙀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059995381115842560",
+        "conversation_id": "2090804356815945804",
+        "created_at": "2026-08-21T14:46:34.000Z",
+        "display_text_range": [
+          15,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T15:46:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090812813237424456"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1748763011140169729",
+              "start": 0,
+              "username": "lovelyshuimao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090812813237424456",
+        "in_reply_to_user_id": "1748763011140169729",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090804356815945804",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lovelyshuimao 给lovely水吧(&gt;^ω^&lt;)"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "🐱神仙水水猫｜星铃｜Lumia\n👩🏻‍💻INTJ ♀14 \n🙋🏻‍♀️提問box——————↓\n✍🏻想寫作",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGrRuS"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "is_identity_verified": true,
+        "location": "距离你 4.3km",
+        "most_recent_tweet_id": "2090816358221250623",
+        "name": "lovely水",
+        "pinned_tweet_id": "2090619236196716875",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1748763011140169729/1775028370",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045354329792749568/b7JXuLvu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5837,
+          "following_count": 996,
+          "like_count": 275,
+          "listed_count": 25,
+          "media_count": 3591,
+          "tweet_count": 16387
+        },
+        "url": "https://t.co/EZhyEGrRuS",
+        "username": "lovelyshuimao",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-28T13:50:42.000Z",
+        "description": "08｜HK｜she/zir｜ovrdose｜厭學｜高中在讀\n繁中｜简中｜English\n\n可以叫我若雪 歡迎互fol",
+        "id": "2059995381115842560",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090813607978369177",
+        "name": "不識字",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2059995381115842560/1783602284",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088968105691418624/incIlSer_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 82,
+          "like_count": 4728,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 130
+        },
+        "url": "",
+        "username": "me1tingsnow",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1748763011140169729",
+    "conversation_id": "2086358548829897117",
+    "created_at": "2026-08-09T08:18:47.000Z",
+    "display_text_range": [
+      16,
+      35
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T09:18:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086366570994090044"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1504671338790674435",
+          "start": 0,
+          "username": "WinnieXisDaddy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086366570994090044",
+    "in_reply_to_user_id": "1504671338790674435",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086366058836094998",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WinnieXisDaddy 左边就是13p，14p摄像头过中轴线了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "2086358548829897117",
+        "created_at": "2026-08-09T08:18:47.000Z",
+        "display_text_range": [
+          16,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T09:18:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086366570994090044"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1504671338790674435",
+              "start": 0,
+              "username": "WinnieXisDaddy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086366570994090044",
+        "in_reply_to_user_id": "1504671338790674435",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086366058836094998",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WinnieXisDaddy 左边就是13p，14p摄像头过中轴线了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504671338790674435",
+        "conversation_id": "2086358548829897117",
+        "created_at": "2026-08-09T08:16:45.000Z",
+        "display_text_range": [
+          15,
+          48
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T09:16:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086366058836094998"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1748763011140169729",
+              "start": 0,
+              "username": "lovelyshuimao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086366058836094998",
+        "in_reply_to_user_id": "1748763011140169729",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086358548829897117",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lovelyshuimao 按照摄像头大小来看，左边那个应该是14- 16pro 13的小得多"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "🐱神仙水水猫｜星铃｜Lumia\n👩🏻‍💻INTJ ♀14 \n🙋🏻‍♀️提問box——————↓\n✍🏻想成為哲學🏠",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGrRuS"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "is_identity_verified": true,
+        "location": "距离你 4.3km",
+        "most_recent_tweet_id": "2086366570994090044",
+        "name": "lovely水",
+        "pinned_tweet_id": "2075897725733024056",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1748763011140169729/1775028370",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045354329792749568/b7JXuLvu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5747,
+          "following_count": 1001,
+          "like_count": 275,
+          "listed_count": 23,
+          "media_count": 3516,
+          "tweet_count": 16015
+        },
+        "url": "https://t.co/EZhyEGrRuS",
+        "username": "lovelyshuimao",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-03-18T04:09:55.000Z",
+        "description": "语言/language/言語(勉強中)/｜键政倒脏水专用账号｜Bane of Arthropod V",
+        "id": "1504671338790674435",
+        "is_identity_verified": false,
+        "location": "People’s Republic of IDK",
+        "most_recent_tweet_id": "2086366541671719161",
+        "name": "习仲勋",
+        "pinned_tweet_id": "2025409640788623847",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1504671338790674435/1651635629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1740480741463715840/ACM2XD8c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1296,
+          "following_count": 488,
+          "like_count": 72113,
+          "listed_count": 24,
+          "media_count": 1536,
+          "tweet_count": 15525
+        },
+        "url": "",
+        "username": "WinnieXisDaddy",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,394 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1748763011140169729",
+    "conversation_id": "2085393044682244180",
+    "created_at": "2026-08-07T13:15:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T14:15:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085716373087600949"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2045802208864698368",
+          "start": 0,
+          "username": "QuaraPN"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/lovelyshuimao/…",
+          "end": 32,
+          "expanded_url": "https://x.com/lovelyshuimao/status/2085593284106428781?s=46",
+          "start": 9,
+          "url": "https://t.co/a9TJJucHdH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085716373087600949",
+    "in_reply_to_user_id": "2045802208864698368",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085593284106428781",
+        "type": "quoted"
+      },
+      {
+        "id": "2085670006709490084",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QuaraPN https://t.co/a9TJJucHdH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1572,
+        "media_key": "3_2085590755649925120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPGBvglaMAAscfP.jpg",
+        "width": 1320
+      },
+      {
+        "height": 1439,
+        "media_key": "3_2085593030980165633",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPGDz82aYAE99L2.jpg",
+        "width": 1320
+      },
+      {
+        "height": 2137,
+        "media_key": "3_2085593031898787840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPGD0ARbcAAmVOS.jpg",
+        "width": 1320
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2085670000124366848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPHJ0JQaEAA6Ckf.jpg",
+        "width": 1104
+      },
+      {
+        "height": 1449,
+        "media_key": "3_2085670000120180736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPHJ0JPaMAA3YUE.jpg",
+        "width": 1086
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "2085393044682244180",
+        "created_at": "2026-08-07T13:15:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T14:15:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085716373087600949"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2045802208864698368",
+              "start": 0,
+              "username": "QuaraPN"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/lovelyshuimao/…",
+              "end": 32,
+              "expanded_url": "https://x.com/lovelyshuimao/status/2085593284106428781?s=46",
+              "start": 9,
+              "url": "https://t.co/a9TJJucHdH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085716373087600949",
+        "in_reply_to_user_id": "2045802208864698368",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085593284106428781",
+            "type": "quoted"
+          },
+          {
+            "id": "2085670006709490084",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QuaraPN https://t.co/a9TJJucHdH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085590755649925120",
+            "3_2085593030980165633",
+            "3_2085593031898787840"
+          ]
+        },
+        "author_id": "1748763011140169729",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2085593284106428781",
+        "created_at": "2026-08-07T05:06:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T05:56:00.000Z",
+          "edits_remaining": 3,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085590762050457872",
+          "2085593059417600501",
+          "2085593284106428781"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pm68NbiFM1",
+              "end": 90,
+              "expanded_url": "https://x.com/lovelyshuimao/status/2085593284106428781/photo/1",
+              "media_key": "3_2085590755649925120",
+              "start": 67,
+              "url": "https://t.co/pm68NbiFM1"
+            },
+            {
+              "display_url": "pic.x.com/pm68NbiFM1",
+              "end": 90,
+              "expanded_url": "https://x.com/lovelyshuimao/status/2085593284106428781/photo/1",
+              "media_key": "3_2085593030980165633",
+              "start": 67,
+              "url": "https://t.co/pm68NbiFM1"
+            },
+            {
+              "display_url": "pic.x.com/pm68NbiFM1",
+              "end": 90,
+              "expanded_url": "https://x.com/lovelyshuimao/status/2085593284106428781/photo/1",
+              "media_key": "3_2085593031898787840",
+              "start": 67,
+              "url": "https://t.co/pm68NbiFM1"
+            },
+            {
+              "display_url": "x.com/huahuojiang_/s…",
+              "end": 114,
+              "expanded_url": "https://twitter.com/huahuojiang_/status/2085244913411891287",
+              "start": 91,
+              "url": "https://t.co/TDiISvC4yu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085593284106428781",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2009,
+          "like_count": 18,
+          "quote_count": 2,
+          "reply_count": 7,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085244913411891287",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我打上了神秘言论\n现在ai消除直接被ai拦截了\n彻底不可能被搬运了！（\n原图我就不发了我怕给X封了\n有本事你就来我私发给你消除去试试 https://t.co/pm68NbiFM1 https://t.co/TDiISvC4yu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085670000124366848",
+            "3_2085670000120180736"
+          ]
+        },
+        "author_id": "2045802208864698368",
+        "conversation_id": "2085393044682244180",
+        "created_at": "2026-08-07T10:10:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T11:10:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085670006709490084"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1748763011140169729",
+              "start": 0,
+              "username": "lovelyshuimao"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pVgcnl825W",
+              "end": 96,
+              "expanded_url": "https://x.com/QuaraPN/status/2085670006709490084/photo/1",
+              "media_key": "3_2085670000124366848",
+              "start": 73,
+              "url": "https://t.co/pVgcnl825W"
+            },
+            {
+              "display_url": "pic.x.com/pVgcnl825W",
+              "end": 96,
+              "expanded_url": "https://x.com/QuaraPN/status/2085670006709490084/photo/1",
+              "media_key": "3_2085670000120180736",
+              "start": 73,
+              "url": "https://t.co/pVgcnl825W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085670006709490084",
+        "in_reply_to_user_id": "1748763011140169729",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 209,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085393044682244180",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lovelyshuimao 没用的，而且这么密集的水印会影响观感\n还不如加几个“禁止转载”“禁止消除水印”水印，说不定能让 AI 通过率低一点 https://t.co/pVgcnl825W"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "🐱神仙水水猫｜星铃｜Lumia\n👩🏻‍💻INTJ ♀14 \n🙋🏻‍♀️提問box——————↓\n✍🏻想成為哲學🏠",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGrRuS"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你 4.3km",
+        "name": "lovely水",
+        "pinned_tweet_id": "2075897725733024056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045354329792749568/b7JXuLvu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5733,
+          "following_count": 996,
+          "like_count": 276,
+          "listed_count": 23,
+          "media_count": 3511,
+          "tweet_count": 15966
+        },
+        "url": "https://t.co/EZhyEGrRuS",
+        "username": "lovelyshuimao",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-19T09:50:40.000Z",
+        "description": "ovo",
+        "id": "2045802208864698368",
+        "name": "Quara",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045802391262625792/2ffFq_7J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 325,
+          "like_count": 4141,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 145
+        },
+        "url": "",
+        "username": "QuaraPN",
+        "verified": true
+      }
+    ]
+  }
+}

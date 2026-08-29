@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1748763011140169729",
+    "conversation_id": "2083815842521690588",
+    "created_at": "2026-08-02T10:43:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T11:43:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083866246135922776"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1845076547197353984",
+          "start": 0,
+          "username": "jutangxiao1229"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083866246135922776",
+    "in_reply_to_user_id": "1845076547197353984",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083815842521690588",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jutangxiao1229 唉\n普瑞巴林耐受，右美沙芬耐受，唑吡坦耐受，阿普唑仑耐受，噻奈普汀耐受，羟考酮没吃过"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "2083815842521690588",
+        "created_at": "2026-08-02T10:43:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T11:43:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083866246135922776"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1845076547197353984",
+              "start": 0,
+              "username": "jutangxiao1229"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083866246135922776",
+        "in_reply_to_user_id": "1845076547197353984",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083815842521690588",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jutangxiao1229 唉\n普瑞巴林耐受，右美沙芬耐受，唑吡坦耐受，阿普唑仑耐受，噻奈普汀耐受，羟考酮没吃过"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1845076547197353984",
+        "conversation_id": "2083815842521690588",
+        "created_at": "2026-08-02T07:23:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T08:23:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083815842521690588"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083815842521690588",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1599,
+          "like_count": 56,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "年纪轻轻就一身的病\n\n患者：医生我神经痛\n医生：普瑞巴林\n\n患者：我还干咳\n医生：右美沙芬\n\n患者：医生我还入睡困难\n医生：唑吡坦\n\n患者：偶尔还焦虑\n医生：阿普唑仑\n\n患者：有点抑郁\n医生：噻奈普汀\n\n患者：医生我还慢性疼痛\n医生：羟考酮\n\n◉‿◉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "🐱神仙水水猫星铃Lumia\n👩🏻‍💻INTJ ♀14 \n🙋🏻‍♀️提問box——————↓\n✍🏻想成為作家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGspkq"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你 4.3km",
+        "name": "lovely水",
+        "pinned_tweet_id": "2075897725733024056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045354329792749568/b7JXuLvu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5625,
+          "following_count": 997,
+          "like_count": 275,
+          "listed_count": 22,
+          "media_count": 3471,
+          "tweet_count": 15767
+        },
+        "url": "https://t.co/EZhyEGspkq",
+        "username": "lovelyshuimao",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-12T12:18:34.000Z",
+        "description": "含血腥负能量请不要看/infp/含糖2026.03.01/汉语🉑英语🉑日语🉑/小透明/胆小鬼/药学小小只/存在主义/可以来找我聊天但是回复很慢/当日记随时删/监护员暂无",
+        "id": "1845076547197353984",
+        "location": "🌑 The Moon 🌑",
+        "name": "棠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073992169661267968/ds1sTuCu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2691,
+          "following_count": 251,
+          "like_count": 12344,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 741
+        },
+        "url": "",
+        "username": "jutangxiao1229",
+        "verified": true
+      }
+    ]
+  }
+}

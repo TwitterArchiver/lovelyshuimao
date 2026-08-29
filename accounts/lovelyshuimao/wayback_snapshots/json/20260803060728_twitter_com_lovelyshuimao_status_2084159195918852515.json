@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1748763011140169729",
+    "conversation_id": "2083957795284713872",
+    "created_at": "2026-08-03T06:07:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T07:07:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084159195918852515"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2065198058443620353",
+          "start": 0,
+          "username": "Autonomous667"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084159195918852515",
+    "in_reply_to_user_id": "2065198058443620353",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083957795284713872",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Autonomous667 听说清正有b"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 807,
+        "media_key": "3_2083957764083302400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOu0i48aQAA6cin.jpg",
+        "width": 591
+      },
+      {
+        "height": 492,
+        "media_key": "3_2083957770806767617",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOu0jR_aMAEosm1.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2083957777567997952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOu0jrLaYAALy8K.jpg",
+        "width": 881
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2083957786627715072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOu0kM7asAAZL88.jpg",
+        "width": 629
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "2083957795284713872",
+        "created_at": "2026-08-03T06:07:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T07:07:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084159195918852515"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2065198058443620353",
+              "start": 0,
+              "username": "Autonomous667"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084159195918852515",
+        "in_reply_to_user_id": "2065198058443620353",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083957795284713872",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Autonomous667 听说清正有b"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083957764083302400",
+            "3_2083957770806767617",
+            "3_2083957777567997952",
+            "3_2083957786627715072"
+          ]
+        },
+        "author_id": "2065198058443620353",
+        "conversation_id": "2083957795284713872",
+        "created_at": "2026-08-02T16:47:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T17:31:39.000Z",
+          "edits_remaining": 3,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083953889842495902",
+          "2083957470792409283",
+          "2083957795284713872"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sNAOdsVXfZ",
+              "end": 111,
+              "expanded_url": "https://x.com/Autonomous667/status/2083957795284713872/photo/1",
+              "media_key": "3_2083957764083302400",
+              "start": 88,
+              "url": "https://t.co/sNAOdsVXfZ"
+            },
+            {
+              "display_url": "pic.x.com/sNAOdsVXfZ",
+              "end": 111,
+              "expanded_url": "https://x.com/Autonomous667/status/2083957795284713872/photo/1",
+              "media_key": "3_2083957770806767617",
+              "start": 88,
+              "url": "https://t.co/sNAOdsVXfZ"
+            },
+            {
+              "display_url": "pic.x.com/sNAOdsVXfZ",
+              "end": 111,
+              "expanded_url": "https://x.com/Autonomous667/status/2083957795284713872/photo/1",
+              "media_key": "3_2083957777567997952",
+              "start": 88,
+              "url": "https://t.co/sNAOdsVXfZ"
+            },
+            {
+              "display_url": "pic.x.com/sNAOdsVXfZ",
+              "end": 111,
+              "expanded_url": "https://x.com/Autonomous667/status/2083957795284713872/photo/1",
+              "media_key": "3_2083957786627715072",
+              "start": 88,
+              "url": "https://t.co/sNAOdsVXfZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083957795284713872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "回应近期关于清正性别争议，与其前世今生\n\n此帖主要是笔者受到唐毓文的“跨圈大周报（6）”这一视频影响所编撰，诣在证实“清正为一名炒作狗换皮”与“清正性别为男”这两个问题，，，\n\n1.清正与X和B站的一位炒作狗的年龄重合：具体看P1,P4,P5。据本笔者所知2025年上半年AI技术的发展不是特别完善，并不太可能伪造身份证件，所以证得此炒作狗真实生日为2010年7月1日，而清正自爆出生日期也为同一日期，再根据恶俗雅士提供的身份资料可证出，这两人有密切关系，或者说就是同一个人\n\n2.这两人ip模糊地址同为湖北，虽然这位炒作狗已经注销了B站而本笔者暂无备份，但是根据知情壬士透露，此炒作狗B站ip为湖北一带，再次的印证了本笔者的猜想\n\n3.这两人与“蔚蓝档案（英文明Blue Archive，以下简称ba）有着深切的关联，无论是从P1的左半边，还是P3清正QQ聊天截图的QQ秀来看，这两人都知道或者玩过ba这一款游戏\n\n4.根据X平台的网友所公布的清正微信转账截图可见，清正的微信实名为“**奇”，综合之前所公示的户籍不难判断：清正就是余奇奇。而开示的户籍恰恰为男性\n\n综上所述，本笔者认为余奇奇为清正实名，性别为男，且清正为一名炒作狗换皮！！"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 3002,
+          "like_count": 35,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "回应近期关于清正性别争议，与其前世今生\n\n此帖主要是笔者受到唐毓文的“跨圈大周报（6）”这一视频影响所编撰，诣在证实“清正为一名炒作狗换皮”与“清正性别为男”这两个问题，，， https://t.co/sNAOdsVXfZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "🐱神仙水水猫星铃Lumia\n👩🏻‍💻INTJ ♀14 \n🙋🏻‍♀️提問box——————↓\n✍🏻想成為作家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGspkq"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你 4.3km",
+        "name": "lovely水",
+        "pinned_tweet_id": "2075897725733024056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045354329792749568/b7JXuLvu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5635,
+          "following_count": 992,
+          "like_count": 275,
+          "listed_count": 22,
+          "media_count": 3476,
+          "tweet_count": 15797
+        },
+        "url": "https://t.co/EZhyEGspkq",
+        "username": "lovelyshuimao",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-11T22:24:09.000Z",
+        "description": "qqqxx，，，清正协会频道：https://t.co/qHS5pY5zmK  欢迎大家踊跃参与  下面那个lol网站是我的论坛，大家可以放开玩",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/qingzhengxh",
+                "end": 38,
+                "expanded_url": "http://t.me/qingzhengxh",
+                "start": 15,
+                "url": "https://t.co/qHS5pY5zmK"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "automous.lol",
+                "end": 23,
+                "expanded_url": "https://automous.lol",
+                "start": 0,
+                "url": "https://t.co/cuxICd3LHR"
+              }
+            ]
+          }
+        },
+        "id": "2065198058443620353",
+        "location": "你家的床上",
+        "name": "🌊Autonomous🏳️‍⚧️🇹🇼🇳🇫🍥",
+        "pinned_tweet_id": "2079907481405587714",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080489113963413505/xg4ajxIN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 214,
+          "following_count": 140,
+          "like_count": 1500,
+          "listed_count": 3,
+          "media_count": 90,
+          "tweet_count": 1788
+        },
+        "url": "https://t.co/cuxICd3LHR",
+        "username": "Autonomous667",
+        "verified": true
+      }
+    ]
+  }
+}

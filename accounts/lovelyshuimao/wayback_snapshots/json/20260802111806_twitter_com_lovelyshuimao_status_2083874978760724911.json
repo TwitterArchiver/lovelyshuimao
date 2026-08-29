@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083874959328460801"
+      ]
+    },
+    "author_id": "1748763011140169729",
+    "conversation_id": "2083874978760724911",
+    "created_at": "2026-08-02T11:18:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T12:18:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083874978760724911"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1690570637499154432",
+          "start": 11,
+          "username": "zhwevea"
+        },
+        {
+          "end": 28,
+          "id": "2068893141755916288",
+          "start": 21,
+          "username": "jngaxo"
+        },
+        {
+          "end": 44,
+          "id": "1748763011140169729",
+          "start": 30,
+          "username": "lovelyshuimao"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/KSrnKVlg6D",
+          "end": 68,
+          "expanded_url": "https://x.com/lovelyshuimao/status/2083874978760724911/photo/1",
+          "media_key": "3_2083874959328460801",
+          "start": 45,
+          "url": "https://t.co/KSrnKVlg6D"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083874978760724911",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "面到2入\n温州本地！\n@zhwevea \n@jngaxo \n@lovelyshuimao https://t.co/KSrnKVlg6D"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2083874959328460801",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOtpPBMawAEZDV-.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083874959328460801"
+          ]
+        },
+        "author_id": "1748763011140169729",
+        "conversation_id": "2083874978760724911",
+        "created_at": "2026-08-02T11:18:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T12:18:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083874978760724911"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1690570637499154432",
+              "start": 11,
+              "username": "zhwevea"
+            },
+            {
+              "end": 28,
+              "id": "2068893141755916288",
+              "start": 21,
+              "username": "jngaxo"
+            },
+            {
+              "end": 44,
+              "id": "1748763011140169729",
+              "start": 30,
+              "username": "lovelyshuimao"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KSrnKVlg6D",
+              "end": 68,
+              "expanded_url": "https://x.com/lovelyshuimao/status/2083874978760724911/photo/1",
+              "media_key": "3_2083874959328460801",
+              "start": 45,
+              "url": "https://t.co/KSrnKVlg6D"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083874978760724911",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "面到2入\n温州本地！\n@zhwevea \n@jngaxo \n@lovelyshuimao https://t.co/KSrnKVlg6D"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "🐱神仙水水猫星铃Lumia\n👩🏻‍💻INTJ ♀14 \n🙋🏻‍♀️提問box——————↓\n✍🏻想成為作家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGspkq"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你 4.3km",
+        "name": "lovely水",
+        "pinned_tweet_id": "2075897725733024056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045354329792749568/b7JXuLvu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5626,
+          "following_count": 997,
+          "like_count": 275,
+          "listed_count": 22,
+          "media_count": 3472,
+          "tweet_count": 15773
+        },
+        "url": "https://t.co/EZhyEGspkq",
+        "username": "lovelyshuimao",
+        "verified": true
+      },
+      {
+        "created_at": "2023-08-13T03:47:17.000Z",
+        "description": "Zhi Wei 👋｜ 还可以叫我 Eliya ～｜精益求精｜想要看遍大千世界 ✈️｜想要成为技术大拿 📲💡",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/zhweaa",
+                "end": 23,
+                "expanded_url": "https://github.com/zhweaa",
+                "start": 0,
+                "url": "https://t.co/Lsl0VyAvMl"
+              }
+            ]
+          }
+        },
+        "id": "1690570637499154432",
+        "location": "🌏🌐",
+        "name": "Zhi Wei 🥥🧊",
+        "pinned_tweet_id": "2045171291104403596",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061738719095476224/g1B5Ghy6_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7660,
+          "following_count": 438,
+          "like_count": 33598,
+          "listed_count": 25,
+          "media_count": 2710,
+          "tweet_count": 21034
+        },
+        "url": "https://t.co/Lsl0VyAvMl",
+        "username": "zhwevea",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-22T03:06:14.000Z",
+        "description": "一枚小药娘mtf/生产日期:2007.11.11/hrt:2026:4.4/无证含糖/165cm/49kg/INFP‑OC/中度抑郁.轻度焦虑/极其缺爱/同类互fo🍥🏳️‍⚧️/已炸柜）wx:xh2180280608959\n​QQ:1824595761\n音符:20554857242",
+        "id": "2068893141755916288",
+        "name": "ʚ氿芙ɞ🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075349140750680064/kP7u245__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 14,
+          "like_count": 12,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 12
+        },
+        "url": "",
+        "username": "jngaxo",
+        "verified": false
+      }
+    ]
+  }
+}

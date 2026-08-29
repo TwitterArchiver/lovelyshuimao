@@ -1,0 +1,352 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1748763011140169729",
+    "conversation_id": "2086733867214582102",
+    "created_at": "2026-08-10T10:41:33.000Z",
+    "display_text_range": [
+      14,
+      36
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T11:41:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086764886684828077"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1229811974763974658",
+          "start": 0,
+          "username": "Aokigawa8964"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/lovelyshuimao/…",
+          "end": 60,
+          "expanded_url": "https://twitter.com/lovelyshuimao/status/2086736296060592383",
+          "start": 37,
+          "url": "https://t.co/nBgmQyAy84"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086764886684828077",
+    "in_reply_to_user_id": "1229811974763974658",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086736296060592383",
+        "type": "quoted"
+      },
+      {
+        "id": "2086762094721216547",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Aokigawa8964 怎么可能呢\n真敢点他肯定直接认为我是oder https://t.co/nBgmQyAy84"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "2086733867214582102",
+        "created_at": "2026-08-10T10:41:33.000Z",
+        "display_text_range": [
+          14,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T11:41:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086764886684828077"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1229811974763974658",
+              "start": 0,
+              "username": "Aokigawa8964"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/lovelyshuimao/…",
+              "end": 60,
+              "expanded_url": "https://twitter.com/lovelyshuimao/status/2086736296060592383",
+              "start": 37,
+              "url": "https://t.co/nBgmQyAy84"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086764886684828077",
+        "in_reply_to_user_id": "1229811974763974658",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086736296060592383",
+            "type": "quoted"
+          },
+          {
+            "id": "2086762094721216547",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aokigawa8964 怎么可能呢\n真敢点他肯定直接认为我是oder https://t.co/nBgmQyAy84"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "2086733867214582102",
+        "created_at": "2026-08-10T08:47:57.000Z",
+        "display_text_range": [
+          12,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T09:47:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086736296060592383"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1684425717579227136",
+              "start": 0,
+              "username": "foxneko333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086736296060592383",
+        "in_reply_to_user_id": "1684425717579227136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 101,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086736060319408365",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@foxneko333 他是嘲讽我呢\n怎么可能让我点\n我感觉就是把我当oder了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1229811974763974658",
+        "conversation_id": "2086733867214582102",
+        "created_at": "2026-08-10T10:30:28.000Z",
+        "display_text_range": [
+          15,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T11:30:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086762094721216547"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1748763011140169729",
+              "start": 0,
+              "username": "lovelyshuimao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086762094721216547",
+        "in_reply_to_user_id": "1748763011140169729",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086733867214582102",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lovelyshuimao 好家伙要是我听到医生这么说那我就不客气了（"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "🐱神仙水水猫｜星铃｜Lumia\n👩🏻‍💻INTJ ♀14 \n🙋🏻‍♀️提問box——————↓\n✍🏻想成為哲學🏠",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGrRuS"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "is_identity_verified": true,
+        "location": "距离你 4.3km",
+        "most_recent_tweet_id": "2086764886684828077",
+        "name": "lovely水",
+        "pinned_tweet_id": "2075897725733024056",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1748763011140169729/1775028370",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045354329792749568/b7JXuLvu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5763,
+          "following_count": 1002,
+          "like_count": 275,
+          "listed_count": 23,
+          "media_count": 3541,
+          "tweet_count": 16084
+        },
+        "url": "https://t.co/EZhyEGrRuS",
+        "username": "lovelyshuimao",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-02-18T16:56:55.000Z",
+        "description": "You jump , I jump.可爱的妹妹雪仙@snowfairy011026 @TamikoTomorika @toukorina 永远爱@NuclearThermal",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 25,
+                "username": "snowfairy011026"
+              },
+              {
+                "end": 57,
+                "start": 42,
+                "username": "TamikoTomorika"
+              },
+              {
+                "end": 68,
+                "start": 58,
+                "username": "toukorina"
+              },
+              {
+                "end": 87,
+                "start": 72,
+                "username": "NuclearThermal"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Aokigawa",
+                "end": 23,
+                "expanded_url": "https://t.me/Aokigawa",
+                "start": 0,
+                "url": "https://t.co/hRiiUiYzxq"
+              }
+            ]
+          }
+        },
+        "id": "1229811974763974658",
+        "is_identity_verified": false,
+        "location": "Osaka-shi Naniwa-ku, Osaka",
+        "most_recent_tweet_id": "2086764790320664837",
+        "name": "平平无奇小机场🏳️‍⚧️",
+        "pinned_tweet_id": "1728070700613702059",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1229811974763974658/1699494346",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1777114753544208384/uAigzslA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1087,
+          "following_count": 1110,
+          "like_count": 5647,
+          "listed_count": 2,
+          "media_count": 274,
+          "tweet_count": 5408
+        },
+        "url": "https://t.co/hRiiUiYzxq",
+        "username": "Aokigawa8964",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1748763011140169729",
+    "conversation_id": "2085317420311613560",
+    "created_at": "2026-08-06T16:57:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T17:57:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085410014643257569"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1915124824126427137",
+          "start": 0,
+          "username": "Grtr_nk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085410014643257569",
+    "in_reply_to_user_id": "1915124824126427137",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085317420311613560",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Grtr_nk 哟"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2085317411868397568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPCJIzpaUAAO0VJ.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "2085317420311613560",
+        "created_at": "2026-08-06T16:57:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T17:57:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085410014643257569"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1915124824126427137",
+              "start": 0,
+              "username": "Grtr_nk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085410014643257569",
+        "in_reply_to_user_id": "1915124824126427137",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085317420311613560",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Grtr_nk 哟"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085317411868397568"
+          ]
+        },
+        "author_id": "1915124824126427137",
+        "conversation_id": "2085317420311613560",
+        "created_at": "2026-08-06T10:49:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T11:49:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085317420311613560"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tUITaDsskC",
+              "end": 38,
+              "expanded_url": "https://x.com/Grtr_nk/status/2085317420311613560/photo/1",
+              "media_key": "3_2085317411868397568",
+              "start": 15,
+              "url": "https://t.co/tUITaDsskC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085317420311613560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 594,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "掰完了存货complete✅ https://t.co/tUITaDsskC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "🐱神仙水水猫｜星铃｜Lumia\n👩🏻‍💻INTJ ♀14 \n🙋🏻‍♀️提問box——————↓\n✍🏻想成為作家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGrRuS"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你 4.3km",
+        "name": "lovely水",
+        "pinned_tweet_id": "2075897725733024056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045354329792749568/b7JXuLvu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5705,
+          "following_count": 996,
+          "like_count": 276,
+          "listed_count": 23,
+          "media_count": 3503,
+          "tweet_count": 15936
+        },
+        "url": "https://t.co/EZhyEGrRuS",
+        "username": "lovelyshuimao",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-23T19:25:21.000Z",
+        "description": "你的态度=我的态度\n翻车顺女HRT23.05.29/多意识体OSDD+cptsd/od💊ed BMI14.2😇/ pfp @LeonRui_ / 里帐 @Luminme_Vas 互关请私信",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 61,
+                "username": "LeonRui_"
+              },
+              {
+                "end": 88,
+                "start": 76,
+                "username": "Luminme_Vas"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nekotonbo1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/nekotonbo1",
+                "start": 0,
+                "url": "https://t.co/NR1GrU7CG8"
+              }
+            ]
+          }
+        },
+        "id": "1915124824126427137",
+        "location": "🚪68/128",
+        "name": "🐱🍥灰尾猫🍥🐱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998235803676463104/qPOn02np_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1546,
+          "following_count": 672,
+          "like_count": 426,
+          "listed_count": 4,
+          "media_count": 110,
+          "tweet_count": 829
+        },
+        "url": "https://t.co/NR1GrU7CG8",
+        "username": "Grtr_nk",
+        "verified": false
+      }
+    ]
+  }
+}

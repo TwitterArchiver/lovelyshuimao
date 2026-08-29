@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1748763011140169729",
+    "conversation_id": "2091318938575700018",
+    "created_at": "2026-08-23T00:17:44.000Z",
+    "display_text_range": [
+      0,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-23T01:17:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2091318938575700018"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/bcfqdtfqz/stat…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/bcfqdtfqz/status/2090965288552681908",
+          "start": 16,
+          "url": "https://t.co/3IoDqwUkfa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091318938575700018",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090965288552681908",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "如果一定要组成七个人的话拉来谁 https://t.co/3IoDqwUkfa"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "2091318938575700018",
+        "created_at": "2026-08-23T00:17:44.000Z",
+        "display_text_range": [
+          0,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T01:17:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091318938575700018"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bcfqdtfqz/stat…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/bcfqdtfqz/status/2090965288552681908",
+              "start": 16,
+              "url": "https://t.co/3IoDqwUkfa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091318938575700018",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090965288552681908",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "如果一定要组成七个人的话拉来谁 https://t.co/3IoDqwUkfa"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018306514549972992",
+        "conversation_id": "2090965288552681908",
+        "created_at": "2026-08-22T00:52:27.000Z",
+        "display_text_range": [
+          0,
+          53
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T01:52:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090965288552681908"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2090965288552681908",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 11190,
+          "like_count": 143,
+          "quote_count": 4,
+          "reply_count": 56,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我觉得如果把amber，唐毓文和冰棍三个人同时关进一家扭转，估计扭转的校长都不用经过审判直接在办公室自缢了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "🐱神仙水水猫\n👩🏻‍💻INTJ ♀14 \n🙋🏻‍♀️提問box——————↓\n✍🏻想寫作",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGrRuS"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "is_identity_verified": true,
+        "location": "距离你 4.3km",
+        "most_recent_tweet_id": "2091318938575700018",
+        "name": "lovely水",
+        "pinned_tweet_id": "2090619236196716875",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1748763011140169729/1775028370",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045354329792749568/b7JXuLvu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5840,
+          "following_count": 998,
+          "like_count": 275,
+          "listed_count": 25,
+          "media_count": 3602,
+          "tweet_count": 16428
+        },
+        "url": "https://t.co/EZhyEGrRuS",
+        "username": "lovelyshuimao",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2026-02-02T12:52:42.000Z",
+        "description": "番茄碎碎念/生活账号/，梦到哪句发哪句\n所有有关股票的内容都是我打飞机时候想出来的，不具有任何投资建议，仅为鬼脑意淫。\n\n提问箱：https://t.co/FO8N22BQv9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/__fanqie__",
+                "end": 88,
+                "expanded_url": "https://ngl.link/__fanqie__",
+                "start": 65,
+                "url": "https://t.co/FO8N22BQv9"
+              }
+            ]
+          }
+        },
+        "id": "2018306514549972992",
+        "is_identity_verified": false,
+        "location": "锅里，和蛋在一起",
+        "most_recent_tweet_id": "2091318632148324381",
+        "name": "直到大地变成一颗番茄🍅",
+        "pinned_tweet_id": "2070606905777737839",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2018306514549972992/1770037965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042802131133173761/SaeBlg0N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1793,
+          "following_count": 1429,
+          "like_count": 482,
+          "listed_count": 2,
+          "media_count": 864,
+          "tweet_count": 3642
+        },
+        "url": "",
+        "username": "bcfqdtfqz",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

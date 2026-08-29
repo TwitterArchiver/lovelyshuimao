@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1748763011140169729",
+    "conversation_id": "2083379708377587752",
+    "created_at": "2026-08-01T11:30:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T12:30:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083515652871270678"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2079365089334112256",
+          "start": 0,
+          "username": "Kiyoshiaufzju"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083515652871270678",
+    "in_reply_to_user_id": "2079365089334112256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083379708377587752",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kiyoshiaufzju 能不能关注一下我"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3946,
+        "media_key": "3_2083379699653423104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOmmzHIaMAAz5NG.jpg",
+        "width": 2160
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "2083379708377587752",
+        "created_at": "2026-08-01T11:30:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T12:30:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083515652871270678"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2079365089334112256",
+              "start": 0,
+              "username": "Kiyoshiaufzju"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083515652871270678",
+        "in_reply_to_user_id": "2079365089334112256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083379708377587752",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kiyoshiaufzju 能不能关注一下我"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083379699653423104"
+          ]
+        },
+        "author_id": "2079365089334112256",
+        "conversation_id": "2083379708377587752",
+        "created_at": "2026-08-01T02:30:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T03:30:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083379708377587752"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9Skca76OLw",
+              "end": 27,
+              "expanded_url": "https://x.com/Kiyoshiaufzju/status/2083379708377587752/photo/1",
+              "media_key": "3_2083379699653423104",
+              "start": 4,
+              "url": "https://t.co/9Skca76OLw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083379708377587752",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2009,
+          "like_count": 20,
+          "quote_count": 2,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哈哈哈 https://t.co/9Skca76OLw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "🐱神仙水水猫星铃Lumia\n👩🏻‍💻INTJ ♀14 \n🙋🏻‍♀️提問box——————↓\n✍🏻想成為作家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGspkq"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你 4.3km",
+        "name": "lovely水",
+        "pinned_tweet_id": "2075897725733024056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045354329792749568/b7JXuLvu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5609,
+          "following_count": 996,
+          "like_count": 275,
+          "listed_count": 22,
+          "media_count": 3467,
+          "tweet_count": 15735
+        },
+        "url": "https://t.co/EZhyEGspkq",
+        "username": "lovelyshuimao",
+        "verified": true
+      },
+      {
+        "created_at": "2026-07-21T00:38:39.000Z",
+        "description": "原@666666666ZT账号被我自愿冻结，现号是二代目，生产日期2010年7月1日",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 1,
+                "username": "666666666ZT"
+              }
+            ]
+          }
+        },
+        "id": "2079365089334112256",
+        "name": "电子爱好者清正🍥🏳️‍⚧️（二代目）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079365529480118273/gD1bMelp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 540,
+          "following_count": 148,
+          "like_count": 22,
+          "listed_count": 0,
+          "media_count": 92,
+          "tweet_count": 267
+        },
+        "url": "",
+        "username": "Kiyoshiaufzju",
+        "verified": false
+      }
+    ]
+  }
+}

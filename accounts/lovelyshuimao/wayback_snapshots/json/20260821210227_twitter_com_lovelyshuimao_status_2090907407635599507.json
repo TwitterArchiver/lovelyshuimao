@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1748763011140169729",
+    "conversation_id": "2090631755602731206",
+    "created_at": "2026-08-21T21:02:27.000Z",
+    "display_text_range": [
+      17,
+      82
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T22:02:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090907407635599507"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1701484460250890240",
+          "start": 0,
+          "username": "SonogamiRinneTS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090907407635599507",
+    "in_reply_to_user_id": "1701484460250890240",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090631755602731206",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SonogamiRinneTS 各民族一律平等。国家保障各少数民族的合法的权利和利益，维护和发展各民族的平等团结互助和谐关系。禁止对任何民族的歧视和压迫。——宪法"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 95000,
+        "height": 854,
+        "media_key": "13_2090631617366888448",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2090631617366888448/img/mLOZoiftOKrMjQhW.jpg",
+        "public_metrics": {
+          "view_count": 5351
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2090631617366888448/vid/avc1/320x638/asqSOJn4SXlTBgEd.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2090631617366888448/vid/avc1/428x854/3QVxfgElcNQif1le.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2090631617366888448/pl/MCyjTQFU08yJLnfU.m3u8?v=cfc"
+          }
+        ],
+        "width": 428
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "2090631755602731206",
+        "created_at": "2026-08-21T21:02:27.000Z",
+        "display_text_range": [
+          17,
+          82
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T22:02:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090907407635599507"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1701484460250890240",
+              "start": 0,
+              "username": "SonogamiRinneTS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090907407635599507",
+        "in_reply_to_user_id": "1701484460250890240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090631755602731206",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SonogamiRinneTS 各民族一律平等。国家保障各少数民族的合法的权利和利益，维护和发展各民族的平等团结互助和谐关系。禁止对任何民族的歧视和压迫。——宪法"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2090631617366888448"
+          ]
+        },
+        "author_id": "1701484460250890240",
+        "conversation_id": "2090631755602731206",
+        "created_at": "2026-08-21T02:47:07.000Z",
+        "display_text_range": [
+          0,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T03:47:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090631755602731206"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zcIDRo5B1G",
+              "end": 39,
+              "expanded_url": "https://x.com/SonogamiRinneTS/status/2090631755602731206/video/1",
+              "media_key": "13_2090631617366888448",
+              "start": 16,
+              "url": "https://t.co/zcIDRo5B1G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090631755602731206",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2090631617366888448"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 12311,
+          "like_count": 147,
+          "quote_count": 3,
+          "reply_count": 41,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "遥知兄弟登高处，遍插茱萸少一人 https://t.co/zcIDRo5B1G"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "🐱神仙水水猫｜星铃｜Lumia\n👩🏻‍💻INTJ ♀14 \n🙋🏻‍♀️提問box——————↓\n✍🏻想寫作",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGrRuS"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "is_identity_verified": true,
+        "location": "距离你 4.3km",
+        "most_recent_tweet_id": "2090907407635599507",
+        "name": "lovely水",
+        "pinned_tweet_id": "2090619236196716875",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1748763011140169729/1775028370",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045354329792749568/b7JXuLvu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5838,
+          "following_count": 998,
+          "like_count": 275,
+          "listed_count": 25,
+          "media_count": 3598,
+          "tweet_count": 16408
+        },
+        "url": "https://t.co/EZhyEGrRuS",
+        "username": "lovelyshuimao",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-09-12T06:34:58.000Z",
+        "description": "药娘mtf/无证含糖/hrt: 2025.1.15/仓库搬砖中/自闭症精残/究极天残党/同类互关",
+        "id": "1701484460250890240",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090680792230064171",
+        "name": "是Rinne酱呀",
+        "pinned_tweet_id": "1889100356099203268",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1701484460250890240/1747470440",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888922914763988992/-ixcDogC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5612,
+          "following_count": 4018,
+          "like_count": 1622,
+          "listed_count": 18,
+          "media_count": 306,
+          "tweet_count": 2175
+        },
+        "url": "",
+        "username": "SonogamiRinneTS",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

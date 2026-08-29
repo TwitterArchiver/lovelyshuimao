@@ -1,0 +1,421 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2085590755649925120",
+        "3_2085593030980165633",
+        "3_2085593031898787840"
+      ]
+    },
+    "author_id": "1748763011140169729",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2085593059417600501",
+    "created_at": "2026-08-07T05:05:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T05:56:00.000Z",
+      "edits_remaining": 4,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085590762050457872",
+      "2085593059417600501"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/8MYmsle4Vy",
+          "end": 66,
+          "expanded_url": "https://x.com/lovelyshuimao/status/2085593059417600501/photo/1",
+          "media_key": "3_2085590755649925120",
+          "start": 43,
+          "url": "https://t.co/8MYmsle4Vy"
+        },
+        {
+          "display_url": "pic.x.com/8MYmsle4Vy",
+          "end": 66,
+          "expanded_url": "https://x.com/lovelyshuimao/status/2085593059417600501/photo/1",
+          "media_key": "3_2085593030980165633",
+          "start": 43,
+          "url": "https://t.co/8MYmsle4Vy"
+        },
+        {
+          "display_url": "pic.x.com/8MYmsle4Vy",
+          "end": 66,
+          "expanded_url": "https://x.com/lovelyshuimao/status/2085593059417600501/photo/1",
+          "media_key": "3_2085593031898787840",
+          "start": 43,
+          "url": "https://t.co/8MYmsle4Vy"
+        },
+        {
+          "display_url": "x.com/huahuojiang_/s…",
+          "end": 90,
+          "expanded_url": "https://twitter.com/huahuojiang_/status/2085244913411891287",
+          "start": 67,
+          "url": "https://t.co/TDiISvC4yu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085593059417600501",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085244913411891287",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我打上了神秘言论被ai拦截了\n现在彻底不可能被搬运了！（\n原图我就不发了我怕给X封了 https://t.co/8MYmsle4Vy https://t.co/TDiISvC4yu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1572,
+        "media_key": "3_2085590755649925120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPGBvglaMAAscfP.jpg",
+        "width": 1320
+      },
+      {
+        "height": 1439,
+        "media_key": "3_2085593030980165633",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPGDz82aYAE99L2.jpg",
+        "width": 1320
+      },
+      {
+        "height": 2137,
+        "media_key": "3_2085593031898787840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPGD0ARbcAAmVOS.jpg",
+        "width": 1320
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2085244896995340288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPBHL4sacAAcJxN.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085590755649925120"
+          ]
+        },
+        "author_id": "1748763011140169729",
+        "conversation_id": "2085590762050457872",
+        "created_at": "2026-08-07T04:56:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T05:56:00.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085590762050457872",
+          "2085593059417600501"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bozgNKvcU7",
+              "end": 66,
+              "expanded_url": "https://x.com/lovelyshuimao/status/2085590762050457872/photo/1",
+              "media_key": "3_2085590755649925120",
+              "start": 43,
+              "url": "https://t.co/bozgNKvcU7"
+            },
+            {
+              "display_url": "x.com/huahuojiang_/s…",
+              "end": 90,
+              "expanded_url": "https://twitter.com/huahuojiang_/status/2085244913411891287",
+              "start": 67,
+              "url": "https://t.co/TDiISvC4yu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085590762050457872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085244913411891287",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我打上了神秘言论被ai拦截了\n现在彻底不可能被搬运了！（\n原图我就不发了我怕给X封了 https://t.co/bozgNKvcU7 https://t.co/TDiISvC4yu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085590755649925120",
+            "3_2085593030980165633",
+            "3_2085593031898787840"
+          ]
+        },
+        "author_id": "1748763011140169729",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2085593059417600501",
+        "created_at": "2026-08-07T05:05:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T05:56:00.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085590762050457872",
+          "2085593059417600501"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8MYmsle4Vy",
+              "end": 66,
+              "expanded_url": "https://x.com/lovelyshuimao/status/2085593059417600501/photo/1",
+              "media_key": "3_2085590755649925120",
+              "start": 43,
+              "url": "https://t.co/8MYmsle4Vy"
+            },
+            {
+              "display_url": "pic.x.com/8MYmsle4Vy",
+              "end": 66,
+              "expanded_url": "https://x.com/lovelyshuimao/status/2085593059417600501/photo/1",
+              "media_key": "3_2085593030980165633",
+              "start": 43,
+              "url": "https://t.co/8MYmsle4Vy"
+            },
+            {
+              "display_url": "pic.x.com/8MYmsle4Vy",
+              "end": 66,
+              "expanded_url": "https://x.com/lovelyshuimao/status/2085593059417600501/photo/1",
+              "media_key": "3_2085593031898787840",
+              "start": 43,
+              "url": "https://t.co/8MYmsle4Vy"
+            },
+            {
+              "display_url": "x.com/huahuojiang_/s…",
+              "end": 90,
+              "expanded_url": "https://twitter.com/huahuojiang_/status/2085244913411891287",
+              "start": 67,
+              "url": "https://t.co/TDiISvC4yu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085593059417600501",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085244913411891287",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我打上了神秘言论被ai拦截了\n现在彻底不可能被搬运了！（\n原图我就不发了我怕给X封了 https://t.co/8MYmsle4Vy https://t.co/TDiISvC4yu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085244896995340288"
+          ]
+        },
+        "author_id": "1769078117052854272",
+        "conversation_id": "2085244913411891287",
+        "created_at": "2026-08-06T06:01:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T07:01:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085244913411891287"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tslGJ9jXhN",
+              "end": 39,
+              "expanded_url": "https://x.com/huahuojiang_/status/2085244913411891287/photo/1",
+              "media_key": "3_2085244896995340288",
+              "start": 16,
+              "url": "https://t.co/tslGJ9jXhN"
+            },
+            {
+              "display_url": "x.com/suekageseikiyo…",
+              "end": 63,
+              "expanded_url": "https://twitter.com/suekageseikiyo/status/2084610213936865553",
+              "start": 40,
+              "url": "https://t.co/SkWVFzmHEh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085244913411891287",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 36,
+          "impression_count": 86942,
+          "like_count": 347,
+          "quote_count": 6,
+          "reply_count": 109,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084610213936865553",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "這都防不住大陸網友分享的慾望😁 https://t.co/tslGJ9jXhN https://t.co/SkWVFzmHEh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "🐱神仙水水猫｜星铃｜Lumia\n👩🏻‍💻INTJ ♀14 \n🙋🏻‍♀️提問box——————↓\n✍🏻想成為作家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGrRuS"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你 4.3km",
+        "name": "lovely水",
+        "pinned_tweet_id": "2075897725733024056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045354329792749568/b7JXuLvu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5714,
+          "following_count": 995,
+          "like_count": 276,
+          "listed_count": 23,
+          "media_count": 3508,
+          "tweet_count": 15952
+        },
+        "url": "https://t.co/EZhyEGrRuS",
+        "username": "lovelyshuimao",
+        "verified": true
+      },
+      {
+        "created_at": "2024-03-16T19:07:54.000Z",
+        "description": "诶嘿～好无聊呀~｜加点东西@这里没有人｜换一个提问箱：https://t.co/0C8gTeJyHd",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/huahuojiang2",
+                "end": 50,
+                "expanded_url": "https://ngl.link/huahuojiang2",
+                "start": 27,
+                "url": "https://t.co/0C8gTeJyHd"
+              }
+            ]
+          }
+        },
+        "id": "1769078117052854272",
+        "location": "匹诺康尼",
+        "name": "花火酱～",
+        "pinned_tweet_id": "2085308791428686223",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039013777560227840/6M7222YJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7720,
+          "following_count": 3975,
+          "like_count": 104312,
+          "listed_count": 17,
+          "media_count": 9402,
+          "tweet_count": 103568
+        },
+        "url": "",
+        "username": "huahuojiang_",
+        "verified": true
+      }
+    ]
+  }
+}

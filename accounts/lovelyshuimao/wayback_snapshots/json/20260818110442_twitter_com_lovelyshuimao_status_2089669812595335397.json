@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1748763011140169729",
+    "conversation_id": "2089209199196856450",
+    "created_at": "2026-08-18T11:04:42.000Z",
+    "display_text_range": [
+      11,
+      26
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T12:04:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089669812595335397"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2058088045380026368",
+          "start": 0,
+          "username": "qianyunhr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089669812595335397",
+    "in_reply_to_user_id": "2058088045380026368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089530330344759666",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@qianyunhr 没有（\n听医嘱吃药🖊️🖊️🖊️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "2089209199196856450",
+        "created_at": "2026-08-18T11:04:42.000Z",
+        "display_text_range": [
+          11,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T12:04:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089669812595335397"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2058088045380026368",
+              "start": 0,
+              "username": "qianyunhr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089669812595335397",
+        "in_reply_to_user_id": "2058088045380026368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089530330344759666",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@qianyunhr 没有（\n听医嘱吃药🖊️🖊️🖊️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2058088045380026368",
+        "conversation_id": "2089209199196856450",
+        "created_at": "2026-08-18T01:50:27.000Z",
+        "display_text_range": [
+          15,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T02:50:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089530330344759666"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1748763011140169729",
+              "start": 0,
+              "username": "lovelyshuimao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089530330344759666",
+        "in_reply_to_user_id": "1748763011140169729",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 769,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089209199196856450",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@lovelyshuimao 是不是药物滥用"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "🐱神仙水水猫｜星铃｜Lumia\n👩🏻‍💻INTJ ♀14 \n🙋🏻‍♀️提問box——————↓\n✍🏻想寫作",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGrRuS"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "is_identity_verified": true,
+        "location": "距离你 4.3km",
+        "most_recent_tweet_id": "2089669812595335397",
+        "name": "lovely水",
+        "pinned_tweet_id": "2075897725733024056",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1748763011140169729/1775028370",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045354329792749568/b7JXuLvu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5808,
+          "following_count": 1000,
+          "like_count": 275,
+          "listed_count": 25,
+          "media_count": 3559,
+          "tweet_count": 16243
+        },
+        "url": "https://t.co/EZhyEGrRuS",
+        "username": "lovelyshuimao",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-23T07:31:46.000Z",
+        "description": "圣殿的漆已经掉了´∀`大家一起当婊子吧！\n這裡是qianyun愆昀 可以叫我千云\n🚪20 半绿\n^‥^希望成为有价值的人！\n梦想变成一只小鸡\n🔪/中度抑郁/前oder 致死还是小资历\n莫言 苏童 余华？ 以及荒谬主义者\n努力成为健全逼！嗯\n你很可爱呀！互fo我喜欢的入",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/qianyunhr",
+                "end": 23,
+                "expanded_url": "https://ngl.link/qianyunhr",
+                "start": 0,
+                "url": "https://t.co/f0D5P8sR64"
+              }
+            ]
+          }
+        },
+        "id": "2058088045380026368",
+        "is_identity_verified": false,
+        "location": "蛋仔岛",
+        "most_recent_tweet_id": "2089650653450928385",
+        "name": "qianyun",
+        "pinned_tweet_id": "2088228222848954484",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2058088045380026368/1779530062",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058088663800811520/EsUZ0HXO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 219,
+          "following_count": 143,
+          "like_count": 2245,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 363
+        },
+        "url": "https://t.co/f0D5P8sR64",
+        "username": "qianyunhr",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

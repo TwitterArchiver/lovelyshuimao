@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1748763011140169729",
+    "conversation_id": "2084677570352824648",
+    "created_at": "2026-08-05T02:39:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T03:39:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084831584415522926"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2077257519538544640",
+          "start": 0,
+          "username": "pbeqwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084831584415522926",
+    "in_reply_to_user_id": "2077257519538544640",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084819373693505621",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pbeqwq 也是（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "2084677570352824648",
+        "created_at": "2026-08-05T02:39:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T03:39:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084831584415522926"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2077257519538544640",
+              "start": 0,
+              "username": "pbeqwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084831584415522926",
+        "in_reply_to_user_id": "2077257519538544640",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084819373693505621",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pbeqwq 也是（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2077257519538544640",
+        "conversation_id": "2084677570352824648",
+        "created_at": "2026-08-05T01:50:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T02:50:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084819373693505621"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1748763011140169729",
+              "start": 0,
+              "username": "lovelyshuimao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084819373693505621",
+        "in_reply_to_user_id": "1748763011140169729",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084677570352824648",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lovelyshuimao 你现在的X不就是挂着他吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "🐱神仙水水猫｜星铃｜Lumia\n👩🏻‍💻INTJ ♀14 \n🙋🏻‍♀️提問box——————↓\n✍🏻想成為作家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGrRuS"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你 4.3km",
+        "name": "lovely水",
+        "pinned_tweet_id": "2075897725733024056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045354329792749568/b7JXuLvu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5673,
+          "following_count": 994,
+          "like_count": 276,
+          "listed_count": 22,
+          "media_count": 3488,
+          "tweet_count": 15875
+        },
+        "url": "https://t.co/EZhyEGrRuS",
+        "username": "lovelyshuimao",
+        "verified": true
+      },
+      {
+        "created_at": "2026-07-15T05:03:27.000Z",
+        "description": "不叠甲纯瞎说，不信谣不传谣\n联系我：q1qaz2wsxg098@outlook.com",
+        "id": "2077257519538544640",
+        "name": "蒲泓",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084818701543780352/QUu0vPOF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 11,
+          "like_count": 23,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 56
+        },
+        "url": "",
+        "username": "pbeqwq",
+        "verified": false
+      }
+    ]
+  }
+}

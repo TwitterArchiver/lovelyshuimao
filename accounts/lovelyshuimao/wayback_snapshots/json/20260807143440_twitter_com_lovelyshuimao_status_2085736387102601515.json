@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1748763011140169729",
+    "conversation_id": "2085736387102601515",
+    "created_at": "2026-08-07T14:34:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T15:34:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085736387102601515"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/fuugetsu_808/s…",
+          "end": 48,
+          "expanded_url": "https://twitter.com/fuugetsu_808/status/2085404293872631852",
+          "start": 25,
+          "url": "https://t.co/kJDks2wlc4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085736387102601515",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085404293872631852",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "首先这个横幅贴了门打不开了\n遭遇危险难以及时逃生 https://t.co/kJDks2wlc4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 776,
+        "media_key": "3_2085404288545923072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPDYJsfbIAAOjdF.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "2085736387102601515",
+        "created_at": "2026-08-07T14:34:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T15:34:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085736387102601515"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/fuugetsu_808/s…",
+              "end": 48,
+              "expanded_url": "https://twitter.com/fuugetsu_808/status/2085404293872631852",
+              "start": 25,
+              "url": "https://t.co/kJDks2wlc4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085736387102601515",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085404293872631852",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "首先这个横幅贴了门打不开了\n遭遇危险难以及时逃生 https://t.co/kJDks2wlc4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085404288545923072"
+          ]
+        },
+        "author_id": "1593799138893873152",
+        "conversation_id": "2085404293872631852",
+        "created_at": "2026-08-06T16:35:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T17:35:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085404293872631852"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LexaZxyDDz",
+              "end": 49,
+              "expanded_url": "https://x.com/Fuugetsu_808/status/2085404293872631852/photo/1",
+              "media_key": "3_2085404288545923072",
+              "start": 26,
+              "url": "https://t.co/LexaZxyDDz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085404293872631852",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 49934,
+          "like_count": 215,
+          "quote_count": 9,
+          "reply_count": 131,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "我很好奇日本人看到这个旅游大巴上的横幅会有什么看法 https://t.co/LexaZxyDDz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "🐱神仙水水猫｜星铃｜Lumia\n👩🏻‍💻INTJ ♀14 \n🙋🏻‍♀️提問box——————↓\n✍🏻想成為哲學🏠",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGrRuS"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你 4.3km",
+        "name": "lovely水",
+        "pinned_tweet_id": "2075897725733024056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045354329792749568/b7JXuLvu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5736,
+          "following_count": 997,
+          "like_count": 276,
+          "listed_count": 23,
+          "media_count": 3514,
+          "tweet_count": 15973
+        },
+        "url": "https://t.co/EZhyEGrRuS",
+        "username": "lovelyshuimao",
+        "verified": true
+      },
+      {
+        "created_at": "2022-11-19T02:52:11.000Z",
+        "description": "川なに水上を尋ねけむ物思ふ時の我が身なりけり",
+        "id": "1593799138893873152",
+        "name": "ふうげつを友とする",
+        "pinned_tweet_id": "2044090017514168709",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044101857984032769/fHN5NJn1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5901,
+          "following_count": 1896,
+          "like_count": 82718,
+          "listed_count": 12,
+          "media_count": 1794,
+          "tweet_count": 13324
+        },
+        "url": "",
+        "username": "Fuugetsu_808",
+        "verified": true
+      }
+    ]
+  }
+}
