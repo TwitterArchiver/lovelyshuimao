@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1748763011140169729",
+    "conversation_id": "2093313385387708787",
+    "created_at": "2026-08-28T14:21:22.000Z",
+    "display_text_range": [
+      10,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-28T15:21:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093343186186088872"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "467659726",
+          "start": 0,
+          "username": "WorstCat"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093343186186088872",
+    "in_reply_to_user_id": "467659726",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093313385387708787",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WorstCat 为什么我画不出拟人风格"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1168,
+        "media_key": "3_2093313180630126592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQzxPzcaEAA19nj.jpg",
+        "width": 784
+      },
+      {
+        "height": 1168,
+        "media_key": "3_2093313286024613888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQzxV8EaUAADA_q.jpg",
+        "width": 784
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "2093313385387708787",
+        "created_at": "2026-08-28T14:21:22.000Z",
+        "display_text_range": [
+          10,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T15:21:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093343186186088872"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "467659726",
+              "start": 0,
+              "username": "WorstCat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093343186186088872",
+        "in_reply_to_user_id": "467659726",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093313385387708787",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WorstCat 为什么我画不出拟人风格"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093313180630126592",
+            "3_2093313286024613888"
+          ]
+        },
+        "author_id": "467659726",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2093313385387708787",
+        "created_at": "2026-08-28T12:22:57.000Z",
+        "display_text_range": [
+          0,
+          9
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T13:22:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093313385387708787"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TwYVA5s61J",
+              "end": 33,
+              "expanded_url": "https://x.com/WorstCat/status/2093313385387708787/photo/1",
+              "media_key": "3_2093313180630126592",
+              "start": 10,
+              "url": "https://t.co/TwYVA5s61J"
+            },
+            {
+              "display_url": "pic.x.com/TwYVA5s61J",
+              "end": 33,
+              "expanded_url": "https://x.com/WorstCat/status/2093313385387708787/photo/1",
+              "media_key": "3_2093313286024613888",
+              "start": 10,
+              "url": "https://t.co/TwYVA5s61J"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093313385387708787",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2093313180630126592"
+          },
+          {
+            "media_key": "3_2093313286024613888"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 98,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "grok眼里的我🥺 https://t.co/TwYVA5s61J"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "🐱神仙水水猫\n👩🏻‍💻INTJ ♀14 \n🙋🏻‍♀️提問box——————↓\n✍🏻想寫作",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGrRuS"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "is_identity_verified": true,
+        "location": "距离你 4.3km",
+        "most_recent_tweet_id": "2093343186186088872",
+        "name": "lovely水",
+        "pinned_tweet_id": "2092334568057762260",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1748763011140169729/1775028370",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045354329792749568/b7JXuLvu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5851,
+          "following_count": 994,
+          "like_count": 274,
+          "listed_count": 25,
+          "media_count": 3638,
+          "tweet_count": 16576
+        },
+        "url": "https://t.co/EZhyEGrRuS",
+        "username": "lovelyshuimao",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2012-01-18T18:17:48.000Z",
+        "description": "绝世大坏猫🐈‍⬛咬人也咬自己，咬完再挠一爪子🐾别靠太近，我会咬你也可能抱你。——坏猫不讲理，只会哈气",
+        "id": "467659726",
+        "is_identity_verified": false,
+        "location": "距离514米",
+        "most_recent_tweet_id": "2093319011207385198",
+        "name": "坏猫",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/467659726/1762348066",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046649877283901440/KYxuEqRD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3108,
+          "following_count": 88,
+          "like_count": 16694,
+          "listed_count": 6,
+          "media_count": 309,
+          "tweet_count": 2364
+        },
+        "url": "",
+        "username": "WorstCat",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

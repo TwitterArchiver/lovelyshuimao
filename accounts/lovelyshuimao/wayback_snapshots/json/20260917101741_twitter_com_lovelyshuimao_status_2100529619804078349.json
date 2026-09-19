@@ -1,0 +1,344 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1748763011140169729",
+    "conversation_id": "2100430274291265823",
+    "created_at": "2026-09-17T10:17:41.000Z",
+    "display_text_range": [
+      11,
+      27
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-17T11:17:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100529619804078349"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1845674780416208897",
+          "start": 0,
+          "username": "liulingyo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100529619804078349",
+    "in_reply_to_user_id": "1845674780416208897",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100430274291265823",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@liulingyo 男澡堂可以去，至少在中国大陆可以"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1263,
+        "media_key": "3_2100430261704171520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSY6MchboAAWLIY.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "2100430274291265823",
+        "created_at": "2026-09-17T10:17:41.000Z",
+        "display_text_range": [
+          11,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T11:17:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100529619804078349"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1845674780416208897",
+              "start": 0,
+              "username": "liulingyo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100529619804078349",
+        "in_reply_to_user_id": "1845674780416208897",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100430274291265823",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liulingyo 男澡堂可以去，至少在中国大陆可以"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100430261704171520"
+          ]
+        },
+        "author_id": "1845674780416208897",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+              "id": "1557696505548394496",
+              "name": "Beauty, Cosmetic & Personal Care Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Beauty",
+              "id": "850395585941086209",
+              "name": "Beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Spa and Medical Spa",
+              "id": "855066047157649408",
+              "name": "Spas"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Spa Bathing",
+              "id": "855073024814469120",
+              "name": "Spa Bathing"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Spa Bathing",
+              "id": "855073024814469120",
+              "name": "Spa Bathing"
+            }
+          }
+        ],
+        "conversation_id": "2100430274291265823",
+        "created_at": "2026-09-17T03:42:56.000Z",
+        "display_text_range": [
+          0,
+          65
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T04:42:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100430274291265823"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ar52irdabE",
+              "end": 89,
+              "expanded_url": "https://x.com/liulingyo/status/2100430274291265823/photo/1",
+              "media_key": "3_2100430261704171520",
+              "start": 66,
+              "url": "https://t.co/Ar52irdabE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100430274291265823",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2100430261704171520"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 9732,
+          "like_count": 104,
+          "quote_count": 0,
+          "reply_count": 18,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "未手术改证的mtf真的要和公共澡堂、汗蒸房、温泉这些设施永别了吗？女性模样的身体和外表，还有男性的生殖器，真的男女两边都去不了啊！ https://t.co/Ar52irdabE"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "🐱神仙水水猫\n👩🏻‍💻INTJ ♀14 \n🙋🏻‍♀️提問box——————↓\n✍🏻想成為作家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGspkq"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "is_identity_verified": true,
+        "location": "距离你 4.3km",
+        "most_recent_tweet_id": "2100529619804078349",
+        "name": "lovely水",
+        "pinned_tweet_id": "2100170038875722001",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1748763011140169729/1775028370",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045354329792749568/b7JXuLvu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5845,
+          "following_count": 1000,
+          "like_count": 272,
+          "listed_count": 25,
+          "media_count": 3675,
+          "tweet_count": 16738
+        },
+        "url": "https://t.co/EZhyEGspkq",
+        "username": "lovelyshuimao",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-10-14T03:55:43.000Z",
+        "description": "mtf｜已去势｜热爱发一些日常｜爱喝西米露｜有不良嗜好｜回关建议私讯｜日本语学习中｜crush:@GanYuluo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 48,
+                "username": "GanYuluo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "transnav.org/#",
+                "end": 23,
+                "expanded_url": "https://www.transnav.org/#",
+                "start": 0,
+                "url": "https://t.co/i1HGsDKVXQ"
+              }
+            ]
+          }
+        },
+        "id": "1845674780416208897",
+        "is_identity_verified": true,
+        "location": "Ciallo～ (∠・ω 𠃋 )⌒★",
+        "most_recent_tweet_id": "2100446314932871678",
+        "name": "悠悠不是雜魚🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1845674780416208897/1789437731",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095184318620676097/LuN4vrWf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5472,
+          "following_count": 1119,
+          "like_count": 4907,
+          "listed_count": 7,
+          "media_count": 263,
+          "tweet_count": 1574
+        },
+        "url": "https://t.co/i1HGsDKVXQ",
+        "username": "liulingyo",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

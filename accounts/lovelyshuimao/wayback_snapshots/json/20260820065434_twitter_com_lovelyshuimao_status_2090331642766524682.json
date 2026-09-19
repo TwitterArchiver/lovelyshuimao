@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1748763011140169729",
+    "conversation_id": "2090044583900332450",
+    "created_at": "2026-08-20T06:54:34.000Z",
+    "display_text_range": [
+      24,
+      27
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T07:54:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090331642766524682"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1165831053241569280",
+          "start": 0,
+          "username": "billyswong"
+        },
+        {
+          "end": 23,
+          "id": "1497241020303495168",
+          "start": 12,
+          "username": "mosscghere"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090331642766524682",
+    "in_reply_to_user_id": "1165831053241569280",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090329655530475673",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@billyswong @mosscghere 有道理"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "2090044583900332450",
+        "created_at": "2026-08-20T06:54:34.000Z",
+        "display_text_range": [
+          24,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T07:54:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090331642766524682"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1165831053241569280",
+              "start": 0,
+              "username": "billyswong"
+            },
+            {
+              "end": 23,
+              "id": "1497241020303495168",
+              "start": 12,
+              "username": "mosscghere"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090331642766524682",
+        "in_reply_to_user_id": "1165831053241569280",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090329655530475673",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@billyswong @mosscghere 有道理"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1165831053241569280",
+        "conversation_id": "2090044583900332450",
+        "created_at": "2026-08-20T06:46:40.000Z",
+        "display_text_range": [
+          27,
+          70
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T07:46:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090329655530475673"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1748763011140169729",
+              "start": 0,
+              "username": "lovelyshuimao"
+            },
+            {
+              "end": 26,
+              "id": "1497241020303495168",
+              "start": 15,
+              "username": "mosscghere"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090329655530475673",
+        "in_reply_to_user_id": "1748763011140169729",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090319029466743295",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lovelyshuimao @mosscghere 香港人在此建議，請由羅湖或者福田口岸步行過關，然後乘搭港鐵東鐵綫。不要給高鐵交智商稅。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "🐱神仙水水猫｜星铃｜Lumia\n👩🏻‍💻INTJ ♀14 \n🙋🏻‍♀️提問box——————↓\n✍🏻想寫作",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGrRuS"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "is_identity_verified": true,
+        "location": "距离你 4.3km",
+        "most_recent_tweet_id": "2090331642766524682",
+        "name": "lovely水",
+        "pinned_tweet_id": "2075897725733024056",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1748763011140169729/1775028370",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045354329792749568/b7JXuLvu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5828,
+          "following_count": 997,
+          "like_count": 275,
+          "listed_count": 25,
+          "media_count": 3571,
+          "tweet_count": 16313
+        },
+        "url": "https://t.co/EZhyEGrRuS",
+        "username": "lovelyshuimao",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-08-26T03:39:33.000Z",
+        "description": "子曰：「篤信好學，守死善道。危邦不入，亂邦不居。天下有道則見，無道則隱。邦有道，貧且賤焉，恥也；邦無道，富且貴焉，恥也。」——《論語・泰伯》",
+        "id": "1165831053241569280",
+        "is_identity_verified": false,
+        "location": "Hong Kong",
+        "most_recent_tweet_id": "2090329655530475673",
+        "name": "Billy Wong",
+        "pinned_tweet_id": "1804342083114930390",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1165831053241569280/1698664871",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1165845202398896128/Edqdd0FK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 241,
+          "following_count": 234,
+          "like_count": 10664,
+          "listed_count": 3,
+          "media_count": 707,
+          "tweet_count": 14303
+        },
+        "url": "",
+        "username": "billyswong",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-02-25T16:04:20.000Z",
+        "description": "咦...我是谁来着？记不起来了…大概是某位梦境列车魔法售票师……？也可能是某个无声飘过的旅行者？\n那么……\n暂时…逃离这个讨厌的现实吧？",
+        "id": "1497241020303495168",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090085656680858011",
+        "name": "啥也不会墨姐姐",
+        "pinned_tweet_id": "2080339781893210312",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1497241020303495168/1784825106",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080333344483762176/sFwfr-jM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5964,
+          "following_count": 901,
+          "like_count": 19318,
+          "listed_count": 5,
+          "media_count": 1530,
+          "tweet_count": 5956
+        },
+        "url": "",
+        "username": "mosscghere",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

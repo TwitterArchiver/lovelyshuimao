@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1748763011140169729",
+    "conversation_id": "2092361548807422221",
+    "created_at": "2026-08-26T17:57:09.000Z",
+    "display_text_range": [
+      13,
+      31
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T18:57:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092672713278321021"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1892143528140267520",
+          "start": 0,
+          "username": "0xfufu_d667"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092672713278321021",
+    "in_reply_to_user_id": "1892143528140267520",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092595355208876363",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0xfufu_d667 不是政治局排名，不分先后只是我先想到"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "2092361548807422221",
+        "created_at": "2026-08-26T17:57:09.000Z",
+        "display_text_range": [
+          13,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T18:57:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092672713278321021"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1892143528140267520",
+              "start": 0,
+              "username": "0xfufu_d667"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092672713278321021",
+        "in_reply_to_user_id": "1892143528140267520",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092595355208876363",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0xfufu_d667 不是政治局排名，不分先后只是我先想到"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1892143528140267520",
+        "conversation_id": "2092361548807422221",
+        "created_at": "2026-08-26T12:49:45.000Z",
+        "display_text_range": [
+          15,
+          41
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T13:49:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092595355208876363"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1748763011140169729",
+              "start": 0,
+              "username": "lovelyshuimao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092595355208876363",
+        "in_reply_to_user_id": "1748763011140169729",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 74,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092361548807422221",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lovelyshuimao 圈外人想了解一下，前三名是干啥了能压amber一头？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "🐱神仙水水猫\n👩🏻‍💻INTJ ♀14 \n🙋🏻‍♀️提問box——————↓\n✍🏻想寫作",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGrRuS"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "is_identity_verified": true,
+        "location": "距离你 4.3km",
+        "most_recent_tweet_id": "2092672713278321021",
+        "name": "lovely水",
+        "pinned_tweet_id": "2092334568057762260",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1748763011140169729/1775028370",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045354329792749568/b7JXuLvu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5850,
+          "following_count": 996,
+          "like_count": 275,
+          "listed_count": 25,
+          "media_count": 3628,
+          "tweet_count": 16539
+        },
+        "url": "https://t.co/EZhyEGrRuS",
+        "username": "lovelyshuimao",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-02-19T09:25:57.000Z",
+        "description": "我爱fufu！\n分享23岁的退休生活\n长住酒店的酒店爱好者\n全职交易员\n只会hello world的cs本\n舒适旅行专家\n电子硬件发烧友",
+        "id": "1892143528140267520",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2092670221803036874",
+        "name": "0xfufu",
+        "pinned_tweet_id": "2079100574663061937",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1892143528140267520/1782207516",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892143640912543744/-Fx-HI81_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1846,
+          "following_count": 767,
+          "like_count": 12528,
+          "listed_count": 3,
+          "media_count": 361,
+          "tweet_count": 4839
+        },
+        "url": "",
+        "username": "0xfufu_d667",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

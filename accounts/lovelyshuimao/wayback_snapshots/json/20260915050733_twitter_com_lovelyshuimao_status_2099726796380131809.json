@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1748763011140169729",
+    "conversation_id": "2099501807555023228",
+    "created_at": "2026-09-15T05:07:33.000Z",
+    "display_text_range": [
+      9,
+      25
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-15T06:07:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099726796380131809"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1799922212029308928",
+          "start": 0,
+          "username": "chahaou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099726796380131809",
+    "in_reply_to_user_id": "1799922212029308928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099683912025063862",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chahaou 因为我的量表全阴，压根不需要开药"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "2099501807555023228",
+        "created_at": "2026-09-15T05:07:33.000Z",
+        "display_text_range": [
+          9,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T06:07:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099726796380131809"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1799922212029308928",
+              "start": 0,
+              "username": "chahaou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099726796380131809",
+        "in_reply_to_user_id": "1799922212029308928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099683912025063862",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chahaou 因为我的量表全阴，压根不需要开药"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1799922212029308928",
+        "conversation_id": "2099501807555023228",
+        "created_at": "2026-09-15T02:17:09.000Z",
+        "display_text_range": [
+          15,
+          51
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T03:17:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099683912025063862"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1748763011140169729",
+              "start": 0,
+              "username": "lovelyshuimao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099683912025063862",
+        "in_reply_to_user_id": "1748763011140169729",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 134,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099501807555023228",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lovelyshuimao ？为啥，我去之后填了量表，让我先把抑郁症压一下再谈，复诊还给我加大药量了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "🐱神仙水水猫\n👩🏻‍💻INTJ ♀14 \n🙋🏻‍♀️提問box——————↓\n✍🏻想成為作家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGspkq"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "is_identity_verified": true,
+        "location": "距离你 4.3km",
+        "most_recent_tweet_id": "2099726796380131809",
+        "name": "lovely水",
+        "pinned_tweet_id": "2092334568057762260",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1748763011140169729/1775028370",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045354329792749568/b7JXuLvu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5842,
+          "following_count": 997,
+          "like_count": 272,
+          "listed_count": 25,
+          "media_count": 3659,
+          "tweet_count": 16674
+        },
+        "url": "https://t.co/EZhyEGspkq",
+        "username": "lovelyshuimao",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-06-09T21:51:46.000Z",
+        "description": "qwq 大号 Lauren Carter 🍥 已被封\n被迫断糖（秘密含糖）   已炸柜  父母不同意   心情挺好 \n谢谢你@tktrtxafsjwwp0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 62,
+                "username": "tktrtxafsjwwp0"
+              }
+            ]
+          }
+        },
+        "id": "1799922212029308928",
+        "is_identity_verified": false,
+        "location": "千葉",
+        "most_recent_tweet_id": "2099684774445232480",
+        "name": "Lauren Cat 🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1799922212029308928/1787123402",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089973145591742464/ySY227hu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 15,
+          "like_count": 29,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 17
+        },
+        "url": "",
+        "username": "chahaou",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

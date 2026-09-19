@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1748763011140169729",
+    "conversation_id": "2088657840626159736",
+    "created_at": "2026-08-16T10:50:49.000Z",
+    "display_text_range": [
+      12,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T11:50:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088941544720277581"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1804344378338480128",
+          "start": 0,
+          "username": "Acmduemsks"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088941544720277581",
+    "in_reply_to_user_id": "1804344378338480128",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088908168818806846",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Acmduemsks 我在反串啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "2088657840626159736",
+        "created_at": "2026-08-16T10:50:49.000Z",
+        "display_text_range": [
+          12,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T11:50:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088941544720277581"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1804344378338480128",
+              "start": 0,
+              "username": "Acmduemsks"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088941544720277581",
+        "in_reply_to_user_id": "1804344378338480128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088908168818806846",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Acmduemsks 我在反串啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804344378338480128",
+        "conversation_id": "2088657840626159736",
+        "created_at": "2026-08-16T08:38:12.000Z",
+        "display_text_range": [
+          15,
+          170
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T09:38:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088908168818806846"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1748763011140169729",
+              "start": 0,
+              "username": "lovelyshuimao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088908168818806846",
+        "in_reply_to_user_id": "1748763011140169729",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 52,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088657840626159736",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lovelyshuimao 笑死了。我觉得认知能判定高低很荒谬啊，它都不一定有Ordered Ring的结构。怎么算高低？你得弄个可微的连续空间吧（？）第二就是，你得验证这些的绝对相关性，有没有supremum什么的？否则如果没有证明全是bullshit，连false positive都没有，因为根本被态射进的都不一定是个bool空间。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "🐱神仙水水猫｜星铃｜Lumia\n👩🏻‍💻INTJ ♀14 \n🙋🏻‍♀️提問box——————↓\n✍🏻想成為哲學🏠",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGrRuS"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "is_identity_verified": true,
+        "location": "距离你 4.3km",
+        "most_recent_tweet_id": "2088941544720277581",
+        "name": "lovely水",
+        "pinned_tweet_id": "2075897725733024056",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1748763011140169729/1775028370",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045354329792749568/b7JXuLvu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5787,
+          "following_count": 1000,
+          "like_count": 275,
+          "listed_count": 25,
+          "media_count": 3548,
+          "tweet_count": 16176
+        },
+        "url": "https://t.co/EZhyEGrRuS",
+        "username": "lovelyshuimao",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-06-22T02:43:37.000Z",
+        "description": "我爱在天钥桥路1号吃徐家汇餐厅麦当劳\n｜萍水相逢有缘人@jazzvoid7｜猫@maoxianact｜會講國語🇹🇼普通话🇨🇳上海吴语 🇨🇳 廣東話🇭🇰 and English 🇬🇧｜自我认同是GHC的STG机|我才不告诉你我现在忙什么",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 27,
+                "username": "jazzvoid7"
+              },
+              {
+                "end": 50,
+                "start": 39,
+                "username": "maoxianact"
+              }
+            ]
+          }
+        },
+        "id": "1804344378338480128",
+        "is_identity_verified": false,
+        "location": "Coventry, England",
+        "most_recent_tweet_id": "2088919237175951831",
+        "name": "我爱食麦当劳",
+        "pinned_tweet_id": "2057754457090502754",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003451815254200320/byqlIGkp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 444,
+          "following_count": 654,
+          "like_count": 10695,
+          "listed_count": 1,
+          "media_count": 221,
+          "tweet_count": 6719
+        },
+        "url": "",
+        "username": "Acmduemsks",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

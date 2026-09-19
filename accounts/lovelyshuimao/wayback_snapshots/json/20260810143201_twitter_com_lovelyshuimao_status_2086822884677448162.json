@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1748763011140169729",
+    "conversation_id": "2086822884677448162",
+    "created_at": "2026-08-10T14:32:01.000Z",
+    "display_text_range": [
+      0,
+      47
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T15:32:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2086822884677448162"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/lovelyshuimao/…",
+          "end": 71,
+          "expanded_url": "https://twitter.com/lovelyshuimao/status/2084904355967418610",
+          "start": 48,
+          "url": "https://t.co/BNPTgtCVVI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086822884677448162",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084904355967418610",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "突然想到一个竞速\n在打救护车前点一份披萨到医院\n看是救护车先上门把我送到医院，还是披萨先到\n（ https://t.co/BNPTgtCVVI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2084904302804631552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO8RasdagAACiNa.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "2086822884677448162",
+        "created_at": "2026-08-10T14:32:01.000Z",
+        "display_text_range": [
+          0,
+          47
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T15:32:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086822884677448162"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lovelyshuimao/…",
+              "end": 71,
+              "expanded_url": "https://twitter.com/lovelyshuimao/status/2084904355967418610",
+              "start": 48,
+              "url": "https://t.co/BNPTgtCVVI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086822884677448162",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084904355967418610",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "突然想到一个竞速\n在打救护车前点一份披萨到医院\n看是救护车先上门把我送到医院，还是披萨先到\n（ https://t.co/BNPTgtCVVI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084904302804631552"
+          ]
+        },
+        "author_id": "1748763011140169729",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2084904355967418610",
+        "created_at": "2026-08-05T07:28:28.000Z",
+        "display_text_range": [
+          0,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-05T08:28:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084904355967418610"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Vl7Zjqlp5n",
+              "end": 40,
+              "expanded_url": "https://x.com/lovelyshuimao/status/2084904355967418610/photo/1",
+              "media_key": "3_2084904302804631552",
+              "start": 17,
+              "url": "https://t.co/Vl7Zjqlp5n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084904355967418610",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2084904302804631552"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1695,
+          "like_count": 33,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "早就想实现抢救室吃披萨🍕\n达成！ https://t.co/Vl7Zjqlp5n"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "🐱神仙水水猫｜星铃｜Lumia\n👩🏻‍💻INTJ ♀14 \n🙋🏻‍♀️提問box——————↓\n✍🏻想成為哲學🏠",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGrRuS"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "is_identity_verified": true,
+        "location": "距离你 4.3km",
+        "most_recent_tweet_id": "2086822884677448162",
+        "name": "lovely水",
+        "pinned_tweet_id": "2075897725733024056",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1748763011140169729/1775028370",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045354329792749568/b7JXuLvu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5772,
+          "following_count": 1002,
+          "like_count": 275,
+          "listed_count": 23,
+          "media_count": 3543,
+          "tweet_count": 16108
+        },
+        "url": "https://t.co/EZhyEGrRuS",
+        "username": "lovelyshuimao",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

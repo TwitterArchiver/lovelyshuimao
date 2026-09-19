@@ -1,0 +1,431 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2100583435077386240",
+        "3_2100583435110928384"
+      ]
+    },
+    "author_id": "1748763011140169729",
+    "conversation_id": "2100583543202288019",
+    "created_at": "2026-09-17T13:51:58.000Z",
+    "display_text_range": [
+      0,
+      138
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-17T14:51:35.000Z",
+      "edits_remaining": 4,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2100583448717176947",
+      "2100583543202288019"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/umvAg07yjq",
+          "end": 162,
+          "expanded_url": "https://x.com/lovelyshuimao/status/2100583543202288019/photo/1",
+          "media_key": "3_2100583435077386240",
+          "start": 139,
+          "url": "https://t.co/umvAg07yjq"
+        },
+        {
+          "display_url": "pic.x.com/umvAg07yjq",
+          "end": 162,
+          "expanded_url": "https://x.com/lovelyshuimao/status/2100583543202288019/photo/1",
+          "media_key": "3_2100583435110928384",
+          "start": 139,
+          "url": "https://t.co/umvAg07yjq"
+        },
+        {
+          "display_url": "x.com/zza2ku/status/…",
+          "end": 186,
+          "expanded_url": "https://twitter.com/zza2ku/status/2099834343065571585",
+          "start": 163,
+          "url": "https://t.co/91vmLKoAE4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100583543202288019",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2100583435077386240"
+      },
+      {
+        "media_key": "3_2100583435110928384"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099834343065571585",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "必须要说明的是这并不是2016年发生的事情\n当事人当时也没有做性别肯定手术\n并且狱中他也被剃为寸头和暂停HRT，并不是留长发很好看所以被强奸\n事情发生在1990年代，2016年是这个人告诉媒体的时候，而且因为她没有做性别肯定手术所以被安排进了男监\n现在的澳洲应该没这么垃吧（？ https://t.co/umvAg07yjq https://t.co/91vmLKoAE4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1787,
+        "media_key": "3_2100583435077386240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSbFgTzbgAA68M3.jpg",
+        "width": 1320
+      },
+      {
+        "height": 1352,
+        "media_key": "3_2100583435110928384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSbFgT7bUAA44Rg.jpg",
+        "width": 1320
+      },
+      {
+        "height": 1227,
+        "media_key": "3_2099834302003556352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSQcLBoaMAAKco8.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100583435077386240",
+            "3_2100583435110928384"
+          ]
+        },
+        "author_id": "1748763011140169729",
+        "conversation_id": "2100583448717176947",
+        "created_at": "2026-09-17T13:51:35.000Z",
+        "display_text_range": [
+          0,
+          136
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T14:51:35.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100583448717176947",
+          "2100583543202288019"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BzQzc2k3KO",
+              "end": 160,
+              "expanded_url": "https://x.com/lovelyshuimao/status/2100583448717176947/photo/1",
+              "media_key": "3_2100583435077386240",
+              "start": 137,
+              "url": "https://t.co/BzQzc2k3KO"
+            },
+            {
+              "display_url": "pic.x.com/BzQzc2k3KO",
+              "end": 160,
+              "expanded_url": "https://x.com/lovelyshuimao/status/2100583448717176947/photo/1",
+              "media_key": "3_2100583435110928384",
+              "start": 137,
+              "url": "https://t.co/BzQzc2k3KO"
+            },
+            {
+              "display_url": "x.com/zza2ku/status/…",
+              "end": 184,
+              "expanded_url": "https://twitter.com/zza2ku/status/2099834343065571585",
+              "start": 161,
+              "url": "https://t.co/91vmLKoAE4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100583448717176947",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2100583435077386240"
+          },
+          {
+            "media_key": "3_2100583435110928384"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099834343065571585",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "必须要说明的是这并不是2016年发生的事情\n当事人当时也没有做性别肯定手术\n并且狱中他也被剃为寸头和暂停HRT没有留长发很好看所以被强奸\n事情发生在1990年代，2016年是这个人告诉媒体的时候，而且因为她没有做性别肯定手术所以被安排进了男监\n现在的澳洲应该没这么垃吧（？ https://t.co/BzQzc2k3KO https://t.co/91vmLKoAE4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100583435077386240",
+            "3_2100583435110928384"
+          ]
+        },
+        "author_id": "1748763011140169729",
+        "conversation_id": "2100583543202288019",
+        "created_at": "2026-09-17T13:51:58.000Z",
+        "display_text_range": [
+          0,
+          138
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T14:51:35.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100583448717176947",
+          "2100583543202288019"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/umvAg07yjq",
+              "end": 162,
+              "expanded_url": "https://x.com/lovelyshuimao/status/2100583543202288019/photo/1",
+              "media_key": "3_2100583435077386240",
+              "start": 139,
+              "url": "https://t.co/umvAg07yjq"
+            },
+            {
+              "display_url": "pic.x.com/umvAg07yjq",
+              "end": 162,
+              "expanded_url": "https://x.com/lovelyshuimao/status/2100583543202288019/photo/1",
+              "media_key": "3_2100583435110928384",
+              "start": 139,
+              "url": "https://t.co/umvAg07yjq"
+            },
+            {
+              "display_url": "x.com/zza2ku/status/…",
+              "end": 186,
+              "expanded_url": "https://twitter.com/zza2ku/status/2099834343065571585",
+              "start": 163,
+              "url": "https://t.co/91vmLKoAE4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100583543202288019",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2100583435077386240"
+          },
+          {
+            "media_key": "3_2100583435110928384"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099834343065571585",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "必须要说明的是这并不是2016年发生的事情\n当事人当时也没有做性别肯定手术\n并且狱中他也被剃为寸头和暂停HRT，并不是留长发很好看所以被强奸\n事情发生在1990年代，2016年是这个人告诉媒体的时候，而且因为她没有做性别肯定手术所以被安排进了男监\n现在的澳洲应该没这么垃吧（？ https://t.co/umvAg07yjq https://t.co/91vmLKoAE4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099834302003556352"
+          ]
+        },
+        "author_id": "2092971438521077760",
+        "conversation_id": "2099834343065571585",
+        "created_at": "2026-09-15T12:14:55.000Z",
+        "display_text_range": [
+          0,
+          102
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T13:14:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099834343065571585"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "A transgender woman has revealed that she was raped more than 2,000 times while serving a prison sentence for stealing car.",
+              "display_url": "telegraph.co.uk/news/2016/04/1…",
+              "end": 102,
+              "expanded_url": "https://www.telegraph.co.uk/news/2016/04/18/transgender-woman-raped-more-than-2000-times-in-mens-prison/",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/2099834344248393728/HWvU-gir?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2099834344248393728/HWvU-gir?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 79,
+              "status": 200,
+              "title": "Transgender woman 'raped more than 2,000 times' in men's prison",
+              "unwound_url": "https://www.telegraph.co.uk/news/2016/04/18/transgender-woman-raped-more-than-2000-times-in-mens-prison/",
+              "url": "https://t.co/YOqdYqBJxm"
+            },
+            {
+              "display_url": "pic.x.com/Nc43ZIeksF",
+              "end": 126,
+              "expanded_url": "https://x.com/zza2ku/status/2099834343065571585/photo/1",
+              "media_key": "3_2099834302003556352",
+              "start": 103,
+              "url": "https://t.co/Nc43ZIeksF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099834343065571585",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2099834302003556352"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 140984,
+          "like_count": 142,
+          "quote_count": 5,
+          "reply_count": 11,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "2016年，澳州跨性别女性“玛丽（化名）”透露，她在90年代因偷车在男子监狱服刑四年期间遭到强奸超过2000次\n她被关押在澳大利亚男子监狱后，每天都遭到殴打\nhttps://t.co/YOqdYqBJxm https://t.co/Nc43ZIeksF"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "🐱神仙水水猫\n👩🏻‍💻INTJ ♀14 \n🙋🏻‍♀️提問box——————↓\n✍🏻想成為作家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGspkq"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "is_identity_verified": true,
+        "location": "距离你 4.3km",
+        "most_recent_tweet_id": "2100583543202288019",
+        "name": "lovely水",
+        "pinned_tweet_id": "2100170038875722001",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1748763011140169729/1775028370",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045354329792749568/b7JXuLvu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5847,
+          "following_count": 1001,
+          "like_count": 272,
+          "listed_count": 25,
+          "media_count": 3680,
+          "tweet_count": 16758
+        },
+        "url": "https://t.co/EZhyEGspkq",
+        "username": "lovelyshuimao",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-27T13:46:37.000Z",
+        "description": "民主社会主义",
+        "id": "2092971438521077760",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100544288329453928",
+        "name": "拆腻丝🏳️‍⚧️",
+        "pinned_tweet_id": "2092974029145886789",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2092971438521077760/1787838823",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094769799742267392/T7q_fo6d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 227,
+          "following_count": 111,
+          "like_count": 118,
+          "listed_count": 1,
+          "media_count": 285,
+          "tweet_count": 603
+        },
+        "url": "",
+        "username": "zza2ku",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

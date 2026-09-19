@@ -1,0 +1,366 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1748763011140169729",
+    "conversation_id": "2100228855147766009",
+    "created_at": "2026-09-17T10:22:01.000Z",
+    "display_text_range": [
+      11,
+      35
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-17T11:22:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100530706569191773"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "4313176880",
+          "start": 0,
+          "username": "fake_fuji"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100530706569191773",
+    "in_reply_to_user_id": "4313176880",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100228855147766009",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fake_fuji 别鸟他们了\nちゅうごくじんは みんな しなぶただ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1466,
+        "media_key": "3_2100225785252749312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSWAOWYbIAAiOo3.jpg",
+        "width": 1186
+      },
+      {
+        "height": 1724,
+        "media_key": "3_2100227419814912000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSWBtfmaYAAN8E4.jpg",
+        "width": 1170
+      },
+      {
+        "height": 1032,
+        "media_key": "3_2100228841285509120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSWDAO_aYAAdBOX.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1304,
+        "media_key": "3_2100228841847586816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSWDARFbAAAIcKt.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "2100228855147766009",
+        "created_at": "2026-09-17T10:22:01.000Z",
+        "display_text_range": [
+          11,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T11:22:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100530706569191773"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "4313176880",
+              "start": 0,
+              "username": "fake_fuji"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100530706569191773",
+        "in_reply_to_user_id": "4313176880",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100228855147766009",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fake_fuji 别鸟他们了\nちゅうごくじんは みんな しなぶただ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100225785252749312",
+            "3_2100227419814912000",
+            "3_2100228841285509120",
+            "3_2100228841847586816"
+          ]
+        },
+        "author_id": "4313176880",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2100228855147766009",
+        "created_at": "2026-09-16T14:22:34.000Z",
+        "display_text_range": [
+          0,
+          144
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T15:22:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100228855147766009"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RSWSVikjVU",
+              "end": 168,
+              "expanded_url": "https://x.com/fake_fuji/status/2100228855147766009/photo/1",
+              "media_key": "3_2100225785252749312",
+              "start": 145,
+              "url": "https://t.co/RSWSVikjVU"
+            },
+            {
+              "display_url": "pic.x.com/RSWSVikjVU",
+              "end": 168,
+              "expanded_url": "https://x.com/fake_fuji/status/2100228855147766009/photo/1",
+              "media_key": "3_2100227419814912000",
+              "start": 145,
+              "url": "https://t.co/RSWSVikjVU"
+            },
+            {
+              "display_url": "pic.x.com/RSWSVikjVU",
+              "end": 168,
+              "expanded_url": "https://x.com/fake_fuji/status/2100228855147766009/photo/1",
+              "media_key": "3_2100228841285509120",
+              "start": 145,
+              "url": "https://t.co/RSWSVikjVU"
+            },
+            {
+              "display_url": "pic.x.com/RSWSVikjVU",
+              "end": 168,
+              "expanded_url": "https://x.com/fake_fuji/status/2100228855147766009/photo/1",
+              "media_key": "3_2100228841847586816",
+              "start": 145,
+              "url": "https://t.co/RSWSVikjVU"
+            },
+            {
+              "display_url": "x.com/AnnaYanamimi/s…",
+              "end": 192,
+              "expanded_url": "https://twitter.com/AnnaYanamimi/status/2100216962886582338",
+              "start": 169,
+              "url": "https://t.co/cr5tGzJbO5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100228855147766009",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2100225785252749312"
+          },
+          {
+            "media_key": "3_2100227419814912000"
+          },
+          {
+            "media_key": "3_2100228841285509120"
+          },
+          {
+            "media_key": "3_2100228841847586816"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 8538,
+          "like_count": 104,
+          "quote_count": 2,
+          "reply_count": 18,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100216962886582338",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我要笑死了，我憎恨同胞？\n我憎恨同胞会给戒网瘾学校受害者发声？\n我憎恨同胞会主动申请加入牧鸢的团队？\n我憎恨同胞会给香港捐款？\n我憎恨同胞会给外卖员三倍配送费的打赏？\n\n我不仅爱自己的同胞，我还爱着全世界\n\n没错，这世界很糟，因此我要大胆揭露那些黑暗，你这种只会打嘴炮的家伙，别tm再烦我 https://t.co/RSWSVikjVU https://t.co/cr5tGzJbO5"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "🐱神仙水水猫\n👩🏻‍💻INTJ ♀14 \n🙋🏻‍♀️提問box——————↓\n✍🏻想成為作家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGspkq"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "is_identity_verified": true,
+        "location": "距离你 4.3km",
+        "most_recent_tweet_id": "2100530706569191773",
+        "name": "lovely水",
+        "pinned_tweet_id": "2100170038875722001",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1748763011140169729/1775028370",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045354329792749568/b7JXuLvu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5845,
+          "following_count": 1000,
+          "like_count": 272,
+          "listed_count": 25,
+          "media_count": 3675,
+          "tweet_count": 16740
+        },
+        "url": "https://t.co/EZhyEGspkq",
+        "username": "lovelyshuimao",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2015-11-21T15:14:23.000Z",
+        "description": "| 星穹阑珊，草野风动，斯人舞萤，其名为藤｜叫我小藤就行｜My beloved @nationalpurevf4｜Luv NASA｜love the world｜正在学习的语言：🇯🇵🇬🇧🇩🇪｜外语账号：@hoshino_fuji | 大学独居｜只想要你听到我 |",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 40,
+                "username": "nationalpurevf4"
+              },
+              {
+                "end": 114,
+                "start": 101,
+                "username": "hoshino_fuji"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/97080106",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/97080106",
+                "start": 0,
+                "url": "https://t.co/46yRJHIEfb"
+              }
+            ]
+          }
+        },
+        "id": "4313176880",
+        "is_identity_verified": false,
+        "location": "真理子怀里",
+        "most_recent_tweet_id": "2100519036002132434",
+        "name": "星野ふじ🍔VTber",
+        "pinned_tweet_id": "2092544341155979326",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/4313176880/1787735483",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092628974954504192/4swLS2sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1872,
+          "following_count": 608,
+          "like_count": 1764,
+          "listed_count": 3,
+          "media_count": 218,
+          "tweet_count": 784
+        },
+        "url": "https://t.co/46yRJHIEfb",
+        "username": "fake_fuji",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1748763011140169729",
+    "conversation_id": "2091877793898635500",
+    "created_at": "2026-08-24T13:18:25.000Z",
+    "display_text_range": [
+      0,
+      8
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-24T14:18:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2091877793898635500"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hasaki_sama/st…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/hasaki_sama/status/2090752316286923071",
+          "start": 9,
+          "url": "https://t.co/C1TFSO3zPA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091877793898635500",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090752316286923071",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "为什么不来面我😭 https://t.co/C1TFSO3zPA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1046,
+        "media_key": "3_2090752309043281920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQPYJdXaQAAAeHp.jpg",
+        "width": 1206
+      },
+      {
+        "height": 949,
+        "media_key": "3_2090752309068505088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQPYJddbIAAykeB.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "2091877793898635500",
+        "created_at": "2026-08-24T13:18:25.000Z",
+        "display_text_range": [
+          0,
+          8
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T14:18:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091877793898635500"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hasaki_sama/st…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/hasaki_sama/status/2090752316286923071",
+              "start": 9,
+              "url": "https://t.co/C1TFSO3zPA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091877793898635500",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090752316286923071",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "为什么不来面我😭 https://t.co/C1TFSO3zPA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090752309043281920",
+            "3_2090752309068505088"
+          ]
+        },
+        "author_id": "2049152504542449664",
+        "conversation_id": "2090752316286923071",
+        "created_at": "2026-08-21T10:46:11.000Z",
+        "display_text_range": [
+          0,
+          71
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T11:46:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090752316286923071"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PQS2RmhuBH",
+              "end": 95,
+              "expanded_url": "https://x.com/hasaki_sama/status/2090752316286923071/photo/1",
+              "media_key": "3_2090752309043281920",
+              "start": 72,
+              "url": "https://t.co/PQS2RmhuBH"
+            },
+            {
+              "display_url": "pic.x.com/PQS2RmhuBH",
+              "end": 95,
+              "expanded_url": "https://x.com/hasaki_sama/status/2090752316286923071/photo/1",
+              "media_key": "3_2090752309068505088",
+              "start": 72,
+              "url": "https://t.co/PQS2RmhuBH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090752316286923071",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2090752309043281920"
+          },
+          {
+            "media_key": "3_2090752309068505088"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2205,
+          "like_count": 47,
+          "quote_count": 2,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Neko酱过几天就要去上海玩了喵！但是没有爱丽丝，也没有幻乐团，更没有ZUN，希望到时候不要被当成弹幕打掉喵呜呜  ─=≡Σ((( つ＞＜)つ https://t.co/PQS2RmhuBH"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "🐱神仙水水猫\n👩🏻‍💻INTJ ♀14 \n🙋🏻‍♀️提問box——————↓\n✍🏻想寫作",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGrRuS"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "is_identity_verified": true,
+        "location": "距离你 4.3km",
+        "most_recent_tweet_id": "2091877793898635500",
+        "name": "lovely水",
+        "pinned_tweet_id": "2090619236196716875",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1748763011140169729/1775028370",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045354329792749568/b7JXuLvu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5843,
+          "following_count": 995,
+          "like_count": 275,
+          "listed_count": 25,
+          "media_count": 3612,
+          "tweet_count": 16472
+        },
+        "url": "https://t.co/EZhyEGrRuS",
+        "username": "lovelyshuimao",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-28T15:48:05.000Z",
+        "description": "An graduated junior high student from China！＞𐋣＜\n喜欢 信息技术/日本語/ACG/羽球🏸\nLGBTQ+🏳️‍🌈/友跨🍥/键政🆖\n目前正励志成一名合格的developer💻\n找咱聊天/联系➕https://t.co/tDFZ3DgEry 💬",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "telegram.me/hasaki_0612",
+                "end": 140,
+                "expanded_url": "http://telegram.me/hasaki_0612",
+                "start": 117,
+                "url": "https://t.co/tDFZ3DgEry"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/hasaki_0612",
+                "end": 23,
+                "expanded_url": "https://ngl.link/hasaki_0612",
+                "start": 0,
+                "url": "https://t.co/8Ei14tUkCK"
+              }
+            ]
+          }
+        },
+        "id": "2049152504542449664",
+        "is_identity_verified": false,
+        "location": "Sapporo City Higashi Ward",
+        "most_recent_tweet_id": "2091836867293716613",
+        "name": "Neko 🐾",
+        "pinned_tweet_id": "2088172213262528904",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2049152504542449664/1783530736",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075040561237753856/aiPH-t8W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1138,
+          "following_count": 1021,
+          "like_count": 4577,
+          "listed_count": 2,
+          "media_count": 393,
+          "tweet_count": 2680
+        },
+        "url": "https://t.co/8Ei14tUkCK",
+        "username": "hasaki_sama",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

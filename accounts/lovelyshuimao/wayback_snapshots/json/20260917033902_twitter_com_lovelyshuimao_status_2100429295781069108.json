@@ -1,0 +1,327 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1748763011140169729",
+    "conversation_id": "2100149447896498609",
+    "created_at": "2026-09-17T03:39:02.000Z",
+    "display_text_range": [
+      12,
+      46
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-17T04:39:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100429295781069108"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2049201699638931456",
+          "start": 0,
+          "username": "YBang90226"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/lovelyshuimao/…",
+          "end": 46,
+          "expanded_url": "https://x.com/lovelyshuimao/status/2093529528530563088?s=46",
+          "start": 23,
+          "url": "https://t.co/VS0s47sn5x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100429295781069108",
+    "in_reply_to_user_id": "2049201699638931456",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093529528530563088",
+        "type": "quoted"
+      },
+      {
+        "id": "2100348004964126901",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YBang90226 沪上阿姨确实也可以（\nhttps://t.co/VS0s47sn5x"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1895,
+        "media_key": "3_2093529521672835072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ22AgoaUAAuq19.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "2100149447896498609",
+        "created_at": "2026-09-17T03:39:02.000Z",
+        "display_text_range": [
+          12,
+          46
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T04:39:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100429295781069108"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2049201699638931456",
+              "start": 0,
+              "username": "YBang90226"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/lovelyshuimao/…",
+              "end": 46,
+              "expanded_url": "https://x.com/lovelyshuimao/status/2093529528530563088?s=46",
+              "start": 23,
+              "url": "https://t.co/VS0s47sn5x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100429295781069108",
+        "in_reply_to_user_id": "2049201699638931456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093529528530563088",
+            "type": "quoted"
+          },
+          {
+            "id": "2100348004964126901",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YBang90226 沪上阿姨确实也可以（\nhttps://t.co/VS0s47sn5x"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2049201699638931456",
+        "conversation_id": "2100149447896498609",
+        "created_at": "2026-09-16T22:16:01.000Z",
+        "display_text_range": [
+          15,
+          44
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T23:16:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100348004964126901"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1748763011140169729",
+              "start": 0,
+              "username": "lovelyshuimao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100348004964126901",
+        "in_reply_to_user_id": "1748763011140169729",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1591,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100149447896498609",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lovelyshuimao 沪上阿姨也限女性啊咋也没见你狗叫呢😂😂😂😂不知道在犬吠什么"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093529521672835072"
+          ]
+        },
+        "author_id": "1748763011140169729",
+        "conversation_id": "2093529528530563088",
+        "created_at": "2026-08-29T02:41:50.000Z",
+        "display_text_range": [
+          0,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T03:41:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093529528530563088"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VW1m3cv1Wy",
+              "end": 41,
+              "expanded_url": "https://x.com/lovelyshuimao/status/2093529528530563088/photo/1",
+              "media_key": "3_2093529521672835072",
+              "start": 18,
+              "url": "https://t.co/VW1m3cv1Wy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093529528530563088",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2093529521672835072"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 4604,
+          "like_count": 82,
+          "quote_count": 1,
+          "reply_count": 56,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "沪上阿姨怎么有“女性友好”区别对待 https://t.co/VW1m3cv1Wy"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "🐱神仙水水猫\n👩🏻‍💻INTJ ♀14 \n🙋🏻‍♀️提問box——————↓\n✍🏻想成為作家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGspkq"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "is_identity_verified": true,
+        "location": "距离你 4.3km",
+        "most_recent_tweet_id": "2100429295781069108",
+        "name": "lovely水",
+        "pinned_tweet_id": "2100170038875722001",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1748763011140169729/1775028370",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045354329792749568/b7JXuLvu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5844,
+          "following_count": 1000,
+          "like_count": 272,
+          "listed_count": 25,
+          "media_count": 3670,
+          "tweet_count": 16715
+        },
+        "url": "https://t.co/EZhyEGspkq",
+        "username": "lovelyshuimao",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-28T18:59:06.000Z",
+        "description": "",
+        "id": "2049201699638931456",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100349835257733233",
+        "name": "王小美",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049286433622679553/jHSGzLAk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 48,
+          "like_count": 41,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 114
+        },
+        "url": "",
+        "username": "YBang90226",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

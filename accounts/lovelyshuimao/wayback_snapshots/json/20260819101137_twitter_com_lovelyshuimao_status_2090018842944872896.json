@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1748763011140169729",
+    "conversation_id": "2089710935141450112",
+    "created_at": "2026-08-19T10:11:37.000Z",
+    "display_text_range": [
+      9,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T11:11:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090018842944872896"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1882678524596867072",
+          "start": 0,
+          "username": "gdioiui"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090018842944872896",
+    "in_reply_to_user_id": "1882678524596867072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089710935141450112",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gdioiui 严美沙芬"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "2089710935141450112",
+        "created_at": "2026-08-19T10:11:37.000Z",
+        "display_text_range": [
+          9,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T11:11:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090018842944872896"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1882678524596867072",
+              "start": 0,
+              "username": "gdioiui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090018842944872896",
+        "in_reply_to_user_id": "1882678524596867072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089710935141450112",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gdioiui 严美沙芬"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882678524596867072",
+        "conversation_id": "2089710935141450112",
+        "created_at": "2026-08-18T13:48:06.000Z",
+        "display_text_range": [
+          0,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T14:48:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089710935141450112"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2089710935141450112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 674,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "明天去改名 叫严拴清考通好还是严酸金刚烷胺好呢？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "🐱神仙水水猫｜星铃｜Lumia\n👩🏻‍💻INTJ ♀14 \n🙋🏻‍♀️提問box——————↓\n✍🏻想寫作",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGrRuS"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "is_identity_verified": true,
+        "location": "距离你 4.3km",
+        "most_recent_tweet_id": "2090018842944872896",
+        "name": "lovely水",
+        "pinned_tweet_id": "2075897725733024056",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1748763011140169729/1775028370",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045354329792749568/b7JXuLvu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5817,
+          "following_count": 994,
+          "like_count": 275,
+          "listed_count": 24,
+          "media_count": 3570,
+          "tweet_count": 16307
+        },
+        "url": "https://t.co/EZhyEGrRuS",
+        "username": "lovelyshuimao",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "首次编译80.12.3\n\n来自异空间（原住民）\n纯血神人_三代遗传神经病_八年对抗防火长城\n_曾冰棍追随者_noodwiki_异常神经电受益者\n\n喜欢研究 喜欢计算机 网络\nhrt25.8.23 欢迎新同类互fo私信！\ncs2 wows \n各种账号 服务 卡 有售 \n僚舰@kurazawanaki",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 136,
+                "username": "kurazawanaki"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gdioiui",
+                "end": 23,
+                "expanded_url": "https://ngl.link/gdioiui",
+                "start": 0,
+                "url": "https://t.co/WSl3zvVGAf"
+              }
+            ]
+          }
+        },
+        "id": "1882678524596867072",
+        "is_identity_verified": true,
+        "location": "地下室to太平间",
+        "most_recent_tweet_id": "2089971204618948821",
+        "name": "​圣三一第一步枪 🍥☣️⚢",
+        "pinned_tweet_id": "2060157078468182435",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1882678524596867072/1762015699",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3102,
+          "following_count": 478,
+          "like_count": 5080,
+          "listed_count": 5,
+          "media_count": 1807,
+          "tweet_count": 8988
+        },
+        "url": "https://t.co/WSl3zvVGAf",
+        "username": "gdioiui",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

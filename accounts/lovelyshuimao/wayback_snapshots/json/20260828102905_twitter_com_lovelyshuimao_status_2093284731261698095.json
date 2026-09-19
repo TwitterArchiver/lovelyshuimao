@@ -1,0 +1,325 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1748763011140169729",
+    "conversation_id": "2093189603062923448",
+    "created_at": "2026-08-28T10:29:05.000Z",
+    "display_text_range": [
+      12,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-28T11:29:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093284731261698095"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1360522586317348865",
+          "start": 0,
+          "username": "nanami_mua"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093284731261698095",
+    "in_reply_to_user_id": "1360522586317348865",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093189603062923448",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nanami_mua 耻辱号好古早的称呼了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1712,
+        "media_key": "3_2093189600017809408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQyA2dyagAAQ61o.jpg",
+        "width": 1272
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "2093189603062923448",
+        "created_at": "2026-08-28T10:29:05.000Z",
+        "display_text_range": [
+          12,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T11:29:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093284731261698095"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1360522586317348865",
+              "start": 0,
+              "username": "nanami_mua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093284731261698095",
+        "in_reply_to_user_id": "1360522586317348865",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093189603062923448",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nanami_mua 耻辱号好古早的称呼了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093189600017809408"
+          ]
+        },
+        "author_id": "1360522586317348865",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2093189603062923448",
+        "created_at": "2026-08-28T04:11:05.000Z",
+        "display_text_range": [
+          0,
+          1
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T05:11:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093189603062923448"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IFTUegfYSy",
+              "end": 25,
+              "expanded_url": "https://x.com/nanami_mua/status/2093189603062923448/photo/1",
+              "media_key": "3_2093189600017809408",
+              "start": 2,
+              "url": "https://t.co/IFTUegfYSy"
+            },
+            {
+              "display_url": "x.com/AacerF59616/st…",
+              "end": 49,
+              "expanded_url": "https://twitter.com/AacerF59616/status/2092858679968350587",
+              "start": 26,
+              "url": "https://t.co/6XpmgGXYWf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093189603062923448",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2093189600017809408"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 812,
+          "like_count": 11,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092858679968350587",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "😳 https://t.co/IFTUegfYSy https://t.co/6XpmgGXYWf"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "🐱神仙水水猫\n👩🏻‍💻INTJ ♀14 \n🙋🏻‍♀️提問box——————↓\n✍🏻想寫作",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGrRuS"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "is_identity_verified": true,
+        "location": "距离你 4.3km",
+        "most_recent_tweet_id": "2093284731261698095",
+        "name": "lovely水",
+        "pinned_tweet_id": "2092334568057762260",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1748763011140169729/1775028370",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045354329792749568/b7JXuLvu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5852,
+          "following_count": 994,
+          "like_count": 274,
+          "listed_count": 25,
+          "media_count": 3634,
+          "tweet_count": 16563
+        },
+        "url": "https://t.co/EZhyEGrRuS",
+        "username": "lovelyshuimao",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-02-13T09:34:08.000Z",
+        "description": "MtX&Non-Binary/🍥25.1.11/半个家长党/100%健全/言论含有政治内容致歉/永远的好妹妹:@LCG_Akiball/愿她安息 @AnranbuSleep",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 55,
+                "username": "LCG_Akiball"
+              },
+              {
+                "end": 86,
+                "start": 73,
+                "username": "AnranbuSleep"
+              }
+            ]
+          }
+        },
+        "id": "1360522586317348865",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2093280249694040457",
+        "name": "Nanameow～",
+        "pinned_tweet_id": "2091704395511779603",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1360522586317348865/1764742642",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004949115835494400/OuSLocac_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1371,
+          "following_count": 510,
+          "like_count": 95021,
+          "listed_count": 10,
+          "media_count": 968,
+          "tweet_count": 12674
+        },
+        "url": "",
+        "username": "nanami_mua",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

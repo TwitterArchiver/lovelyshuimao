@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1748763011140169729",
+    "conversation_id": "2093205620946354273",
+    "created_at": "2026-08-28T12:09:53.000Z",
+    "display_text_range": [
+      18,
+      39
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-28T13:09:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093310095115571299"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2047433069116719104",
+          "start": 0,
+          "username": "N552AA8"
+        },
+        {
+          "end": 17,
+          "id": "1512976991976402949",
+          "start": 9,
+          "username": "bghtnya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093310095115571299",
+    "in_reply_to_user_id": "2047433069116719104",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093260990855172144",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@N552AA8 @bghtnya wc 我用了一下qq，qq的美颜有点不自然"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "2093205620946354273",
+        "created_at": "2026-08-28T12:09:53.000Z",
+        "display_text_range": [
+          18,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T13:09:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093310095115571299"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2047433069116719104",
+              "start": 0,
+              "username": "N552AA8"
+            },
+            {
+              "end": 17,
+              "id": "1512976991976402949",
+              "start": 9,
+              "username": "bghtnya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093310095115571299",
+        "in_reply_to_user_id": "2047433069116719104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093260990855172144",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@N552AA8 @bghtnya wc 我用了一下qq，qq的美颜有点不自然"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047433069116719104",
+        "conversation_id": "2093205620946354273",
+        "created_at": "2026-08-28T08:54:45.000Z",
+        "display_text_range": [
+          24,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T09:54:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093260990855172144"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1748763011140169729",
+              "start": 0,
+              "username": "lovelyshuimao"
+            },
+            {
+              "end": 23,
+              "id": "1512976991976402949",
+              "start": 15,
+              "username": "bghtnya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093260990855172144",
+        "in_reply_to_user_id": "1748763011140169729",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 72,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093258039508050207",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lovelyshuimao @bghtnya QQ自带的美颜"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "🐱神仙水水猫\n👩🏻‍💻INTJ ♀14 \n🙋🏻‍♀️提問box——————↓\n✍🏻想寫作",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGrRuS"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "is_identity_verified": true,
+        "location": "距离你 4.3km",
+        "most_recent_tweet_id": "2093310095115571299",
+        "name": "lovely水",
+        "pinned_tweet_id": "2092334568057762260",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1748763011140169729/1775028370",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045354329792749568/b7JXuLvu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5852,
+          "following_count": 994,
+          "like_count": 274,
+          "listed_count": 25,
+          "media_count": 3636,
+          "tweet_count": 16570
+        },
+        "url": "https://t.co/EZhyEGrRuS",
+        "username": "lovelyshuimao",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-23T21:51:07.000Z",
+        "description": "08/mtx（f？/ENTP-T/ASD/C-PTSD/ADHD/BPD/osdd-1a/重度焦虑/重度失眠/家长不稳定党/hrt：2024-8-25/ 小证：2025-11-14/坐标上海/oder/长在春风中，活在药效里。/上海市贴贴微信群群主/ 🚪25（同类免费，过门私信）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "n552aa.github.io",
+                "end": 23,
+                "expanded_url": "http://n552aa.github.io",
+                "start": 0,
+                "url": "https://t.co/ugd1wwbKjr"
+              }
+            ]
+          }
+        },
+        "id": "2047433069116719104",
+        "is_identity_verified": false,
+        "location": "宛平南路600号",
+        "most_recent_tweet_id": "2093260990855172144",
+        "name": "N552AA🍥🍜🍣🍕💊🍫（八代目）",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047433261555576832/tJJpmxLi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 688,
+          "following_count": 122,
+          "like_count": 262,
+          "listed_count": 5,
+          "media_count": 24,
+          "tweet_count": 173
+        },
+        "url": "https://t.co/ugd1wwbKjr",
+        "username": "N552AA8",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖🖥 大一计算机 /  🍰1989.06.04 /  🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🏳‍⚧🏳️‍🌈  无性别or跨女同 / 🦋 INFP-A  /   Ⓐ☭ 无政府共产主义   /   🪨登越无人见闻顶，重置五岳三山名",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mfuns.net/member/4328",
+                "end": 23,
+                "expanded_url": "https://mfuns.net/member/4328",
+                "start": 0,
+                "url": "https://t.co/o4J1P8mtmq"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "is_identity_verified": false,
+        "location": "https://github.com/bghtnya",
+        "most_recent_tweet_id": "2093301239874478164",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "2056035833543815506",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1512976991976402949/1688735742",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055187971880759296/_-CqoRg3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10774,
+          "following_count": 2327,
+          "like_count": 183143,
+          "listed_count": 20,
+          "media_count": 4130,
+          "tweet_count": 50165
+        },
+        "url": "https://t.co/o4J1P8mtmq",
+        "username": "bghtnya",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

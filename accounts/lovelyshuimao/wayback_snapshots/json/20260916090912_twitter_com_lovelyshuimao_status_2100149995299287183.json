@@ -1,0 +1,324 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1748763011140169729",
+    "conversation_id": "2100109169273823332",
+    "created_at": "2026-09-16T09:09:12.000Z",
+    "display_text_range": [
+      12,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-16T10:09:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100149995299287183"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1684788633797287936",
+          "start": 0,
+          "username": "Moningmeng"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100149995299287183",
+    "in_reply_to_user_id": "1684788633797287936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100109169273823332",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Moningmeng 10块，5块呢"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 887,
+        "media_key": "3_2100109130027663360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSUWIHzagAAKkm1.jpg",
+        "width": 1774
+      },
+      {
+        "height": 887,
+        "media_key": "3_2100109148058947584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSUWJK-aEAA3vMO.jpg",
+        "width": 1774
+      },
+      {
+        "height": 887,
+        "media_key": "3_2100109159001944064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSUWJzva8AA1maV.jpg",
+        "width": 1774
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "2100109169273823332",
+        "created_at": "2026-09-16T09:09:12.000Z",
+        "display_text_range": [
+          12,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T10:09:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100149995299287183"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1684788633797287936",
+              "start": 0,
+              "username": "Moningmeng"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100149995299287183",
+        "in_reply_to_user_id": "1684788633797287936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100109169273823332",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Moningmeng 10块，5块呢"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100109130027663360",
+            "3_2100109148058947584",
+            "3_2100109159001944064"
+          ]
+        },
+        "author_id": "1684788633797287936",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2100109169273823332",
+        "created_at": "2026-09-16T06:26:58.000Z",
+        "display_text_range": [
+          0,
+          9
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T07:26:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100109169273823332"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/G5Wah8U2KK",
+              "end": 33,
+              "expanded_url": "https://x.com/Moningmeng/status/2100109169273823332/photo/1",
+              "media_key": "3_2100109130027663360",
+              "start": 10,
+              "url": "https://t.co/G5Wah8U2KK"
+            },
+            {
+              "display_url": "pic.x.com/G5Wah8U2KK",
+              "end": 33,
+              "expanded_url": "https://x.com/Moningmeng/status/2100109169273823332/photo/1",
+              "media_key": "3_2100109148058947584",
+              "start": 10,
+              "url": "https://t.co/G5Wah8U2KK"
+            },
+            {
+              "display_url": "pic.x.com/G5Wah8U2KK",
+              "end": 33,
+              "expanded_url": "https://x.com/Moningmeng/status/2100109169273823332/photo/1",
+              "media_key": "3_2100109159001944064",
+              "start": 10,
+              "url": "https://t.co/G5Wah8U2KK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100109169273823332",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2100109130027663360"
+          },
+          {
+            "media_key": "3_2100109148058947584"
+          },
+          {
+            "media_key": "3_2100109159001944064"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1155,
+          "like_count": 40,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "发布新款药娘货币了 https://t.co/G5Wah8U2KK"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "🐱神仙水水猫\n👩🏻‍💻INTJ ♀14 \n🙋🏻‍♀️提問box——————↓\n✍🏻想成為作家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGspkq"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "is_identity_verified": true,
+        "location": "距离你 4.3km",
+        "most_recent_tweet_id": "2100149995299287183",
+        "name": "lovely水",
+        "pinned_tweet_id": "2092334568057762260",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1748763011140169729/1775028370",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045354329792749568/b7JXuLvu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5843,
+          "following_count": 999,
+          "like_count": 272,
+          "listed_count": 25,
+          "media_count": 3662,
+          "tweet_count": 16693
+        },
+        "url": "https://t.co/EZhyEGspkq",
+        "username": "lovelyshuimao",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "description": "互fo请私信 | 🏳️‍⚧️ 小证含糖 | 谷歌粉丝 | 闺蜜 @maoxianACT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 32,
+                "username": "maoxianACT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/moningmeng",
+                "end": 23,
+                "expanded_url": "https://ngl.link/moningmeng",
+                "start": 0,
+                "url": "https://t.co/tfhHbaQ0gW"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "is_identity_verified": false,
+        "location": "Taiwan",
+        "most_recent_tweet_id": "2100115248342880667",
+        "name": "沫柠🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684788633797287936/1789398871",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097588330619928576/Adihesip_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30409,
+          "following_count": 12160,
+          "like_count": 99587,
+          "listed_count": 104,
+          "media_count": 5881,
+          "tweet_count": 20848
+        },
+        "url": "https://t.co/tfhHbaQ0gW",
+        "username": "Moningmeng",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1748763011140169729",
+    "conversation_id": "2089746842993266822",
+    "created_at": "2026-08-19T13:01:32.000Z",
+    "display_text_range": [
+      11,
+      36
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T14:01:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090061602854928759"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1737447648536506368",
+          "start": 0,
+          "username": "_AngelDe_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090061602854928759",
+    "in_reply_to_user_id": "1737447648536506368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090060386209063211",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_AngelDe_ 我没提开证的事情她也没说\n单纯就因为其他就吵起来了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "2089746842993266822",
+        "created_at": "2026-08-19T13:01:32.000Z",
+        "display_text_range": [
+          11,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T14:01:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090061602854928759"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1737447648536506368",
+              "start": 0,
+              "username": "_AngelDe_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090061602854928759",
+        "in_reply_to_user_id": "1737447648536506368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090060386209063211",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_AngelDe_ 我没提开证的事情她也没说\n单纯就因为其他就吵起来了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1737447648536506368",
+        "conversation_id": "2089746842993266822",
+        "created_at": "2026-08-19T12:56:42.000Z",
+        "display_text_range": [
+          15,
+          57
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T13:56:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090060386209063211"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1748763011140169729",
+              "start": 0,
+              "username": "lovelyshuimao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090060386209063211",
+        "in_reply_to_user_id": "1748763011140169729",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089746842993266822",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lovelyshuimao 这个…确实得看医院。有的第一次直接带个药盒过去医生就直接开了，有的就算有诊断书都拒开"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "🐱神仙水水猫｜星铃｜Lumia\n👩🏻‍💻INTJ ♀14 \n🙋🏻‍♀️提問box——————↓\n✍🏻想寫作",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGrRuS"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "is_identity_verified": true,
+        "location": "距离你 4.3km",
+        "most_recent_tweet_id": "2090061602854928759",
+        "name": "lovely水",
+        "pinned_tweet_id": "2075897725733024056",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1748763011140169729/1775028370",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045354329792749568/b7JXuLvu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5819,
+          "following_count": 996,
+          "like_count": 275,
+          "listed_count": 24,
+          "media_count": 3569,
+          "tweet_count": 16307
+        },
+        "url": "https://t.co/EZhyEGrRuS",
+        "username": "lovelyshuimao",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-12-20T12:25:36.000Z",
+        "description": "INTP-T",
+        "id": "1737447648536506368",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090060386209063211",
+        "name": "AngelDeus",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832578462164643840/ELvt_My1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 133,
+          "like_count": 4483,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 466
+        },
+        "url": "",
+        "username": "_AngelDe_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

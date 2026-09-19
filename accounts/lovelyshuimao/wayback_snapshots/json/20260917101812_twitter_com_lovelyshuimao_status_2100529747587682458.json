@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1748763011140169729",
+    "conversation_id": "2100441395404374426",
+    "created_at": "2026-09-17T10:18:12.000Z",
+    "display_text_range": [
+      15,
+      44
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-17T11:18:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100529747587682458"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1236685274907906049",
+          "start": 0,
+          "username": "jiafeimao3591"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100529747587682458",
+    "in_reply_to_user_id": "1236685274907906049",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100441395404374426",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiafeimao3591 好像是这样\n但是星巴克现在不是外企了\n以后都会变成阴暗尸体"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "2100441395404374426",
+        "created_at": "2026-09-17T10:18:12.000Z",
+        "display_text_range": [
+          15,
+          44
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T11:18:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100529747587682458"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1236685274907906049",
+              "start": 0,
+              "username": "jiafeimao3591"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100529747587682458",
+        "in_reply_to_user_id": "1236685274907906049",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100441395404374426",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiafeimao3591 好像是这样\n但是星巴克现在不是外企了\n以后都会变成阴暗尸体"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236685274907906049",
+        "conversation_id": "2100441395404374426",
+        "created_at": "2026-09-17T04:27:07.000Z",
+        "display_text_range": [
+          0,
+          127
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T05:27:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100441395404374426"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2100441395404374426",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 604,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天在万象城星巴克遇到一个巨可爱的小男生🥰🥰帮我点单的时候说话就超温柔的，临走甜甜的跟我说姐姐拜拜，真的好可爱啊。我还不是这家店的常客，第一次见到他。\n\n以我喝遍全世界星巴克的经验，基本每家店都有一两个长得巨好看一看就是可爱0的男店员，真的是这样的喵🥰🥰"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "🐱神仙水水猫\n👩🏻‍💻INTJ ♀14 \n🙋🏻‍♀️提問box——————↓\n✍🏻想成為作家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGspkq"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "is_identity_verified": true,
+        "location": "距离你 4.3km",
+        "most_recent_tweet_id": "2100529747587682458",
+        "name": "lovely水",
+        "pinned_tweet_id": "2100170038875722001",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1748763011140169729/1775028370",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045354329792749568/b7JXuLvu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5845,
+          "following_count": 1000,
+          "like_count": 272,
+          "listed_count": 25,
+          "media_count": 3675,
+          "tweet_count": 16739
+        },
+        "url": "https://t.co/EZhyEGspkq",
+        "username": "lovelyshuimao",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-03-08T16:09:47.000Z",
+        "description": "🏳️‍🌈mtf/药娘/跨性别女🏳️‍⚧️/transles/只喜欢同类，男性勿扰/同类可面基/无证hrt中/荷兰生活6年，现居长春/曾经的化竞党/吉林省省一/JLU化学本科/语言爱好者/法语学习ing/旅游，音乐/已打卡30+国家/声乐学习3年+/美剧爱好者/精神状态不稳定，疯批一个",
+        "id": "1236685274907906049",
+        "is_identity_verified": false,
+        "location": "The Netherlands",
+        "most_recent_tweet_id": "2100529011252457516",
+        "name": "🏳️‍⚧️坏猪宝宝🐷🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1236685274907906049/1787525732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091658982029160448/38I_e0Vq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1212,
+          "following_count": 736,
+          "like_count": 2599,
+          "listed_count": 5,
+          "media_count": 206,
+          "tweet_count": 3162
+        },
+        "url": "",
+        "username": "jiafeimao3591",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,494 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1748763011140169729",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      }
+    ],
+    "conversation_id": "2093346699515461715",
+    "created_at": "2026-08-28T14:35:20.000Z",
+    "display_text_range": [
+      0,
+      29
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-28T15:35:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2093346699515461715"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 5,
+          "id": "1720665183188922368",
+          "start": 0,
+          "username": "grok"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/darlingstrawbi…",
+          "end": 53,
+          "expanded_url": "https://twitter.com/darlingstrawbie/status/2091284500944671060",
+          "start": 30,
+          "url": "https://t.co/DS8iOGqdnJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093346699515461715",
+    "in_reply_to_user_id": "1720665183188922368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091284500944671060",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@grok 创建一个从我敌人的视角描述我的账户的图像，中文 https://t.co/DS8iOGqdnJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1712,
+        "media_key": "3_2091284495697584128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQW8KzJWIAABT6z.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2093346699515461715",
+        "created_at": "2026-08-28T14:35:20.000Z",
+        "display_text_range": [
+          0,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T15:35:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093346699515461715"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 5,
+              "id": "1720665183188922368",
+              "start": 0,
+              "username": "grok"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/darlingstrawbi…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/darlingstrawbie/status/2091284500944671060",
+              "start": 30,
+              "url": "https://t.co/DS8iOGqdnJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093346699515461715",
+        "in_reply_to_user_id": "1720665183188922368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091284500944671060",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@grok 创建一个从我敌人的视角描述我的账户的图像，中文 https://t.co/DS8iOGqdnJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091284495697584128"
+          ]
+        },
+        "author_id": "1328503342428020736",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2091284500944671060",
+        "created_at": "2026-08-22T22:00:53.000Z",
+        "display_text_range": [
+          0,
+          84
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T23:00:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091284500944671060"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/G7maNGTTle",
+              "end": 108,
+              "expanded_url": "https://x.com/darlingstrawbie/status/2091284500944671060/photo/1",
+              "media_key": "3_2091284495697584128",
+              "start": 85,
+              "url": "https://t.co/G7maNGTTle"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091284500944671060",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2091284495697584128"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 182,
+          "impression_count": 222375,
+          "like_count": 1704,
+          "quote_count": 94,
+          "reply_count": 119,
+          "retweet_count": 79
+        },
+        "reply_settings": "everyone",
+        "text": "“grok, create an image that describes my account from the perspective of my enemies” https://t.co/G7maNGTTle"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "🐱神仙水水猫\n👩🏻‍💻INTJ ♀14 \n🙋🏻‍♀️提問box——————↓\n✍🏻想寫作",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGrRuS"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "is_identity_verified": true,
+        "location": "距离你 4.3km",
+        "most_recent_tweet_id": "2093346699515461715",
+        "name": "lovely水",
+        "pinned_tweet_id": "2092334568057762260",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1748763011140169729/1775028370",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045354329792749568/b7JXuLvu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5851,
+          "following_count": 994,
+          "like_count": 274,
+          "listed_count": 25,
+          "media_count": 3638,
+          "tweet_count": 16577
+        },
+        "url": "https://t.co/EZhyEGrRuS",
+        "username": "lovelyshuimao",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/2074224934159876096/aelorWHq_bigger.jpg",
+          "description": "SpaceXAI",
+          "url": "https://twitter.com/SpaceXAI",
+          "user_id": [
+            "1661523610111193088"
+          ]
+        },
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 5,
+                "start": 0,
+                "username": "grok"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSjjG9"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2093346715990467056",
+        "name": "Grok",
+        "pinned_tweet_id": "2087225707504214130",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1720665183188922368/1778202520",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057885623374290944/lmj0pawP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9012058,
+          "following_count": 5,
+          "like_count": 135,
+          "listed_count": 7464,
+          "media_count": 9313390,
+          "tweet_count": 137780675
+        },
+        "url": "https://t.co/fqNKQSjjG9",
+        "username": "grok",
+        "verified": true,
+        "verified_type": "business"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-11-17T01:01:06.000Z",
+        "description": "୨୧꒰ Jesus lover ♱ ꒱୨୧・ᗢ ˖⁺ daughter of the King makes me a princess! ♡ youtube & twitch partner ♡ Jeremiah 29:11 ♡ #strawbillust ♡ @rev_says_desu ♡",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 128,
+                "start": 115,
+                "tag": "strawbillust"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 145,
+                "start": 131,
+                "username": "rev_says_desu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@darlingstrawb",
+                "end": 23,
+                "expanded_url": "http://youtube.com/@darlingstrawb",
+                "start": 0,
+                "url": "https://t.co/yWvc1ZQVbY"
+              }
+            ]
+          }
+        },
+        "id": "1328503342428020736",
+        "is_identity_verified": false,
+        "location": "💌 darlingstrawb@gmail.com",
+        "most_recent_tweet_id": "2093321024737608185",
+        "name": "strawb 🍰🎀",
+        "pinned_tweet_id": "1933535509944402311",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1328503342428020736/1751635679",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049248342002286592/ekZfVLY6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68267,
+          "following_count": 788,
+          "like_count": 131941,
+          "listed_count": 212,
+          "media_count": 8112,
+          "tweet_count": 49137
+        },
+        "url": "https://t.co/yWvc1ZQVbY",
+        "username": "darlingstrawbie",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
