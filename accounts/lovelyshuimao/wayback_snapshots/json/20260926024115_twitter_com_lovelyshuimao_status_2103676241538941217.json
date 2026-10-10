@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1748763011140169729",
+    "conversation_id": "2103504254006931887",
+    "created_at": "2026-09-26T02:41:15.000Z",
+    "display_text_range": [
+      24,
+      34
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-26T03:41:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103676241538941217"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1998063108217286656",
+          "start": 0,
+          "username": "JIAkebc5986"
+        },
+        {
+          "end": 23,
+          "id": "1244543552652054528",
+          "start": 13,
+          "username": "Fisssh712"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103676241538941217",
+    "in_reply_to_user_id": "1998063108217286656",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103637216589414442",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JIAkebc5986 @Fisssh712 能开中药就不可能严重"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "2103504254006931887",
+        "created_at": "2026-09-26T02:41:15.000Z",
+        "display_text_range": [
+          24,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T03:41:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103676241538941217"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1998063108217286656",
+              "start": 0,
+              "username": "JIAkebc5986"
+            },
+            {
+              "end": 23,
+              "id": "1244543552652054528",
+              "start": 13,
+              "username": "Fisssh712"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103676241538941217",
+        "in_reply_to_user_id": "1998063108217286656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103637216589414442",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JIAkebc5986 @Fisssh712 能开中药就不可能严重"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1998063108217286656",
+        "conversation_id": "2103504254006931887",
+        "created_at": "2026-09-26T00:06:10.000Z",
+        "display_text_range": [
+          11,
+          73
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T01:06:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103637216589414442"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1244543552652054528",
+              "start": 0,
+              "username": "Fisssh712"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103637216589414442",
+        "in_reply_to_user_id": "1244543552652054528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 189,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103504254006931887",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Fisssh712 典中典。虽然这种拍照发出来配忧郁bgm和文案很烦，但是真的有很多病情确实严重的人也这样。。我就这样既心疼又恶心地看着他们啊。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "🐱神仙水水猫\n👩🏻‍💻INTJ ♀14 \n🙋🏻‍♀️提問box——————↓\n✍🏻想成為作家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGspkq"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "is_identity_verified": true,
+        "location": "距离你 4.3km",
+        "most_recent_tweet_id": "2103676241538941217",
+        "name": "lovely水",
+        "pinned_tweet_id": "2092334568057762260",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1748763011140169729/1775028370",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101524369638068224/vqhh_Ypw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5981,
+          "following_count": 1009,
+          "like_count": 273,
+          "listed_count": 26,
+          "media_count": 3733,
+          "tweet_count": 16951
+        },
+        "url": "https://t.co/EZhyEGspkq",
+        "username": "lovelyshuimao",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-12-08T16:12:45.000Z",
+        "description": "没骂你骂我干啥 一群生活不顺的蠢货 天天就知道骂人 我没惹任何人\n看点键政 站中间串两边（被两头骂得体无完肤 但是我不爱吵架 我什么都不懂你说不是就不是你都对 你们别他妈来惹我 ）\n在推特上完全展示不为人知的阴暗面 。其实是个很阳光明媚的的小女孩。\n小修称呼我小k，就叫我小k吧。",
+        "id": "1998063108217286656",
+        "is_identity_verified": false,
+        "location": "Tokyo",
+        "most_recent_tweet_id": "2103638218642186321",
+        "name": "kynnsfq ·_·",
+        "pinned_tweet_id": "2093196431150776537",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1998063108217286656/1787257313",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086832438760943616/HTnctHDT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 14,
+          "like_count": 4577,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 893
+        },
+        "url": "",
+        "username": "JIAkebc5986",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-03-30T08:34:48.000Z",
+        "description": "糖在风中干裂",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/fiiiish",
+                "end": 23,
+                "expanded_url": "https://ngl.link/fiiiish",
+                "start": 0,
+                "url": "https://t.co/V2GB3soKLg"
+              }
+            ]
+          }
+        },
+        "id": "1244543552652054528",
+        "is_identity_verified": false,
+        "location": "Silent Hill",
+        "most_recent_tweet_id": "2103562725565854005",
+        "name": "冰冷電子魚",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1244543552652054528/1778293640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066084271341842432/5hKNs9Kr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5401,
+          "following_count": 568,
+          "like_count": 14229,
+          "listed_count": 8,
+          "media_count": 1075,
+          "tweet_count": 14832
+        },
+        "url": "https://t.co/V2GB3soKLg",
+        "username": "Fisssh712",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

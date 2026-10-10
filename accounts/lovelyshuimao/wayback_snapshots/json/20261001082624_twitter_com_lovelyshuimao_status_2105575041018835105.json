@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1748763011140169729",
+    "conversation_id": "2105538206263550076",
+    "created_at": "2026-10-01T08:26:24.000Z",
+    "display_text_range": [
+      29,
+      37
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-01T09:26:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105575041018835105"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1759774205862924288",
+          "start": 0,
+          "username": "invoke15732"
+        },
+        {
+          "end": 28,
+          "id": "1260553941714186241",
+          "start": 13,
+          "username": "whyyoutouzhele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105575041018835105",
+    "in_reply_to_user_id": "1759774205862924288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105540518814130637",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@invoke15732 @whyyoutouzhele 签了也是违法合同"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "2105538206263550076",
+        "created_at": "2026-10-01T08:26:24.000Z",
+        "display_text_range": [
+          29,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T09:26:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105575041018835105"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1759774205862924288",
+              "start": 0,
+              "username": "invoke15732"
+            },
+            {
+              "end": 28,
+              "id": "1260553941714186241",
+              "start": 13,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105575041018835105",
+        "in_reply_to_user_id": "1759774205862924288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105540518814130637",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@invoke15732 @whyyoutouzhele 签了也是违法合同"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1759774205862924288",
+        "conversation_id": "2105538206263550076",
+        "created_at": "2026-10-01T06:09:13.000Z",
+        "display_text_range": [
+          16,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T07:09:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105540518814130637"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1260553941714186241",
+              "start": 0,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105540518814130637",
+        "in_reply_to_user_id": "1260553941714186241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 4506,
+          "like_count": 32,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105538206263550076",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whyyoutouzhele 完了泄露到李老师这里了，等着赔钱。。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "🐱神仙水水猫\n👩🏻‍💻INTJ ♀14 \n🙋🏻‍♀️提問box——————↓\n✍🏻想成為作家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGspkq"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "is_identity_verified": true,
+        "location": "距离你 4.3km",
+        "most_recent_tweet_id": "2105575041018835105",
+        "name": "lovely水",
+        "pinned_tweet_id": "2104559403999592734",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1748763011140169729/1775028370",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101524369638068224/vqhh_Ypw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6010,
+          "following_count": 1013,
+          "like_count": 273,
+          "listed_count": 25,
+          "media_count": 3765,
+          "tweet_count": 17036
+        },
+        "url": "https://t.co/EZhyEGspkq",
+        "username": "lovelyshuimao",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-02-20T02:57:47.000Z",
+        "description": "其实人是一个整体，别人的不幸就是你的不幸，不要问丧钟为谁而鸣，丧钟就是为你而鸣-海明威\n          他们只有在安全的时候才是勇敢的，在免费的时候才是慷慨的，在浅薄的时候才是动情的，在愚蠢的时候才是真诚的-米兰昆德拉",
+        "id": "1759774205862924288",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105550752173461657",
+        "name": "invocar sora",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759775676226560000/KWRwJqzs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 275,
+          "following_count": 130,
+          "like_count": 4041,
+          "listed_count": 1,
+          "media_count": 45,
+          "tweet_count": 5706
+        },
+        "url": "",
+        "username": "invoke15732",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/318DKi0R0h\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "telegram.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://telegram.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/318DKi0R0h"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://telegram.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/ipj3YpuAQW"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "is_identity_verified": false,
+        "location": "偷乐星球",
+        "most_recent_tweet_id": "2105566988823388231",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2092920054601990188",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1260553941714186241/1650306568",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2267759,
+          "following_count": 1085,
+          "like_count": 10546,
+          "listed_count": 8908,
+          "media_count": 54513,
+          "tweet_count": 61869
+        },
+        "url": "https://t.co/ipj3YpuAQW",
+        "username": "whyyoutouzhele",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

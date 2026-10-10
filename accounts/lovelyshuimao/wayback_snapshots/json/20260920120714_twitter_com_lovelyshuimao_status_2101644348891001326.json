@@ -1,0 +1,432 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1748763011140169729",
+    "conversation_id": "2100939019995816415",
+    "created_at": "2026-09-20T12:07:14.000Z",
+    "display_text_range": [
+      9,
+      11
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-20T13:07:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101644348891001326"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1512976991976402949",
+          "start": 0,
+          "username": "bghtnya"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/lovelyshuimao/…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/lovelyshuimao/status/2101639223220810042",
+          "start": 12,
+          "url": "https://t.co/PpUbr33MUQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101644348891001326",
+    "in_reply_to_user_id": "1512976991976402949",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101639223220810042",
+        "type": "quoted"
+      },
+      {
+        "id": "2100962267819024670",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bghtnya 已吃 https://t.co/PpUbr33MUQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2101639187703431168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSqFtM0agAAAeLn.jpg",
+        "width": 4084
+      },
+      {
+        "height": 3790,
+        "media_key": "3_2101639187690864640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSqFtMxawAA6Aq5.jpg",
+        "width": 3781
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "2100939019995816415",
+        "created_at": "2026-09-20T12:07:14.000Z",
+        "display_text_range": [
+          9,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T13:07:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101644348891001326"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1512976991976402949",
+              "start": 0,
+              "username": "bghtnya"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/lovelyshuimao/…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/lovelyshuimao/status/2101639223220810042",
+              "start": 12,
+              "url": "https://t.co/PpUbr33MUQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101644348891001326",
+        "in_reply_to_user_id": "1512976991976402949",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101639223220810042",
+            "type": "quoted"
+          },
+          {
+            "id": "2100962267819024670",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bghtnya 已吃 https://t.co/PpUbr33MUQ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1512976991976402949",
+        "conversation_id": "2100939019995816415",
+        "created_at": "2026-09-18T14:56:53.000Z",
+        "display_text_range": [
+          15,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T15:56:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100962267819024670"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1748763011140169729",
+              "start": 0,
+              "username": "lovelyshuimao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100962267819024670",
+        "in_reply_to_user_id": "1748763011140169729",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 52875,
+          "like_count": 328,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100939019995816415",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lovelyshuimao 一会还吃滨寿司吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101639187703431168",
+            "3_2101639187690864640"
+          ]
+        },
+        "author_id": "1748763011140169729",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2101639223220810042",
+        "created_at": "2026-09-20T11:46:52.000Z",
+        "display_text_range": [
+          0,
+          145
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T12:46:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101639223220810042"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 32,
+              "id": "1748763011140169729",
+              "start": 18,
+              "username": "lovelyshuimao"
+            },
+            {
+              "end": 46,
+              "id": "2011073315763601416",
+              "start": 34,
+              "username": "kilock_1208"
+            },
+            {
+              "end": 61,
+              "id": "1952690690892468224",
+              "start": 48,
+              "username": "meowania_Fan"
+            },
+            {
+              "end": 72,
+              "id": "1957055448856535040",
+              "start": 63,
+              "username": "PlayerE_"
+            },
+            {
+              "end": 81,
+              "id": "2086258214631591936",
+              "start": 73,
+              "username": "netxfer"
+            },
+            {
+              "end": 93,
+              "id": "1887391023976038400",
+              "start": 83,
+              "username": "xiey57828"
+            },
+            {
+              "end": 107,
+              "id": "2038547314835705856",
+              "start": 95,
+              "username": "asaltfishes"
+            },
+            {
+              "end": 117,
+              "id": "1690570637499154432",
+              "start": 109,
+              "username": "zhwevea"
+            },
+            {
+              "end": 133,
+              "id": "1893109107034574848",
+              "start": 119,
+              "username": "Kewen_offical"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/F1SbiGNmrO",
+              "end": 169,
+              "expanded_url": "https://x.com/lovelyshuimao/status/2101639223220810042/photo/1",
+              "media_key": "3_2101639187703431168",
+              "start": 146,
+              "url": "https://t.co/F1SbiGNmrO"
+            },
+            {
+              "display_url": "pic.x.com/F1SbiGNmrO",
+              "end": 169,
+              "expanded_url": "https://x.com/lovelyshuimao/status/2101639223220810042/photo/1",
+              "media_key": "3_2101639187690864640",
+              "start": 146,
+              "url": "https://t.co/F1SbiGNmrO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101639223220810042",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2101639187703431168"
+          },
+          {
+            "media_key": "3_2101639187690864640"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 335,
+          "like_count": 9,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "“还去吃滨寿司吗？”\n滨寿司面姬！\n@lovelyshuimao \n@kilock_1208 \n@meowania_Fan \n@PlayerE_\n@netxfer \n@xiey57828 \n@asaltfishes \n@zhwevea \n@Kewen_offical \n11人！还有人没X号 https://t.co/F1SbiGNmrO"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "🐱神仙水水猫\n👩🏻‍💻INTJ ♀14 \n🙋🏻‍♀️提問box——————↓\n✍🏻想成為作家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGspkq"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "is_identity_verified": true,
+        "location": "距离你 4.3km",
+        "most_recent_tweet_id": "2101644348891001326",
+        "name": "lovely水",
+        "pinned_tweet_id": "2100831968669860310",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1748763011140169729/1775028370",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101524369638068224/vqhh_Ypw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5888,
+          "following_count": 1003,
+          "like_count": 274,
+          "listed_count": 25,
+          "media_count": 3703,
+          "tweet_count": 16835
+        },
+        "url": "https://t.co/EZhyEGspkq",
+        "username": "lovelyshuimao",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖🖥 大一计算机 /  🍰1989.06.04 /  🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🏳‍⚧🏳️‍🌈  无性别or跨女同 / 🦋 INFP-A  /   Ⓐ☭ 无政府共产主义   /   🪨登越无人见闻顶，重置五岳三山名",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/bghta6",
+                "end": 23,
+                "expanded_url": "https://t.me/bghta6",
+                "start": 0,
+                "url": "https://t.co/NEsfcXr2hm"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "is_identity_verified": false,
+        "location": "https://github.com/bghtnya",
+        "most_recent_tweet_id": "2101627048917962965",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "2056035833543815506",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1512976991976402949/1688735742",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055187971880759296/_-CqoRg3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11113,
+          "following_count": 2344,
+          "like_count": 187089,
+          "listed_count": 21,
+          "media_count": 4262,
+          "tweet_count": 51445
+        },
+        "url": "https://t.co/NEsfcXr2hm",
+        "username": "bghtnya",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

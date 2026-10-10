@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2088782330064154624",
+    "conversation_id": "2101243271532175449",
+    "created_at": "2026-09-20T04:50:46.000Z",
+    "display_text_range": [
+      15,
+      36
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-20T05:50:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101534510865121711"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1748763011140169729",
+          "start": 0,
+          "username": "lovelyshuimao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101534510865121711",
+    "in_reply_to_user_id": "1748763011140169729",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101243271532175449",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lovelyshuimao 应该没人比我玩的开了吧👍😳我福不黑不信你看"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [2088782330064154624].",
+      "parameter": "author_id",
+      "resource_id": "2088782330064154624",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.x.com/2/problems/resource-not-found",
+      "value": "2088782330064154624"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 728,
+        "media_key": "3_2101243263554666496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSkdnYbbwAAljx0.jpg",
+        "width": 1166
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2088782330064154624",
+        "conversation_id": "2101243271532175449",
+        "created_at": "2026-09-20T04:50:46.000Z",
+        "display_text_range": [
+          15,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T05:50:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101534510865121711"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1748763011140169729",
+              "start": 0,
+              "username": "lovelyshuimao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101534510865121711",
+        "in_reply_to_user_id": "1748763011140169729",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101243271532175449",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lovelyshuimao 应该没人比我玩的开了吧👍😳我福不黑不信你看"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101243263554666496"
+          ]
+        },
+        "author_id": "1748763011140169729",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2101243271532175449",
+        "created_at": "2026-09-19T09:33:29.000Z",
+        "display_text_range": [
+          0,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T10:33:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101243271532175449"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7EpgUf2Waf",
+              "end": 55,
+              "expanded_url": "https://x.com/lovelyshuimao/status/2101243271532175449/photo/1",
+              "media_key": "3_2101243263554666496",
+              "start": 32,
+              "url": "https://t.co/7EpgUf2Waf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101243271532175449",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2101243263554666496"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3226,
+          "like_count": 94,
+          "quote_count": 0,
+          "reply_count": 101,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "小明压力太大，连续喝酒死了，那杀死小明的是什么？\n答：没有未来 https://t.co/7EpgUf2Waf"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "🐱神仙水水猫\n👩🏻‍💻INTJ ♀14 \n🙋🏻‍♀️提問box——————↓\n✍🏻想成為作家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGspkq"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "is_identity_verified": true,
+        "location": "距离你 4.3km",
+        "most_recent_tweet_id": "2101523914673521004",
+        "name": "lovely水",
+        "pinned_tweet_id": "2100831968669860310",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1748763011140169729/1775028370",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101524369638068224/vqhh_Ypw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5875,
+          "following_count": 1002,
+          "like_count": 274,
+          "listed_count": 25,
+          "media_count": 3701,
+          "tweet_count": 16829
+        },
+        "url": "https://t.co/EZhyEGspkq",
+        "username": "lovelyshuimao",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

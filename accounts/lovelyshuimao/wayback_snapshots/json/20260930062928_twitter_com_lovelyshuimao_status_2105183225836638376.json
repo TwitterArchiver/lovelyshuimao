@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2105183212188434432"
+      ]
+    },
+    "author_id": "1748763011140169729",
+    "conversation_id": "2105183225836638376",
+    "created_at": "2026-09-30T06:29:28.000Z",
+    "display_text_range": [
+      0,
+      11
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-30T07:29:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2105183225836638376"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/w7lRqPlCBe",
+          "end": 35,
+          "expanded_url": "https://x.com/lovelyshuimao/status/2105183225836638376/photo/1",
+          "media_key": "3_2105183212188434432",
+          "start": 12,
+          "url": "https://t.co/w7lRqPlCBe"
+        },
+        {
+          "display_url": "x.com/bghtnya/status…",
+          "end": 59,
+          "expanded_url": "https://twitter.com/bghtnya/status/2104773078496751647",
+          "start": 36,
+          "url": "https://t.co/ek8EJO6ig1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105183225836638376",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2105183212188434432"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104773078496751647",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "国庆节快乐🇨🇳🇨🇳🇨🇳 https://t.co/w7lRqPlCBe https://t.co/ek8EJO6ig1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2105183212188434432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTcc-k2bgAAAEqn.jpg",
+        "width": 1600
+      },
+      {
+        "height": 1086,
+        "media_key": "3_2104773072222142464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTWn9SabwAAKAq1.jpg",
+        "width": 1448
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2105183212188434432"
+          ]
+        },
+        "author_id": "1748763011140169729",
+        "conversation_id": "2105183225836638376",
+        "created_at": "2026-09-30T06:29:28.000Z",
+        "display_text_range": [
+          0,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T07:29:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105183225836638376"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/w7lRqPlCBe",
+              "end": 35,
+              "expanded_url": "https://x.com/lovelyshuimao/status/2105183225836638376/photo/1",
+              "media_key": "3_2105183212188434432",
+              "start": 12,
+              "url": "https://t.co/w7lRqPlCBe"
+            },
+            {
+              "display_url": "x.com/bghtnya/status…",
+              "end": 59,
+              "expanded_url": "https://twitter.com/bghtnya/status/2104773078496751647",
+              "start": 36,
+              "url": "https://t.co/ek8EJO6ig1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105183225836638376",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2105183212188434432"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104773078496751647",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "国庆节快乐🇨🇳🇨🇳🇨🇳 https://t.co/w7lRqPlCBe https://t.co/ek8EJO6ig1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104773072222142464"
+          ]
+        },
+        "author_id": "1512976991976402949",
+        "conversation_id": "2104773078496751647",
+        "created_at": "2026-09-29T03:19:41.000Z",
+        "display_text_range": [
+          0,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T04:19:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104773078496751647"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tPCp8Rwz0P",
+              "end": 39,
+              "expanded_url": "https://x.com/bghtnya/status/2104773078496751647/photo/1",
+              "media_key": "3_2104773072222142464",
+              "start": 16,
+              "url": "https://t.co/tPCp8Rwz0P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104773078496751647",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2104773072222142464"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 86,
+          "impression_count": 38065,
+          "like_count": 1067,
+          "quote_count": 6,
+          "reply_count": 57,
+          "retweet_count": 56
+        },
+        "reply_settings": "everyone",
+        "text": "预祝大家国庆节快乐🇨🇳🇨🇳🇨🇳 https://t.co/tPCp8Rwz0P"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "🐱神仙水水猫\n👩🏻‍💻INTJ ♀14 \n🙋🏻‍♀️提問box——————↓\n✍🏻想成為作家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGspkq"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "is_identity_verified": true,
+        "location": "距离你 4.3km",
+        "most_recent_tweet_id": "2105183225836638376",
+        "name": "lovely水",
+        "pinned_tweet_id": "2104559403999592734",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1748763011140169729/1775028370",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101524369638068224/vqhh_Ypw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6001,
+          "following_count": 1010,
+          "like_count": 273,
+          "listed_count": 25,
+          "media_count": 3761,
+          "tweet_count": 17021
+        },
+        "url": "https://t.co/EZhyEGspkq",
+        "username": "lovelyshuimao",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖🖥 大一计算机 /  🍰1989.06.04 /  🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🏳‍⚧🏳️‍🌈  无性别or跨女同 / 🦋 INFP-A  /   Ⓐ☭ 无政府共产主义   /   🪨登越无人见闻顶，重置五岳三山名",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/bghta6",
+                "end": 23,
+                "expanded_url": "https://t.me/bghta6",
+                "start": 0,
+                "url": "https://t.co/NEsfcXr2hm"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "is_identity_verified": false,
+        "location": "https://github.com/bghtnya",
+        "most_recent_tweet_id": "2105148850524897545",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "pinned_tweet_id": "2056035833543815506",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1512976991976402949/1688735742",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055187971880759296/_-CqoRg3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11282,
+          "following_count": 2344,
+          "like_count": 188869,
+          "listed_count": 19,
+          "media_count": 4291,
+          "tweet_count": 51825
+        },
+        "url": "https://t.co/NEsfcXr2hm",
+        "username": "bghtnya",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

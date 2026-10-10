@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1748763011140169729",
+    "conversation_id": "2102009884694995048",
+    "created_at": "2026-09-21T12:19:44.000Z",
+    "display_text_range": [
+      0,
+      42
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-21T13:19:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2102009884694995048"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/zza2ku/status/…",
+          "end": 66,
+          "expanded_url": "https://twitter.com/zza2ku/status/2101946568177758600",
+          "start": 43,
+          "url": "https://t.co/j5848QUkBC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102009884694995048",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101946568177758600",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "懂了\n我自己写个教派\n在里面的神是同性恋跨性别\n必须要信仰才能生入天堂，不信仰下地狱 https://t.co/j5848QUkBC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1449,
+        "media_key": "3_2101946531188269056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSudO8hXYAAjs7d.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1658,
+        "media_key": "3_2101946548980482048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSudP-zXAAA1b9c.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "2102009884694995048",
+        "created_at": "2026-09-21T12:19:44.000Z",
+        "display_text_range": [
+          0,
+          42
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T13:19:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102009884694995048"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/zza2ku/status/…",
+              "end": 66,
+              "expanded_url": "https://twitter.com/zza2ku/status/2101946568177758600",
+              "start": 43,
+              "url": "https://t.co/j5848QUkBC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102009884694995048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101946568177758600",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "懂了\n我自己写个教派\n在里面的神是同性恋跨性别\n必须要信仰才能生入天堂，不信仰下地狱 https://t.co/j5848QUkBC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101946531188269056",
+            "3_2101946548980482048"
+          ]
+        },
+        "author_id": "2092971438521077760",
+        "conversation_id": "2101946568177758600",
+        "created_at": "2026-09-21T08:08:08.000Z",
+        "display_text_range": [
+          0,
+          76
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T09:08:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101946568177758600"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "你孩子的「出櫃」可能會讓你大吃一驚，但沒有什麼會讓神吃驚。",
+              "display_url": "tc.tgcchinese.org/article/respon…",
+              "end": 76,
+              "expanded_url": "https://tc.tgcchinese.org/article/respond-child-comes-out",
+              "images": [
+                {
+                  "height": 1080,
+                  "url": "https://pbs.twimg.com/news_img/2101946577585582080/63P3Hq0M?format=jpg&name=orig",
+                  "width": 1920
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2101946577585582080/63P3Hq0M?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 53,
+              "status": 200,
+              "title": "如何回應孩子的「出櫃」？",
+              "unwound_url": "https://tc.tgcchinese.org/article/respond-child-comes-out",
+              "url": "https://t.co/VfSh0TLdMh"
+            },
+            {
+              "display_url": "pic.x.com/6kA4n6HZay",
+              "end": 100,
+              "expanded_url": "https://x.com/zza2ku/status/2101946568177758600/photo/1",
+              "media_key": "3_2101946531188269056",
+              "start": 77,
+              "url": "https://t.co/6kA4n6HZay"
+            },
+            {
+              "display_url": "pic.x.com/6kA4n6HZay",
+              "end": 100,
+              "expanded_url": "https://x.com/zza2ku/status/2101946568177758600/photo/1",
+              "media_key": "3_2101946548980482048",
+              "start": 77,
+              "url": "https://t.co/6kA4n6HZay"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101946568177758600",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2101946531188269056"
+          },
+          {
+            "media_key": "3_2101946548980482048"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 3864,
+          "like_count": 83,
+          "quote_count": 3,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "666，演都不演了\n“未成年人的已婚親生父母可以選擇把孩子從公立學校退學、沒收智能手機，並刪除社交媒體”\nhttps://t.co/VfSh0TLdMh https://t.co/6kA4n6HZay"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "🐱神仙水水猫\n👩🏻‍💻INTJ ♀14 \n🙋🏻‍♀️提問box——————↓\n✍🏻想成為作家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGspkq"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "is_identity_verified": true,
+        "location": "距离你 4.3km",
+        "most_recent_tweet_id": "2102009884694995048",
+        "name": "lovely水",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1748763011140169729/1775028370",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101524369638068224/vqhh_Ypw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5942,
+          "following_count": 1005,
+          "like_count": 274,
+          "listed_count": 26,
+          "media_count": 3708,
+          "tweet_count": 16859
+        },
+        "url": "https://t.co/EZhyEGspkq",
+        "username": "lovelyshuimao",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-27T13:46:37.000Z",
+        "description": "民社，无糖mtf",
+        "id": "2092971438521077760",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2101999246027198491",
+        "name": "拆腻丝🏳️‍⚧️",
+        "pinned_tweet_id": "2101834321879503054",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2092971438521077760/1789967218",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094769799742267392/T7q_fo6d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 286,
+          "following_count": 117,
+          "like_count": 150,
+          "listed_count": 2,
+          "media_count": 370,
+          "tweet_count": 741
+        },
+        "url": "",
+        "username": "zza2ku",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

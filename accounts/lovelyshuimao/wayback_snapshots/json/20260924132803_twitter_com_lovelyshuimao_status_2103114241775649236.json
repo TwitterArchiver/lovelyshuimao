@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1748763011140169729",
+    "conversation_id": "2103090810283770139",
+    "created_at": "2026-09-24T13:28:03.000Z",
+    "display_text_range": [
+      17,
+      52
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-24T14:28:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103114241775649236"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1852310610828214272",
+          "start": 0,
+          "username": "kryptofixFXezzz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103114241775649236",
+    "in_reply_to_user_id": "1852310610828214272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103113982072828007",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kryptofixFXezzz 我一直觉得，功能重建难于什么外观\n只要功能正常，外观在正常范围内就行了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "2103090810283770139",
+        "created_at": "2026-09-24T13:28:03.000Z",
+        "display_text_range": [
+          17,
+          52
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T14:28:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103114241775649236"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1852310610828214272",
+              "start": 0,
+              "username": "kryptofixFXezzz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103114241775649236",
+        "in_reply_to_user_id": "1852310610828214272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103113982072828007",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kryptofixFXezzz 我一直觉得，功能重建难于什么外观\n只要功能正常，外观在正常范围内就行了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852310610828214272",
+        "conversation_id": "2103090810283770139",
+        "created_at": "2026-09-24T13:27:01.000Z",
+        "display_text_range": [
+          15,
+          46
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T14:27:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103113982072828007"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1748763011140169729",
+              "start": 0,
+              "username": "lovelyshuimao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103113982072828007",
+        "in_reply_to_user_id": "1748763011140169729",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103090810283770139",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lovelyshuimao 到时候装逼让医生一次性就给装得好看一点就省得再花钱修了（❌️）"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "🐱神仙水水猫\n👩🏻‍💻INTJ ♀14 \n🙋🏻‍♀️提問box——————↓\n✍🏻想成為作家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGspkq"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "is_identity_verified": true,
+        "location": "距离你 4.3km",
+        "most_recent_tweet_id": "2103114241775649236",
+        "name": "lovely水",
+        "pinned_tweet_id": "2092334568057762260",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1748763011140169729/1775028370",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101524369638068224/vqhh_Ypw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5984,
+          "following_count": 1007,
+          "like_count": 274,
+          "listed_count": 26,
+          "media_count": 3721,
+          "tweet_count": 16911
+        },
+        "url": "https://t.co/EZhyEGspkq",
+        "username": "lovelyshuimao",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-11-01T11:24:06.000Z",
+        "description": "挣扎中也不曾停止向上的希望😇| MTF🍥🏳️‍⚧️ | 性取向女 |HRT 2026.9.7| 应用化学在读 | 金属有机&超分子配位化学 | 收集研究稀有矿物和宝石 | 古生物化石分类鉴定 | 不键政和混圈 | 喜欢和姐姐贴贴😘👋 |2005.12.29出厂| 焦虑状态中 | 无药物滥用史",
+        "id": "1852310610828214272",
+        "is_identity_verified": false,
+        "location": "可爱国",
+        "most_recent_tweet_id": "2103113982072828007",
+        "name": "Alianna_nya",
+        "pinned_tweet_id": "2095908455139946633",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1852310610828214272/1787676415",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092292633121239040/V78Bs5IF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 395,
+          "following_count": 88,
+          "like_count": 186,
+          "listed_count": 1,
+          "media_count": 86,
+          "tweet_count": 345
+        },
+        "url": "",
+        "username": "kryptofixFXezzz",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

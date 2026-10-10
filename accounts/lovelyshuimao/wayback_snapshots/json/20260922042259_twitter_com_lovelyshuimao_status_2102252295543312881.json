@@ -1,0 +1,312 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2102252273623838720"
+      ]
+    },
+    "author_id": "1748763011140169729",
+    "conversation_id": "2102252295543312881",
+    "created_at": "2026-09-22T04:22:59.000Z",
+    "display_text_range": [
+      0,
+      6
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-22T05:22:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2102252295543312881"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/1AWOI2zeQC",
+          "end": 30,
+          "expanded_url": "https://x.com/lovelyshuimao/status/2102252295543312881/photo/1",
+          "media_key": "3_2102252273623838720",
+          "start": 7,
+          "url": "https://t.co/1AWOI2zeQC"
+        },
+        {
+          "display_url": "x.com/lovelyshuimao/…",
+          "end": 54,
+          "expanded_url": "https://twitter.com/lovelyshuimao/status/2102252175368020055",
+          "start": 31,
+          "url": "https://t.co/aR5JaaCH8h"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102252295543312881",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2102252273623838720"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102252175368020055",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "星巴克面姬！ https://t.co/1AWOI2zeQC https://t.co/aR5JaaCH8h"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2102252273623838720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSyzTf2bMAAc9QQ.jpg",
+        "width": 3072
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2102252142698606592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSyzL4HasAAl64B.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2102252273623838720"
+          ]
+        },
+        "author_id": "1748763011140169729",
+        "conversation_id": "2102252295543312881",
+        "created_at": "2026-09-22T04:22:59.000Z",
+        "display_text_range": [
+          0,
+          6
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T05:22:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102252295543312881"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1AWOI2zeQC",
+              "end": 30,
+              "expanded_url": "https://x.com/lovelyshuimao/status/2102252295543312881/photo/1",
+              "media_key": "3_2102252273623838720",
+              "start": 7,
+              "url": "https://t.co/1AWOI2zeQC"
+            },
+            {
+              "display_url": "x.com/lovelyshuimao/…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/lovelyshuimao/status/2102252175368020055",
+              "start": 31,
+              "url": "https://t.co/aR5JaaCH8h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102252295543312881",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2102252273623838720"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102252175368020055",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "星巴克面姬！ https://t.co/1AWOI2zeQC https://t.co/aR5JaaCH8h"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2102252142698606592"
+          ]
+        },
+        "author_id": "1748763011140169729",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2102252175368020055",
+        "created_at": "2026-09-22T04:22:31.000Z",
+        "display_text_range": [
+          0,
+          59
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T05:22:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102252175368020055"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 33,
+              "id": "2011073315763601416",
+              "start": 21,
+              "username": "kilock_1208"
+            },
+            {
+              "end": 49,
+              "id": "1748763011140169729",
+              "start": 35,
+              "username": "lovelyshuimao"
+            },
+            {
+              "end": 59,
+              "id": "2086258214631591936",
+              "start": 51,
+              "username": "netxfer"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZVk1tWCCLj",
+              "end": 83,
+              "expanded_url": "https://x.com/lovelyshuimao/status/2102252175368020055/photo/1",
+              "media_key": "3_2102252142698606592",
+              "start": 60,
+              "url": "https://t.co/ZVk1tWCCLj"
+            },
+            {
+              "display_url": "x.com/lovelyshuimao/…",
+              "end": 107,
+              "expanded_url": "https://twitter.com/lovelyshuimao/status/2101639223220810042",
+              "start": 84,
+              "url": "https://t.co/PpUbr33MUQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102252175368020055",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2102252142698606592"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101639223220810042",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "萨莉亚面姬！\n9月21号夜！\n上海世纪汇\n@kilock_1208 \n@lovelyshuimao \n@netxfer https://t.co/ZVk1tWCCLj https://t.co/PpUbr33MUQ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "🐱神仙水水猫\n👩🏻‍💻INTJ ♀14 \n🙋🏻‍♀️提問box——————↓\n✍🏻想成為作家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGspkq"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "is_identity_verified": true,
+        "location": "距离你 4.3km",
+        "most_recent_tweet_id": "2102252295543312881",
+        "name": "lovely水",
+        "pinned_tweet_id": "2092334568057762260",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1748763011140169729/1775028370",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101524369638068224/vqhh_Ypw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5965,
+          "following_count": 1005,
+          "like_count": 274,
+          "listed_count": 26,
+          "media_count": 3711,
+          "tweet_count": 16874
+        },
+        "url": "https://t.co/EZhyEGspkq",
+        "username": "lovelyshuimao",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

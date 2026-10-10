@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1748763011140169729",
+    "conversation_id": "2100946109854355473",
+    "created_at": "2026-09-19T14:41:19.000Z",
+    "display_text_range": [
+      26,
+      57
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-19T15:41:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101320737869213832"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2088221141559365632",
+          "start": 0,
+          "username": "XHflame0416"
+        },
+        {
+          "end": 25,
+          "id": "1929798380240465921",
+          "start": 13,
+          "username": "AacerF59616"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101320737869213832",
+    "in_reply_to_user_id": "2088221141559365632",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100946403518210178",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XHflame0416 @AacerF59616 没有gpt-3.5是2023年才发布，是从GPT1开始算才8岁"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "2100946109854355473",
+        "created_at": "2026-09-19T14:41:19.000Z",
+        "display_text_range": [
+          26,
+          57
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T15:41:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101320737869213832"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2088221141559365632",
+              "start": 0,
+              "username": "XHflame0416"
+            },
+            {
+              "end": 25,
+              "id": "1929798380240465921",
+              "start": 13,
+              "username": "AacerF59616"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101320737869213832",
+        "in_reply_to_user_id": "2088221141559365632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100946403518210178",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XHflame0416 @AacerF59616 没有gpt-3.5是2023年才发布，是从GPT1开始算才8岁"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2088221141559365632",
+        "conversation_id": "2100946109854355473",
+        "created_at": "2026-09-18T13:53:50.000Z",
+        "display_text_range": [
+          13,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T14:53:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100946403518210178"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1929798380240465921",
+              "start": 0,
+              "username": "AacerF59616"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100946403518210178",
+        "in_reply_to_user_id": "1929798380240465921",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 48,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100946109854355473",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AacerF59616 原来gpt出来已经8年了吗喵……"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "🐱神仙水水猫\n👩🏻‍💻INTJ ♀14 \n🙋🏻‍♀️提問box——————↓\n✍🏻想成為作家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGspkq"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "is_identity_verified": true,
+        "location": "距离你 4.3km",
+        "most_recent_tweet_id": "2101320737869213832",
+        "name": "lovely水",
+        "pinned_tweet_id": "2100831968669860310",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1748763011140169729/1775028370",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045354329792749568/b7JXuLvu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5861,
+          "following_count": 1002,
+          "like_count": 274,
+          "listed_count": 25,
+          "media_count": 3694,
+          "tweet_count": 16808
+        },
+        "url": "https://t.co/EZhyEGspkq",
+        "username": "lovelyshuimao",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-14T11:08:59.000Z",
+        "description": "07.04.16男大¦infp¦友跨¦顺男¦讨好型人格¦白骑士倾向¦预备CD¦猫娘一只喵(?)\n依据情绪波动程度有两种心理状态喵\n时常客串没技术且不称职的心理医生喵",
+        "id": "2088221141559365632",
+        "is_identity_verified": false,
+        "location": "广东",
+        "most_recent_tweet_id": "2101313867859239322",
+        "name": "XHflame",
+        "pinned_tweet_id": "2100114820099924101",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2088221141559365632/1789120922",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088221645056122881/HH9SIN1s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 111,
+          "like_count": 53,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 970
+        },
+        "url": "",
+        "username": "XHflame0416",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "成为女生：2008.4.15｜身高167cm 体重62～64kg BMI 22+｜指派男性 经验女性 性别酷儿｜青春期和成年期性别不一致｜GAHT：2026.7.9｜准家长党｜后室中文写手&基金会中分写手｜戒od 戒自伤 极少见证｜可以叫咱小琳 琳琳 阿琳 琳酱 芙蕾琳 琳姐姐/妹妹 琳大王",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+DIuQ66cDwOwyM…",
+                "end": 23,
+                "expanded_url": "https://t.me/+DIuQ66cDwOwyMDZl",
+                "start": 0,
+                "url": "https://t.co/tjXQmF2PY3"
+              }
+            ]
+          }
+        },
+        "id": "1929798380240465921",
+        "is_identity_verified": false,
+        "location": "金星 伊什塔高地",
+        "most_recent_tweet_id": "2101316668039581747",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙ᴹᴷ⁻ᴱᵐᵇᵉʳ",
+        "pinned_tweet_id": "2088817660096373031",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1929798380240465921/1786959116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096454504409669632/Tay42YQX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3272,
+          "following_count": 1001,
+          "like_count": 8139,
+          "listed_count": 2,
+          "media_count": 592,
+          "tweet_count": 3414
+        },
+        "url": "https://t.co/tjXQmF2PY3",
+        "username": "AacerF59616",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

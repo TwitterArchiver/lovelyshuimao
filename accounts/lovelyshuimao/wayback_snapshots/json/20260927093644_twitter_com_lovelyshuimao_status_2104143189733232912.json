@@ -1,0 +1,360 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2104143167167856640"
+      ]
+    },
+    "author_id": "1748763011140169729",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2104143189733232912",
+    "created_at": "2026-09-27T09:36:44.000Z",
+    "display_text_range": [
+      0,
+      63
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-27T10:36:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2104143189733232912"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 23,
+          "id": "1813141850712317952",
+          "start": 13,
+          "username": "sil030922"
+        },
+        {
+          "end": 37,
+          "id": "2011073315763601416",
+          "start": 25,
+          "username": "kilock_1208"
+        },
+        {
+          "end": 53,
+          "id": "1748763011140169729",
+          "start": 39,
+          "username": "lovelyshuimao"
+        },
+        {
+          "end": 63,
+          "id": "2086258214631591936",
+          "start": 55,
+          "username": "netxfer"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/LkoebbCLqL",
+          "end": 87,
+          "expanded_url": "https://x.com/lovelyshuimao/status/2104143189733232912/photo/1",
+          "media_key": "3_2104143167167856640",
+          "start": 64,
+          "url": "https://t.co/LkoebbCLqL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104143189733232912",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2104143167167856640"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "星巴克面姬喵\n上海龙之梦\n@sil030922 \n@kilock_1208 \n@lovelyshuimao \n@netxfer https://t.co/LkoebbCLqL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2104143167167856640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTNrD_ObAAAVfxO.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104143167167856640"
+          ]
+        },
+        "author_id": "1748763011140169729",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2104143189733232912",
+        "created_at": "2026-09-27T09:36:44.000Z",
+        "display_text_range": [
+          0,
+          63
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T10:36:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104143189733232912"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 23,
+              "id": "1813141850712317952",
+              "start": 13,
+              "username": "sil030922"
+            },
+            {
+              "end": 37,
+              "id": "2011073315763601416",
+              "start": 25,
+              "username": "kilock_1208"
+            },
+            {
+              "end": 53,
+              "id": "1748763011140169729",
+              "start": 39,
+              "username": "lovelyshuimao"
+            },
+            {
+              "end": 63,
+              "id": "2086258214631591936",
+              "start": 55,
+              "username": "netxfer"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LkoebbCLqL",
+              "end": 87,
+              "expanded_url": "https://x.com/lovelyshuimao/status/2104143189733232912/photo/1",
+              "media_key": "3_2104143167167856640",
+              "start": 64,
+              "url": "https://t.co/LkoebbCLqL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104143189733232912",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2104143167167856640"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "星巴克面姬喵\n上海龙之梦\n@sil030922 \n@kilock_1208 \n@lovelyshuimao \n@netxfer https://t.co/LkoebbCLqL"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "🐱神仙水水猫\n👩🏻‍💻INTJ ♀14 \n🙋🏻‍♀️提問box——————↓\n✍🏻想成為作家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGspkq"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "is_identity_verified": true,
+        "location": "距离你 4.3km",
+        "most_recent_tweet_id": "2104143189733232912",
+        "name": "lovely水",
+        "pinned_tweet_id": "2092334568057762260",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1748763011140169729/1775028370",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101524369638068224/vqhh_Ypw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5988,
+          "following_count": 1009,
+          "like_count": 274,
+          "listed_count": 26,
+          "media_count": 3744,
+          "tweet_count": 16977
+        },
+        "url": "https://t.co/EZhyEGspkq",
+        "username": "lovelyshuimao",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-07-16T09:21:29.000Z",
+        "description": "现居上海|mtf|大证|出厂日期：2003.9.22|hrt：26.7.4|srs：2027.9|精神状态稳定\n华东师范大学设计学|平面设计/插画/原画\n180cm|61kg",
+        "id": "1813141850712317952",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096546143526342885",
+        "name": "sil🍥",
+        "pinned_tweet_id": "2088589734067224659",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079603259824910340/vWALFIQf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 344,
+          "following_count": 359,
+          "like_count": 283,
+          "listed_count": 1,
+          "media_count": 24,
+          "tweet_count": 121
+        },
+        "url": "",
+        "username": "sil030922",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-01-13T13:50:40.000Z",
+        "description": "blog :https://t.co/IuT5dKQlMv\ndev\n@qqqqqf_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 34,
+                "username": "qqqqqf_"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "清凤.fun",
+                "end": 29,
+                "expanded_url": "https://xn--l9qq99d.fun",
+                "start": 6,
+                "url": "https://t.co/IuT5dKQlMv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/kilockok",
+                "end": 23,
+                "expanded_url": "https://github.com/kilockok",
+                "start": 0,
+                "url": "https://t.co/ZHBAoZQdfs"
+              }
+            ]
+          }
+        },
+        "id": "2011073315763601416",
+        "is_identity_verified": false,
+        "location": "The World",
+        "most_recent_tweet_id": "2104126895960858644",
+        "name": "kilock",
+        "pinned_tweet_id": "2037502430506795154",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2011073315763601416/1768584632",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096942530067890176/PenSBqI4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 992,
+          "following_count": 807,
+          "like_count": 5729,
+          "listed_count": 3,
+          "media_count": 200,
+          "tweet_count": 1439
+        },
+        "url": "https://t.co/ZHBAoZQdfs",
+        "username": "kilock_1208",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-09T01:09:40.000Z",
+        "description": "上海张江C++码农，生产日期1986.11.22，高172cm、重71kg，HRT日期2026.8.26。二代账号，已同步旧账号所有关注并从旧账号取关，旧账号同步书签后注销。不定期删除本人部分历史评论或回复，无特殊原因。",
+        "id": "2086258214631591936",
+        "is_identity_verified": false,
+        "location": "GitHub",
+        "most_recent_tweet_id": "2104129228207993051",
+        "name": "天涯過客",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087559008005820416/OYwMldre_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 169,
+          "like_count": 2978,
+          "listed_count": 1,
+          "media_count": 25,
+          "tweet_count": 440
+        },
+        "url": "",
+        "username": "netxfer",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,318 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1748763011140169729",
+    "conversation_id": "2100970210979348746",
+    "created_at": "2026-09-18T15:29:10.000Z",
+    "display_text_range": [
+      14,
+      35
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-18T16:29:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100970394123702321"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1786596099479977984",
+          "start": 0,
+          "username": "Kurikawayuyu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100970394123702321",
+    "in_reply_to_user_id": "1786596099479977984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100970210979348746",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kurikawayuyu 那我这里翻译错了，我还以为苹果也加屏蔽词了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2100970192549675008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSglQjqbgAAq--T.jpg",
+        "width": 944
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2100970192574857216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSglQjwbwAABmCz.jpg",
+        "width": 944
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2100970192549584896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSglQjqaIAAqcoO.jpg",
+        "width": 944
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "2100970210979348746",
+        "created_at": "2026-09-18T15:29:10.000Z",
+        "display_text_range": [
+          14,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T16:29:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100970394123702321"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1786596099479977984",
+              "start": 0,
+              "username": "Kurikawayuyu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100970394123702321",
+        "in_reply_to_user_id": "1786596099479977984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100970210979348746",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kurikawayuyu 那我这里翻译错了，我还以为苹果也加屏蔽词了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100970192549675008",
+            "3_2100970192574857216",
+            "3_2100970192549584896"
+          ]
+        },
+        "author_id": "1786596099479977984",
+        "conversation_id": "2100970210979348746",
+        "created_at": "2026-09-18T15:28:27.000Z",
+        "display_text_range": [
+          0,
+          5
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T16:28:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100970210979348746"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yY8P1wa2AV",
+              "end": 29,
+              "expanded_url": "https://x.com/Kurikawayuyu/status/2100970210979348746/photo/1",
+              "media_key": "3_2100970192549675008",
+              "start": 6,
+              "url": "https://t.co/yY8P1wa2AV"
+            },
+            {
+              "display_url": "pic.x.com/yY8P1wa2AV",
+              "end": 29,
+              "expanded_url": "https://x.com/Kurikawayuyu/status/2100970210979348746/photo/1",
+              "media_key": "3_2100970192574857216",
+              "start": 6,
+              "url": "https://t.co/yY8P1wa2AV"
+            },
+            {
+              "display_url": "pic.x.com/yY8P1wa2AV",
+              "end": 29,
+              "expanded_url": "https://x.com/Kurikawayuyu/status/2100970210979348746/photo/1",
+              "media_key": "3_2100970192549584896",
+              "start": 6,
+              "url": "https://t.co/yY8P1wa2AV"
+            },
+            {
+              "display_url": "x.com/lovelyshuimao/…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/lovelyshuimao/status/2100810461126242397",
+              "start": 30,
+              "url": "https://t.co/CEKrqjAzrr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100970210979348746",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2100970192549675008"
+          },
+          {
+            "media_key": "3_2100970192574857216"
+          },
+          {
+            "media_key": "3_2100970192549584896"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100810461126242397",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这也没错啊 https://t.co/yY8P1wa2AV https://t.co/CEKrqjAzrr"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "🐱神仙水水猫\n👩🏻‍💻INTJ ♀14 \n🙋🏻‍♀️提問box——————↓\n✍🏻想成為作家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGspkq"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "is_identity_verified": true,
+        "location": "距离你 4.3km",
+        "most_recent_tweet_id": "2100970394123702321",
+        "name": "lovely水",
+        "pinned_tweet_id": "2100831968669860310",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1748763011140169729/1775028370",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045354329792749568/b7JXuLvu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5848,
+          "following_count": 1001,
+          "like_count": 274,
+          "listed_count": 25,
+          "media_count": 3689,
+          "tweet_count": 16793
+        },
+        "url": "https://t.co/EZhyEGspkq",
+        "username": "lovelyshuimao",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-05-04T03:18:09.000Z",
+        "description": "WasedaU B1 Appl.Chem. pre-CCHOer/JpCHOer\nOrg. Inorg. Compute. Mandarin/Shanghainese/English/Japanese.\nbf&my dom @Sulfonion_ 老婆 @OliviaWantsHugs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 123,
+                "start": 112,
+                "username": "Sulfonion_"
+              },
+              {
+                "end": 143,
+                "start": 127,
+                "username": "OliviaWantsHugs"
+              }
+            ]
+          }
+        },
+        "id": "1786596099479977984",
+        "is_identity_verified": false,
+        "location": "北京",
+        "most_recent_tweet_id": "2100970210979348746",
+        "name": "狗栗栗🇯🇵",
+        "pinned_tweet_id": "1971151253674786841",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1786596099479977984/1714793184",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070954959907225600/aN9JLO54_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4835,
+          "following_count": 991,
+          "like_count": 17540,
+          "listed_count": 25,
+          "media_count": 118,
+          "tweet_count": 1709
+        },
+        "url": "",
+        "username": "Kurikawayuyu",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

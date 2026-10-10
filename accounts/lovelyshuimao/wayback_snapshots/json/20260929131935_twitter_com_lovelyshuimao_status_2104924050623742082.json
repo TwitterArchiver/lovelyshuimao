@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2104924037533323265"
+      ]
+    },
+    "author_id": "1748763011140169729",
+    "conversation_id": "2104761637999874489",
+    "created_at": "2026-09-29T13:19:35.000Z",
+    "display_text_range": [
+      16,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-29T14:19:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104924050623742082"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1845041900195282948",
+          "start": 0,
+          "username": "bernadine18107"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/XxiZVaIhJo",
+          "end": 45,
+          "expanded_url": "https://x.com/lovelyshuimao/status/2104924050623742082/photo/1",
+          "media_key": "3_2104924037533323265",
+          "start": 22,
+          "url": "https://t.co/XxiZVaIhJo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104924050623742082",
+    "in_reply_to_user_id": "1845041900195282948",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2104924037533323265"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104923919753035825",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bernadine18107 有的有的（ https://t.co/XxiZVaIhJo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2247,
+        "media_key": "3_2104924037533323265",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTYxQoBa0AEvLGE.jpg",
+        "width": 1685
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104924037533323265"
+          ]
+        },
+        "author_id": "1748763011140169729",
+        "conversation_id": "2104761637999874489",
+        "created_at": "2026-09-29T13:19:35.000Z",
+        "display_text_range": [
+          16,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T14:19:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104924050623742082"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1845041900195282948",
+              "start": 0,
+              "username": "bernadine18107"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XxiZVaIhJo",
+              "end": 45,
+              "expanded_url": "https://x.com/lovelyshuimao/status/2104924050623742082/photo/1",
+              "media_key": "3_2104924037533323265",
+              "start": 22,
+              "url": "https://t.co/XxiZVaIhJo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104924050623742082",
+        "in_reply_to_user_id": "1845041900195282948",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2104924037533323265"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104923919753035825",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bernadine18107 有的有的（ https://t.co/XxiZVaIhJo"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1845041900195282948",
+        "conversation_id": "2104761637999874489",
+        "created_at": "2026-09-29T13:19:04.000Z",
+        "display_text_range": [
+          15,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T14:19:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104923919753035825"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1748763011140169729",
+              "start": 0,
+              "username": "lovelyshuimao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104923919753035825",
+        "in_reply_to_user_id": "1748763011140169729",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104761637999874489",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lovelyshuimao 有证了嘛"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "🐱神仙水水猫\n👩🏻‍💻INTJ ♀14 \n🙋🏻‍♀️提問box——————↓\n✍🏻想成為作家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGspkq"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "is_identity_verified": true,
+        "location": "距离你 4.3km",
+        "most_recent_tweet_id": "2104924050623742082",
+        "name": "lovely水",
+        "pinned_tweet_id": "2104559403999592734",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1748763011140169729/1775028370",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101524369638068224/vqhh_Ypw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5997,
+          "following_count": 1011,
+          "like_count": 273,
+          "listed_count": 25,
+          "media_count": 3759,
+          "tweet_count": 17016
+        },
+        "url": "https://t.co/EZhyEGspkq",
+        "username": "lovelyshuimao",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-10-12T10:00:55.000Z",
+        "description": "04年出厂的药娘👀 ｜在属于自己的轨道安静运行💗｜想做的事情有很多很多我会一件件实现❤️‍🩹｜梦想是SRS成为有阴道瓣的女孩子🤔｜共情➕重度依赖｜@Fitzgerald10184 小号/聊天戳👇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 73,
+                "username": "Fitzgerald10184"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Qiu0091",
+                "end": 23,
+                "expanded_url": "https://t.me/Qiu0091",
+                "start": 0,
+                "url": "https://t.co/nUqWCJu4Gq"
+              }
+            ]
+          }
+        },
+        "id": "1845041900195282948",
+        "is_identity_verified": false,
+        "location": "生命独特的坐标",
+        "most_recent_tweet_id": "2104923919753035825",
+        "name": "Niqiu-妮湫（充满希望版）🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2029572914392224148",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1845041900195282948/1732972152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943944034050813952/okWv5JY3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5042,
+          "following_count": 782,
+          "like_count": 1906,
+          "listed_count": 17,
+          "media_count": 146,
+          "tweet_count": 744
+        },
+        "url": "https://t.co/nUqWCJu4Gq",
+        "username": "bernadine18107",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

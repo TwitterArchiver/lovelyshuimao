@@ -1,0 +1,407 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1748763011140169729",
+    "conversation_id": "2104408010521260180",
+    "created_at": "2026-09-28T13:44:42.000Z",
+    "display_text_range": [
+      44,
+      51
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T14:44:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104567979761713654"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1229811974763974658",
+          "start": 0,
+          "username": "Aokigawa8964"
+        },
+        {
+          "end": 26,
+          "id": "1444336017813692422",
+          "start": 14,
+          "username": "123xiaoling"
+        },
+        {
+          "end": 43,
+          "id": "2035882965671215104",
+          "start": 27,
+          "username": "amber_medusozoa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104567979761713654",
+    "in_reply_to_user_id": "1229811974763974658",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104565665181114870",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Aokigawa8964 @123xiaoling @amber_medusozoa 我的意思是手术"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1748763011140169729",
+        "conversation_id": "2104408010521260180",
+        "created_at": "2026-09-28T13:44:42.000Z",
+        "display_text_range": [
+          44,
+          51
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T14:44:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104567979761713654"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1229811974763974658",
+              "start": 0,
+              "username": "Aokigawa8964"
+            },
+            {
+              "end": 26,
+              "id": "1444336017813692422",
+              "start": 14,
+              "username": "123xiaoling"
+            },
+            {
+              "end": 43,
+              "id": "2035882965671215104",
+              "start": 27,
+              "username": "amber_medusozoa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104567979761713654",
+        "in_reply_to_user_id": "1229811974763974658",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104565665181114870",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aokigawa8964 @123xiaoling @amber_medusozoa 我的意思是手术"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1229811974763974658",
+        "conversation_id": "2104408010521260180",
+        "created_at": "2026-09-28T13:35:30.000Z",
+        "display_text_range": [
+          45,
+          106
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T14:35:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104565665181114870"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1748763011140169729",
+              "start": 0,
+              "username": "lovelyshuimao"
+            },
+            {
+              "end": 27,
+              "id": "1444336017813692422",
+              "start": 15,
+              "username": "123xiaoling"
+            },
+            {
+              "end": 44,
+              "id": "2035882965671215104",
+              "start": 28,
+              "username": "amber_medusozoa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104565665181114870",
+        "in_reply_to_user_id": "1748763011140169729",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104449886372663414",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lovelyshuimao @123xiaoling @amber_medusozoa 这个不用等成年，青春期之前就可以告诉孩子让孩子按照自己性别认同选择，青春期打阻滞剂也有效果，成年骨骼大致定型属于耽误事儿了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "🐱神仙水水猫\n👩🏻‍💻INTJ ♀14 \n🙋🏻‍♀️提問box——————↓\n✍🏻想成為作家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGspkq"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "is_identity_verified": true,
+        "location": "距离你 4.3km",
+        "most_recent_tweet_id": "2104567979761713654",
+        "name": "lovely水",
+        "pinned_tweet_id": "2104559403999592734",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1748763011140169729/1775028370",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101524369638068224/vqhh_Ypw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5995,
+          "following_count": 1011,
+          "like_count": 273,
+          "listed_count": 25,
+          "media_count": 3755,
+          "tweet_count": 17006
+        },
+        "url": "https://t.co/EZhyEGspkq",
+        "username": "lovelyshuimao",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-02-18T16:56:55.000Z",
+        "description": "You jump , I jump.可爱的妹妹雪仙@snowfairy011026 @TamikoTomorika @toukorina 永远爱@NuclearThermal",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 25,
+                "username": "snowfairy011026"
+              },
+              {
+                "end": 57,
+                "start": 42,
+                "username": "TamikoTomorika"
+              },
+              {
+                "end": 68,
+                "start": 58,
+                "username": "toukorina"
+              },
+              {
+                "end": 87,
+                "start": 72,
+                "username": "NuclearThermal"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Aokigawa",
+                "end": 23,
+                "expanded_url": "https://t.me/Aokigawa",
+                "start": 0,
+                "url": "https://t.co/hRiiUiYzxq"
+              }
+            ]
+          }
+        },
+        "id": "1229811974763974658",
+        "is_identity_verified": false,
+        "location": "The Capital, Kuwait",
+        "most_recent_tweet_id": "2104565665181114870",
+        "name": "平平无奇小机场🏳️‍⚧️",
+        "pinned_tweet_id": "1728070700613702059",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1229811974763974658/1699494346",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1777114753544208384/uAigzslA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1141,
+          "following_count": 1135,
+          "like_count": 5763,
+          "listed_count": 2,
+          "media_count": 279,
+          "tweet_count": 5604
+        },
+        "url": "https://t.co/hRiiUiYzxq",
+        "username": "Aokigawa8964",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-10-02T16:18:46.000Z",
+        "description": "术后跨女（已srs术后）\n有对象，是个女同",
+        "id": "1444336017813692422",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104556223429513322",
+        "name": "晓凛",
+        "pinned_tweet_id": "2094162719192862862",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1444336017813692422/1651232641",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100997993721946112/I4NOJe4C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1543,
+          "following_count": 46,
+          "like_count": 522,
+          "listed_count": 9,
+          "media_count": 251,
+          "tweet_count": 538
+        },
+        "url": "",
+        "username": "123xiaoling",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "❦ @noaayoyaoaya ✦ @amber_toffee\n✮ @transinacademia ❀ https://t.co/2xzS4y8edG\n✑ https://t.co/vNxQSjRxUG",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 31,
+                "start": 18,
+                "username": "amber_toffee"
+              },
+              {
+                "end": 50,
+                "start": 34,
+                "username": "transinacademia"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/jellyfishamber",
+                "end": 76,
+                "expanded_url": "http://ngl.link/jellyfishamber",
+                "start": 53,
+                "url": "https://t.co/2xzS4y8edG"
+              },
+              {
+                "display_url": "amberjellyfish.substack.com",
+                "end": 102,
+                "expanded_url": "http://amberjellyfish.substack.com",
+                "start": 79,
+                "url": "https://t.co/vNxQSjRxUG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/lvpg0lo74G"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "is_identity_verified": false,
+        "location": "🏳️‍⚧️☭ / 🇨🇦 ᴛʀᴛ",
+        "most_recent_tweet_id": "2104558440018284932",
+        "name": "amber水母🍥",
+        "pinned_tweet_id": "2097782883188424922",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2035882965671215104/1779509843",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096301120717000706/WTDahM4M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11495,
+          "following_count": 1388,
+          "like_count": 11263,
+          "listed_count": 19,
+          "media_count": 526,
+          "tweet_count": 6932
+        },
+        "url": "https://t.co/lvpg0lo74G",
+        "username": "amber_medusozoa",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

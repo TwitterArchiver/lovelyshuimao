@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2102978964662956032"
+      ]
+    },
+    "author_id": "1748763011140169729",
+    "conversation_id": "2102978973072601413",
+    "created_at": "2026-09-24T04:30:33.000Z",
+    "display_text_range": [
+      0,
+      92
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-24T05:30:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2102978973072601413"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/o9Ayj5gvC0",
+          "end": 116,
+          "expanded_url": "https://x.com/lovelyshuimao/status/2102978973072601413/photo/1",
+          "media_key": "3_2102978964662956032",
+          "start": 93,
+          "url": "https://t.co/o9Ayj5gvC0"
+        },
+        {
+          "display_url": "x.com/lovelyshuimao/…",
+          "end": 140,
+          "expanded_url": "https://twitter.com/lovelyshuimao/status/2101676926612189519",
+          "start": 117,
+          "url": "https://t.co/eqFAORx8A0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102978973072601413",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2102978964662956032"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101676926612189519",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "昨天上海晶格给我打电话\n被苹果智能当骚扰电话没响，而且我在睡觉\n于是晶格找了我那天的同行朋友来要求我删帖，考虑到对方的安全我会删原帖的\n原内容：开到大证了！\n2026-9-20号-上海 https://t.co/o9Ayj5gvC0 https://t.co/eqFAORx8A0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1690,
+        "media_key": "3_2102978964662956032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS9IOe7asAAFw0D.jpg",
+        "width": 1685
+      },
+      {
+        "height": 2021,
+        "media_key": "3_2101676915455365120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSqoBPpbEAA4MO_.jpg",
+        "width": 1685
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2102978964662956032"
+          ]
+        },
+        "author_id": "1748763011140169729",
+        "conversation_id": "2102978973072601413",
+        "created_at": "2026-09-24T04:30:33.000Z",
+        "display_text_range": [
+          0,
+          92
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T05:30:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102978973072601413"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/o9Ayj5gvC0",
+              "end": 116,
+              "expanded_url": "https://x.com/lovelyshuimao/status/2102978973072601413/photo/1",
+              "media_key": "3_2102978964662956032",
+              "start": 93,
+              "url": "https://t.co/o9Ayj5gvC0"
+            },
+            {
+              "display_url": "x.com/lovelyshuimao/…",
+              "end": 140,
+              "expanded_url": "https://twitter.com/lovelyshuimao/status/2101676926612189519",
+              "start": 117,
+              "url": "https://t.co/eqFAORx8A0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102978973072601413",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2102978964662956032"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101676926612189519",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "昨天上海晶格给我打电话\n被苹果智能当骚扰电话没响，而且我在睡觉\n于是晶格找了我那天的同行朋友来要求我删帖，考虑到对方的安全我会删原帖的\n原内容：开到大证了！\n2026-9-20号-上海 https://t.co/o9Ayj5gvC0 https://t.co/eqFAORx8A0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101676915455365120"
+          ]
+        },
+        "author_id": "1748763011140169729",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2101676926612189519",
+        "created_at": "2026-09-20T14:16:41.000Z",
+        "display_text_range": [
+          0,
+          5
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T15:16:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101676926612189519"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aixJAXk7Pr",
+              "end": 29,
+              "expanded_url": "https://x.com/lovelyshuimao/status/2101676926612189519/photo/1",
+              "media_key": "3_2101676915455365120",
+              "start": 6,
+              "url": "https://t.co/aixJAXk7Pr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101676926612189519",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2101676915455365120"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 17536,
+          "like_count": 178,
+          "quote_count": 1,
+          "reply_count": 102,
+          "retweet_count": 0
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "开到大证了 https://t.co/aixJAXk7Pr"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "🐱神仙水水猫\n👩🏻‍💻INTJ ♀14 \n🙋🏻‍♀️提問box——————↓\n✍🏻想成為作家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGspkq"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "is_identity_verified": true,
+        "location": "距离你 4.3km",
+        "most_recent_tweet_id": "2102978973072601413",
+        "name": "lovely水",
+        "pinned_tweet_id": "2092334568057762260",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1748763011140169729/1775028370",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101524369638068224/vqhh_Ypw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5988,
+          "following_count": 1006,
+          "like_count": 274,
+          "listed_count": 26,
+          "media_count": 3717,
+          "tweet_count": 16890
+        },
+        "url": "https://t.co/EZhyEGspkq",
+        "username": "lovelyshuimao",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
